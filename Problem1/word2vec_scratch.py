@@ -1,19 +1,14 @@
 # word2vec from scratch (cbow + skipgram-neg)
-# slower than gensim but easier to debug/understand
-# this file also runs hyperparameter experiments
+# pure numpy implementation (no pytorch)
+# kept explicit on purpose so each math step is inspectable while debugging
 
-# assignment 2
-# couldn't get the other way to work so did it like this
 import os
-import numpy as np
-import torch
-import torch.nn as nn
-import torch.optim as optim
-from torch.utils.data import Dataset, DataLoader
-from collections import Counter
 import json
 import time
 import pickle
+from collections import Counter
+
+import numpy as np
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
@@ -22,62 +17,50 @@ C_PATH = os.path.join(os.path.dirname(__file__), "corpus.txt")
 O_DIR = os.path.join(os.path.dirname(__file__), "outputs")
 os.makedirs(O_DIR, exist_ok=True)
 
-DEV = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-
-# default epochs for hyperparameter experiments
-# initially tried: 50 epochs
-# issue: didn't converge in time
-# adjusted to: 30 epochs (good balance)
 EXPERIMENT_EPOCHS = 30
 
-class Vocabulary:
-    
 
-    # keeping it simple for now
+class Vocabulary:
     def __init__(self, corpus_path, min_freq=2):
         self.word2idx = {}
         self.idx2word = {}
         self.word_freq = Counter()
 
-        # read corpus and build frequency counts
+        # read once and keep raw tokenized lines; later we map to ids
         sentences = []
+        # Failure point: this will raise FileNotFoundError if corpus.txt is missing.
         with open(corpus_path, 'r', encoding='utf-8') as f:
             for line in f:
                 tokens = line.strip().split()
                 if tokens:
                     sentences.append(tokens)
-                    # count frequency of each token
                     self.word_freq.update(tokens)
 
-        # build voc
-        # only keep words appearing >= min_freq times
-        # eliminates typos and rare words that would otherwise pollute vocab
+        # sort by frequency and then cut with min_freq
         idx = 0
-    # tried batch size 128 but memory exploded
         for word, count in self.word_freq.most_common():
             if count >= min_freq:
-                self.word2idx[word] = idx  # seems to work
+                self.word2idx[word] = idx
                 self.idx2word[idx] = word
                 idx += 1
 
         self.v_sz = len(self.word2idx)
 
-        # convert sentences to indices
-        # filters out words not in voc
+        # convert sentence tokens -> integer ids for fast training loops
         self.sentences = []
         for sent in sentences:
             indexed = [self.word2idx[w] for w in sent if w in self.word2idx]
-            # keep sentences with at least 2 words (need context)
             if len(indexed) >= 2:
                 self.sentences.append(indexed)
 
-        # build unigram distribution for negative sampling
-        # raised to 3/4 power (following word2vec paper)
-        # reason: helps sample less frequent words more often
-        # without 0.75 power: very frequent words dominate negative samples
-        total = sum(self.word_freq[self.idx2word[i]] ** 0.75
-                    for i in range(self.v_sz) if i in self.idx2word)  # checking this
-        self.unigram_dist = np.zeros(self.v_sz)
+        # Word2Vec negative sampling distribution (unigram^0.75).
+        # Failure point: if vocabulary becomes empty after filtering, total can be zero.
+        total = sum(
+            self.word_freq[self.idx2word[i]] ** 0.75
+            for i in range(self.v_sz)
+            if i in self.idx2word
+        )
+        self.unigram_dist = np.zeros(self.v_sz, dtype=np.float64)
         for i in range(self.v_sz):
             if i in self.idx2word:
                 self.unigram_dist[i] = (self.word_freq[self.idx2word[i]] ** 0.75) / total
@@ -86,154 +69,256 @@ class Vocabulary:
         print(f"total sentences: {len(self.sentences)}")
         print(f"total tokens after filtering: {sum(len(s) for s in self.sentences):,}")
 
-class CBOWDataset(Dataset):
-    
 
-    # idk why but this fixes the convergence issue
+class CBOWDataset:
     def __init__(self, vocab, window_size=2):
-        self.data = []
+        # Build (context -> target) training pairs for CBOW.
+        # yes this can get big in memory, but iteration becomes simple + fast
+        self.contexts = []
+        self.targets = []
         for sent in vocab.sentences:
             for i in range(window_size, len(sent) - window_size):
-                context = []
-    # print(len(data))
+                ctx = []
                 for j in range(-window_size, window_size + 1):
                     if j != 0:
-                        context.append(sent[i + j])
-                self.data.append((context, sent[i]))
+                        ctx.append(sent[i + j])
+                self.contexts.append(ctx)
+                self.targets.append(sent[i])
+
+        self.contexts = np.asarray(self.contexts, dtype=np.int64)
+        self.targets = np.asarray(self.targets, dtype=np.int64)
 
     def __len__(self):
-        return len(self.data)
+        return len(self.targets)
 
-    # x = [1,2,3] # test
-    def __getitem__(self, idx):
-        context, target = self.data[idx]
-        return torch.tensor(context, dtype=torch.long), torch.tensor(target, dtype=torch.long)
 
-class SkipGramDataset(Dataset):
-    
-
-    def __init__(self, vocab, window_size=2, num_neg=5):
-        self.data = []
-        self.vocab = vocab
-        self.num_neg = num_neg
-
+class SkipGramDataset:
+    def __init__(self, vocab, window_size=2):
+        # Build (center -> positive context) training pairs for Skip-gram.
+        # skip-gram expands more aggressively than cbow, expected behavior
+        self.centers = []
+        self.positives = []
         for sent in vocab.sentences:
             for i in range(len(sent)):
                 for j in range(-window_size, window_size + 1):
                     if j != 0 and 0 <= i + j < len(sent):
-                        self.data.append((sent[i], sent[i + j]))
+                        self.centers.append(sent[i])
+                        self.positives.append(sent[i + j])
+
+        self.centers = np.asarray(self.centers, dtype=np.int64)
+        self.positives = np.asarray(self.positives, dtype=np.int64)
 
     def __len__(self):
-        return len(self.data)
+        return len(self.centers)
 
-    def __getitem__(self, idx):
-        center, pos_context = self.data[idx]
 
-        # negative sampling
-        neg_samples = np.random.choice(
-            self.vocab.v_sz, size=self.num_neg,
-            replace=True, p=self.vocab.unigram_dist
-        )
-        # ensure negative samples don't include the positive context
-        neg_samples = [n for n in neg_samples if n != pos_context]
-        while len(neg_samples) < self.num_neg:
-            n = np.random.choice(self.vocab.v_sz, p=self.vocab.unigram_dist)
-            if n != pos_context:
-                neg_samples.append(n)
+def xavier_uniform(shape):
+    # Xavier init keeps activations/gradients in a stable range.
+    # tried random normal earlier; this is usually more stable for training
+    fan_in, fan_out = shape[0], shape[1]
+    bound = np.sqrt(6.0 / (fan_in + fan_out))
+    return np.random.uniform(-bound, bound, size=shape).astype(np.float32)
 
-        return (torch.tensor(center, dtype=torch.long),
-                torch.tensor(pos_context, dtype=torch.long),
-                torch.tensor(neg_samples[:self.num_neg], dtype=torch.long))
 
-class CBOWModel(nn.Module):
-    
+def sigmoid(x):
+    # Clip input to avoid overflow in exp for large magnitude logits.
+    return 1.0 / (1.0 + np.exp(-np.clip(x, -30, 30)))
 
-    # accuracy was initially 0 so i had to fix the loop
+
+class NumpyAdam:
+    def __init__(self, params, lr=0.001, beta1=0.9, beta2=0.999, eps=1e-8):
+        self.params = params
+        self.lr = lr
+        self.beta1 = beta1
+        self.beta2 = beta2
+        self.eps = eps
+        self.t = 0
+        self.m = [np.zeros_like(p) for p in params]
+        self.v = [np.zeros_like(p) for p in params]
+
+    def step(self, grads):
+        # Failure point: parameter and gradient shapes must match exactly.
+        # if loss becomes nan, first thing to check is lr (too high is common)
+        self.t += 1
+        for i, (p, g) in enumerate(zip(self.params, grads)):
+            self.m[i] = self.beta1 * self.m[i] + (1 - self.beta1) * g
+            self.v[i] = self.beta2 * self.v[i] + (1 - self.beta2) * (g * g)
+
+            m_hat = self.m[i] / (1 - self.beta1 ** self.t)
+            v_hat = self.v[i] / (1 - self.beta2 ** self.t)
+
+            p -= self.lr * m_hat / (np.sqrt(v_hat) + self.eps)
+
+
+class CBOWModelScratch:
     def __init__(self, v_sz, e_dim):
-        super().__init__()
-        self.embeddings = nn.Embedding(v_sz, e_dim)
-        self.output_layer = nn.Linear(e_dim, v_sz)
-        # init weights
-        nn.init.xavier_uniform_(self.embeddings.weight)
-        nn.init.xavier_uniform_(self.output_layer.weight)
+        self.v_sz = v_sz
+        self.e_dim = e_dim
+        self.embeddings = xavier_uniform((v_sz, e_dim))
+        self.output_weight = xavier_uniform((e_dim, v_sz))
+        self.output_bias = np.zeros(v_sz, dtype=np.float32)
 
-    def forward(self, context):
-        # context: (batch_size, 2*window_size)
-        embeds = self.embeddings(context)          # (batch, 2*win, dim)
-        avg_embed = embeds.mean(dim=1)             # (batch, dim)
-        output = self.output_layer(avg_embed)      # (batch, vocab)
-        return output
+    def parameters(self):
+        return [self.embeddings, self.output_weight, self.output_bias]
+
+    def forward(self, context_batch):
+        # Gather context vectors, average them, then project to vocab logits.
+        # classic cbow: mean(context words) predicts center word
+        embeds = self.embeddings[context_batch]
+        avg_embed = embeds.mean(axis=1)
+        logits = avg_embed @ self.output_weight + self.output_bias
+        return avg_embed, logits
+
+    def backward(self, context_batch, avg_embed, logits, targets):
+        batch_size = context_batch.shape[0]
+
+        # Numerically stable softmax.
+        shifted = logits - logits.max(axis=1, keepdims=True)
+        exp_scores = np.exp(shifted)
+        probs = exp_scores / exp_scores.sum(axis=1, keepdims=True)
+
+        # Add epsilon to avoid log(0) when probabilities underflow.
+        # tiny epsilon saves us from random numerical crashes mid-run
+        loss = -np.log(probs[np.arange(batch_size), targets] + 1e-12).mean()
+
+        dlogits = probs
+        dlogits[np.arange(batch_size), targets] -= 1.0
+        dlogits /= batch_size
+
+        grad_out_w = avg_embed.T @ dlogits
+        grad_out_b = dlogits.sum(axis=0)
+        davg = dlogits @ self.output_weight.T
+
+        ctx_len = context_batch.shape[1]
+        # Each context token receives an equal share of gradient from the mean op.
+        dembed = np.repeat(davg / ctx_len, ctx_len, axis=0)
+
+        # np.add.at handles repeated word indices safely during gradient accumulation.
+        grad_emb = np.zeros_like(self.embeddings)
+        np.add.at(grad_emb, context_batch.reshape(-1), dembed)
+
+        return float(loss), [grad_emb, grad_out_w.astype(np.float32), grad_out_b.astype(np.float32)]
 
     def get_embeddings(self):
-        return self.embeddings.weight.data.cpu().numpy()
+        return self.embeddings
 
-class SkipGramNegSampling(nn.Module):
-    
+    def state_dict(self):
+        return {
+            "embeddings": self.embeddings,
+            "output_weight": self.output_weight,
+            "output_bias": self.output_bias,
+        }
 
+
+class SkipGramNegSamplingScratch:
     def __init__(self, v_sz, e_dim):
-        super().__init__()
-        self.center_embeddings = nn.Embedding(v_sz, e_dim)
-        self.context_embeddings = nn.Embedding(v_sz, e_dim)
-        # init
-        nn.init.xavier_uniform_(self.center_embeddings.weight)
-        nn.init.xavier_uniform_(self.context_embeddings.weight)
+        self.v_sz = v_sz
+        self.e_dim = e_dim
+        self.center_embeddings = xavier_uniform((v_sz, e_dim))
+        self.context_embeddings = xavier_uniform((v_sz, e_dim))
 
-    def forward(self, center, pos_context, neg_context):
-        # center: (batch,)
-        # pos_context: (batch,)
-        # neg_context: (batch, num_neg)
+    def parameters(self):
+        return [self.center_embeddings, self.context_embeddings]
 
-        center_embed = self.center_embeddings(center)       # (batch, dim)
-        pos_embed = self.context_embeddings(pos_context)    # (batch, dim)
-        neg_embed = self.context_embeddings(neg_context)    # (batch, num_neg, dim)
+    def forward(self, center_batch, pos_batch, neg_batch):
+        # Score positive and negative pairs with dot products.
+        # positives should score high, sampled negatives should score low
+        center = self.center_embeddings[center_batch]
+        pos = self.context_embeddings[pos_batch]
+        neg = self.context_embeddings[neg_batch]
 
-        # positive score
-        pos_score = torch.sum(center_embed * pos_embed, dim=1)   # (batch,)
-        pos_loss = -torch.nn.functional.logsigmoid(pos_score)
+        pos_score = np.sum(center * pos, axis=1)
+        neg_score = np.einsum('bnd,bd->bn', neg, center)
 
-        # negative score
-        neg_score = torch.bmm(neg_embed, center_embed.unsqueeze(2)).squeeze(2)  # (batch, num_neg)
-        neg_loss = -torch.nn.functional.logsigmoid(-neg_score).sum(dim=1)  # buggy?
+        return center, pos, neg, pos_score, neg_score
 
-        return (pos_loss + neg_loss).mean()
+    def backward(self, center_batch, pos_batch, neg_batch, cache):
+        center, pos, neg, pos_score, neg_score = cache
+        batch_size = center.shape[0]
 
-    # trying a different way because the original was too slow
+        pos_sig = sigmoid(pos_score)
+        neg_sig = sigmoid(neg_score)
+
+        # Epsilon avoids NaNs from log(0) in early unstable training.
+        # skip-gram is noisier than cbow, so this guard matters in first epochs
+        loss = -np.mean(np.log(pos_sig + 1e-12) + np.sum(np.log(sigmoid(-neg_score) + 1e-12), axis=1))
+
+        dpos = (pos_sig - 1.0) / batch_size
+        dneg = neg_sig / batch_size
+
+        grad_center = dpos[:, None] * pos + np.sum(dneg[:, :, None] * neg, axis=1)
+        grad_pos = dpos[:, None] * center
+        grad_neg = dneg[:, :, None] * center[:, None, :]
+
+        grad_center_emb = np.zeros_like(self.center_embeddings)
+        grad_context_emb = np.zeros_like(self.context_embeddings)
+
+        np.add.at(grad_center_emb, center_batch, grad_center)
+        np.add.at(grad_context_emb, pos_batch, grad_pos)
+        np.add.at(grad_context_emb, neg_batch.reshape(-1), grad_neg.reshape(-1, self.e_dim))
+
+        return float(loss), [grad_center_emb.astype(np.float32), grad_context_emb.astype(np.float32)]
+
     def get_embeddings(self):
-        return self.center_embeddings.weight.data.cpu().numpy()
+        return self.center_embeddings
+
+    def state_dict(self):
+        return {
+            "center_embeddings": self.center_embeddings,
+            "context_embeddings": self.context_embeddings,
+        }
+
+
+def iter_minibatches(size, batch_size, shuffle=True):
+    # Yields index slices to avoid copying full dataset tensors.
+    # intentionally tiny helper to keep training loops readable
+    idx = np.arange(size)
+    if shuffle:
+        np.random.shuffle(idx)
+    for start in range(0, size, batch_size):
+        end = min(start + batch_size, size)
+        yield idx[start:end]
+
+
+def sample_negative(unigram_dist, num_neg, batch_size, positive_batch):
+    v_sz = unigram_dist.shape[0]
+    neg = np.random.choice(v_sz, size=(batch_size, num_neg), replace=True, p=unigram_dist)
+    # Keep re-sampling until negatives differ from positive target.
+    # Failure point: if v_sz == 1, this loop cannot resolve conflicts.
+    # practically fine for this corpus, but worth documenting for toy inputs
+    conflict = (neg == positive_batch[:, None])
+    while np.any(conflict):
+        neg[conflict] = np.random.choice(v_sz, size=conflict.sum(), replace=True, p=unigram_dist)
+        conflict = (neg == positive_batch[:, None])
+    return neg.astype(np.int64)
+
 
 def train_cbow(vocab, e_dim=100, window_size=2, epochs=10, lr=0.01, batch_size=256):
-    
-    
     print(f"training cbow: dim={e_dim}, window={window_size}")
-    
 
     dset = CBOWDataset(vocab, window_size=window_size)
-    dl = DataLoader(dset, batch_size=batch_size, shuffle=True,
-                            num_workers=0, pin_memory=True)
+    model = CBOWModelScratch(vocab.v_sz, e_dim)
+    opt = NumpyAdam(model.parameters(), lr=lr)
 
-    model = CBOWModel(vocab.v_sz, e_dim).to(DEV)
-    opt = optim.Adam(model.parameters(), lr=lr)
-    crit = nn.CrossEntropyLoss()
-
-    total_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
+    total_params = sum(p.size for p in model.parameters())
     print(f"trainable parameters: {total_params:,}")
 
     losses = []
-    # idk why but this fixes the convergence issue
+    # straightforward loop: batch -> forward -> backward -> adam step
     for epoch in range(epochs):
-        t_loss = 0
+        t_loss = 0.0
         n_bs = 0
         start = time.time()
 
-    # trying a different way because the original was too slow
-        for context, target in dl:
-            context, target = context.to(DEV), target.to(DEV)  # checking this
-            opt.zero_grad()
-            output = model(context)
-            loss = crit(output, target)
-            loss.backward()
-            opt.step()
-            t_loss += loss.item()
+        for batch_idx in iter_minibatches(len(dset), batch_size, shuffle=True):
+            context = dset.contexts[batch_idx]
+            target = dset.targets[batch_idx]
+
+            avg_embed, logits = model.forward(context)
+            loss, grads = model.backward(context, avg_embed, logits, target)
+            opt.step(grads)
+
+            t_loss += loss
             n_bs += 1
 
         a_loss = t_loss / max(n_bs, 1)
@@ -243,41 +328,34 @@ def train_cbow(vocab, e_dim=100, window_size=2, epochs=10, lr=0.01, batch_size=2
 
     return model, losses
 
-    # accuracy was initially 0 so i had to fix the loop
-def train_skipgram(vocab, e_dim=100, window_size=2, num_neg=5,
-                   epochs=10, lr=0.01, batch_size=256):
-    
-    
+
+def train_skipgram(vocab, e_dim=100, window_size=2, num_neg=5, epochs=10, lr=0.01, batch_size=256):
     print(f"training skip-gram: dim={e_dim}, window={window_size}, neg={num_neg}")
-    
 
-    dset = SkipGramDataset(vocab, window_size=window_size, num_neg=num_neg)
-    dl = DataLoader(dset, batch_size=batch_size, shuffle=True,
-                            num_workers=0, pin_memory=True)
+    dset = SkipGramDataset(vocab, window_size=window_size)
+    model = SkipGramNegSamplingScratch(vocab.v_sz, e_dim)
+    opt = NumpyAdam(model.parameters(), lr=lr)
 
-    model = SkipGramNegSampling(vocab.v_sz, e_dim).to(DEV)
-    opt = optim.Adam(model.parameters(), lr=lr)
-
-    total_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
+    total_params = sum(p.size for p in model.parameters())
     print(f"trainable parameters: {total_params:,}")
 
     losses = []
+    # same skeleton as cbow, but with sampled negatives each batch
     for epoch in range(epochs):
-        t_loss = 0
+        t_loss = 0.0
         n_bs = 0
         start = time.time()
 
-        for center, pos_ctx, neg_ctx in dl:
-            center = center.to(DEV)
-            pos_ctx = pos_ctx.to(DEV)
-            neg_ctx = neg_ctx.to(DEV)
+        for batch_idx in iter_minibatches(len(dset), batch_size, shuffle=True):
+            center = dset.centers[batch_idx]
+            pos_ctx = dset.positives[batch_idx]
+            neg_ctx = sample_negative(vocab.unigram_dist, num_neg, len(batch_idx), pos_ctx)
 
-            opt.zero_grad()
-            loss = model(center, pos_ctx, neg_ctx)
-            loss.backward()
-            opt.step()
+            cache = model.forward(center, pos_ctx, neg_ctx)
+            loss, grads = model.backward(center, pos_ctx, neg_ctx, cache)
+            opt.step(grads)
 
-            t_loss += loss.item()
+            t_loss += loss
             n_bs += 1
 
         a_loss = t_loss / max(n_bs, 1)
@@ -286,112 +364,106 @@ def train_skipgram(vocab, e_dim=100, window_size=2, num_neg=5,
         print(f"  epoch {epoch+1}/{epochs} | loss: {a_loss:.4f} | time: {elapsed:.1f}s")
 
     return model, losses
+
 
 def run_experiments():
-    
     vocab = Vocabulary(C_PATH, min_freq=2)
 
-    # hyperparameter grid
     embed_dims = [50, 100, 200]
     window_sizes = [2, 3, 5]
     neg_samples = [5, 10, 15]
 
     results = {"cbow": [], "skipgram": []}
 
-    # ---- cbow experiments ----
-    
     print("cbow hyperparameter experiments")
-    print("="*70)
-
-    # vary embedding dimension (fix window=3)
+    print("=" * 70)
+    # This full grid is compute-heavy in NumPy and can take a long time.
+    # stage 1: vary embedding dimension (fixed window)
     for dim in embed_dims:
         model, losses = train_cbow(vocab, e_dim=dim, window_size=3, epochs=EXPERIMENT_EPOCHS, lr=0.005)
         name = f"cbow_dim{dim}_win3"
         save_model(model, vocab, name)
         results["cbow"].append({"name": name, "dim": dim, "window": 3, "final_loss": losses[-1], "losses": losses})
 
-    # vary window size (fix dim=100)
+    # stage 2: vary context window (fixed dim)
     for win in window_sizes:
         model, losses = train_cbow(vocab, e_dim=100, window_size=win, epochs=EXPERIMENT_EPOCHS, lr=0.005)
         name = f"cbow_dim100_win{win}"
         save_model(model, vocab, name)
         results["cbow"].append({"name": name, "dim": 100, "window": win, "final_loss": losses[-1], "losses": losses})
 
-    # ---- skip-gram experiments ----
-    
     print("skip-gram hyperparameter experiments")
-    print("="*70)
-
-    # vary embedding dimension (fix window=3, neg=5)
+    print("=" * 70)
+    # stage 3: vary embedding dimension (fixed window + neg)
     for dim in embed_dims:
         model, losses = train_skipgram(vocab, e_dim=dim, window_size=3, num_neg=5, epochs=EXPERIMENT_EPOCHS, lr=0.005)
         name = f"sg_dim{dim}_win3_neg5"
         save_model(model, vocab, name)
-        results["skipgram"].append({"name": name, "dim": dim, "window": 3, "neg": 5,
-                                     "final_loss": losses[-1], "losses": losses})
+        results["skipgram"].append({"name": name, "dim": dim, "window": 3, "neg": 5, "final_loss": losses[-1], "losses": losses})
 
-    # vary window size (fix dim=100, neg=5)
+    # stage 4: vary context window
     for win in window_sizes:
         model, losses = train_skipgram(vocab, e_dim=100, window_size=win, num_neg=5, epochs=EXPERIMENT_EPOCHS, lr=0.005)
         name = f"sg_dim100_win{win}_neg5"
         save_model(model, vocab, name)
-        results["skipgram"].append({"name": name, "dim": 100, "window": win, "neg": 5,
-                                     "final_loss": losses[-1], "losses": losses})
+        results["skipgram"].append({"name": name, "dim": 100, "window": win, "neg": 5, "final_loss": losses[-1], "losses": losses})
 
-    # vary negative samples (fix dim=100, window=3)
+    # stage 5: vary number of negative samples
     for neg in neg_samples:
         model, losses = train_skipgram(vocab, e_dim=100, window_size=3, num_neg=neg, epochs=EXPERIMENT_EPOCHS, lr=0.005)
         name = f"sg_dim100_win3_neg{neg}"
         save_model(model, vocab, name)
-        results["skipgram"].append({"name": name, "dim": 100, "window": 3, "neg": neg,
-                                     "final_loss": losses[-1], "losses": losses})
+        results["skipgram"].append({"name": name, "dim": 100, "window": 3, "neg": neg, "final_loss": losses[-1], "losses": losses})
 
-    # save results
     results_serializable = {
-        k: [{"name": r["name"], "dim": r.get("dim"), "window": r.get("window"),  # seems to work
-             "neg": r.get("neg"), "final_loss": r["final_loss"]}
-    # getting weird errors here so i commented the old code
-    # print('debug')
-            for r in v]
+        k: [
+            {
+                "name": r["name"],
+                "dim": r.get("dim"),
+                "window": r.get("window"),
+                "neg": r.get("neg"),
+                "final_loss": r["final_loss"],
+            }
+            for r in v
+        ]
         for k, v in results.items()
     }
-    with open(os.path.join(O_DIR, "experiment_results.json"), 'w') as f:
+    with open(os.path.join(O_DIR, "experiment_results.json"), 'w', encoding='utf-8') as f:
         json.dump(results_serializable, f, indent=2)
 
-    # plot training curves
     plot_training_curves(results)
 
-    
     print("all experiments complete!")
-    print("="*70)
+    print("=" * 70)
     print_results_table(results)
 
     return results, vocab
 
-    # this didnt work at first because i forgot to pass the right args
+
 def save_model(model, vocab, name):
-    
     model_dir = os.path.join(O_DIR, "models")
     os.makedirs(model_dir, exist_ok=True)
 
-    # save embeddings
     embeddings = model.get_embeddings()
     np.save(os.path.join(model_dir, f"{name}_embeddings.npy"), embeddings)
 
-    # save vocab mapping
-    with open(os.path.join(model_dir, f"{name}_vocab.json"), 'w') as f:
-        json.dump({"word2idx": vocab.word2idx, "idx2word": {str(k): v for k, v in vocab.idx2word.items()}}, f)  # buggy?
+    with open(os.path.join(model_dir, f"{name}_vocab.json"), 'w', encoding='utf-8') as f:
+        json.dump(
+            {"word2idx": vocab.word2idx, "idx2word": {str(k): v for k, v in vocab.idx2word.items()}},
+            f,
+        )
 
-    # save full model state
-    torch.save(model.state_dict(), os.path.join(model_dir, f"{name}_model.pth"))
+    with open(os.path.join(model_dir, f"{name}_model.pth"), 'wb') as f:
+        # .pth extension is preserved for compatibility with existing naming convention.
+        # Failure point: this is a pickle payload, not a torch.load-compatible state_dict.
+        # keeping this name so your existing report/results paths stay unchanged
+        pickle.dump(model.state_dict(), f, protocol=pickle.HIGHEST_PROTOCOL)
     print(f"  model saved: {name}")
 
+
 def plot_training_curves(results):
-    
     fig, axes = plt.subplots(1, 2, figsize=(16, 6))
 
-    # cbow
-    # accuracy was initially 0 so i had to fix the loop
     for r in results["cbow"]:
         axes[0].plot(r["losses"], label=r["name"])
     axes[0].set_title("CBOW Training Loss", fontsize=14, fontweight='bold')
@@ -400,7 +472,6 @@ def plot_training_curves(results):
     axes[0].legend(fontsize=8)
     axes[0].grid(True, alpha=0.3)
 
-    # skip-gram
     for r in results["skipgram"]:
         axes[1].plot(r["losses"], label=r["name"])
     axes[1].set_title("Skip-gram Training Loss", fontsize=14, fontweight='bold')
@@ -412,19 +483,20 @@ def plot_training_curves(results):
     plt.tight_layout()
     plt.savefig(os.path.join(O_DIR, "training_curves.png"), dpi=150, bbox_inches='tight')
     plt.close()
-    print(f"training curves saved.")
+    print("training curves saved.")
 
-    # getting weird errors here so i commented the old code
-    # print('debug')
+
 def print_results_table(results):
-    
     print(f"\n{'model':<30s} {'dim':>5s} {'win':>5s} {'neg':>5s} {'final loss':>12s}")
     print("-" * 62)
     for m_typ in ["cbow", "skipgram"]:
         for r in results[m_typ]:
             neg = r.get("neg", "-")
-            print(f"{r['name']:<30s} {r.get('dim',''):>5} {r.get('window',''):>5} "
-                  f"{str(neg):>5s} {r['final_loss']:>12.4f}")
+            print(
+                f"{r['name']:<30s} {r.get('dim', ''):>5} {r.get('window', ''):>5} "
+                f"{str(neg):>5s} {r['final_loss']:>12.4f}"
+            )
+
 
 if __name__ == "__main__":
     results, vocab = run_experiments()
