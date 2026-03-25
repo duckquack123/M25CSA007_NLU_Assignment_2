@@ -1,0 +1,71 @@
+url: https://iitj.ac.in/materials-engineering/en/ongoing-projects
+title: Ongoing Projects | Materials Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Ongoing Projects | Materials Engineering | IIT Jodhpur
+Ongoing Projects
+Some of the prominent ongoing Sponsored Research Projects include:
+Project Investigator
+Deep-Tech Biodesign Centre: A Multi-disciplinary centre to train, nurture and transform clinicians and engineers into the Deep-Tech innovators in the field of Medical/Health Technology
+Optical based in-situ monitoring for porosity detection during laser cladding and additive manufacturing of stainless steel
+Developing Endoscope Socket to provide uninterpreted endoscopic visual field to ENT doctor for diagnosing patients with minimal discomfort.
+Oxidation and quenching studies of Zry-4 clad material with and without coating
+Designing lightweight and highly formable Mg-Li/Zn/Ca-RE based alloys using the CALPHAD method
+Dr. Jaiveer Singh
+Ministry of Mines
+Design and processing of non-corrosive and cost-effective complex concentrated alloys (CCAs) for biomedical applications
+Dr. Jaiveer Singh
+Novel 2-D nanostructures involving borophene and clay, their, organic and inorganic hybrids, and heterostructures for optoelectronic, magneto-optics photo/eletrocatalysis, and water purifications
+Dr. Pranay Ranjan(PI),
+Dr. Devendra Singh Negi (PI),
+Dr. Amitava Banerjee (PI)
+IIT Jodhpur - University of Buffalo
+A Non-invasive Breath Analyser for Kidney Dysfunction Screening
+Dr. Pranay Ranjan(PI),
+Dr. Devendra Singh Negi (PI),
+Dr. Amitava Banerjee (PI)
+Large Scale Synthesis of Borophene for Energy Storage Application
+Dr. Pranay Ranjan(PI),
+Dr. Devendra Singh Negi (PI),
+Dr. Amitava Banerjee (PI)
+Development of Ti-HEA with high strength and formability at room and high temperatures
+Dr. Saurabh Nene (PI)
+Eaton India Innovation Centre, Pune
+Boron Carbide coating on graphitic tiles for first wall protection of ADITYA_U Tokamak
+Dr. Pranay Ranjan(PI),
+Dr. Devendra Singh Negi (PI)
+Effect of rolling parameters for improving electrical conductivity of Al alloys
+Dr. Saurabh Nene (PI)
+Eaton India Innovation Centre, Pune
+Effect of rolling on mechanical properties of Cu-Ti Alloy Strips
+Dr. Saurabh Nene (PI)
+Eaton India Innovation Centre, Pune
+Design of next generation superalloys for 3D printed turbine components
+Dr. Saurabh Nene (PI) Dr.Ravi K.R. (Co-PI)
+Molecularly engineered free standing Borophene as a versatile Nanotheranostics platform to combat localized cancers
+Dr. Raviraj (PI)
+Dr. Pranay Ranjan
+Sb2S3 Photovoltaic Device: Pioneering Interface Engineering and Optoelectronic Properties Enhancement
+Dr. Jitendra Kumar
+Chalcogenide-Perovskite (BaZrS3) based Photovoltaic Devices
+Dr. Jitendra Kumar
+Design and development of an indigenous two-photon polymerization equipment for 3D printing of nanostructures.
+Dr. Narayanan (PI)
+Dr. Ravi K R (Co-PI)
+Integrated application of in-situ monitoring, CALPHAD modeling, and ultrasonic treatment for predicting and mitigating the porosity and hot tearing defects formed during the additive manufacturing of Inconel 718 and AlSi10Mgalloys
+Dr. Ravi K R (PI)
+The Effects of Shot Peening Parameters on Residual Stress Evolution in a Through-Hardened and a Case-Hardened Aerospace Bearing Steel
+Dr. Abir Bhattacharyya
+Design and Development of Advanced High Strength Steel for Enhanced Performance in Aero-engine Gears.
+Dr. Sk Md Hasan (PI),
+Dr. Abir Bhattacharyya (Co-PI)
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 26 Nov 2025 - 05:12 PM

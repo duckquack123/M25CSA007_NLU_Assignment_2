@@ -1,0 +1,28 @@
+url: https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=682d62af-b4b9-46d8-8130-a2144d06e003
+title: All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur
+depth: 1
+========================================
+
+All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur
+All Research Highlights
+2D Materials for Potable Water Application: Basic Nanoarchitectonics and Recent Progresses
+Tittle of the paper:
+2D Materials for Potable Water Application: Basic Nanoarchitectonics and Recent Progresses
+Small | (2024) 2407160,
+Dr. Pranay Ranjan
+Department of Metallurgical and Materials Engineering, IIT Jodhpur
+Water polluted by toxic chemicals due to waste from chemical/pharmaceuticals and harmful microbes such as E. Coli bacteria causes several fatal diseases; and therefore, water ltration is crucial for accessing clean and safe water necessary for good health. Conventional water ltration technologies include activated carbon lters, reverse osmosis, and ultra ltration. However, they face several challenges, including high energy consumption, fouling, limited selectivity, ine ciencies in removing certain contaminants, dimensional control of pores, and structural/chemical changes at higher thermal conditions and upon prolonged usage of water lter. Recently, the advent of 2D materials such as graphene, BN, MoS
+, MXenes, and so on opens new avenues for advanced water ltration systems. This review delves into the nano-architectonics of 2D materials for water ltration applications. The current state of water ltration technologies is explored, the inherent challenges they face are outlines, and the unique properties and advantages of 2D materials are highlighted. Furthermore, the scope of this review is discussed, which encompasses the synthesis, characterization, and application of various 2D materials in water ltration, providing insights into future research directions and potential industrial applications
+Existing membrane technology concerning the structure of membranes
+Water puri cation techniques.
+Article by: Dr. Pranay Ranjan
+Research domain: 2D Materials, Membrane, Water Filtration
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 19 Mar 2026 - 04:38 PM

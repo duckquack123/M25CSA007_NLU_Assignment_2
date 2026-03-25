@@ -1,0 +1,18 @@
+url: https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=07977274-8b86-444a-85c6-d995394649a1
+title: Research Highlights | Chemistry | IIT Jodhpur
+depth: 1
+========================================
+
+Research Highlights | Chemistry | IIT Jodhpur
+Research Highlights
+Designing a Phenalenyl-based Dinuclear Ni(II) Complex: An Electrocatalyst with Two Single Ni Sites for Oxygen Evolution Reaction (OER). Kamboj, N. and Metre, R. K. Inorg. Chem., 2024,63, 9771-9785
+A new dinuclear Ni(II) complex 1, [Ni2II(dtbh-PLY)2], is synthesized from 9-(2-(3,6-di-tert-butyl-2-hydroxybenzylidene)hydrazineyl)-1H-phenalen-1-one, dtbh-PLYH2 ligand, and structurally characterized by various analytical tools including the single-crystal X-ray diffraction (SCXRD) technique. In the solid state, both Ni(II) metal centers in complex 1 exist in a distorted square planar geometry and display the presence of rare Ni H C anagostic interactions to form a one-dimensional (1-D) linear motif in the supramolecular array. Complex 1 is further stabilized in the solid state by -stacking interactions between the highly delocalized phenalenyl rings. The redox features of complex 1 have been analyzed by the cyclic voltammetry (CV) technique in solution as well as in the solid state, revealing the crucial involvement of both the Ni(II) metal centers for undergoing quasi-reversible oxidation reactions on the application of an anodic sweep. A complex 1-modified glassy carbon electrode, GC-1, is employed as an electrocatalyst for oxygen evolution reaction (OER) in 1.0 M KOH, giving an OER onset at 1.45 V, and very low OER overpotential, 300 mV vs the reversible hydrogen electrode (RHE) to reach 10 mA cm 2 current density. Furthermore, GC-1 displayed fast OER kinetics with a Tafel slope of 40 mV dec 1, a significantly lower Tafel slope value than those of previously reported molecular Ni(II) catalysts. In situ electrochemical experiments and postoperational UV vis, Fourier transform infrared (FT-IR), scanning electron microscopy-energy-dispersive X-ray spectroscopy (SEM-EDS), and X-ray photoelectron spectroscopy (XPS) studies were performed to analyze the stability of the molecular nature of complex 1 and to gain reasonable insights into the true OER catalyst.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 12 Mar 2026 - 03:42 PM

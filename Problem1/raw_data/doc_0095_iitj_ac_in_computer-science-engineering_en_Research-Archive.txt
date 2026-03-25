@@ -1,0 +1,214 @@
+url: https://iitj.ac.in/computer-science-engineering/en/Research-Archive
+title: Research Archive | Computer Science & Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Research Archive | Computer Science & Engineering | IIT Jodhpur
+Research Archive
+PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis, AAAI 2026:K Lokesh, Uday Agarwal, Abhirama Subramanyam Penamakuri, Apoorva Challa, Shreya K Gowda, Somesh Gupta,
+Temporal Object-Aware Vision Transformer for Few-Shot Video Object Detection, AAAI 2026: Yogesh Kumar,
+DBCoreset: A Density-based Coreset Algorithm for Computationally Efficient Chest X-ray Diagnosis, The 2026 IEEE International Symposium on Biomedical Imaging (ISBI): Jayant Mahawar,
+Handling Dual Skewness in Citywide Crime Prediction Using Personalized Graph Federated Learning, IEEE Transactions on Computational Social Systems(TCSS), 2025, Bhumika; Philippe Lalanda; German Vega;
+, [ Impact Factor: 4.9]..
+Secure IoT Communications with Optimized AES and Dynamic Threat Modeling on Embedded System, IEEE Transactions on Consumer Electronics ( 2025), Koustav Kumar Mondal; Himani Sikarwar;
+; Chun-I Fan [ Impact Factor: 10.9].
+"RSEV: Toward Reliable and Secure UAV-Assisted Emergency Deliveries in Internet of Vehicles." IEEE Transactions on Vehicular Technology (2025), Ghosh, Haradhan,
+, and Satya Bagchi. [ Impact Factor: 7.1].
+"Beyond the Map: Learning to Navigate Unseen Urban Dynamics Using Diffusion Guided Deep Reinforcement Learning." 34th International Joint Conference on Artificial Intelligence (IJCAI), Montreal, Canada, 2025, Monu Nagar and
+Test-Time Adaptation through Semantically-guided Feature Decomposition for Few-shot Chest X-ray Diagnosis, The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026: Jayant Mahawar and Angshuman Paul.
+Traffic Forecasting using Deep Sequence Models with Vehicle Situation-aware Loss, 10th International Conference on Computer Vision & Image Processing (CVIP 2025): Akash Chatterjee, Jayant Mahawar and Angshuman Paul.
+MFA-U-Net: U-Net with Multi-level Feature Aggregation for Scale-free Medical Image Segmentation, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2025: Swapnil Thatte, Paromita Banerjee, Mayank Vatsa, Richa Singh, Bhanu Duggal, Angshuman Paul.
+Garvit Chugh, Indrajeet Ghosh, Suchetana Chakraborty and Sandip Chakraborty, "BiteSense: Earable-Based Inertial Sensing for Eating Behaviour Assessment", to appear in the proc. of PerCom 2025 [Full Paper]
+Sameeran Zhingre, Garvit Chugh, and Suchetana Chakraborty, "Tracking Ephemeral and Residual Emotions via Earable Inertial Sensing During Media Consumption", to appear in the proc. of PerCom 2025 [WIP Paper]
+Budget-feasible egalitarian allocation of conflicting jobs, Autonomous Agents and Multi-Agent Systems: Sushmita Gupta, Pallavi Jain, A. Mohanapriya, Vikash Tripathi.
+Participatory Budgeting with Project Groups, Journal of Computer and System Sciences: Pallavi Jain, Krzysztof Sornat, Nimrod Talmon, Meirav Zehavi.
+Exact and Approximate Digraph Bandwidth, Theory of Computing Systems: Pallavi Jain, Lawqueen Kanesh, Willian Lochet, Saket Saurabh, Roohani Sharma.
+Parameterized Complexity of Disconnected Matchings, CIAC 2025: Sushmita Gupta, Pallavi Jain, Lawqueen Kanesh, Sounak Modak, and Saket Saurabh.
+Parameterized Geometric Graph Modification with Disk Scaling. ITCS 2025. Fedor V. Fomin, Petr A. Golovach, Tanmay Inamdar, Saket Saurabh, and Meirav Zehavi.
+Exponential-Time Approximation (Schemes) for Vertex-Ordering Problems. ITCS 2025.Matthias Bentert, Fedor V. Fomin, Tanmay Inamdar, and Saket Saurabh.
+FPT approximation for Capacitated Clustering with Outliers. Theoretical Computer Science. Rajni Dabas, Neelima Gupta, Tanmay Inamdar.
+Fixed-parameter algorithms for Fair Hitting Set problems. Information and Computation. Tanmay Inamdar, Lawqueen Kanesh, Madhumita Kundu, Nidhi Purohit, Saket Saurabh.
+Patent LMM: Large Multimodal Model for Generating Descriptions for Patent Figures, AAAI 2024: Shreya Shukla,Nakul Sharma,Manish Gupta,Anand Mishra.
+An AI-based E-Nose : A Novel Approach to Odour Sensing and Emotional Context Recognition, APSCON 2024: Aishik Pal, Romi Banerjee, Anoop Behera, Patel Himmat Rajesbhai, Jagdish Suthar.
+Visual Text Matters: Improving Text-KVQA with Visual Text Entity Knowledge-aware Large Multimodal Assistant, EMNLP 2024: Abhirama Subramanyam Penamakuri, Anand Mishra.
+Show Me the World in My Language: Establishing the First Baseline for Scene-Text to Scene-Text Translation, ICPR 2024: Shreyas Vaidya, Arvind Kumar Sharma, Prajwal Gatti, Anand Mishra.
+When far is better: The Chamberlin-Courant approach to obnoxious committee selection, FSTTCS 2024: S. Gupta, T. Inamdar, P. Jain, D. Lokshtanov, F. Panolan, S. Saurabh.
+Cuts in Graphs with Matroid Constraints, European Symposium on Algorithms (ESA) 2024, Aritra Banik, Fedor V. Fomin, Petr A. Golovach, Tanmay Inamdar, Satyabrata Jana, Saket Saurabh.
+Hybrid k-Clustering: Blending k-Median and k-Center, APPROX/RANDOM 2024, Fedor V. Fomin, Petr A. Golovach, Tanmay Inamdar, Saket Saurabh, Meirav Zehavi.
+Characterization of the temporal stability of ToM and pain functional brain networks carry distinct developmental signatures during naturalistic viewing, Scientific Reports, 2024: Km. Bhavna, N. Ghosh, R. Banerjee, D. Roy.
+Nahar, Ankur, Koustav Kumar Mondal, Debasis Das, and Rajkumar Buyya. "Clouds on the Road: A Software-Defined Fog Computing Framework for Intelligent Resource Management in Vehicular Ad-hoc Networks." IEEE Transactions on Mobile Computing (2024).
+Singh, Himanshu, Ajay Pratap, Ram Narayan Yadav, and Debasis Das. "Loss Aware Federated Learning for Service Migration in Multimodal E-Health Services." IEEE Transactions on Services Computing (2024).
+Gupta, Shristy, Amritesh Kumar, Lokendra Vishwakarma, and Debasis Das. "Enhancing blockchain scalability and security: the early fraud detection (EFD) framework for optimistic rollups." Cluster Computing (2024).
+Manipulation with(out) money in matching market, 8th International Conference on Algorithmic Decision Theory (ADT 2024): Sushmita Gupta, Pallavi Jain.
+Work on sketch-guided image inpainting by undergraduate student Nakul Sharma is accepted at CVPR 2024 Workshop.
+(Re)packing Equal Disks into Rectangle. Discrete & Computational Geometry (2024) pp. 1-24. Fedor V. Fomin, Petr A. Golovach, Tanmay Inamdar, Saket Saurabh, Meirav Zehavi.
+FPT approximation and subexponential algorithms for covering few or many edges, Information Processing Letters: Fedor V. Fomin, Petr A. Golovach, Tanmay Inamdar, Tomohiro Koana.
+Controlling Delegations in Liquid Democracy, AAMAS 2024: Shiri Alouf-Heffetz, Tanmay Inamdar, Pallavi Jain, Yash More Hiren, Nimrod Talmon
+Budget-feasible Egalitarian Allocation of Conflicting Jobs, AAMAS 2024: Sushmita Gupta, Pallavi Jain, A Mohanapriya, Vikash Tripathi
+Exponential-Time Approximation Schemes via Compression, 15th Innovations in Theoretical Computer Science Conference (ITCS 2024): Tanmay Inamdar, Madhumita Kundu, Pekka Parviainen, M. S. Ramanujan, Saket Saurabh.
+Maximizing Nash Social Welfare underTwo-sided Preferences, AAAI 2024: Pallavi Jain, Rohit Vaish.
+Sparsity in Covering Solutions, LATIN 2024: Pallavi Jain, Manveer Singh Rathore.
+Max-SAT with Cardinality Constraint Parameterized by the Number of Clauses, LATIN 2024: Lawqueen Kanesh, Pallavi Jain, Fahad Panolan, Souvik Saha, Abhishek Sahu, Saket Saurabh, Anannya Upasana<
+Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions, AAAI 2024: Prajwal Gatti, Kshitij Parikh, Dhriti Paul, Manish Gupta, Anand Mishra.
+QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos, AAAI 2024: Yogesh Kumar, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, Roshni Ramnani
+Hybrid Sample Synthesis-based Debiasing of Classifier in Limited Data Setting, Winter Conference on Applications of Computer Vision (WACV 2024): Piyush Arora, Pratik Mazumder
+SynthProv: Interpretable Framework for Profiling Identity Leakage, WACV 2024: Aparna Bhati, Jaisidh Singh, Harshil Bhatia, Richa Singh, Mayank Vatsa
+Developmental stability and segregation of Theory of Mind and Pain networks carry distinct temporal signatures during naturalistic viewing, ACCS10 2023: Km. Bhavna, Romi Banerjee, Dipanjan Roy
+Mitigate forgetting in few-shot class-incremental learning using different image views: Elsevier Neural Networks: Pratik Mazumder, Pravendra Singh
+Even More Effort Towards Improved Bounds and Fixed-Parameter Tractability for Multiwinner Rules, Algorithmica: Sushmita Gupta, Pallavi Jain, Saket Saurabh, Nimrod Talmon.
+Answer Mining from a Pool of Images: Towards Retrieval-Based Visual Question Answering, IJCAI 2023: Abhirama Subramanyam Penamakuri, Manish Gupta, Mithun Das Gupta, Anand Mishra.
+Towards Making Flowchart Images Machine Interpretable: ICDAR 2023: Shreya Shukla, Prajwal Gatti, Yogesh Kumar, Vikash Yadav, Anand Mishra.
+Multi-Surface Multi-Technique (MUST) Latent Fingerprint Database, IEEE Transactions on Information Forensics & Security (T-IFS), 2023: A. Malhotra, R. Singh, K. Morris, A. Noore, M. Vatsa.
+Uniform Misclassification Loss for Unbiased Model Prediction, Pattern Recognition, 2023: P. Majumdar, R. Singh, M. Vatsa.
+Few-shot diagnosis of chest X-rays using an ensemble of random discriminative subspaces, ICLR 2023: Kshitiz, G. Garg, A. Paul.
+Uncovering the deceptions: An analysis on audio spoofing detection and future prospects, IJCAI 2023: R. Ranjan, R. Singh, M. Vatsa.
+Long-term monitoring of bird flocks in the wild: Kshitiz, S. Shreshtha, R.Mounir, R. Singh, S. Anand, S. Sarkar, S. Ram, M. Vatsa.
+NutriAI: AI-powered child malnutrition assessment in low-Resource environments: M. Khan, S. Agarwal, R. Singh, K. Singh, M. Vatsa.
+On AI-assisted pneumoconiosis detection from chest X-rays: Y. Akhter, R. Ranjan, R. Singh, S. Chaudhury, M. Vatsa.
+Cortical Circuits of Context Adaptability: Understanding Neurobehavioral Mechanisms Underlying Flexible Behavior, Cogsci 2023: S. Kaman, R. Banerjee, A. Sharma.
+End-to-End Explainable Artificial Intelligence: Derived Theory-of-Mind Fingerprints to Distinguish Between Autistic and Neuro-Typical, OHBM 2023: Km. Bhavna, R. Banerjee, D. Roy
+Few-Shot Referring Relationships in Videos, CVPR 2023, Yogesh Kumar and Anand Mishra.
+Clinically Relevant Myocardium Segmentation in Cardiac Magnetic Resonance Images, IEEE Journal of Biomedical and Health Informatics, R Gavirni, D Gupta, D Mishra, A Gupta, S Viswamitra.
+Leveraging joint incremental learning objective with data ensemble for class incremental learning", Elsevier Neural Networks: Pratik Mazumder, Mohammed Asad Karim, Indu Joshi, Pravendra Singh.
+Rectification-based Knowledge Retention for Task Incremental Learning", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI): Pratik Mazumder, Pravendra Singh, Piyush Rai, Vinay P. Namboodiri, [Early Access]
+Theory-of-Mind Fingerprints to Distinguish Autistic and Neuro-Typicals: An Explainable-AI Model, OHBM 2023: K. Bhavna, R. Banerjee, D. Roy
+DF-Platter: Multi-face Heterogeneous Deepfake Dataset, CVPR 2023: K. Narayan, H. Agarwal, K. Thakral, S. Mittal, R. Singh, M. Vatsa
+CacheIn: A Secure Distributed Multi-layer Mobility-Assisted Edge Intelligence based Caching for Internet of Vehicles, The 23rd IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing (CCGrid 2023): Ankur Nahar, Himani Sikarwar, Sanyam Jain and Debasis Das
+CrossLedger: A Pioneer Cross-chain Asset Transfer Protocol, The 23rd IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing (CCGrid 2023): Lokendra Vishwakarma, Amritesh Kumar and Debasis Das
+A Novel MAC-based Authentication Scheme (NoMAS) for Internet of Vehicles (IoV), IEEE Transactions on Intelligent Transportation Systems(ITS)-2023: Himani Sikarwar, and Debasis Das
+MetaLearn: Optimizing Routing Heuristics with a Hybrid Meta-Learning Approach in Vehicular Ad-hoc Networks, Elsevier Ad Hoc Networks-2023: Ankur Nahar and Debasis Das
+End-to-End Explainable Artificial Intelligence Derived Theory-of-Mind Fingerprints to Distinguish Between Autistic and Neuro-Typicals, 9th Annual Conference of Cognitive Science (ACCS9): Km Bhavna, R. Banerjee, D. Roy
+Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing, WACV 2023, Aditay Tripathi, Anand Mishra, Anirban Chakraborty,
+VISTOT: Vision-Augmented Table-to-Text Generation, EMNLP 2022, Prajwal Gatti, Anand Mishra, Manish Gupta, Mithun Das Gupta.
+Contrastive Multi-View Textual-Visual Encoding: Towards One Hundred Thousand-Scale One-Shot Logo Identification, ICVGIP 2022: N. Sharma, A.S. Penamakuri, A. Mishra
+COFAR: Commonsense and Factual Reasoning in Image Search, 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and the 12th International Joint Conference on Natural Language Processing (IJCNLP) 2022: P. Gatti, A.S. Penamakuri, A. Mishra, R. Teotia, S. Sengupta, R. Ramnani
+Discovering and Overcoming Limitations of Noise-engineered Data-free Knowledge Distillation, NeurIPS 2022: P. Raikwar, D. Mishra
+Indian Patent "Automated Personalized Assistance and Monitoring System for People with Special Needs" submitted by D. Mishra in Sep-22
+Parameterized Approximation Algorithms for MAX-SAT with Cardinality Constraint and Maximum Coverage, SODA 2023 (accepted): P. Jain, L. Kanesh, F. Panolan, S. Saha, A. Sahu, S. Saurabh, A. Upasana.
+A Decade of the Z-Numbers, IEEE Transactions on Fuzzy Systems, 2022: R. Banerjee, S. K. Pal, J. K. Pal
+More Effort Towards Multiagent Knapsack, SOFSEM 2023 (accepted): S. Gupta, P. Jain, S. Seetharaman.
+Preserving Consistency for Liquid Knapsack Voting, EUMAS 2022: P. Jain, K. Sornat, N. Talmon.
+Association between COVID-19 pandemic and serious mental illness: Systematic review within salutogenesis model for public health management, Current Psychiatry Research and Reviews, 2022: S. Kaman, A. Sharma, R. Banerjee
+enVolve: Are You Listening? Inertial Sensing to Monitor the Involvement of Silent Listeners during an Online Interaction, Proc. of the 3rd International Workshop on Earable Computing (EarComp'22), in conjunction with Ubicomp 2022: G. Chugh, S. Chakraborty, R. Bhandari, S. Chakraborty,
+Discovering and Overcoming Limitations of Noise-engineered Data-free Knowledge Distillation, NeurIPS 2022: P. Raikwar, D. Mishra
+Crafting Adversarial Perturbations via Transformed Image Component Swapping, IEEE Transactions on Image Processing, 2022: A. Agarwal, N. Ratha, R. Singh, M. Vatsa
+BAttack: Being Cautious about Data Labels, IEEE Transactions on Artificial Intelligence, 2022: A. Agarwal, R. Singh, N. Ratha, M. Vatsa
+Motion Magnified 3D Residual-in-Dense Network for DeepFake Detection, IEEE Transactions on Biometrics, Behavior, and Identity Science, 2022: A. Mehra, A. Agarwal, M. Vatsa, R. Singh
+Gehrlein Stable Committee with Multi-Modal Preferences, SAGT 2022: S. Gupta, P. Jain, D. Lokshtanov, S. Roy, S. Saurabh
+Scatter search for the minimum leaf spanning tree problem, Computers and Operations Research: Y. S. Kardam, K. Srivastava, P. Jain, R. Marti
+BAFL: Federated Learning with Base Ablation for Cost Effective Communication, ICPR 2022, M. K. Kundalwal, A. Saraswat, I. Mishra, and D. Mishra.
+Chiranjoy Chattopadhyay and team (Vaibhavi Gupta, Vinay Detani and Vivek Khokhar) design a framework that converts digital comics to videos.
+SUPREAR-NET: Supervised Resolution Enhancement and Recognition Network, IEEE Transactions on BIOM (T-BIOM), 2022: M.Vatsa, S. Ghosh and R. Singh.
+Our PhD student Surbhi Mittal is selected for the IBM PhD Fellowship.
+Design and Analysis of FPGA-Based PUFs with Enhanced Performance for Hardware-Oriented Security, ACM Journal on Emerging Technologies in Computing Systems (JETC), 2022, ISSN No. 1539-9087: N. Nalla Anandakumar, Mohammad S. Hashmi and Somitra Kumar Sanadhya.
+Field Programmable Gate Array based Elliptic Curve Menezes-Qu-Vanstone key agreement protocol realization using Physical Unclonable Function and true random number generator primitives, IET Circuits, Devices & Systems, 2022, Pages 1-17, ISSN No. 751-8598: N. Nalla Anandakumar, Mohammad S. Hashmi and Somitra Kumar Sanadhya.
+SmartCoin: A novel incentive mechanism for vehicles in intelligent transportation system based on consortium blockchain, Vehicular Communications, Lokendra Vishwakarma, and Debasis Das
+EIoVChain: Towards Authentication and Secure Communication Based Blockchain for Internet of Vehicles (IoV), IEEE International Conference on Blockchain (Blockchain)-2021, Amritesh Kumar, and Debasis Das
+SIoVChain: Efficient and Secure Blockchain Based Internet of Vehicles (IoV), ACM 23rd International Conference on Distributed Computing and Networking(ICDCN), Amritesh Kumar, and Debasis Das
+Anirban Das, Kartik Narayan and Suchetana Chakraborty, "Leveraging ambient sensing for the estimation of curiosity-driven human crowd " to appear in the proceedings of IEEE SysCon 2022
+Disguise Resilient Face Verification, IEEE Transactions on Circuits and Systems for Video Tecnology, 2021: M. Singh, S. Nagpal, R. SIngh, M. Vatsa.
+Dr. Debasis and his students' work on blockchain protocols in the news!!
+Multi-Task Driven Explainable Diagnosis of COVID-19 using Chest X-ray Images, Pattern Recognition Journal, 2021: A. Malhotra, S. Mittal, P. Majumdar, S. Chhabra, K. Thakral, M. Vatsa, R. Singh, S. Chaudhury, A. Pudrod, and A. Agrawal.
+Few-shot Visual Relationship Co-localization, International Conference on Computer Vision (ICCV) 2021: Revant Teotia*, Vaibhav Mishra*, Mayank Maheshwari*, Anand Mishra (*: equal contribution)
+Manan Sharma, Shivam Tiwari, Gaurav Ruhela, Suchetana Chakraborty, and Dip Sankar Banerjee. Deep Unsupervised Methods towards Behavior Analysis in Ubiquitous Sensor Data. at Internet of Things (IoT) (Elsevier) (2021).
+Divy Pandey, Saurabh Singh, Vishesh Mishra, Sagar Satapathy, Babita Jajodia, and Dip Sankar Banerjee. ART-MAC: an Approximate Rounding and Truncation Based Mac Unit for Fault-Tolerant Applications. to appear at the IEEE Internationals Symposium on Circuits and Systems (ISCAS) 2022, Austin, Texas, USA. May 2022.
+Sagar Satapathy, Vishesh Mishra, Divy Pandey, and Saurabh Singh, and Dip Sankar Banerjee. AxLEAP: Enabling Low-Power Approximations Through Unified Power Format. to appear at the IEEE Internationals Symposium on Circuits and Systems (ISCAS) 2022, Austin, Texas, USA. May 2022.
+Divy Pandey, Vishesh Mishra, Saurabh Singh, Sagar Satapathy, Babita Jajodia and Dip Sankar Banerjee. HPAM: An 8-bit High-Performance Approximate Multiplier Design for Error Resilient Applications. to appear in the proceedings of the 23rd International Symposium on Quality Electronic Design (ISQED), 2022
+Saurabh Singh, Vishesh Mishra, Sagar Satapathy, Divy Pandey, Kaustav Goswami, Dip Sankar Banerjee, and Babita Jajodia. EFCSA: An Efficient Carry Speculative Approximate Adder with Rectification. to appear in the proceedings of the 23rdnd International Symposium on Quality Electronic Design (ISQED), 2022
+Sourish Gunesh Dhekane; Shivam Tiwari; Manan Sharma; and Dip Sankar Banerjee. Enhanced Annotation Framework for Activity Recognition Through Change Point Detection. in the proceedings of 14th IEEE International Conference on COMmunication Systems; NETworkS (COMSNETS) (2022).
+FPPR: Fast Pessimistic PageRank for Dynamic Directed Graphs, In proceedings of 10th Internation Conference on Complex Networks and their Applications, Madrid, Spain (Hybrid), 2021: Pashikanti Rohith Parjanya and Suman Kundu
+Experience: Developing a testbed for ambient sensing and in-network data processing, COMSNETS 2022, Anirban Das and Suchetana Chakraborty ( Regular paper)
+Enabling video conferencing in low bandwidth, CCNC 2022, Muzzafer Ali and Suchetana Chakraborty ( Poster paper)
+Multi-Access Edge Computing for Urban Informatics, Suchetana Chakraborty and Radhika Sukapuram. ICDCN 2022 ( Tutorial paper)
+Deep Unsupervised Methods towards Behavior Analysis in Ubiquitous Sensor Data, Manan Sharma, Shivam Tiwari, Gaurav Ruhela, Suchetana Chakraborty, Dip Sankar Banerjee, IoT Journal, Elsevier
+MTCD: Cataract detection via near infrared eye images, Computer Vision and Image Understanding Journal, 2021: P. Tripathi, Y. Akhtar, M. Khurshid, A. Lakra, R. Keshari, M. Vatsa and R. Singh.
+Disguise Resilient Face Verification, IEEE Transactions on Circuits and Systems for Video Tecnology, 2021: M. Singh, S. Nagpal, R. SIngh, M. Vatsa.
+Dr. Debasis and his students' work on blockchain protocols in the news!!
+Multi-Task Driven Explainable Diagnosis of COVID-19 using Chest X-ray Images, Pattern Recognition Journal, 2021: A. Malhotra, S. Mittal, P. Majumdar, S. Chhabra, K. Thakral, M. Vatsa, R. Singh, S. Chaudhury, A. Pudrod, and A. Agrawal
+Few-shot Visual Relationship Co-localization, International Conference on Computer Vision (ICCV) 2021: Revant Teotia*, Vaibhav Mishra*, Mayank Maheshwari*, Anand Mishra (*: equal contribution)
+BlockTree: A Nonlinear Structured, Scalable and Distributed ledger Scheme for Processing Digital Transactions, Cluster Computing, Springer, 2021: L. Vishwakarma & D. Das
+Indian Masked Faces in the Wild Dataset, IEEE International Conference on Image Processing, 2021: S. Mishra, P. Majumdar, R. Singh, M. Vatsa
+Intelligence and Adaptive Mixup Technique for Adversarial Robustness, IEEE International Conference on Image Processing, 2021: A. Agarwal, M. Vatsa, R. Singh, and N. Ratha
+On the Parameterized Approximability of Contraction to Classes of Chordal Graphs, TOCT: S. Gunda, P. Jain, D. Lokshtanov, S. Saurabh, P. Tale
+Gerrymandering on graphs: Computational complexity and parameterized algorithms, SAGT 2021: S. Gupta, P. Jain, F. Panolan, S. Roy, S. Saurabh
+A survey on task offloading in Multi-access Edge Computing, Journal of Systems Architecture, Elsevier, 2021: A. Islam, A. Debnath, Manojit Ghosh, S. Chakraborty
+Curiosity-driven Intuitive Physics Learning, ICRA (Learning to Learn: Robotics Workshop), 2021: T. Gaikwad, R. Banerjee
+A Decade of the Z-Numbers, IEEE Transactions on Fuzzy Systems, 2021: R.Banerjee, S.K. Pal, J.K. Pal
+Towards Lightweight Authentication and Batch Verification Scheme in IoV, IEEE Transactions on Dependable and Secure Computing (TDSC), 2021: H. Sikarwar & D. Das
+DeriveNet for (Very) Low Resolution Image Classification, IEEE Transactions on PAMI, 2021: M. Singh, S. Nagpal, R. Singh & M. Vatsa
+S2D2NET: An Improved Approach for Robust Steel Surface Defects Diagnosis with Small Sample Learning, IEEE ICIP 2021: V. Nath, C. Chattopadhyay
+A Computational Approach to Understand Building Floor Plan Images using Machine Learning Techniques, In Internet of Multimedia Things (IoMT): Techniques and Applications, 2021: S. Goyal, G. Bhatnagar, C. Chattopadhyay
+SCAB - IoTA: Secure Communication and Authentication for IoT Applications using Blockchain, Journal of Parallel and Distributed Computing(JPDC), Elsevier, 2021: L. Vishwakarma and D. Das
+Even More Effort Towards Improved Bounds and Fixed-Parameter Tractability for Multiwinner Rules, IJCAI, 2021: S. Gupta, P. Jain, S. Saurabh, N. Talmon
+Participatory Budgeting with Project Groups, IJCAI, 2021: P. Jain, K. Sornat, N. Talmon, M. Zehavi
+Towards Enhanced System Efficiency While Mitigating Row Hammer, ACM Transactions on Architecture and Code Optimization (TACO), 2021 (accepted): K. Goswami, D. S. Banerjee, and S. Das
+Look, Read and Ask: Learning to Ask Questions by Reading Text in Images, ICDAR, 2021: S. Jahagirdar, S. Gangisetty, A. Mishra
+C2VNet: A Deep Learning Framework towards Comic Strip to Audio-Visual Scene Synthesis, ICDAR, 2021: V. Gupta, V. Detani, V. Khokar, C. Chattopadhyay
+Dr. Gaurav Goswami, Dr. Sharath Pankanti, Prof. Nalini Ratha Prof. Richa Singh and Prof. Mayank Vatsa receive approval for US patent on "Identifying Artificial Artifacts in Input Data to Detect Adversarial Attacks"
+Our students - Bhumika, Jayant, Lokendra, Shreyansh and Ankur - win the Student's PItch Competition, organized as part of Industry Day 2021
+Class Equilibrium using Coulomb's Law, IJCNN, 2021: S. Chhabra, P. Majumdar, R. Singh, M. Vatsa
+Enhancing Fine-Grained Classification for Low Resolution Images, IJCNN, 2021: M. Singh, S. Nagpal, R. Singh, M. Vatsa
+Understanding Neural Responses to Face Verification of Cross-Domain Representations, IJCNN, 2021: M. Singh, S. Nagpal, D. Yadav, N. Mohli, P. Pandey, R. Singh, M. Vatsa
+P2-SHARP : Privacy Preserving Secure Hash based Authentication and Revelation Protocol in IoVs, Computer Networks, 2021: Harsha V. & D. Das
+Semi-Supervised Subject Recognition in Low Modal Sensor Data, Ad Hoc Networks, 2021: S.G. Dhekane, S. Tiwari, K. Vajra & D.S. Banerjee
+SAM: A Segmentation Based Approximate Multiplier for Error Tolerant Applications, IEEE Internationals Symposium on Circuits and Systems (ISCAS), 2021: D. Pandey, S. Singh, V. Mishra, S. Satapathy & D.S. Banerjee
+Towards Row Sensitive DRAM Refresh through Retention Awareness, 22nd International Symposium on Quality Electronic Design (ISQED), 2021: T. Goel, D.S. Maura, K. Goswami, S. Das & D.S. Banerjee
+ACLA: An Approximate Carry-Lookahead Adder with Intelligent Carry Judgement and Correction, 22nd International Symposium on Quality Electronic Design (ISQED), 2021: S. Belwal, R. Bhattacharya, K. Goswami & D.S. Banerjee
+Knowledge driven Description Synthesis for Floor Plan Interpretation, International Journal on Document Analysis and Recognition, 2021: S. Goyal, C. Chattopadhyay & G. Bhatnagar
+DRISTI: A Hybrid Deep Neural Network for Diabetic Retinopathy Diagnosis, Signal, Image and Video Processing, 2021: G. Kumar, S.K. Chatterjee & C. Chattopadhyay
+Soil classification From high resolution satellite images with Deep CNN, IEEE International Geoscience and Remote Sensing Symposium, 2021: A. Pandey, D. Kumar & D.B. Chakraborty
+Quantum free-start collision attacks on double block length hashing with round-reduced AES-256, IACR Transactions on Symmetric Cryptology, 2021: A.K. Chauhan, A. Kumar & S.K. Sanadhya
+Discriminative shared transform learning for sketch to image matching, Pattern Recognition, 2021: S. Nagpal, M. Singh, R. Singh & M. Vatsa
+Improving face recognition performance using TeCS2 dictionary, Pattern Recognition Letters, 2021: S. Suri, A. Sankaran, M.Vatsa & R. Singh
+Recognizing injured faces via SCIFI loss, IEEE Transaction on Biometrics, 2021: P. Majumdar, S. Chhabra, R. Singh & M.Vatsa
+Rough video conceptualization for real-time event precognition with motion entropy, Information Sciences, 2021: D.B. Chakraborty & S.K. Pal
+Granular Video Computing: With Rough Sets, Deep Learning and in IoT, World Scientific Publishing, Singapore, March 2021: D.B. Chakraborty & S. K. Pal
+MComIoV: Secure and Energy-Efficient Message Communication Protocols for Internet of Vehicles, IEEE/ACM Transactions on Networking (ToN), 2021: T. Limbasiya, D. Das & S.K. Das
+A rotation and scale invariant approach for multi-oriented floor plan image retrieval, Pattern Recognition Letters, 2021: R. Khade, K. Jariwala, C. Chattopadhyay & U. Pal
+Partition aggregation for participatory budgeting, AAMAS, 2021: L. Bulteau, P. Jain & N. Talmon
+Parameterized complexity of d-hitting set with quotas, SOFSEM, 2021: S. Gupta, P. Jain, A. Petety & Sagar Singh
+HyPR: Hybrid Page Ranking on Evolving Graphs, 27th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC), 2020: H.K. Giri, M. Haque & D.S. Banerjee
+MagnaSense: The Flying Mouse, COMSNETS, 2020: R. K Sanghavi & R. Bhandari
+VCom: Secure and efficient vehicle-to-vehicle message communication protocol, IEEE Transactions on Network and Service Management (TNSM), 2020: T. Limbasiya & D. Das
+Effective low-cost solution for converting existing stethoscopes into tele-stethoscopes: Dr. Sumit Kalra & Team
+App to help identify and navigate through potholes on Indian roads: R. Bhandari & Team
+Attack agnostic adversarial defense via visual imperceptible bound, IAPR Conference on Pattern Recognition, 2020: S. Chhabra, A. Agarwal, R. Singh, & M. Vatsa
+MixNet for generalized face presentation attack detection, IAPR Conference on Pattern Recognition, 2020: N. Sanghvi, S. K. Singh, A. Agarwal, M. Vatsa, & R. Singh
+Generalized iris presentation attack detection algorithm under cross-database settings, IAPR Conference on Pattern Recognition, 2020: M. Gupta, V. Singh, A. Agarwal, M. Vatsa, & R. Singh
+Age-gap reducer-GAN for recognizing age-separated faces, IAPR Conference on Pattern Recognition, 2020: D. Yadav, N. Kohli, M. Vatsa, R. Singh, & A. Noore
+Variational inference with latent space quantization for adversarial resilience IAPR Conference on Pattern Recognition, 2020: V. Kyatham, D. Mishra & Prathosh AP
+Image transformation based defense against adversarial perturbation on deep learning models, IEEE Transactions on Dependable and Secure Computing (TDSC) Special Issue on AI/ML for Secure Computing, 2020: A. Agarwal, R. Singh, M. Vatsa & N. Ratha
+A2-LINK: Recognizing disguised faces via active learning and adversarial noise based inter-domain knowledge, IEEE Transactions on Biometrics, Behavior, and Identity Science, 2020: A. Suri, M. Vatsa & R. Singh
+On matching finger-selfies using deep scattering networks, IEEE Transactions on Biometrics, Behavior, and Identity Science, 2020: A. Malhotra, A. Sankaran, M. Vatsa & R. Singh
+Subclass heterogeneity aware loss for cross-spectral cross-resolution face recognition, IEEE Transactions on Biometrics, Behavior, and Identity Science, 2020: S. Ghosh, R. Singh, and M. Vatsa
+Granular Video Computing: With Rough Sets, Deep Learning and in IoT, World Scientific Publishing, Singapore, (Ready to be published - Book code: 12013): D.B. Chakraborty & Sankar K. pal,
+General linguistic event precognition with color using rough-fuzzy sets and Z-number , Modeling Decisions for Artificial Intelligence (MDAI), 2020: D.B. Chakraborty
+Fuzzy relative willingness: Modeling influence of exogenous factors in driving information propagation through a social network. IEEE Access, 2020: Suman Kundu, Tomasz Kajdanowicz, Przemyslaw Kazienko and Nitesh Chawla
+Application of machine learning in the social network. In Recent Advances in Hybrid Metaheuristics for Data Clustering (Eds. S. De, S. Dey & S. Bhattacharyya): R.V. Belfin, E.G.M. Kanaga & S. Kundu
+Total influence and hybrid simulation of independent cascade model using rough knowledge granules, 4th International Conference on Computational Intelligence and Networks (CINE), 2020: S. Kundu
+Sketch-guided object localization in natural images, Spotlight presentation - ECCV, 2020: A. Tripathi, R.R. Dani, A. Mishra & A. Chakraborty
+Recurrent image annotation with explicit inter-label dependencies, ECCV, 2020: A. Dutta, Y. Verma & C.V. Jawahar
+On the parameterized approximability of contraction to classes of chordal graphs, APPROX, 2020: S. Gunda, P. Jain, D. Lokshtanov, S. Saurabh & P. Tale
+On the (parameterized) complexity of almost stable marriage, FSTTCS 2020: S. Gupta, P. Jain S. Roy, S. Saurabh & Meirav Zehavi
+Quadratic vertex kernel for split vertex deletion, Theoretical Computer Science, 2020: A. Agrawal, S. Gupta, P. Jain & R. Krithika
+Vertex deletion on split graphs: Beyond 4-hitting set, Theoretical Computer Science, 2020: P. Choudhary, P. Jain, R. Krithika & V. Sahlot
+IoVCom: Reliable comprehensive communication system for the Internet of Vehicles, IEEE Transactions on Dependable and Secure Computing, 2020: T. Limbasiya & D. Das
+A lightweight mutual authentication protocol for V2V communication in Internet of Vehicles, IEEE Transactions on Vehicular Technology, 2020: H. Vasudev, V. Deshpande, D. Das & S.K. Das
+Secure message propagation protocols for IoVs communication components, Computers & Electrical Engineering, 2020: H. Vasudev, D. Das & A.V. Vasilakos
+CFSec: Password-based secure communication protocol in cloud-fog environment, Journal of Parallel and Distributed Computing, 2020: R. Amin, A. Saha, S. Kunal, D. Das & Atif Alamri
+Lightweight secure message broadcasting system for vehicle-to-vehicle communication, IEEE Systems Journal, 2020: T. Limbasiya & Debasis Das
+EASBVN: Efficient approximation scheme for broadcasting in vehicular networks, Wireless Networks, 2020: D. Das & R. Misra
+Vehicular edge computing based driver recommendation system using federated learning, 17th IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS), 2020: J. Vyas, D. Das & S.K. Das
+OBQR: Orientation-based source QoS routing in VANETs, ACM 23rd International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM), 2020: A. Nahar, D. Das & S.K. Das
+CSBR: A cosine similarity-based selective broadcast routing protocol for vehicular ad-hoc networks, IFIP Networking, 2020: A. Nahar, H. Sikarwar & D. Das
+Adaptive reinforcement routing in software-defined vehicular networks, 16th International Conference on Wireless Communications & Mobile Computing (IWCMC), 2020: A. Nahar & D. Das
+Efficient authentication scheme using blockchain in IoT devices, 34th International Conference on Advanced Information Networking and Applications (AINA), 2020: H. Sikarwar, D. Das & S. Kalra
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 01:10 PM

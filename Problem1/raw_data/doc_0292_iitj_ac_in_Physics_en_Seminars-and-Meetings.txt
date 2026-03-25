@@ -1,0 +1,32 @@
+url: https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=9c600ba9-b270-404a-8fe2-1564d796c0e0
+title: Seminars and Meetings | Physics | IIT Jodhpur
+depth: 1
+========================================
+
+Seminars and Meetings | Physics | IIT Jodhpur
+Seminars and Meetings
+Diving Deep into Physics Colloquium Series: " From Empirical to Machine Learning Potentials: Modeling Liquid Ethylene Glycol" by Dr. Anjali Gaur, JNCASR, Bengaluru , India on Jan 06, 2025 at 5.00 PM IST
+Title of the Talk:
+From Empirical to Machine Learning Potentials: Modeling Liquid Ethylene Glycol
+Speaker: Dr. Anjali Gaur
+, JNCASR, Bengaluru
+When? Jan 6, 2025
+, from 5:00 p.m. IST
+D. S. Kothari Seminar Hall, Department of Physics.
+Refining empirical force field (FF) parameters for accurate structural and dynamic properties is challenging, especially for complex systems like ethylene glycol (EG). Even for a very simple system like water, there are over 30 FFs available, and each has its benefits and drawbacks.[1] A refined FF enables studying chemical systems over nanosecond to microsecond timescales, unlike ab initio molecular dynamics (MD), which is limited to a few 10s of picoseconds. Combining gas-phase DFT calculations, ab initio MD, and classical MD simulations, we developed an empirical FF that accurately matches the liquid structure and dynamics of EG with experimental data.[2] Additionally, interesting conformational changes of EG molecules in its aqueous solutions and at liquid-vapor interfaces were observed.[3,4] However, traditional FFs fail to capture electronic polarization, limiting their ability to reproduce properties like dipole moment and dielectric constant. To address this, machine-learned potentials trained on bulk quantum DFT data offer a more accurate alternative without the need for manual parameterization. Given the simplicity and efficacy of the potential models presented here, they are ideal for investigating mixtures of EG with other fluids, including deep eutectic solvents and anti-freezing solutions.
+[1] K. Pathirannahalage et al., J. Chem. Inf. Model. (2021), 4521-4536. (
+[2] A. Gaur and S. Balasubramanian, Phys. Chem. Chem. Phys. (2022), 10985-10992. (
+[3] A. Gaur and S. Balasubramanian, ChemistryOpen (2022), e202200132. (
+[4] A. Gaur and S. Balasubramanian, Langmuir (2023), 230-240. (
+About the Speaker:
+Dr. Anjali Gaur completed her Ph.D. under the guidance of Prof. Balasubramanian Sundaram at JNCASR, Bengaluru. Her doctoral research focused on force field development for liquids and investigating their physical properties using ab initio and classical molecular dynamics simulations. Currently, she is working on the development of machine learning potentials for liquid ethylene glycol. As a postdoctoral researcher, she will join the PHENIX CNRS lab to work with Prof. Mathieu Salanne on the development of machine learning-based classical force fields for battery electrolytes.
+All are welcome!
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 27 Feb 2026 - 02:26 PM

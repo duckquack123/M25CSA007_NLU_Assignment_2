@@ -1,0 +1,113 @@
+url: https://iitj.ac.in/physics/en/undergraduate-program
+title: Undergraduate Program | Physics | IIT Jodhpur
+depth: 1
+========================================
+
+Undergraduate Program | Physics | IIT Jodhpur
+Undergraduate Program
+B.Sc.- B.Ed Courses
+1. B.S. in Physics with Specialization
+A Unique Undergraduate Program
+Our BS program is designed for highly motivated students interested in basic science and cutting-edge technologies in the broad discipline of physics blended with engineering and wishes for a flexible program to consider a variety of challenging career paths through capability-linked specializations in Energy, Photonics, Plasma Technologies, Quantum Technologies and Entrepreneurship.
+BS-M.tech. Dual Degree
+Watch our Open House 2023 (BS Program)
+1 | An academic path to..
+Enter into the graduate programs (e.g. MS or Ph.D.)
+Research in fundamental and technology/application oriented domains
+Career in scientific or academic profession
+2 | An industrial path to..
+R&D in relevant industries
+Leadership through lifelong learning
+3 | An entrepreneurial path to..
+Entrepreneurship as specialization (SME)
+Develop new technologies based products
+Initiate Deep Tech start-up companies
+For candidates with AIR under 5000 in combined merit rank (JEE Advanced)
+S N Bose Fellowship of 50,000/- INR per semester, consistent with 8.0 or above CGPA in all semesters.
+One fully paid International Conference/Internship (2-month duration during Summer Term)
+Curriculum (click here)
+Our Physics BS students explore subjects critical to advancement in today s needs from everyday common know-how to critical problems in different inter/multi-disciplinary domains using the fundamental and applied physics knowledge blended for present and future complex issues/challenges. One of the key salient features of the BS Physics program at the IIT Jodhpur is that the curriculum offers enormous flexibility to students for pursuing capability-linked specializations of their choice. The Department s core specializations are designed to enable students to lead future technological innovations addressing the emerging industrial and societal challenges in following domains.
+The 4-year degree program also offers additional opportunity to pursue diverse and challenging carrier options for e.g. in Entrepreneurship (#5), who will be getting experience in converting their ideas into deep-tech start ups.
+A B.S. student having opted for specific specialization with CGPA 6 or more at the end of the 7th semester and fulfilling minimum credit requirements may be allowed to switch to
+B.S.- M. Tech. dual degree
+program in the chosen specialization at the beginning of the 8th semester.
+1 | Advanced Energy Materials
+Energy harvesting materials and devices
+Utilization of renewable and non-renewable energy sources
+Optimized devices
+Exploration of future applications
+2 | Plasma Technologies
+Plasma-based controlled thermonuclear fusion
+Industrial plasma applications
+Laser plasma and accelerators
+Deep insights to emerging photonics technologies (ultra-fastchips, mid-infrared lasers etc)
+Redefining Quantum Technology (Photonic Devices as Fundamental Components)
+Tera-hertz (THz) technologies for imaging, sensing and communications
+4 | Quantum Technologies
+Femtosecond Lasers Facility (Study of higher entangled photons)
+Acquire skill-sets in various domains;
+Quantum Computing
+Quantum Communication
+Quantum Materials
+5 | Entrepreneurship
+Offered by school of management (SME) IIT Jodhpur
+Placement opportunities
+Acquire skills in various entrepreneurship areas
+Starting up a new Venture
+Ideation & Prototyping
+New Venture Financing, Business Plan Phase-I and Phase II
+IPR & Legal Issues for Start-ups
+Systems Engineering and Project Management
+Technology oriented science program and specialization in physics based emerging technology domains.
+Strong foundations of fundamental as well as applied concepts of physics enabling to excel in physics driven technologies
+Flexible Curriculum Integrating Engineering Design aspect.
+Translating projects and ideas into Innovation through startup, technology park or industry collaborations.
+Emphasis on theoretical concepts, computational skills and hands-on experience.
+Interdisciplinary research and product development ecosystem.
+Common first year courses with B.Tech. programs and opportunity ? of changing to B.Tech. program.
+Graduate attributes
+The Graduates of the UG program in Physics are expected to have the following attributes:
+Strong foundations of fundamental as well as applied concepts of physics enabling to excel in physics driven technologies.
+Ability to acquire new knowledge of physics and integrate with engineering concepts to create new and innovative technologies for current and future applications.
+Ability to apply critical scientific thinking and engineering skills to identify, formulate, and solve complex problems in applied areas blended with engineering practices.
+Ability to apply principles of physics in the domain of Energy materials and devices with a focus on generation, storage and management.
+Ability to engage and actively participate in the upcoming areas of Quantum Information and related research domains of Quantum Technologies.
+Preparedness to participate in future technological developments in photonics and optical communications beyond 5G including Terahertz technology.
+Ability to compete effectively in a world of rapid technological advancements and assume leadership roles within academic, industrial, or entrepreneurial environments.
+Aware of ethical issues, societal needs, and problems and conduct themselves as responsible professionals.
+Learning outcomes
+The Graduates of the UG program in Physics will be able:
+To acquire knowledge of fundamental and applied physics principles along with the required understanding of computing, mathematics, and engineering.
+To create, select, and apply appropriate techniques, resources, and fundamental physics tools to solve complex engineering problems with an understanding of the limitations through laboratory exercises and design projects.
+To apply the concepts of mathematics, physics including Quantum technologies and advanced computing tools, to design complex engineering systems containing hardware and software (including Quantum algorithms) modules.
+To acquire knowledge of fundamental and advanced concepts of Photonics and Terahertz technologies for communications, devices towards medical applications, sensing, quantum technologies, spectroscopy and imaging.
+To gain an in-depth understanding of concepts of materials and devices for energy generation and storage, integration of energy sub-systems and next generation communications.
+To perform a critical literature review and patent landscaping for innovative research.
+To understand professional ethics and social responsibilities.
+To develop technical presentation skills and communicate effectively.
+To develop an attitude for product design and entrepreneurial activities.
+R&D Projects and Collaborations
+FAQs (BS Program)
+Is it possible to opt for the specialization in other domains?
+No, the specialization is available with the domains listed above only.
+I am interested in B.S.- M.Tech. Dual Degree Program but I can't find information related to M.Tech. branch.
+The same B.S. specialization will be offered for M.Tech. degree.
+What are the available placement opportunities for students in BS programs?
+BS students are allowed to participate in all placements options similar to other engineering branches (e.g. Google, Apple, Amazon, Banking, e-commerce, etc) or go for National Labs DRDO, ISRO, etc. If you have an interest in academics and research, you can also pursue M.S., M.Tech. and Ph.D. abroad and in India.
+I am interested in B.S.- M. Tech. Dual Degree but I can't find the option in JEE Advanced counseling.
+This is expected. Please select our 4-Year BS in Physics with specialization program. The choice of B.S.- M.Tech. Dual Degree program will be available at the end of 7th semester. The dual degree program is subject to minimum course credit and academic performance (CGPA >= 6).
+Is it possible to switch to a different engineering branch from 2nd year?
+Yes and it is subject to the academic performance
+Whom should I contact for additional questions and doubts?
+Please send us your queries at
+2. B.Tech (First Year)
+The Department is also actively engaged in teaching regular physics course viz. Electromagnetism and Optics (PHL1010) to B.Tech. I year students. The Department is also offering Preparatory Physics Courses (PHL0010 and PHL0020) at IIT Jodhpur catering to the requirements of the students of various IITs. Also, B.Tech. I Year students perform some interesting experiments in the Physics Laboratory Course (PHP1010). This course is of immense importance wherein the students are able to understand and appreciate that how the physical principles are important for various engineering disciplines and how they can be applied in various engineering problems. Strong emphasis is given on two very important aspects viz. (i) fundamental principles of physics for each of the experiments and (ii) proper recording of the observations and their documentation. Additionally, various compulsory and elective courses offered by the Department are also open to B.Tech. students as elective courses. From the large pool of courses relating to Fundamental Physics, Multidisciplinary Science & Technology and Engineering Physics, the students can register for the courses of their choice subject to fulfillment of necessary guidelines given in the Academic Regulations of the Institute.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 27 Feb 2026 - 02:26 PM

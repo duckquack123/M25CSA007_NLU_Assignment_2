@@ -1,0 +1,42 @@
+url: https://library.iitj.ac.in/ssp/subjects/databases.php?letter=bytype&type=eBooks
+title: Database List By Format: EBooks
+depth: 2
+========================================
+
+Database List By Format: EBooks
+Database List By Format: EBooks
+expand all descriptions
+displaying databases filtered by EBooks >>
+Begell Digital Library
+Content is accessible exclusively for the subscribed period: 2024.
+Publisher: Begell House
+Bloomsbury Publishing (eBooks)
+Cambridge University Press (eBooks)
+De Gruyter (eBooks)
+List of Subscribed Titles
+Elsevier's ScienceDirect (eBooks)
+Institute of Physics (IOP) (eBooks)
+McGraw-Hill Education - Access Engineering
+Oxford University Press (eBooks)
+ProQuest Ebook Central
+Proquest Ebook Central User Guide
+List of Subscribed Titles
+ProQuest Ebook Central User Guide
+Springer (eBooks and LNCS)
+Click on the icon for
+expanding the subscribed journals.
+The following eBook collections acquired.
+Lecture Notes in Computer Science
+Taylor & Francis (eBooks)
+World Scientific Publishing (eBooks)
+Search Databases
+Newest Databases
+One Nation One Subscription (ONOS)
+Thieme Journals (ONOS)
+SPIE Digital Library (ONOS)
+Lippincott Williams & Wilkins (Walter Kluwer) Journals (ONOS)
+Cold Spring Harbor Laboratory Press Journals (ONOS)
+= Some full text
+= OpenURL enabled
+This page maintained by:
+Dr. Kamlesh Patel

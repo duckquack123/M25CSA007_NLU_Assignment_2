@@ -1,0 +1,71 @@
+url: https://iitj.ac.in/materials-engineering/en/undergraduate-program
+title: Undergraduate Program | Materials Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Undergraduate Program | Materials Engineering | IIT Jodhpur
+Undergraduate Program
+B.Tech. Program in Materials Engineering
+The Department of Materials Engineering at IIT Jodhpur envisions to impart high-quality education in the areas of Materials Engineering to address continuously evolving demands of new materials in the fast evolving sectors such as, energy, aerospace, defence, healthcare, transport, etc. The B.Tech. program in Materials Engineering is designed to impart high-quality education in the core and emerging areas of Materials Engineering through a unique combination of foundational courses, core courses and electives from the following four thematic areas or streams
+Structural Materials
+Functional Materials
+Computational Materials Engineering
+Process Metallurgy
+In the B.Tech. curriculum, an emphasis is given to the emerging areas in materials engineering such as computational materials engineering, energy materials, and advanced structural materials while ensuring sufficient core Materials Engineering courses that will form a solid base to the students. Demand driven areas such as Machine Learning, Data Structure and Algorithm, and Scientific Computations have been made an integral part of the B.Tech. curriculum, which makes this curriculum unique. To enable the students to pursue their interest, the program structure would allow students to optionally specialize in one of the above-mentioned four streams of Materials Engineering. This program will equip the students with experimental and computational skill sets relevant to the industry and will motivate the graduates to address present day materials challenges of designing, processing, characterization, and evaluation of advanced materials. Additionally, the program structure would also allow a unique opportunity to obtain an Interdisciplinary Specialization, or a Minor in the demand driven areas. Also, the students with inclination towards business will have an option to earn a B.Tech.-MBA degree making the following options available to a student through the UG program in Materials Engineering:
+B.Tech. [Regular] Materials Engineering
+B.Tech. in Materials Engineering with Department Specialization in
+Structural Materials
+Functional Materials
+Computational Materials Engineering
+Process Metallurgy
+B.Tech. in Materials Engineering with Interdisciplinary Specialization in
+Artificial Intelligence (AI)
+Energy Materials
+Smart Healthcare
+Cyber Physical Systems
+Quantum Information
+Science of Intelligence
+B.Tech. in Materials Engineering with Minor in
+Data and Computational Science
+Management Entrepreneurship
+B.Tech - M.Tech Dual Degree (5-Years)
+B.Tech.-MBA (5-years)
+Objective of the program
+To impart education on the core concepts in Materials Engineering along with providing sufficient breadth of knowledge in the traditional as well as emerging areas of materials engineering
+To train students on experimental techniques for studying materials engineering
+To provide students sufficient analytical and computational skills to address materials engineering needs
+To introduce an early sense of attitude towards technology development and its lifecycle
+To inculcate an attitude towards the commitment to engineering ethics, continued learning, and professional development
+To enable students to optionally specialize in one of the four areas of focus:
+Structural materials
+Functional materials
+Computational materials engineering
+Process metallurgy
+Expected Graduate Attributes
+The graduates of the B.Tech. program in Materials Engineering will be expected to have
+Understanding of atomic structure, crystal structure and imperfections in materials
+Ability to understand the physical and chemical phenomena or process through thermodynamic and kinetic principles
+Ability to understand the relation between electronic band structure and electrical, optical, and magnetic properties of materials
+Broad knowledge on processing of materials and manufacturing, and basic skills to characterize the microstructure
+Ability to correlate processing-structure-property-performance of materials and their processing
+Knowledge about the process of extraction of ferrous and non-ferrous metals
+Ability to use various simulation tools to design materials and predict material behaviour for a better understanding of materials
+Ability to design and execute technical projects
+Skills to communicate materials engineering concepts and ideas to peers
+Appreciation and adherence to professional ethics
+Learning Outcomes
+Ability to apply principles of thermodynamics and kinetics to understand, design and process advanced materials
+Ability to use computational and analytical modelling techniques to predict various properties of materials
+Ability to use materials testing and characterization techniques to validate structure-property-performance correlation in materials at various length scales
+Understanding of electronic structure of materials and ability to correlate electronic structure with transport properties of materials
+Knowledge of processing parameters for the extraction of ferrous and non-ferrous metals, and knowledge to comprehend the process cycle to convert raw material to a final product
+Ability to understand materials processing and process scale up
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 26 Nov 2025 - 05:12 PM

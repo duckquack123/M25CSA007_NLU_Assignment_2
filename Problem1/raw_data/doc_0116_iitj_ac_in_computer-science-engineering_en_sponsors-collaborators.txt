@@ -1,0 +1,51 @@
+url: https://iitj.ac.in/computer-science-engineering/en/sponsors-collaborators
+title: Sponsors & Collaborators | Computer Science & Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Sponsors & Collaborators | Computer Science & Engineering | IIT Jodhpur
+Sponsors & Collaborators
+The department is committed towards improving the institute s outreach through all phases of technology development; starting from conceptualization down to commercialization, and thereby striving towards creation of knowledge in specialized domains. The Department s mission is to develop strong and sustainable partnerships with research laboratories, academic institutions, industry, and entrepreneurs in order to meet aspirations of the faculty & student communities.
+The department is looking forward to working on problems that throw up intellectual challenges, and demand practical and impactful applications and solutions. Besides this, technology development initiatives and exploration of an idea, related to process and design improvement, are also of considerable interest. The department seeks partnerships that recognise and capitalize on relative strengths of academia and the industry. To achieve these goals the department is focusing on:
+Development of strong industry collaborations in research, and specialized human resource development.
+Identifying and protecting intellectual property.
+Development and and nurturing of international linkages for research and development.
+Industry Collaborations
+Academic Collaborations
+Corporate Relations
+Collaborating Industry
+Multimodal KG (Vision and Language)
+Visual Commonsense Reasoning (Vision and Language)
+Sketch-guided Object Localization (Multimodal Learning)
+Accenture (Recently)
+Urban Anomaly Prediction
+Autonomous Vehicular System
+Kritikal Solutions
+Dip Sankar Banerjee
+HPC, Algorithms for biological data
+Medical Technologies
+Vehant Technologies
+Aethrone Aerospace
+Whizhack Technologies Pvt. Ltd.
+TeleRadiology Solutions
+Trustable AI, Bias
+Trustable AI, Bias
+Biometrics, Presentation Attack Detection, Face Recognition
+Continual Learning
+Medical Image Analysis
+Medical Image Analysis
+TeleRadiology Solutions
+Software Engineering
+Smart Healthcare
+IMPRINT II Project - Scalable IoT Monitoring System
+Novealthy Innovations
+Uniconverge Technologies
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 01:10 PM

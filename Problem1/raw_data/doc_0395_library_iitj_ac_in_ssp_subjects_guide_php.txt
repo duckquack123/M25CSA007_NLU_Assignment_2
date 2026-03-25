@@ -1,0 +1,389 @@
+url: https://library.iitj.ac.in/ssp/subjects/guide.php?subject=RG
+title: Resource Guide
+depth: 2
+========================================
+
+Academic Search Engines
+Open Access Resources
+OPAC of other IITs & IISERs
+Off-campus Resource Access Tool
+Plagiarism Detection Tools
+Writing Support Tool
+Reference Management Tools
+Fair Use & Copyright Policy
+Books arrangement in Library
+ACM Digital Library (ONOS)
+Backfiles From: 1954
+American Chemical Society (ONOS)
+Backfiles From: 1996
+Access to ACS Archives from 1879.
+American Institute of Aeronautics and Astronautics (ONOS)
+Backfiles From: 1997
+American Institute of Physics (ONOS)
+Backfiles From: 1997
+Access to the AIP Archives from 1931.
+American Mathematical Society (ONOS)
+Backfiles From: 1997
+American Physical Society (ONOS)
+Backfiles From: 1893
+American Society for Microbiology Journals (ONOS)
+Backfiles From: 1995
+Annual Reviews (ONOS)
+Backfiles From: 1997
+ASCE Library (ONOS)
+Backfiles From: 1995
+ASME Journals (ONOS)
+Backfiles From: 1997
+Bentham Science Journals (ONOS)
+Backfiles From: 1995
+BMJ Journals (ONOS)
+Backfiles From: 1995
+Cambridge University Press (ONOS)
+Backfiles From: 1997
+Cold Spring Harbor Laboratory Press Journals (ONOS)
+Backfiles From: 1997
+Elsevier's ScienceDirect (ONOS)
+Backfiles From: 1995
+Emerald Publishing Journals (ONOS)
+Backfiles From: 1995
+ICE Publishing Journals (ONOS)
+Backfiles From: 1995
+IEEE Journals (ONOS)
+Backfiles From: 1998
+Wayfless URL for Shibboleth Authentication:
+servlet/wayf.jsp?entityId=
+shibboleth&url=https%3A%2F%
+2Fieeexplore.ieee.org%
+2FXplore%2Fhome.jsp
+IndianJournals.com (ONOS)
+Backfiles From: 1995
+Institute of Physics (IOP) Journals (ONOS)
+Backfiles From: 1998
+Access to the IOP e-Journals Archive from 1874 to 2011
+Lippincott Williams & Wilkins (Walter Kluwer) Journals (ONOS)
+Backfiles From: 1997
+One Nation One Subscription (ONOS)
+Remote Access via INFED IDP
+Oxford University Press Journals (ONOS)
+Backfiles From: 1996
+Project MUSE (ONOS)
+Backfiles From: 1995
+Sage Publishing Journals (ONOS)
+Backfiles From: 1997
+Science Online (ONOS)
+Backfiles From: 1997
+Remote Access via INFED IDP
+SPIE Digital Library (ONOS)
+Backfiles From: 1995
+Springer Nature Journals (ONOS)
+Backfiles From: 1997
+Taylor and Francis Journals (ONOS)
+Backfiles From: 1997
+Thieme Journals (ONOS)
+Backfiles From: 1995
+Wiley Journals (ONOS)
+Backfiles From: 1997
+Economic & Political Weekly
+Harvard Business Review
+For access to this resource, please contact the Library.
+JoVE: Journal of Visualized Experiments
+JoVE is a video journal.
+Royal Society of Chemistry
+Access of RSC Archive from 1874 to 2011.
+Society for Industrial and Applied Mathematics (SIAM)
+Bloomsbury Publishing (eBooks)
+Cambridge University Press (eBooks)
+List of Subscribed Titles
+Elsevier's ScienceDirect (eBooks)
+Institute of Physics (IOP) (eBooks)
+McGraw-Hill Education - Access Engineering
+Oxford University Press (eBooks)
+ProQuest Ebook Central
+Proquest Ebook Central User Guide
+List of Subscribed Titles
+Springer (eBooks and LNCS)
+Click on the icon for
+expanding the subscribed journals.
+Taylor & Francis (eBooks)
+World Scientific Publishing (eBooks)
+Research Databases
+EPWRF India Time Series
+For access to this resource, please contact the Library.
+For access to this resource, please contact the Library.
+Scifinder-n Registration Link
+registration/index.html?
+F33E0F07X86F3503FX17CECF3530AE
+Academic Support Tools
+Turnitin Similarity Enterprise
+= Restricted resource
+= Some full text
+= OpenURL enabled
+American Chemical Society (ONOS)
+American Institute of Physics (ONOS)
+Chemicals & Engineering News (C&EN) Global Enterprise
+Institute of Physics (IOP) Journals (ONOS)
+Journal of Fluid Mechanics
+Royal Society of Chemistry
+Society for Industrial and Applied Mathematics (SIAM) Locus Archive
+Note: arXiv is a free distribution service and an open archive for scholarly articles.
+Note: The preprint server for Biology
+Note: ChemRxiv (pronounced 'chem-archive') is a free submission, distribution and archive service for unpublished preprints in chemistry and related areas.
+ERTRXIV EarthArXiv Preprints
+A free preprint service for the Earth sciences.
+ERXIV engrXiv Preprints
+(engineering archive) is dedicated to the dissemination of engineering knowledge quickly and efficiently."
+IndiaRxiv Preprints
+Note: The preprint server for Health Sciences
+PsyArXiv Preprints
+SRXIV SocArXiv Papers
+Note: Open archive of the social sciences
+How can I access electronic resources on and off campus?
+How do I find materials in IIT Jodhpur Library?
+How do I locate materials in the library?
+How many books can I borrow from library?
+How to permanently delete the indexed file in Turnitin?
+I am not able to access the resources. What do I do?
+The article/ research paper I require is not available in library subscribed resources. What do I do?
+The book I am looking for is not available in the library. What do I do?
+Previously Subscribed Journal Resources
+Begell Digital Library
+Content is accessible exclusively for the subscribed period: 2024.
+Canadian Geotechnical Journal
+Content is accessible exclusively for the subscribed period: 2023 and 2024.
+Content is accessible exclusively for the subscribed period: 2023 and 2024.
+Intellect Discover
+Content is accessible exclusively for the subscribed period: 2023 and 2024.
+Click on the icon for
+expanding the subscribed journals.
+Journal of Geology
+Content is accessible exclusively for the subscribed period: 2023 and 2024.
+MIT Sloan Management Review
+Accessible only for subscribed 2024 issues.
+Proceedings of the National Academy of Sciences
+Accessible from 2008 to 2020 issues
+World Wide Science
+WorldWideScience.org
+is a global science gateway comprised of national and international scientific databases and portals. It accelerates scientific discovery and progress by providing one-stop searching of databases from around the world (
+Architecture: What is under the Hood
+). Multilingual WorldWideScience.org provides real-time searching and translation of globally-dispersed multilingual scientific literature.
+WorldWideScience.org
+the research you need, free. Search millions of free academic articles, chapters
+theses. In the subject areas of Arts, Humanities, Business, Law, Nature, and Science.
+EBSCO HOST eBooks
+Directory of Open Access Books
+is a Current Awareness Service (CAS) where you can discover the newest papers coming directly from the publishers as soon as they have been published online. It is meant for researchers, librarians, students and anyone who's looking for the latest or most current papers published in the scholarly literature with international coverage. It pulls together a database of Table of Contents (TOCs) from scholarly journals and provides a convenient single "one stop shop" interface to these TOCs.
+It is a free service for individual users.
+Proquest eBook Central
+BASE: Bielefeld Academic Search Engine
+What is Open Access?
+Open Access literature refers to scholarly publications that are freely available for internet access without any restrictions or fees. This type of literature is digital in nature and can be read without any cost (gratis). Additionally, Open Access literature is often exempt from most copyright and licensing limitations. The term "barrier-free" access could be utilized.
+Open-access (OA) literature is digital, online, free of charge, and free of most copyright and licensing restrictions. What makes it possible is the internet and the consent of the author or copyright-holder . -Peter Suber
+Models of Open-Access Publishing
+Gold Open Access
+Green Open Access
+Mandate (Open Access)
+Embargo Open Access
+Institutional Repository (IR) Open Access
+What can be made available under Open Access?
+There are serious, practical, successful campaigns to provide many kinds of content useful toscholars which includes.
+Archival records and manuscripts images (artworks, photographs, diagrams, maps) teaching.
+Government data source code conference presentations (texts, slides, audio, video) scholarly learning materials ( open education resources and open courseware ) monographs textbooks novels, stories, plays, and poetry newspapers.
+Peer-reviewed research articles.
+arXiv is a free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. arXiv is a collaboratively funded, community-supported resource founded by Paul Ginsparg in 1991 and maintained and operated by
+Cornell University
+bioRxiv (pronounced "bio-archive") is a free online archive and distribution service for
+unpublished preprints
+in the life sciences. It is operated by Cold Spring Harbor Laboratory, a not-for-profit research and educational institution. By posting preprints on bioRxiv, authors are able to make their findings immediately available to the scientific community and receive feedback on draft manuscripts before they are submitted to journals.
+ChemRxiv (pronounced 'chem-archive') is a free submission, distribution and archive service for unpublished preprints in chemistry and related areas.
+It gives researchers across a broad range of chemistry fields the opportunity to share early results with colleagues and respond to comments and recommendations for improvement, ahead of formal peer review and publication.
+ERTRXIV EarthArXiv Preprints
+Capturing a broad spectrum of interest and experience will help EarthArXiv consider and include the full geoscience community. An essential step to achieving this objective is to ensure broad and intersectional diversity in staffing our Advisory Council.
+ERXIV engrXiv Preprints
+(engineering archive) is dedicated to the dissemination of engineering knowledge quickly and efficiently. engrXiv was launched in beta in July 2016 under the direction of Devin R. Berg, associate professor of mechanical engineering at the University of Wisconsin-Stout, and in partnership with the Center for Open Science.
+IndiaRxiv Preprints
+A Preprints Repository Service for India
+Open Access India.
+medRxiv (pronounced "med-archive") is a free online archive and distribution server for complete but
+unpublished manuscripts
+(preprints) in the medical, clinical, and related health sciences.
+Preprints are preliminary reports of work that have not been peer-reviewed.
+Preprints.org is a free preprint server subsidized by
+in Basel, Switzerland.
+PsyArXiv Preprints
+PsyArXiv (psychology archive) is
+a free preprint service for the psychological sciences
+, designed to facilitate rapid dissemination of psychological research. PsyArXiv is a creation of the
+Society for the Improvement of Psychological Science (SIPS) and the Center for Open Science (COS).
+SRXIV SocArXiv Papers
+, open archive of the social sciences, provides a free, non-profit, open access platform for social scientists to upload working papers, preprints, and published papers, with the option to link data and code. SocArXiv
+is dedicated to opening up social science, to reach more people more effectively, to improve research, and build the future of scholarly communication.
+Directory of Open Access Journals
+CORE s mission is to aggregate all open access research outputs from repositories and journals worldwide and make them available to the public. In this way CORE facilitates free unrestricted access to research for all. CORE is a not-for-profit service delivered by
+The Open University
+SCIOPEN Science Open
+is a discovery platform with interactive features for scholars to enhance their research in the open, make an impact, and receive credit for it. We provide context building services for publishers, to bring researchers closer to the content than ever before. Our advanced search and discovery functions, combined with post-publication peer review, recommendation, social sharing, and collection-building features make
+the only research platform you ll ever need.
+An innovative open access publishing platform offering rapid publication and open peer review, whilst supporting data deposition and sharing.
+Open Research Central
+Open Research Central is a not-for-profit organisation created to enable the international research community to establish standards for academic publishing.
+These platforms are currently operated by
+F1000 Research Limited
+and use a model of rapid publication followed by transparent invited peer review, and require the inclusion of all supporting data.
+Open Access Books
+Note: Free textbooks written by professors from the world s top universities, all on one easy-to-use online ebook platform.
+Cambridge University Press OA Books
+JSTOR Open Books
+Note: Open and free content on JSTOR
+Note: OAPEN Library contains freely accessible academic books, mainly in the area of humanities and social sciences
+Open Access publisher
+Note: Open Access publisher in the Humanities and Social Sciences in the UK: a not-for-profit Social Enterprise run by scholars who are committed to making high-quality research freely available to readers around the world.
+Open Textbook Library
+Note: Open textbooks are textbooks that have been funded, published, and licensed to be freely used, adapted, and distributed.
+Note: Free, adaptable, openly licensed textbooks and supplemental resources.
+OpenStax CNX Library
+Note: OpenStax publishes high-quality, peer-reviewed, openly licensed textbooks that are absolutely free online and low cost in print.
+Taylor & Francis Open Access Books
+Note: There are 1000 plus eBooks available as Open Access.
+OPAC of other IITs
+OPAC of other Institutes
+Tata Institute of Fundamental Research, Mumbai
+Union Catalogue of E-Resources
+Union Catalogue of E-Resources
+An online database of e-journal collections available at IIT, IISc and IISER Libraries in India.
+Indian Institute of Technology Jodhpur Library has provided a remote access facility to the current Students, Faculty Members, and Staff Members to access the subscribed e-resources from an off-campus location through RemoteXs software service.
+What is RemoteXs?
+RemoteXs is a software service through which one can access the Library subscribed scholarly content from a location other than the IIT Jodhpur campuses. It provides users with a single window access to the digital assets of the Library from a remote location, anywhere, anytime all you need is a working Internet connection.
+To facilitate and encourage the use of e-resources at the point of need & use, IIT Jodhpur Library provides an off- campus (remote) access to subscribed e-resources.
+Does not require any configuration, operating system or specific devices, to access the e-resources from off-campus.
+Compatible with any device and any operating system
+Access provided through LDAP credentials
+Browse and search facility to explore resources
+Who can use the facility?
+The following Library members are entitled to use this facility:
+Currently registered students,
+Faculty Members, and
+To use this facility, please follow the steps below:
+Logon to the IIT Jodhpur Library Website (library.iitj.ac.in);
+On the front page, Go to Resources ;
+In the third column, Under the "Research Support Tools" you will find RemoteXs Portal and Instructions for using RemoteXs;
+Click on RemoteXs Portal or follow
+You can log-in with your LDAP credentials and accept the Usage Policy (please read the Usage Policy carefully);
+Now you are ready to browse your favourite resources.
+Please download user guides, in
+MyLOFT User Guide Vedio
+What is Turnitin?
+Turnitin is an online software tool to check the originality of a work and to prevent plagiarism. The tool offers a completely web-based service to manage the process of submitting and tracking papers electronically, providing better and faster feedback to the authors.
+Why use an anti-plagiarism tool?
+IIT Jodhpur Library provides Turnitin- an Anti-plagiarism software tool to:
+1. To facilitate and encourage the quality of research,
+2. To prevent authors from intentionally or unintentionally plagiarizing any work.
+What are the benefits of this tool?
+The following are the benefits of this tool:
+1. It does not require any configuration, operating system or specific devices, to access the Turnitin;
+2. It is compatible with any device and any operating system;
+3. The access is provided through eMail credentials;
+4. It preserves the original format of the research paper;
+5. It quickly identifies sources of plagiarised material;
+6. It supports for multiple file formats (MS Word, WordPerfect, PostScript, PDF, HTML, RTF, and plain text);
+7. It has bibliography and Quotation filters;
+8. It encourages students to think about their referencing and citation skills;
+9. When used as part of the development of academic writing skills, it helps prevent against accidental plagiarism;
+10. It acts as a deterrent against plagiarism; and
+11. It works as a real aid to marking by highlighting where students have referenced correctly and used the work of others well.
+Who can use this facility?
+The following Library members are entitled to use this service:
+1. Research Scholar;
+2. Faculty Members; and
+3. Staff members
+To use this facility, please follow the steps below:
+1. Login to the IIT Jodhpur Library Website (library.iitj.ac.in);
+2. Go to Resources on navigation Menu and click on it;
+3. You are now at Database List: All ;
+4. Click on "T" and then click on "
+Similarity Enterprise"; and
+5. Faculty Members and Research Scholars can log-in with their credentials, who have registered with Turnitin.
+6. URL to access Turnitin:
+How to prevent plagiarism?
+Please note the following points regarding plagiarism and its prevention.
+1. Plagiarism is, using and presenting someone else s ideas, work, writing, research etc. for their own purpose. It is an offense. It is advised to strictly avoid plagiarising any ideas, writings, data or others creation by following certain good practices because somebody must have put in a lot of effort to present their ideas.
+2. If you need to refer and quote any such works in your publications or literary work, please acknowledge them by according proper citation in your work. Reference managers (like Mendeley and Zotero) can be used for reference management and citation.
+3. It is advised to protect your intellectual property of publications, designs, and products through copyright, trademarks, and patents.
+4. Please pass your research work through the anti-plagiarism software licensed by the Institute, before publishing.
+DrillBit is a sophisticated plagiarism detection tool designed to help researchers, educators, and content creators identify instances of plagiarism in written works. It access provided by Shodhsindhu Consortium of INFLIBNET Centre, Gandhinagar. Utilizing advanced algorithms and linguistic analysis, DrillBit scans documents and compares them against vast databases of existing content, including academic papers, articles, and web pages. Its intuitive interface and customizable settings allow users to tailor the plagiarism detection process to their specific needs, ensuring accurate results and efficient workflow. With DrillBit, users can maintain academic integrity, uphold originality standards, and safeguard intellectual property.
+How to login to the DrillBit Account?
+2. At the top right, click on the Get started button
+Download User Guide
+ammarly is an online grammar checking and
+checking platform.
+One time Self-Registration Process (for New Users)
+(Mandatory to sign up from this URL)
+Fill up the self-registration form and click Agree & Sign up. Ensure that users are registering from their respective official email id
+Note: Do not Sign up with Google / Facebook / Apple
+After clicking Sign up, a verification email will be sent to the user's institutional email ID.
+Once your credentials are verified, an activation email will be sent to your institutional email ID and your registration is successful. Do check your spam folder in case the link is not received in your INBOX. Once registered successfully, you will land on the 'Grammarly Editor' upon login.
+Kindly Verify the activation mail from Grammarly.
+Once registered, users will land on the 'Grammarly Editor, ' which is easy to use and explore
+The MS Word Plugin can be downloaded from the support page after registration from the link
+. The same User ID and Password credentials will grant access to use the Plugin for users.
+for any queries or technical issues.
+is an academic writing platform that may be used to improve the clarity and professionalism of your writing by rephrasing phrases and sentences and summarizing lengthy passages. Please follow the steps below to have access to QuillBot.
+How to access QuillBot:
+and click on Log In
+Sign up using your official email ID and set up a password.
+Click on the verification email you received to activate Premium.
+Salient features of QuillBot:
+Paraphrasing tool
+: The multilingual paraphrasing tool helps you rewrite and improve the clarity of any sentence, paragraph, or article.
+: Ensure accurate grammar, do spell check, verify punctuation, and rectify numerous grammatical problems. Additionally, there is a complimentary essay checker, a grammar checker, and various other tools available to enhance academic success.
+: Paste your text to detect AI-generated content like ChatGPT, GPT-4, and Google Bard. QuillBot s free AI detector will flag the text for further inspection and keep your writing human.
+: QuillBot Translator simplifies cross-language communication, ensuring accuracy and clarity in diverse contexts, making language barriers a thing of the past.
+Citation Generator
+: Describe or evaluate your sources according to APA, MLA, Chicago, Harvard, etc., and let Scribbr s Citation Generator find and fill in all the relevant information automatically.
+QuillBot Chrome Extensions
+: Download QuillBot extension to use Paraphraser, Grammar Checker, and Summarizer on whatever tab you re typing on. Whether you re composing an email, sharing a post, or drafting an essay, you can polish your writing without leaving the page.
+QuillBot University
+: Register for live webinars, learn methods for enhancing your academic writing, productivity, and leverage tools to improve your writing and research skills.
+Other Similar tools
+Trinka is an AI-powered free grammar checker and language enhancement writing assistant designed for academic and technical writing.
+Wordtune helps you rephrase your sentences to say exactly what you mean through clear, compelling, and authentic writing
+Reference Management Tools
+is a software tool for publishing and managing bibliographies, citations and references
+. It is available online as it is complemenrywith Web of Sciece.
+is a free reference manager and an academic social network. Manage your research, showcase your work, connect and collaborate
+. It is available as Online and Standalone application for computer, tablet and mobile.
+is a free and open-source reference management software,
+easy-to-use tool to help you collect, organize, cite, and share research. It is available online and standalone application with data capture connector for Mozila Firefox and Chrome web browsers.
+| Insight - Library Newsletter Jan-Mar 2024
+Parignyan_Jan_Mar_2024
+by S. R. Ranganathan Learning Hub, IIT Jodhpur
+Fair Use and Copyright Policy of Electronic Resources
+Electronic Resources @ IIT Jodhpur Library
+IIT Jodhpur Library licenses various electronic resources for teaching, research and private study of the IIT Jodhpur community.
+The library has signed institutional license agreements with several publishers and consortia to provide access to the scholarly material, for their fair use only.
+Can make limited print or electronic copies.
+Can use for teaching, research, discussion, and other academic purposes.
+Can send/post links.
+Can share limited content within the professional community.
+Cannot share resources with non-IIT Jodhpur community.
+Cannot do systematic/robotic or substantial downloading, copying, printing etc.
+Cannot sell/re-distribute the content to outside IITJ Academic Community.
+Cannot publish in other websites/blogs/forums.
+Copyright Restrictions
+All users of such resources subscribed by IIT Jodhpur Library must adhere to the copyright laws of publishers and consortia.
+No copyrighted work may be copied, published, disseminated, displayed, performed, without obtaining prior permission from the copyright holder except in accordance with fair use or licensed agreement.
+This includes DVDs/CDs and other copyrighted material also.
+Any infringement will lead to termination of access to the electronic resources of IIT Jodhpur Library.
+Licensing Restrictions
+Electronic resources subscribed by IIT Jodhpur are restricted to users of IIT Jodhpur by license agreement for the purposes of research, teaching, and private study.
+Using these resources for commercial purpose, systematic downloading, copying or distributing of information is strictly prohibited.
+Plagiarism prevention
+In simple words, plagiarism is using and presenting someone else's ideas, work, writing, research etc. for their own purpose. It is an offense.
+It is advised to strictly avoid memplagiating any ideas, writings, data or others' creation by following certain good practices because some body must have put in lot of effort to present their ideas.
+Should you need to refer any such works in your publications or literary work, please acknowledge them properly through citation.
+Reference managers like
+can be used for reference management and citation.
+Protect your intellectual property publications, designs, and products through copyright, trademarks and patents.
+How do I locate materials in the library?
+Click here for PDF
+This page maintained by:
+Dr. Kamlesh Patel

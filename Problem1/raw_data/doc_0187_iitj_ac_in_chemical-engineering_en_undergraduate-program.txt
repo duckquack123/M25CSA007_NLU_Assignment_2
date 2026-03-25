@@ -1,0 +1,44 @@
+url: https://iitj.ac.in/chemical-engineering/en/undergraduate-program
+title: Undergraduate Program | Chemical Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Undergraduate Program | Chemical Engineering | IIT Jodhpur
+Undergraduate Program
+Bachelor of Technology Programs:
+B. Tech. in Chemical Engineering
+Double B.Tech. in Chemical Engineering and Engineering Science
+Engineering disciplines have become increasingly interdisciplinary in nature and Chemical Engineering is not an exception to that. The flexibility of opting for different specialization is ingrained in formulating the structure and curriculum of the Chemical Engineering program. Traditionally, Chemical Engineering teaching is focused on transport phenomena, chemical engineering thermodynamics, mass transfer, fluid mechanics, heat transfer, chemical kinetics, computational systems, and process control. With the advent of the era of Artificial Intelligence (AI), Machine Learning (ML), Molecular Engineering, Industry 4.0 in Chemical Plants; the discipline is being transformed by the incorporation of new emerging technologies. Through this Under-Graduate (UG) program in Chemical Engineering, IIT Jodhpur is making a conscious effort to divulge from the traditional path and planning to establish itself to become a leading institute in this new genre of Chemical Engineering education, which includes foundational courses, fundamental courses in chemical engineering, emerging areas in chemical engineering, and sustainability aspects for chemical engineers.
+The undergraduate program begins with students pursuing a common foundation in mathematics, physics, chemistry, engineering sciences, engineering design, and programming.
+Students are expected to build on these foundations with a concentration on core chemical engineering subjects ranging from material and energy balance, process control, chemical engineering thermodynamics to chemical reaction engineering. Core courses are followed by a set of departmental electives that enable students to target their degree program towards in-depth knowledge of areas matching their specific interests.
+The program ensures that the design experience, which includes both analytical studies and experiments, is integrated throughout the curriculum in a structured manner leading to advanced work.
+Students can tailor their focus areas in consultation with a faculty advisor. Students can choose their departmental electives (streams) from the following areas:
+Chemical Engineering Design
+Process Engineering Intelligence
+Molecular Engineering
+Complex Fluids & Interfacial Engineering
+Biochemical Engineering
+Program Objective & Attributes
+The key objectives of the program are:
+Enable students to have fundamental understanding of the core concepts of Chemical Engineering
+Offer opportunities for specialization in emerging and multidisciplinary areas including Molecular Engineering, Data Science and AI applications, Polymer Engineering, Sustainability, Biochemical Engineering and Complex Fluids & Interfacial Engineering
+Empower students with emerging concepts for plant design in context of chemical engineering via courses designed with AI, ML, and Industry 4.0 applications
+Integrate analytical and computational ability with experimental skills to create individuals competent in professional engineering practices in the domain of Chemical
+Inculcate an attitude towards commitment to engineering ethics, leadership qualities, entrepreneurship and professional development.
+Learning Outcomes
+Graduates of the B.Tech. program in Chemical Engineering will:
+Gain a strong understanding of mathematics, science and engineering fundamentals of Chemical engineering including the concepts of material and energy balance; computational methods; transport phenomena; reaction engineering; mass transfer; thermodynamics; heat transfer; fluid mechanics and process control
+Have the ability to design a process equipment or plant to meet desired requirements under socio-economic and environmental constraints.
+Be equipped with knowledge of emerging domains: (i) Data Science & AI applications; (ii) Molecular Engineering.
+Have technical capability for addressing sustainability issues related to water, energy and environment.
+Receive effective hands-on laboratory training as a part of laboratory courses and short-term research projects, and be able to design and conduct experiments as well as to analyse and interpret data.
+Develop their communication skills by participating in classroom presentations, entrepreneurial events, seminars and workshops.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 02 Mar 2026 - 05:17 PM

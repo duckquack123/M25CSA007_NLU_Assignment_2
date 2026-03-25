@@ -1,0 +1,30 @@
+url: https://iitj.ac.in/Mechanical-Engineering/en/Research-Highlights?dsl=2&dslID=e6434f72-b92b-418a-b683-b98cbc25d1e9
+title: Research Highlights | Mechanical Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Research Highlights | Mechanical Engineering | IIT Jodhpur
+Research Highlights
+Thermofluids Engineering
+The Thermofluids Engineering division focuses on research in fluid dynamics, heat transfer, energy systems, multiphase flow, boiling and condensation, heat transfer, fluid mechanics, gasification, and combustion with key areas including:
+Energy Management Solar power composite thermal energy systems for efficient renewable energy utilization.
+Water Technologies Vacuum desalination and cascaded latent heat storage for sustainable water purification.
+Combustion Miniature combustors for power generation and low-emission combustion technologies.
+Fluid-Structure Interaction (FSI) Multiphase flow modeling and aerodynamic studies on flapping airfoils.
+High-Speed Flows Supersonic flow test setups for aerospace and defense applications.
+Computational Fluid Dynamics (CFD) Advanced simulations for turbulence, heat transfer, and aerodynamics.
+Microfluidics & Sensors Miniaturized sensor systems for real-time fluid diagnostics.
+Submarine Hydrodynamics; Turbomachinery
+Ocean Energy; Phase-Change Problems; Multiphase flows
+Latent heat based storage device for high temperature applications,
+Renewable energy integration; Electrochemical carbon capture.
+Machine learning for fluid mechanics
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 18 Mar 2026 - 05:34 PM

@@ -1,0 +1,47 @@
+url: https://iitj.ac.in/mathematics/en/ongoing-projects
+title: Ongoing Projects | Mathematics | IIT Jodhpur
+depth: 1
+========================================
+
+Ongoing Projects | Mathematics | IIT Jodhpur
+Ongoing Projects
+Theoretical Development of Differential Attacks on Block Ciphers and Its Counter-Measures
+Dr. Bimal Mandal
+Design and Development of A Software Platform to Create Immersive Content from Digitized and Born Digital Documents
+iHub Drishti Foundation
+Dr. Gaurav Bhatnagar
+Development of Concealed Object Detection and Recognition System
+iHub Drishti Foundation
+Dr. Gaurav Bhatnagar
+Hybrid Methods for Multi-objective Optimization Problems Combining Genetic Algorithms with Gradient Based Techniques
+IIT Jodhpur SEED Grant
+Dr. Md Abu Talhamainuddin Ansary
+Hardware Aware Frame-Theoretic Sparse Neural Network for Resource-constrained Platform
+Dr. Pradip Sasmal
+Study of quantum attacks on block and stream ciphers and its counter-measures
+Dr. Bimal Mandal
+Computations in Wreath Product
+Dr. Dilpreet Kaur
+Dynamics of Non-Autonomous Schmidt Games
+Dr. Puneet Sharma
+Applications of Lie group analysis and topological methods to solve complex flow problems
+Dr. Sukhendu Ghosh
+Local and non local phase transition problems with nonlinear boundary conditions
+Dr. Tuhina Mukherjee
+Renormalization of multimodal maps with low smoothness
+Dr. V. V. M. S. Chandramouli
+Some important problems on information measures
+Dr. Nil Kamal Hazra
+Mathematical modelling of infectious diseases using surfactant dynamics
+Dr. Sukhendu Ghosh
+Density function for some invariants in prime characteristic and Hilbert-Kunz density function for Schubert Varietie
+Dr. Mandira Mandal
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 12:36 PM

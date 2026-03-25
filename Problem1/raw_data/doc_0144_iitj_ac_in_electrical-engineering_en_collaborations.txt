@@ -1,0 +1,28 @@
+url: https://iitj.ac.in/electrical-engineering/en/collaborations
+title: Collaborations | Electrical Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Collaborations | Electrical Engineering | IIT Jodhpur
+Faculty Members of the Department of Electrical Engineering are keen to collaborate with individuals from academia, R&D laboratories and industry in India and abroad, in areas of mutual interest. Some of the current collaborations are as follows:
+Research group at IIT Jodhpur is developing compact models for SPICE circuit simulation in collaboration with UC Berkeley.
+With Carleton University, a joint research on Signal Integrity and Power Integrity is going on, actively. Further, one of our faculty members is an Adjunct Faculty Member at Carleton University.
+With TIMA Laboratory, a collaboration is on design of high-speed ICs and on-chip noise/jitter modeling.
+This collaboration focuses on Cooperative Control of Passivity-Short Systems. Passivity is defined as an input-output behavior of a dynamical system and closely related to the principle of energy conservation. In practice, however, most of the systems are not well behaved and possess a shortage of passivity (or non-passiveness) in their operation. The scope of this collaboration deals with the analysis and synthesis of the networks comprising the passive-short systems.
+With NTNU, IIT Jodhpur is actively involved in research related to mitigating the challenges in physical layer security of communication systems and improving the performance of free space optical communication systems.
+This collaboration focuses on Macromodeling and EDA Algorithm development for VLSI systems. A PhD student is being jointly supervised by faculty members from both the institutes.
+This collaboration focuses on Secure Coordination and Control of Multi-Agent Systems. The collaboration is a part of the NM-ICPS Technology Innovation Hub (TIH) in Robotics and Autonomous Systems proposed by IISc, Bangalore. The scope of collaboration includes designing distributed guidance and control strategies for the multivehicle network systems for their secure and robust coordination and control against malicious adversaries.
+There are collaborations among multiple groups of IIT Jodhpur and IIT Delhi. These collaborations involve (i) The performance analysis of 5G and beyond communication systems and exploring the ways of improving physical layer security (ii) Data processing and machine learning for the sensors data (iii) Detection of breast cancer through optical techniques (iv) Implementation of mmwave antennas for 5G test bed user equipment
+Research group at IIT Jodhpur is working in collaboration with IIT Kanpur for the characterization and modeling of advanced semiconductor devices, measurement of microwave and mmwave antennas and circuits.
+With IIT Mandi, research on high-speed system design and noise modeling in VLSI systems is going on. There is a PhD student jointly supervised by faculty members from both the institutes.
+The collaboration with IIIT-MK is on Neuromorphic Circuits and Systems.
+IITJ is collaborating with these institutions for the design and development of an indigenous dual frequency NavIC receiver. IITJ work includes design and development of baseband signal processing algorithms for correlator receivers that perform signal acquisition, code and carrier tracking, control lock detection, accumulated delta range computation and data demodulation. These algorithms would be translated to digital ASIC based correlator hardware by IIT Bombay, IIT Madras, IIST Thiruvananthapuram, SAMEER. ISRO is providing required technological know-how for various aspects related to system engineering for NavIC receivers.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 13 Mar 2026 - 03:28 PM

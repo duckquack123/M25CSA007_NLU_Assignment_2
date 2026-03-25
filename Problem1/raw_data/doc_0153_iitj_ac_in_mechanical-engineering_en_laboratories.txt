@@ -1,0 +1,49 @@
+url: https://iitj.ac.in/mechanical-engineering/en/laboratories
+title: Laboratories | Mechanical Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Laboratories | Mechanical Engineering | IIT Jodhpur
+A number of laboratories have already been set up to carry out teaching and research. A state-of-the-art workshop facility with CNC milling, CNC turning machines, 3D printers (fused deposition modelling), welding and heat treatment facilities is already developed. Advanced flow measurement instruments such as Laser Doppler velocimetry, Hotwire anemometry, educational PIV, instrumented heat exchangers, solar radiation measurement station, solar flat plate collector, metallurgical microscopes, polishing machines, vibration shakers and machinery fault monitoring systems, universal testing machines, CAD software (such as CATIA, Solid Works, Pro-E, and ANSYS) also are available. Controls, robotics and gait analysis labs can also be used (jointly with the electrical engineering department). The students shall also have an opportunity to work with the high-performance computing facility.
+The following laboratories are used for teaching and research purposes
+Manufacturing Laboratory
+Faculty-in-charge/Users
+Advanced Manufacturing
+Dr. Kaushal A Desai
+Central Workshop
+Dr. Kaushal A Desai, Dr. Rahul Chhibber
+Industrial Engineering Lab
+Dr. Rahul Chhibber
+Dr. Kaushal A Desai
+Manufacturing Design Laboratory
+Faculty-in-charge/Users
+Dynamics Of Machine Lab
+Dr. B Ravindra, Dr. Amrita Puri
+Dr. C Venkatesan
+Mechatronics Lab
+Dr. Barun Pratiher
+Thermofluids Laboratory
+Faculty-in-charge/Users
+Fluid Mechanics and Turbomachinery
+Dr. Prodyut Chakraborty,
+Dr. Hardik Kothadia,
+Dr. Shobhana Singh
+Energy Conversion
+Dr. Hardik Kothadia,
+Dr. Shobhana Singh
+Automotive Propulsion
+Dr. Sudipto Mukhopadhyay
+Refrigeration and Air Conditioning
+Dr. Nipun Arora,
+Dr. Anand Plapally
+Optical Diagnostics and Imaging Laboratory
+Dr. Sudipto Mukhopadhyay
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 18 Mar 2026 - 05:34 PM

@@ -1,0 +1,86 @@
+url: https://iitj.ac.in/aiot-fab-facility/en/usage-charges
+title: Booking and Usage Charges | Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur
+depth: 2
+========================================
+
+Booking and Usage Charges | Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur
+Booking and Usage Charges
+Google Form, don t
+forget to send an email
+to the Office of AIoT
+with your supervisor in
+@iitj.ac.in email ID
+while filling the form!
+information is accurate
+before submission.
+Cost Per Hour, Or Sample, Or Process
+Deposition Tools
+E-Beam Evaporation
+Excel Instruments
+Deposition of Metal and Oxide Materials
+400 INR up to 70nm
+800 INR from 70 150nm
+Thermal Evaporation
+Excel Instruments
+Deposition of Metal and Oxide Materials
+300 INR up to 70nm
+600 INR from 70 150nm
+Excel Instruments
+Deposition of Metal and Oxide Materials
+500 INR up to 70nm
+1000 INR from 70 150nm
+Horizontal Three Stack Furnace System
+SVCS Process Innovation
+Dry/Wet oxidation, p/n type doping
+Model: NT12000V1
+Photoresist coating, thin film development
+Except Lithography chemicals
+Lithography Tools
+Double-Side Mask Aligner System
+Optical Associates Inc
+Model: OAI 806 EBA 500W NUV
+Max. slot time per sample 30 min
+Direct Writing Maskless Lithography System
+Durham Magneto Optics Ltd
+Model: MICRO WRITER ML3 PRO
+Max. slot time per sample 30 min
+M/K Scientific Instruments
+Model: MKSI-10SC
+Drying and Annealing
+Max. process time 12 Hrs
+Semi-Automatic Wire Bonder
+Model: HYBOND 626
+Wire bonding (Ball bonding, Wedge bonding)
+Wafer Dicing Tool
+Disco Corporation Japan
+Dicing wafers (2", 4")
+Material Characterization
+FESEM With E-Beam Lithography System
+M/S FEI Company of the USA
+Model: APREO 2 S HiVac
+Surface characterization and patterning
+5 images/sample, Max. 2 hrs/slot
+Stylus-Based Profiler
+Bruker Singapore Pvt. Ltd.
+Model: DEKTAK XT
+Thin film depth characterization
+Max. slot time 30 min
+Electrical Characterization
+Parameter Analyzer (4200A)
+M/S Tektronix Asia Ltd
+Model: Keithley 4200A-SCS
+Electrical Characterization
+Max. slot time 3 hrs
+Wafer Probe Station
+M/S Formfactor Inc
+Model: EPS 150 FA
+Probe station for electrical characterization
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 29 Dec 2025 - 03:13 PM

@@ -1,0 +1,717 @@
+source: https://www.iitj.ac.in/PageImages/Gallery/06-2025/Ph.D._New.pdf
+type: academic_regulation_pdf
+========================================
+
+Regulations for Ph.D. Programs
+(For students enrolled from July 2014 Onwards )
+Indian Institute of Technology Jodhpur
+Description Page
+1. Introduction 3
+2. Academic Session 3
+2.1 Academic Calendar 3
+3.1 Eligibility for Admission 5
+3.2 Selection Procedure 6
+3.3 Supervisor Allocation 7
+3.4 Reservation Policy 7
+3.5 Non -degree Program 7
+3.6 Cancellation of Admission 8
+3.7 Fulfilment of Admission Requirements 8
+4. Coursework Requirements 12
+4.1 Academic Load 12
+4.2 Registration 12
+4.3 Registration Procedure 13
+4.4 Late Registration 13
+4.5 Adding and Dropping of Courses 13
+4.6 Withdrawing from a Course 14
+4.7 Cancellation of Registration 14
+5. Teaching and Evaluation 14
+5.2 Attendance Requirements 15
+5.3 Evaluation 15
+5.4 Grading System 16
+5.5 Grade Point Averages 17
+5.6 Grade Card and Transcript 18
+6. Termination 18
+6.1 Termination from M.Tech. Program 18
+6.2 Appeal against Termination 18
+7.1 Short Leave 19
+7.2 Temporary Withdrawal / Semester Leave 19
+7.3 Permission to Proceed to Other Institutions 20
+8. Requirements for Graduation 21
+8.1 Mi nimum Duration of Residence 21
+8.3 Payment of Fe es and Dues 22
+8.4 No Case of Disciplinary Action 22
+8.5 Award of Degrees 22
+8.6 Withdrawal of Degree 23
+9. Financial Assistance 23
+10. Amendments 23
+3 1. INTRODUCTION
+The aim of the Ph.D. Program is to develop graduates having
+good knowle dge and research training in classical and emerging areas.
+IIT Jodhpur hosts Ph.D. program in all areas of technology,
+engineering, sciences, and humanities and social sciences. The Ph.D.
+Program is based on three tenets of (1) Semester System , (2) Credit
+System , and (3) Relative Grading . This document sets out the procedures
+and requirements of the said post graduate Programs of study at IIT
+Jodhpur. The Ph.D. program will be administered by a duly
+constituted Academic Committee (AC), through the office of
+2. ACADEMIC SESSION
+Each academic year ( July to June ) consists of two academic
+semesters. Each semester is for about sixteen (16) weeks with one week
+of recess for students, making it about 15 working weeks in each
+semester. Excluding the day s of the examinations, the total number of
+days of instruction in a semester is at least 70. Normal schedule of
+these semesters is given in Table 1.
+Table 1: Schedule of the Academic Session
+S.No. Segment of the Year Duration
+1 Semester 1 Fourth week of July Last week of November
+2 Winter Vacation First week of December Third week of
+3 Semester 2 Last week of December Last week of April
+4 Summer Vacation First week of May Third week of July
+2.1 Academic Calendar
+It gives the exact d ates of all important events during the
+Academic Session, such as orientation, registration, commencement of
+classes, adding and dropping of courses, submission of documents,
+examinations, submission of grades, conversion of Incomplete I -
+grades, vacation, mid-semester recess. This calendar shall be approved
+The process of admission to the Ph .D. Programs offered by the
+Institute normally is underway during March -April for Semester 1 and
+during November -December for Semester 2. The Institute admits
+students to the doctoral degree Programs in three categories, namely :
+(a) Regular Full -Time Ph.D. Program
+Students admitted in this category shall not be a registered
+student in any other academic program in India or abroad, and
+shall not be a full -time or part -time employee of any organization
+in India or abroad. The students shall be eligible for f inancial
+assistance in the form of Teaching Assistantship or Research
+Assistantship as per norms of the Institute, or Scholarship or
+Fello wship as per norms of the funding agency, e.g., UGC, CSIR,
+DBT, NBHM and DST -INSPIRE.
+(b) Part -Time Ph.D. Program
+Students admitted in this category shall be a full -time employee
+of a recognized Institute, University or Organization. The student
+shall not be eligible for any financial support, and needs to get
+her/his application forwarded by her/his employer. The student
+shall complete the minimum course and residence requirements at
+IIT Jodhpur; she/he can undertake research at a location other than
+(c) Sponsored Ph.D. Program
+Students admitted in this category shall be a full -time employee
+and sponsored by Industry, Organization and National Laboratory
+equipped with research facilities and recognized by Department of
+Science and Technology (DST). The student shall not be eligible for
+any financial assistantship from the Institute. The student shall be
+allowed to carry out a part or all of her/his research in the parent
+Industry, Organization or National Laboratory, under the
+supervision of a Supervisor from IIT Jodhpur and a Co-Supervisor from
+the parent Industry, Organization or National Laboratory . The Co -
+Supervisor should have an earned Ph.D. Degree herself/himself in
+an area related to the proposed research work of the student.
+Students with Masters Degree earned from a University or an
+Institute abroad also are eligible to apply for the Ph.D. program.
+5 3.1 Eligibility for Admission
+The eligibility criteria prescribed in this section are the absolute
+3.1.1 Ph.D. Program in an Engineering discipline
+(1) Applicants with a Master s degree in Engineering, namely M.Tech,
+M.E., M.Sc. (Engineering) or MS with at least 60% marks or at least
+6.5/10 Cumulative Performance Index (CPI) or Cumulative Grade
+Point Average (CGPA). Such stud ents are required to have at least
+60% marks or 6.5/10 CPI or CGPA in Bachelor s degree.
+(2) Applicants with a Master s degree in Sciences with at least 70%
+marks or at least 7.0/10 CPI or CGPA with a valid GATE, CSIR,
+UGC or NBHM score card. Such students are required to have 70%
+marks or 7.0/10 CPI or CGPA in Bachelor s degree.
+(3) Applicants with a Bachelor s degree in Engineering with
+(a) a B.Tech, B.E. or B.Sc. (Engineering) degree with at least 80%
+marks or at least 8/10 CPI or CGPA and a valid GATE score,
+(b) a B.Tech. degree from any of the IITs with at least 8/10 CPI or
+CGPA with a valid GATE Score Card; and
+(4) Applicants with Master s degree in Engineering from a University
+or an Institute abroad with at least 60% marks, 3.0/4 CPI or CGPA, o r
+8.0/10 CPI or CGPA.
+3.1.2 Ph.D. Program in a Science discipline
+(1) Master s degree in Sciences with at least 60% marks or at least
+6.5/10 CPI or CGPA with a valid GATE, CSIR, UGC score card or
+equivalent. Such students are required to have at least 60 % marks
+or 6.5/10 CPI or CGPA in Bachelor s degree. Applicants holding
+Master s degree in Engineering also are eligible to apply for Ph.D.
+Programme in Sciences with at least 70% marks or 7/10 CPI or
+CGPA. Again, such applicants are required to have at lea st 70%
+marks or 7/10 CPI or CGPA in both the Bachelor s and Master s
+(2) Applicants holding only Bachelor s degree in Engineering with
+(i) a B.Tech, B.E. or B.Sc.(Engineering) degree with at least 80%
+marks or 8/10 CPI or CGPA and a valid GATE score ca rd, and
+6 (ii) a B.Tech. degree from any of the IITs with at least 8/10 CPI or
+CGPA or a valid GATE score card; and
+(3) Applicants with Master s degree in Sciences or Engineering from a
+University or an Institute abroad with at least 60% marks, 3.0/4
+CPI or CGP A, or 8.0/10 CPI or CGPA.
+3.1.3 Ph.D. Program in a Humanities and Social Science discipline
+(1) Master s degree in Humanities, Social Sciences, Sciences ,
+Engineering or allied areas with at least 55 % marks or 6.0/10 CPI
+or CGPA with a valid GATE, UGC or C SIR score .
+(2) Applicants holding only Bachelor s degree in Engineering with
+(a) a B.Tech, B.E. or B.Sc.(Engineering) degree with at least 80%
+marks or 8/10 CPI or CGPA and a valid GATE score card, and
+(b) a B.Tech. degree from any of the IITs with at lea st 8/10 CPI or
+CGPA or a valid GATE score card; and
+(3) Applicants with Master s degree in Humanities, Social Sciences,
+Sciences , Engineering or allied areas from a University or an
+Institute abroad with at least 60% marks, 3.0/4 CPI or CGPA, or
+8.0/10 CPI or CGPA.
+3.2 Selection Procedure
+The Academic Committee shortlists applicants with a proven
+academic record based on a cut -off of the GATE, CSIR or UGC score
+card or equivalent. The shortlisted applicants will be called for the
+written examination and/o r interview. Admission will be made based
+on technical performance at the written examination and/or interview.
+The Institute shall call the shortlisted candidates for an
+interview to a Selection Committee consisting of Faculty Members
+associated with th at particular Department . Based on the technical
+performance of the candidate in the interview in addition to her/his
+academic record, the Selection Committee will recommend to the
+Chairman, Senate, names of candidates found suitable for admission to
+the Ph.D. Program.
+All applicants, who are offered admission, will be informed
+within a week of the interview process . Candidates whose selection is
+7 approved by the Chairman, Senate, will be admitted to the Ph .D.
+Program at IIT Jodhpur after paying the presc ribed fee for the
+3.3 Supervisor Allocation
+(1) The Supervisor for Students admitted to the Ph.D. Program shall be
+identified during the interview. The Supervisor identification will
+be based on the research interest of the student and the availa bility
+of a faculty member willing to supervise such a work.
+(2) At the time of selection, one Supervisor will be identified. If the
+research work chosen requires more than one Supervisor, the
+student or Supervisor can make a request with justification a long
+with the consent of the proposed Supervisor for consideration by
+the Academic Committee. Appointment of Co -Supervisor should
+be completed within one and half years of admission to the Ph.D.
+Program. The Co -Supervisor can be from an Institute, Universi ty or
+Laboratory of National repute outside IIT Jodhpur. Such
+appointments shall be made by Chairman Senate, IIT Jodhpur.
+3.4 Reservation Policy
+The norms of reservation for different categories shall be
+adopted as laid down by the Ministry of Human Resou rce Development,
+Government of India .
+3.5 Non -degree Program
+A non -degree student is a student who is registered for a
+degree in a recognized Institute or a University in India or abroad, and
+who is officially sponsored by that Institute or University to complete a
+part of her/his academic programme at IIT Jodhpur. For that purpose,
+the non -degree student may carry out research, take courses for credit
+or otherwise, and/or may use other academic facilities. An official
+transcript of work done at the Insti tute along with grades obtained, if
+any, would be given to the non -degree student concerned for her/his
+use as she/he may deem appropriate. But, any credits earned at the
+Institute, by a non -degree student, cannot be applied for any degree
+program of IIT J odhpur at any time thereafter. A person can be
+admitted as a non -degree student on a duly sponsored application to
+the Coor dinator (Academics ), who will recommend admission on the
+8 advice of AC to the Chairman, Senate, for approval. A non -degree
+student may be admitted for a maximum period of one year. The
+strength of non -degree students in any programme should not be more
+than 25% of the program strength. A non -degree student will be
+required to pay all applicable fees depending upon the status,
+programme, and nationality. Such students will be governed by all
+rules, regulations and discipline applicable to regular students of the
+3.6 Cancellation of Admission
+Students admitted provisionally or otherwise to any
+programme shall submit copies of th eir mark sheets, provisional
+certificates, etc. of the qualifying examination and other documents by
+the last date specified for the purpose in the Academic Calendar. The
+Senate reserves the right to cancel the admission of any student, if
+(a) she/he fail s to submit the prescribed documents demonstrating
+her/his minimum academic qualification for admission, by the
+specified date or to meet other stipulated requirement(s); and
+(b) it is found (at any time later) that the student had provided some
+false inf ormation or suppressed relevant information while seeking
+3.7 Fulfilment of Admission Requirements
+Admission to Ph.D. programs requires that the applicant be
+eligible, go through the laid -down admission procedure, and pay the
+prescribed fees. All admissions to the Ph.D. programs should be
+formally approved by the Senate.
+Ph.D. students are required to undergo 600 and 700 level
+coursework at the Institute, offered either by the Department with
+which the Supervisor of the Ph.D. student is associated or by any
+other Department . The minimum number of 600 and 700 level
+courses is listed in Table 2 , which the Ph.D. student should meet to
+complete the coursework requirement. Ph.D. students holding an
+M.Tech. degree from IIT Jodhpur or any other IITs shall not credit
+the same or equivalent courses.
+9 Table 2: Minimum coursework requirements
+S. No. Ph.D. in With Minimum
+discipline M.Tech ., M .E. or M.Sc. (Engineering) in an
+Engineering discipline 4
+M.Sc. degree in a Science discipline 10
+B.Tech ., B.E. or B.Sc. (Engineering) in an
+Engineering discipline 10
+Social Science s
+discipline M.Sc., M.A . and M.Phil. degree in a Science,
+Humaniti es or Social Science s discipline 4
+(b) Comprehensive Examination
+After completing the coursework, the Ph.D. student is required
+to appear for Comprehensive Examination , which tests the breadth of
+knowledge and ability to do research. Comprehensive Examin ation
+will consist of a written and an oral examination; written
+examination will be based on op en-ended questions in proposed
+area of research to test the analytic thinking of the student (and not
+on any specific course work) , and oral examination will focus on
+background to start research in a particular field, and response of
+student in written examination . In special circumstances, a student
+may also be allowed to appear for Comprehensive Examination before
+completing the coursework, or after the propos ed timeline on the
+recommendation of the Supervisor and Academic Committee to the
+Chairman, Senate.
+The Comprehensive Examination shall be coordinated by the
+Supervisor(s) and at least three other Faculty Members from the
+Institute nominated by the Superv isor(s) and approved by the
+Coor dinator (Academics ). These t hree other faculty members should
+have had research experience in the proposed research area of the
+student or an allied research area.
+The student shall demonstrate satisfactory performance in th e
+Comprehensive Examination; else the student shall be given one
+more chance to appear for the Comprehensive Examination after a
+period of two months. If the student fails to perform satisfactorily
+10 in this attempt also, the registration of the student in t he Ph.D.
+program stands cancelled. Normally, the student is expected to
+successfully complete the Comprehensive Examination by the end
+of following semesters (from the date of Ph.D. regis tration) as
+indicated in Table 3 , failing which the registration of t he student in
+the Ph.D. program stands cancelled.
+Table 3: Time line for successful completion of comprehensive examination
+S. No. Ph.D. in With Comprehensive
+timeline (semesters)
+discipline M.Tech ., M.E. or M.Sc. (Engineering ) in
+an Engineering discipline 2
+M.Sc. degree in a Science discipline 4
+B.Tech ., B.E. or B.Sc. (Engineering) in
+an Engineering discipline 4
+Social Science s
+discipline M.Sc., M.A . and M.Phil. degree in a
+Science, Humaniti es or Social Science s
+(c) State -of-the-Art Seminar
+After the successful completion of the Comprehensive
+Examination , the student is required to give a public State -of-the-Art
+Seminar based on a thorough survey of literature in the proposed
+research area. This Seminar must be given in no case later than the
+end of third semester from the date of registration to the Ph.D.
+program. The State -of-the-Art Seminar given by the student shall
+be evaluated by the Supervisor(s); if the performance is fo und to be
+unsatisfactory, the student shall present the State -of-the-Art
+Seminar again after 2 months.
+(d) Open Seminar
+After successfully presenting the State -of-the-Art Seminar and
+undertaking research work, the student shall give a public Open
+Seminar at least two months before the submission of the Thesis. In
+this Open Seminar, the student shall present the main contention of
+research findings. It is intended to give the student any inputs or
+suggestions on the research carried out. Hence, there is no
+evaluation of this presentation made by the student.
+11 (e) Thesis Submission and Defense
+The student shall submit the Thesis within two months of the
+Open Seminar. Prior to submission of the Thesis, t he student
+should have preferably at least one paper eit her published or
+accepted for publication in a peer reviewed journal. Further,
+1. The Supervisor(s) shall propose a list of 10 examiners consisting
+of at least four Faculty Members from abroad and 4 Faculty
+Members from India, who have the expertise in the a rea in
+which the student undertook research. For selecting an
+examiner, following guidelines should be followed
+(a) The examiners shall have at least 6 years Post -Ph.D.
+(b) No two proposed examiners shall be from the same
+organization; and
+(c) The examiners can be Faculty Members or Scientists, of
+standing and repute.
+The list provided by the Ph.D. Thesis Supervisor is not
+binding on the Chairman, Senate. In special instances, the
+Chairman, Senate may identify examiners beyond in the list.
+2. The Chairman, Senate, IIT Jodhpur, shall select two examiners
+from the proposed list, of which at least one should be an
+examiner from outside India. In addition, the Supervisor(s)
+shall be the examiner(s) of the Thesis. The consent of these
+Faculty Members sh all be taken before sending the Thesis to
+3. The Indian examiners should attend in person the Thesis
+4. The examiners shall submit a written report on the Thesis
+within a period of two months from the date of receipt of the
+5. If both examin ers declare the Thesis as acceptable for award of
+Ph.D. degree, the Coordinator (Academics) shall request the
+Supervisor(s) to hold the Thesis Defense by the student.
+6. If any of the examiners rejects the Thesis for the award of the
+Ph.D. degree, the Coord inator (Academics) shall report the matter
+to the Chairman, Senate, IIT Jodhpur, for further consideration.
+The Chairman, Senate, IIT Jodhpur, will refer the Thesis to a
+third examiner under special circumstances, else the
+12 registration of the student shall stand cancelled in the Ph.D.
+7. If both examiners reject the Thesis for the award of the Ph.D.
+degree, no degree shall be awarded by the Institute, and the
+registration of the student shall stand cancelled in the Ph.D.
+8. If an examiner sugge sts revision of the Thesis, the student shall
+resubmit the Thesis after the revision within a prescribed time
+period specified by the Chairman, Senate, under the guidance
+of the Supervisor(s).
+9. When both examiners recommend the Thesis as accepted for
+the student to defend the Thesis, or after the resubmission of
+the Thesis after incorporating the suggestions/corrections
+given by the examiners, the student shall publicly present the
+Thesis and defend the contention of the Thesis.
+The committee consisting of Supervisor(s), the Examiner from
+within India and the three Faculty Members, who participated in the
+Comprehensive Examination of the student, shall evaluate the Thesis
+Defense of the Ph.D. student also. On their recommendation,
+Coordinator (Academics ) shall recommend to Senate, to consider the
+award of Ph.D. degree to the student.
+4. COURSEWORK REQUIREMENTS
+4.1 Academic Load
+Each course is given a weightage called credits . The number of
+credits of each course is based on the number of contact hours fo r
+lectures, tutorials, and practicals. A typical PG course is of 3 -4 credits.
+Credits will be assigned to the courses based on the following general
+(a) One credit for each lecture class of 50 minutes;
+(b) One credit for each tutorial class of 50 minutes; and
+(c) One credit for each laboratory or practical class of three hours.
+4.2 Registration
+Students are required to register each semester for the courses
+as per the programme, on the dates specified in the Academic
+Calendar. After the successfu l completion of the required courses, a
+13 Ph.D. student must continue to register in the following semester till
+she/he submits her/his Thesis.
+4.3 Registration Procedure
+A list of courses to be offered in the next semester will be
+announced online by the A C. Students shall pre -register for courses, in
+consultation with their respective Supervisor. The registration
+procedure involves
+(a) Online filling of the registration form with courses proposed to be
+credited in the semester;
+(b) Payment of fees and clea rance of outstanding dues (if any); and
+(c) Signing of the registra tion roll at the office of the Head of the
+Department hosting the Ph.D. Program.
+A fresh student joining the Institute, who is awaiting the final results of
+the qualifying examination, is allowed to register provisionally on
+submission of a certificate from her/his last Institute stating that
+she/he has appeared in the final examination of the qualifying degree.
+The student is required to submit documents of having passed the
+qualifying exa mination by the last date given in the Academic
+Calendar for the registration to be regularized.
+4.4 Late Registration
+If for any compelling reason, like illness, a student is unable to
+register on the day of registration, she/he can register before the l ate
+registration date of registration specified in the academic calendar. If a
+student seeks prior permission to register late on other valid grounds,
+Chairman, AC, may allow late registration. Beyond the date of late
+registration, no student will be allow ed to register. In special cases, the
+final decision will rest with the Senate.
+4.5 Adding and Dropping of Courses
+A student may add or drop course(s) within one week of the
+beginning of the semester or the last date(s) specified in the Academic
+Calendar. For this, the student must fill the appropriate form, get it
+endorsed by the Instructor of the course being added, and submit the
+same to the AC. No permission is required to drop a course.
+14 4.6 Withdrawing from a Course
+After the last date of add -drop, a student will have the option of
+withdrawing from a course. The last date of course withdrawal will be
+1 week after the first Mid -Term Exam. A student can withdraw from a
+course with the permission of the course Instructor, and subsequent
+approval from th e Academic Committee. A student cannot add a new
+course in lieu of the dropped course. The withdrawn course will be
+mentioned in the Student s g rade card with a letter grade Y .
+4.7 Cancellation of Registration
+Absence for a period of four or more weeks without prior
+permission during a semester shall result in automatic cancellation of
+the registration of a student from all the courses in that semester.
+5. TEACHING AND EVALUATION
+(a) Medium of Instruction
+The medium of instruction of all courses shall be English .
+(b) Approval of Courses
+Each course along with its weight in terms of credits is
+approved by the Senate. Only approved courses may be offered
+during any semester/summer -term.
+(c) List of Courses
+The list of courses to be offered i n a Ph.D. Program is finalized
+before the beginning of the semester, by the Department hosting
+(d) Conduct of Courses
+Each course shall be conducted by the Faculty Member with the
+assistance of required Teaching Assistants, as required. The F aculty
+Member is responsible for conducting the course: teaching in the
+class, holding the examinations, evaluating the performance of
+students, awarding the grades at the end of the semester, and
+submitting the grades to AC within 72 hours of the completi on of
+the final examination.
+(e) Teaching Assignments
+Prior to each semester, the Head of the Department hosting the
+Ph.D. Program shall request the Faculty Members of her/his
+15 Department to provide a list of courses being floated by faculty
+members in the next semester . The Head of the Department shall
+hold a meeting of all its faculty members to identify names of
+faculty members offering the courses of the next semester.
+(f) Auditing of Courses
+A student may audit any number of courses beyond the
+prescri bed minimum number of courses. Students wishing to audit
+a course shall seek the consent of the Instructor of the course being
+audited. The name of the audited course will appear in the Grade -
+Card of the student. No grade will be awarded to students auditi ng
+a course; the Instructor may require such students to submit all
+homeworks and term papers during the semester just like the
+students, who are crediting the course.
+5.2 Attendance Requirements
+A student should have full attendance in each course. Unles s
+the student takes leave of absence for valid reasons, the student has to
+attend every lecture, tutorial, or lab session. If a student is absent
+without any reason, the Instructor would send him a warning by
+email. If the student s attendance falls below 80% then the Instructor
+will notify the Academic Section and a letter will be sent to the
+student s parents. If the student still does not attend the classes
+regularly, then the Academic Committee can deregister the student
+from the course. Once a student is deregistered from a course, that
+course will not show up in the grade -card of the student.
+The performance of students in a course is evaluated in a
+continuous basis, using their interaction in the classroom, and
+performances in examina tions, the laboratory work (if any), and term -
+papers and projects.
+(a) Schedule of Examinations
+Each course shall have two mid -semester and one end -semester
+examinations; the mid -semester examinations shall be of 60 minutes
+duration and the final examinat ion of 180 minutes. The weightages of
+elements of evaluation in different courses are listed in Table 4.
+16 Table 4: Weightages of elements of evaluation in different courses
+Semester 1 Mid -
+Semester 2 End -
+Semester Homeworks Term
+Projects Laborator y
+1 25 25 50 - - -
+2 20 20 40 20 - -
+3 20 20 40 10 10 -
+5 20 20 40 - - 20
+(b) Make -up Examinations
+No make -up examinations are admissible for any reason. But, if
+a student fails to appear in any examination (two mid -semester and
+one end semester examinations) for a genuine reason (such as illness),
+she/he may make a request to AC for a make -up examination within
+two days of the date of the scheduled examination; a certificate shall be
+furnished from the Medical Officer of the Institu te Health Center,
+when illness being the reason for absence from the examination. In
+such cases, the marks obtained in the other elements of evaluation shall
+be prorated for the examination missed. When two examinations are
+missed in a course, the proratin g is done for only one examination; the
+marks in the other examination shall be taken as zero.
+5.4 Grading System
+(a) Grades and Grade Points
+At the end of the semester, a student is awarded a relative letter
+grade in each course by the Instructor offerin g the course
+considering the performance of the student during the semester
+with respect to those of the other students registered in the course.
+Five regular letter grades, namely A, B, C, D and F shall be
+awarded in each course for Ph.D. students. Each l etter grade is
+associated with a numerical equivalent on a 10 -point scale (called
+Grade Point ) shown in Table 5. The grades shall be submitted to the
+AC within 72 hours after the end semester examination.
+A student is awarded I grade in a course, when th e student
+fails to appear in the end -semester examination for a genuine
+reason. The student shall appear for a make -up examination within
+the first week of the next semester and seek to convert the I grade
+into one of the regular grades, at least one day before the last date
+17 of add drop in the next semester. Any I grade remaining after this
+date shall be converted automatically into an F grade.
+A Ph.D. student shall obtain at least a B Grade in the minimum
+number of courses that she/he needs to credit .
+(b) Change of Grade Already Awarded
+Normally, a letter grade once awarded shall not be changed .
+Only, in exceptional circumstances, the Senate may allow the required
+Table 5: Grades awarded to Ph.D. Students in each Post -Graduate course
+1 A 10 Very Good
+6 I - Incomplete
+7 S - Acceptable These grades are given for
+performance in the Ph.D. Thesis
+work. If a student earns three X
+grades for Ph.D. Thesis i n any three
+semesters, the Ph.D. Program of the
+student shall be terminated
+immediately thereafter. X - Unacceptable
+8 W - This grade indicates that a waiver granted for a course at IIT
+Jodhpur due to courses credited and/or work done at a
+institute or University elsewhere. All such courses and/or
+requirements will be deemed to carry zero credits for
+SGPA /CGPA calculations.
+9 Y - This grade indicates that the student has withdraw n from a
+course after the add -drop date with the permission of the
+Course Instructor, and with subsequent approval from the
+Academic Committee . All such courses and/or requirements
+will be deemed to carry zero credits for S GPA /CGPA
+5.5 Grade Point Averages
+The Semester Grade Point Average (SGPA) is a weighted ave rage
+of the grades earned by a student in all the courses credited by
+her/him and reflects her/his academic performance in the respective
+semester. If the grade points associated with the letter grade s earned
+by a student in N courses registered during a s emester are G1, G 2,
+18 GN, and the corresponding credits C1, C 2, C N, then the SGPA is given
+C C CGC GC GCSGPA ......
+The Cumulative Grade Point Average (CGPA) indicates the overall
+academic performance of a student in all the courses registered up to
+the latest completed semester. The CGPA is computed in a similar
+manner as the SGPA, considering all the courses in all semesters .
+5.6 Grade Card and Transcript
+A Grade Card shall be issued to each student at the end of each
+semester, and a Transcript at the end of the Ph.D. Program.
+6.1 Termination from Ph.D. Program
+A student may be terminated from the Ph.D. Program by the
+Chairman, Senate , if the student
+(a) is absent without authorized leave of absence for a major part of the
+semester and does not appear in the end -semester examination of
+the course s in which she/he is registered;
+(b) fails to report and register by the last date of registration without a
+bonafide reason;
+(c) violates the code of conduct, involves in ragging, etc. , as confirmed
+by the student Disciplinary Action Committee of the Institute; or
+(d) does not earn the prescribed minimum number of credits within a
+maximum of 2 years from the date of registration, including all
+leaves of absence.
+6.2 Appeal against Termina tion
+A student, who is terminated from the Ph.D. Program, can
+appeal for reconsideration to the Chairman, Senate. In the appeal, the
+student is expected to give reasons for poor academic performance
+and/or why the termination should be reconsidered. The Se nate shall
+take a final decision after considering all the available inputs. But, the
+Senate will not entertain any further appeal for review, unless
+substantial additional information is brought to its notice.
+Application for leave of absence sho uld be addressed to the
+Chairman, AC, and submitted with a medical certificate, if applicable.
+Usually, leave must not be availed of without prior approval of the AC.
+Applications for all kinds of leave must be submitted well in advance
+of the date of comm encement of the leave requested. Student s absence
+from the Institute without sanctioned leave will entail loss of financial
+assistantship for the period of absence and in extreme circumstances
+may also result in the termination from the respective Ph.D. Program.
+Ph.D. students are entitled for vacation leave up to a maximum
+of 15 days per Semester in addition to Public Holidays. Vacation leave
+not availed in a Semester will be carried over to the next Semester up
+to a maximum of 15 days. For bona fide reasons , the student may also
+be allowed casual leave for up to 7 days per semester.
+Ph.D. students may be granted medical leave, duly supported
+by a medical certificate, up to a maximum of 15 days per year. Such
+leave shall not entail any lo ss of financial assistantship. Female
+students are entitled for maternity leave, duly supported by a medical
+certificate, for a maximum of 3 months, once during the tenure of their
+assistantship or fellowship. Male students are also entitled for 15 days
+paternity leave, once during the tenure of their assistantship or
+fellowship . The leave should be duly supported by a medical
+Special Leave is admissible with the recommendation of
+Supervisor(s ) to attend Seminars and Conferences in India or ab road to
+present research papers.
+7.2 Temporary Withdrawal / Semester Leave
+Normally, a student is not allowed to withdraw from the Ph.D.
+program temporarily and is expected to complete the program without
+a break. But, for genuine reasons and/or in except ional circumstances,
+a student may be allowed to withdraw temporarily on leave of absence
+at the discretion of AC and/or Senate for an extended period. Such
+leave of absence(s) shall ordinarily not exceed two semesters with or
+20 without break during the enti re period of the Ph.D. Program. Absence
+for a period of four or more weeks in any semester will result in
+automatic withdrawal from all courses in that semester.
+In case of a prolonged leave of absence due to medical or other
+genuine reason s, the student or his parents must notify the Office of
+Academics , before proceeding on leave, or as soon as possible. A
+student who remains on authorized leave of absence due to ill health,
+is required to submit on return a certificate from a Registered Medical
+Practiti oner to the effect that he/she is sufficiently cured and is fit to
+resume his/her studies. Within a fortnight of the student joining back
+to the Institute after recovering from illness, he/she should get his
+treatment verified by the Medical Officer at the Health Center of IIT
+Jodhpur and get the treatment summary recorded on his/her medical
+booklet. The student will be allowed to register only when AC is fully
+satisfied of his/her state of health. The Academic Committee may advise
+the student to apply for a reduced course load or, if deemed necessary,
+dropping the semester.
+7.3 Permission to Proceed to other Institutions
+To help students to broaden their horizons and gain
+course/work experience, she/he may be permitted to proceed to other
+academic instit utes in India or abroad as a non -degree student. The
+following guidelines and procedures apply for this purpose:
+(1) Eligibility : A student may be allowed to spend up to one semester
+and/or one summer terms in any academic
+institute/university/industry of repute in India or abroad with
+prior permission of AC, if the student has:
+(a) Completed course work, comprehensive examination, and
+state -of-the-art-Seminar; and
+(b) No F grade in any course.
+(2) Procedure : The student shall make an application to AC through the
+Supervisor and Head of the Department hosting the program,
+giving details of the proposed visit, and shall submit a statement of
+purpose with sufficient information about the
+institute/university/industry where she/he has chosen to spend
+time as a non -degree student. The AC will examine the student s
+21 request. On the recommendation of the AC, the Senate may
+approve the proposal and grant permission, with leave of absence,
+to the student to proceed as a non -degree student to the selected
+(3) Transfer of Credits and Waiver in -lieu thereof : The student will be
+informed about the requirements she/he must fulfil to apply, on
+her/his return, for academic credit. On return, the student may
+apply for waiver with an official transcript of the g rades obtained
+by her/him at the selected institute as a non -degree student and
+other documents/ma terial that the concerned Department may
+require for evaluation. The AC will determine the equivalent
+courses and/or requirements for which the student may be given a
+waiver in her/his Ph.D. Program at IIT Jodhpur. Against each
+course or requirement for which a waiver is granted, the letter
+grade W shall appear on the grade card and transcript.
+On the recommendation of the AC, the Senate may allow a
+student waiver for a maximum credit equivalent to that earned in 2
+semesters in the respective branch in -lieu of her/his successful
+completion of the Ph.D. Program, elsewhere as a non -degree
+(4) Students selected by the Institute, using prescribed rules and
+procedures, to proceed on any Academic Exchange Program will
+be gove rned by the other Clauses of 8 .
+8. REQUIREMENTS FOR GRADUATION
+A student is deemed to have completed the requirements for
+graduation if she/he has met the requirements laid down in Clauses
+8.1 Minimum Duration of Residence
+Ph.D. students are required to complete at least the du ration of
+stay listed in Table 6 . Part -time students sponsored by R&D Institutes
+or Laboratories are required to stay on the campus until complet ion of
+coursework, comprehensive examination and state -of-the-art Seminar.
+22 Table 6: Minimum residential requirement
+S.No. Ph.D. in With Minimum Duration of
+Residence at IIT
+Jodhpur from Date of
+Registration to Date
+discipli ne M.Tech ., M.E. or M.Sc. (Engineering) in
+an Engineering discipline 4
+M.Sc. degree in a Science discipline 6
+B.Tech ., B.E. or B.Sc. (Engineering) in
+an Engineering discipline 6
+Social Science s
+discipline M.Sc., M.A . and M.Phil. degree in a
+Science, Humanities or Social Science s
+A Ph.D. student is said to have completed the course work
+requirements , if she/ he satisfies the criteria laid down in Sections 4
+and 5.4. The student shall be declared to have fulfilled the Academic
+requirements if she/he has completed the minimum number of courses
+8.3 Payment of Fees and Dues
+The student shall pay all admissible fee and dues, and seek a No
+DUE CERTIFICATE from the Institute, on compl etion of the Academic
+8.4 No Case of Disciplinary Action
+The student shall not have any case of indiscipline pending
+against her/him.
+8.5 Award of Degrees
+A student who completes all the graduation requi rements
+specified in Clauses 8.1 to 8 .4 is recommended by the Senate to the
+Board of Governors (BOG) for the award of the appropriate degree in
+the ensuing convocation. The degree can be awarded only after the
+BOG accords its approval.
+23 8.6 Withdrawal of Degree
+Under extremely exceptional cir cumstances, where gross
+violation of the graduation requirements is detected at a later stage, the
+Senate may recommend to the Board of Governors withdrawal of a
+degree already awarded to the student.
+9. FINANCIAL ASSISTANCE
+Full time Ph.D. students shal l be offered Teaching or Research
+Assistantships in return for 8 hours of work per week. Teaching
+Assistantship duties shall include assisting Faculty M embers in the
+conduct of courses ( e.g., grading homeworks and tutorials , but not
+examinations , quizzes a nd term papers ), and participating in tutor ial or
+laboratory classes in the presence of Faculty Members (but not without
+them ). Research Assistantship duties will include assisting faculty
+members in the conduct of research ( e.g., related to sponsored research
+projects, but not related to consultancy projects ).
+Notwithstanding anything contained in this document, the
+Senate of IIT Jodhpur reserves the right to modify/amend without
+notice, the curricula, procedures, requirements, and rules p ertaining to
+its Ph.D. Programs.
+Regulations for Ph.D. Programs

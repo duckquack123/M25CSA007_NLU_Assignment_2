@@ -1,0 +1,24 @@
+url: https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=e12c5ea7-867e-473b-bea1-a24e044a5082
+title: All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur
+depth: 2
+========================================
+
+All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur
+All Research Highlights
+Optical Field Design for Solar Thermal Applications
+The present investigation focusses on optical layout for the design of a medium to large scale (100 kW-15 MW) solar field based on Concentrated Solar Power (CSP) technology using Heliostats with Central Receiver System (CRS). The implementation of such solar field can be carried out where direct normal incidence (DNI) is moderate to high, thus reducing the dependence on fossil fuel.
+Among the various renewable energies, Solar Thermal Energy (STE) has attracted attention of researcher due to its direct applicability in various industries. In particular, Concentrated Solar Power (CSP) is widely implemented for this purpose as high temperature is reached due to high optical concentration, which in turn leads to higher efficiencies and thus making it as a preferred system.
+In this direction, heliostat field with a central tower provide an ideal candidate and thus designing a heliostat field layout is an essential component of it. Heliostat field comprises of large size mirrors that reflects the incident solar radiation onto a receiver as the Sun moves during the day as well as throughout the year. The challenging task is estimating the number of heliostats required to produce the desired thermal output. The parameters that affects heliostat field depend on geographical location (latitude and longitude), shadow associated with a given heliostat dimension, cosine losses, spacing between the two adjacent heliostats, blocking
+Article written by: V. Narayanan
+Image Credits: Sanjoy Chatterjee and Pedamallu VVNSP Raju
+Link to the present work: erjee+-+Paper.pdf
+Research Domain: Lasers and Optics
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 19 Mar 2026 - 04:38 PM

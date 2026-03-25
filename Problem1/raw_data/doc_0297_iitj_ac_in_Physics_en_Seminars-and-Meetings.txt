@@ -1,0 +1,28 @@
+url: https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=6b3e07aa-38f0-4616-ac67-1a05e2e6fdec
+title: Seminars and Meetings | Physics | IIT Jodhpur
+depth: 1
+========================================
+
+Seminars and Meetings | Physics | IIT Jodhpur
+Seminars and Meetings
+Diving Deep into Physics Seminar Series :"Quantum Superposition, Entanglement, and Applications" by Prof. Natthi Lal Sharma, Eastern Michigan University, USA on Feb 13, 2025, from 5:00 PM IST
+Title of the Talk:
+Quantum Superposition, Entanglement, and Applications
+Speaker: Prof. Natthi Lal Sharma,
+Eastern Michigan University, USA
+When? Feb 13, 2025
+, from 5:00 p.m. IST
+D. S. Kothari Seminar Hall, Department of Physics.
+Quantum superposition of single and many particle states is the heart and soul of quantum mechanics. First, examples of superposition of single particle quantum states, from chemistry to particle physics, along with some visual analogs, will be presented. Superposition of product states of two or more particles into a single non-separable entity is called entanglement. In a two particle entangled state the individuality of each is lost and measuring the state of one particle instantaneously fixes the state of the other irrespective of separation between them --- Nonlocality. This makes quantum computing super fast and quantum teleportation possible without violating no-cloning theorem. Any attempt by a spy agency to intercept a quantum key in a cryptography protocol becomes detectable by a Bell test. Atom Computing's 1180 qubit computer, quantum-encrypted video conference over Micius satellite between China and Austria in 2018, and open-air quantum teleportation over 143 km in the Canary Islands are latest achievements based on entanglement. After first quantum revolution brought by transistors and lasers, we are entering a second quantum revolution by manipulating systems of entangled particles. Storage of information in quantum bits (qubits), its processing, transfer, and sensing has created a new field of quantum information science.
+About the Speaker:
+Prof. Natthi Lal Sharma is presently associated with Eastern Michigan University as an emeritus professor. His research interests include many-body Green's functions, the quantum Langevin equation, electrodynamics, optics, quantum entanglement and Bell inequality, among others.
+All are welcome!
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 27 Feb 2026 - 02:26 PM

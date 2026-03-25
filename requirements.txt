@@ -1,0 +1,9 @@
+spacy
+nltk
+gensim
+datasketch
+wordcloud
+matplotlib
+scikit-learn
+numpy
+torch

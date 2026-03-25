@@ -1,0 +1,103 @@
+url: https://iitj.ac.in/Electrical-Engineering/en/Research-Overview
+title: Research Overview | Electrical Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Research Overview | Electrical Engineering | IIT Jodhpur
+Research Overview
+The research areas pursued by faculty members of the Department of Electrical Engineering can be broadly categorized as follows. Please click on the respective groups to know about their research and associated labs.
+If you wish to browse Research Areas mapped to the Technology Tracks of the Department, please click on the respective Tracks below to view the research themes, associated research groups, labs and faculty members for each technology track.
+Additionally, faculty members from the Department are engaged in challenging interdisciplinary research in collaboration with faculty members across various departments and discplines through the Institute's Interdisciplinary Research Platforms (IDRPs).
+Technology Tracks
+(1) 5G & Beyond Communication
+Rate, reliability and complexity limits in MIMO communications
+Performance improvement and security of Optical Wireless Communications
+Millimeterwave antennas and circuits for 5G application
+Associated Research Groups
+Associated Laboratories
+Associated Faculty Members
+Arun Kumar Singh
+Soumava Mukherjee
+(2) Signal Processing & Interpretation
+Sociodigital Reality (AR, VR, Haptics, Speech and Language Analysis)
+Visual Computing (Computer Vision, Visual Forensics, Machine Learning)
+Signal Processing for IoT (Predictive Maintenance, Digital Twin, Communication)
+Associated Research Groups
+Associated Laboratories
+Associated Faculty Members
+Anil Kumar Tiwari
+Rajlaxmi Chouhan
+Sandeep Kumar Yadav
+(3) Cyber-Physical Systems
+Multi-agent system
+Mechatronics & cyber-physical systems
+Robust & optimal control
+Adaptive control & robotics
+Electric vehicles
+Associated Research Groups
+Associated Laboratories
+Associated Faculty Members
+Abdul Gafoor Shaik
+Niladri Sekhar Tripathy
+(4) Nanoelectronics & Integrated Circuits
+Multi-agent system
+Oxide metal semiconductors by sputtering for sensor applications
+2D materials: MoS2, AlGaN/GaN HEMTs
+Bandgap engineering and surface studies of semiconductors
+Micro and Nano device fabrications
+Organic and Flexible Electronics: Field-effect transistors (FETs), Circuits, and Sensors
+Electrical characterization, Parameter extraction, Interface characterization
+Device Simulation: New and Unconventional Devices
+Compact Modeling for Circuit Simulations
+CMOS image sensors
+Analog and mixed-signal circuits
+Associated Research Groups
+Associated Laboratories
+Associated Faculty Members
+Bhupendra Singh Reniwal
+Jai Narayan Tripathi
+Kamaljit Rangraa
+Saakshi Dhanekar
+Shree Prakash Tiwari
+Control of micro-grid & uncertain system
+Demand-side management
+Microgrid Control and dynamics of distributed generation
+Condition monitoring
+Associated Research Groups
+Associated Laboratories
+Associated Faculty Members
+Abdul Gafoor Shaik
+(6) Embedded Computing & SoC
+High-speed VLSI Systems and EDA tools
+Signal Integrity
+Neuromorphic Computing
+Associated Research Groups
+Associated Laboratories
+Associated Faculty Members
+Arpit Khandelwal
+Jai Narayan Tripathi
+(7) Artificial Intelligence of Things (AIoT)
+Communication protocols for RF energy harvesting-based systems
+Signal Processing for IoT (Predictive Maintenance, Digital Twin, Communication)
+Visual Computing (Computer Vision, Visual Forensics, Machine Learning)
+Associated Research Groups
+Associated Laboratories
+Associated Faculty Members
+Anil Kumar Tiwari
+Arpit Khandelwal
+Arun Kumar Singh
+Debasis Das (CSE)
+Jai Narayan Tripathi
+Saakshi Dhanekar
+Sandeep Kumar Yadav
+Shree Prakash Tiwari
+Soumava Mukherjee
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 13 Mar 2026 - 03:28 PM

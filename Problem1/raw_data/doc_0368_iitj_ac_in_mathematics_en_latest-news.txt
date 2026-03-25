@@ -1,0 +1,49 @@
+url: https://iitj.ac.in/mathematics/en/latest-news?dsl=2&dslID=93b7a67b-0e3e-40cf-a916-61bb99b82ea7
+title: Latest News | Mathematics | IIT Jodhpur
+depth: 1
+========================================
+
+Latest News | Mathematics | IIT Jodhpur
+Workshop on LEAN
+The Department of Mathematics is organizing an introductory workshop on the
+Lean proof assistant
+from 26th to 28th February. The workshop will introduce the participants to theorem proving in Lean, using the Mathlib library, and building definitions in Lean.
+No prior experience with Lean is needed
+: all faculty, PhD scholars and Masters students in the department are welcome! The workshop will be led by
+Dr. T. V. H. Prathamesh
+, Assistant Professor of Computer Science, Krea University.
+To get a feel for theorem proving in Lean, we will organize mini-seminars from 23rd to 25th February where we will play the
+Natural Number Game
+, and get started with
+Please fill in this Google Form to indicate your interest in participating in the workshop:
+2MhdGHZWcHyUEqXN7
+Below is a brief outline of the topics that will be covered during the workshop:
+Thursday Afternoon (26th Feb) in LHC-II (103) from 4:00 PM to 7:00 PM
+Title: Introducing Lean; What it is, Why it matters, and How it works?
+Duration: 1 hour
+Title: Introduction to Proving in Lean
+Duration: 2 hours
+Friday Morning (27th Feb) in ME115 from 9:15 AM to 1:00 PM
+Title: Proving in Lean 1: Basic Tactics
+Duration: 3 hours
+Title: Navigating Lean: Mathlib Library, Projects in Lean, and Other Documentation.
+Duration: 30 mins (towards the later half or the end of the session)
+Friday Afternoon (27th Feb) in LHC-II (103) from 2:30 PM to 6:00 PM
+Title: Proving in Lean 2: Intermediate Tactics
+Duration: 3 hours
+Title: Demystifying Lean: A Type Theory Primer for Tactics and Blackboxes.
+Duration: 30 minutes
+Saturday Morning (28th Feb) in LHC-II (103) from 9:30 PM to 1:00 PM:
+Title: Definitions, Structures and Programs in Lean
+Duration: 3 hours
+Title: What Next? Open Projects and Future Directions, Teaching with Lean
+Duration: 30 minutes"
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 12:36 PM

@@ -1,0 +1,18 @@
+url: https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=46ebd116-a312-4649-af46-ba507a6f9b33
+title: Research Highlights | Chemistry | IIT Jodhpur
+depth: 1
+========================================
+
+Research Highlights | Chemistry | IIT Jodhpur
+Research Highlights
+Agarwala, P., Pal, A., Hazra, M. K., Sasmal, D. K., Differential Mg2+ Deposition on DNA Holliday Junctions Dictates the Rate and Stability of Conformational Exchange (Just accepted in Nanoscale), 2024
+DNA Holliday junctions (HJs) are crucial intermediates in genetic recombination and genome repair processes, characterized by a dynamic nature and transitioning among multiple conformations on the timescale ranging from sub-milliseconds to seconds. Although the influence of ions on HJ dynamics has been extensively studied, precise quantification of the thermodynamic feasibility of transitions and detailed kinetic cooperativity remain unexplored. Understanding the heterogeneity of stochastic gene recombination using ensemble-averaged experimental techniques is extremely difficult because of its lack of ability to differentiate dynamics and function in a high spatiotemporal resolution. Herein, we developed a new technique that combines single-molecule fluorescence resonance energy transfer (smFRET) experiments and molecular simulation to investigate the kinetic choreography and preferential stability of HJ conformations under ionic conditions that closely mimic the physiological environment relevant to cellular biology. Our findings predict the prevalence of three distinct conformational macrostates in HJ dynamics. At low ion concentrations, HJs transition rapidly among three thermodynamically stable conformational macrostates. However, in a physiological ionic environment, the open conformation becomes predominant. Using a kinetic network model based on the multi-order time correlation function (TCF), we delineated thermodynamic parameters that govern heterogeneous dynamics as a function of divalent ion concentration. Stabilization of conformations due to an ionic environment and activation barriers concertedly affect transition rates between open and closed conformations. Furthermore, we observed a significant enhancement of Mg2+ condensation in the central region of HJs rather than branch ends, leading to a plausible conclusion that the differential stability of conformational states may be governed by the junction region of HJs rather than duplex branches. This study gives a new insight into the complex interplay between the ionic environment and HJ dynamics, offering a comprehensive understanding of their behavior under conditions relevant to cellular biology and roles in key biological processes for creating a heterogeneous nature of life.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 12 Mar 2026 - 03:42 PM

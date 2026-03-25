@@ -1,0 +1,261 @@
+url: https://iitj.ac.in/computer-science-engineering/en/phd-students
+title: PhD Students | Computer Science & Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+PhD Students | Computer Science & Engineering | IIT Jodhpur
+Current Students
+M.Tech. (Computer Science & Engineering): Rajiv Gandhi Praudyogiki VIshwavidhyalya, Bhopal, 2018
+Internet of Things , Blockchain
+M.E. (Computer Science & Engineering): MBM Engineering College, Jodhpur, 2019
+Chiranjoy Chattopadhyay
+Application of AR/VR
+Abhirama Subramanyam
+B.Tech. (Computer Engineering): Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, 2018
+Language Guided Visual Understanding
+Abhishek Bhandari
+M.Tech. (Information Technology): University of Hyderabad, 2019
+Abhishek Bhandari
+Document Image Analysis
+M.Tech. (Communication Theory): IIT, Madras, 2007
+Somitra K. Sanadhya
+M.Tech. (Communication and Information Technology): NIT Srinagar, 2019
+Santanu Chaudhury
+Machine Learning, Medical Image Analysis
+Akanksha Dwivedi
+M.Tech. (Mechatronics): CAS, Lucknow, 2022
+Dip Sankar Banerjee
+High Performance Computer, Data Analytics
+M.Tech. (Computer Science & Engineering): IIT(ISM), Dhanbad, 2020
+Suchetana Chakraborty
+Distributed Systems, Cloud Computing
+Akkshita Trivedi
+M.Tech. (Information and Communication): University of Rajasthan, 2018
+Santanu Chaudhury
+Document Image Analysis
+B.Tech. (Computer Science & Engineering): Dr. A.P.J. Abdul Kalam Technical University, Lucknow, 2023
+M.Tech. (Computer Science and Engineering): USIT, GGS Indraprastha University Delhi, 2013
+Chiranjoy Chattopadhyay
+Visual Reasoning, Serious Game Studies
+M.Tech. (Computer Science & Engineering): NIT, Durgapur, 2020
+Suchetana Chakraborty
+IoT and Wireless Networks
+Anggy Eka Pratiwi
+M.E. (Information Technology): Gujarat Technological University, 2018
+Network Science, Social Network Analysis
+M.E. (Computer Science and Engineering): IPS Academy, Indore / RGPV, Bhopal, 2014
+Routing in Vehicular Ad-hoc Networks
+B.Tech. (Computer Science & Engineering): Indraprastha University, Delhi, 2019
+Computer vision & Machine Learning
+M.Tech. (Pattern Recognition and Image Processing): Indian Institute of Technology Jodhpur, 2015
+Machine Learning
+B.Tech. (Computer Science & Engineering): Shri G.S Institute of Technology and Science, Indore, 2022
+Somitra Sanadhya
+Quantum Computation
+B.Tech. (Computer Science & Engineering): Govt. Mahila Engineering College, Ajmer, 2018
+Autism Diagnosis Using Multi Modal Data
+Avadhut Eknath Kabadi
+B.E (Computer Engineering): RSCOE, Pune University, 2022
+Deep-learning, Computer Vision
+M.Tech. (Computer Science & Engineering): Kurukshetra University, Kurukshetra, 2016
+Machine Learning, Medical Image Analysis
+M.Tech. (Computer Science and Engineering): Centre for Development of Advance Computing, Noida, U.P., 2019
+Urban Informatics
+B.Tech. (Computer Science & Engineering): IEC College of Engineering and Technology, 2021
+B.Tech. (Computer Science & Engineering): Bharati Vidyapeeth's College of Engineering, New Delhi, 2021
+Deep Learning, Computer Vision
+M.Tech. (Computer Science & Engineering): NIT, Jalandhar, 2015
+Machine Learning & Computer Vision
+M.Tech. (Wireless Communication and Networks): Gautam Buddha University Greater Noida, 2013
+Venkata Ramana Badarla
+Mobile Cloud Computing
+Divya Srivastava
+M.Tech. (Advanced Computing): MANIT Bhopal, 2015
+Document Image Analysis
+Dixit Dutt Bohra
+M.Tech. (Digital Communication): JECRC Jodhpur 2014
+Somitra Sanadhya
+Dip Sankar Banerjee
+Hardware Security, Cryptography
+B.Tech. (Computer Science & Engineering): Delhi Technical Campus, Delhi, 2020
+Suchetana Chakraborty
+, Sandip Chakraborty
+Mobile and Pervasive Computing
+M.Tech. (Mobile Computing): NIT, Hamirpur, 2017
+Security and authentication in IoV
+B.Tech. (Computer Science & Engineering): Gurukul Kangri University, Haridwar, 2018
+Life Long Deep Learning
+M.Tech. (Information Security and Management): Indira Gandhi Delhi Technical University, Delhi, 2016
+IoT Data Security using Blockchain and ML Methods
+M.Tech. (Computer Science and Engineering): Indian Institute of Information Technology Vadodara, 2019
+Medical Image Analysis
+M.Tech. (Computer Science & Engineering): Indian Institute of Technology Patna, 2016
+Santanu Chaudhury
+Intelligent Transportation System
+Kamal Kumar Gola
+M.Tech. (Computer Science & Engineering): Uttarakhand Technical University, Dehradun, 2015
+Suchetana Chakraborty
+Underwater Acoustic Sensor Networks
+B.Tech. (Computer Science & Engineering): College of Engineering, Roorkee, 2019
+M.Tech. (Computer Science and Technology (Cyber Security): Central University of Punjab, Bathinda, 2019
+Cognitive Neuro-Science
+Kondagurle Sukitha
+B.Tech. (Computer Science & Engineering): JNTUH University College of Engineering Hyderabad, 2022
+Suchetana Chakraborty
+CPS Security, IoT and Trust Computing
+M.Tech. (Computer Science & Engineering): PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur, 2019
+Dip Sankar Banerjee
+Computational Neuroscience, NeuroAI
+Mahapara Khurshid
+M.Tech. (Computer Science and Technology): Central University of Jammu, Jammu, 2018
+Machine Learning, Deep Learning
+Mayank Kumar Kundalwal
+M.Tech. (Computer Science & Engineering): NIT Patna, 2018
+Causal Inference
+B.Tech. (Electronics and Communication Engineering): Uttar Pradesh Technical University, Lucknow, 2010
+Computer Vision, Artificial Intelligence
+M.Tech. (Computer Science & Engineering): IIT, Jodhpur, 2021
+Computer vision, Deep learning, Machine learning, Biometrics
+M.Tech. (Information Technology) : ABV Indian Institute of Information Technology and Management, Gwalior, 2018
+Chiranjoy Chattopadhyay
+Aerial Image analysis, Object Detection, Explainable AI, Multimodality Analysis
+B.Tech. (Information Technology): MITS, Gwalior, 2017
+Graph representation learning for downstream vision task
+M.Tech. (Computer Science & Engineering): UIET Kurukshetra, 2023
+Machine Learning, Deep-learning, Biometrics
+B.Tech. (Computer Science & Engineering): Indraprastha University, Delhi, 2017
+Chiranjoy Chattopadhyay
+, Mayurakshi Chaudhuri
+Gender Studies Using Multi Modal Data
+B.Tech. (Computer Science & Engineering): Lovely Professional University, 2021
+Machine Learnings
+M.Tech. (Information Systems Security Engineering): NIT, Jamshedpur, 2021
+Suchetana Chakraborty
+Mobile and Pervasive Computing, IoT
+Prajjwal Nijhara
+B.Tech. (Electrical Engineering): Aligarh Muslim University, 2022
+Dip Sankar Banerjee
+High Performance Computer, Data Analytics
+M.Tech. (Computer Science & Engineering): IIT Jodhpur, 2023
+Dip Sankar Banerjee
+High Performance Computer, Data Analytics
+B.Tech. (Computer Science & Engineering): G.H. Raisoni College of Engineering, Nagpur, 2018
+On Generalized HML Social Network
+B.Tech. (Information Technology & Mathematical Innovations): CIC, University of Delhi, 2020
+Somitra K. Sanadhya
+Digital Forensics
+Ravi Kumar Saxena
+B.Tech. (Computer Science & Engineering): NIT Bhopal, 2012
+Machine Learning, Deep-learning, Biometrics
+M.Tech. (Electronics Product Design & Technology): C-DAC Mohali, 2013
+, Anil Kumar Tiwari
+Context Based Learning
+B.Tech. (Computer Science & Engineering): SLIET, Punjab, 2018
+Biometrics, ML, Pattern Recognition
+B.Tech. (Computer Engineering): Ajeenkya DY Patil University, Pune, 2023
+Machine Learning, Computer Vision
+B.Tech. (Electronics and Communication Engineering): NIT Rourkela, 2019
+Dip Sankar Banerjee
+Computer Architecture, Low Power VLSI, Approximate Computing and Reconfigurable Systems
+B.Tech. (Electronics and Communication Engineering): Visvesvaraya Technological University Karnataka, 2008
+Causal Inference
+M.E. (Computer Science and Engineering): Devi Ahilya Vishvavidyalaya Indore M.P., 2013
+Chiranjoy Chattopadhyay
+Machine Learning, Deep Learning
+M.Tech. (Computer Science): IIT Madras, 2000
+Artificial intelligence/Machine Learning
+M.Tech. (Computer Science & Engineering): IIT, Madras, 2007
+Somitra K. Sanadhya
+M.Tech. (Artificial Intelligence): IIT Jodhpur, 2023
+Deep-learning, Computer Vision
+Satish Kumar Ray
+M.Tech. (Computer Science & Engineering): C.S.V.T.U. Bhilai, 2013
+Software Architecture
+Shankar Kumar Jha
+B.Tech. (Information Technology): West Bengal University of Technology, 2011
+Deep Learning, Computer Vision
+Shraban K Chatterjee
+B.Tech. (Computer Science & Engineering): University of Calcutta, Kolkata, 2018
+On Generalized HML Social Network
+Shreyansh Sharma
+M.Tech. (Information Architecture & Software Engineering): School of Computer Science & IT, DAVV, Indore, 2019
+Santanu Chaudhury
+Blockchain, Biometric Security
+M.E. (Software Engineering): Thapar Institute of Engineering and Technology, Patiala, 2022
+Few-Shot learning, Continual Learning
+B.Tech. (Computer Science & Engineering): Dr. A.P.J. Abdul Kalam Technical University, Noida, 2015
+Event Detection in Dynamic Social Networks
+M.Tech. (Computer Science and Engineering): IIT (ISM) Dhanbad, 2020
+Computer Vision, Deep learning, Document Image analysis
+Sujay Kumar Ingle
+B.Tech. (Computer Science & Engineering): MIT ADT university, 2022
+Deep-learaning, Computer Vision
+M.Sc. (Computer Science), University of Delhi, 2019
+M.Tech. (Electronics and Communication Engineering), Shri Mata Vaishno Devi University, Katra, 2020
+Suchetana Chakraborty
+Blockchain Technology, IoT, Edge Computing
+M.Tech. (Computer Science & Engineering), College of Engineering, Pune, 2021
+Social Network Analysis, Natural Language Processing
+Violet Deepa Sera
+M.Sc. (Information Technology), Sikkim Manipal University, 2012
+Computing in Healthcare
+B.Tech. (Information Technology), NIT Srinagar, 2018
+Deep Learning, Computer Vision
+M.Sc. (Computer Science & Engineering), Delhi University, Delhi, 2019
+Computer Vision, NLP
+Graduated Students
+Current Position
+Lokendra Vishwakarma
+Blockchain, Smart cities
+Cutting Edge Consensus Algorithms in Scalable and Interoperable Blockchain
+Assistant Professor, Thapar Institute of Engineering and Technology, Patiala
+, Anil Kumar Tiwari
+Context Based Learning
+Recognition of Offline Handwritten Mathematical Expression
+Venkata Ramana Badarla
+Wireless Sensor Networks, Internet of Things
+A Multi Objective Beacon Placement Strategy for 3D Point Cloud Representation of Indoor Environments
+Research Associate, SPIN Laboratory, Dept. of Electrical Engineering, Indian Institute of Technology Kanpur, Uttar Pradesh
+Chiranjoy Chattopadhyay, Gaurav Bhatnagar
+Computer Vision and NLP
+Fine Grained feature representation using computer vision techniques for understanding indoor spaces
+Postdoctoral Fellow, Robert Bosch Centre for Data Science and AI
+Assessment of Human Action in Videos
+Senior Applied Scientist, Perfios Software Solutions Pvt. Ltd.
+Pratibha Choudhary
+Aritra Banik, Venkatesh Raman
+Parameterized Complexity and Graph Theory
+Parameterized Complexity of Tracking Paths
+Postdoctoral fellow, Department of Theoretical Computer Science, Faculty of Information Technology, Czech Technical University, Prague
+Chiranjoy Chattopadhyay
+Image Retrieval and Analysis
+Content Based Retrieval in images and sketches
+Senior Biostatistician, Princess Margaret Cancer Centre, University Health Network
+Document Layout Analysis
+Some Methods for Annotation Localization and Writer Identification for Processing Annotated Documents
+Assistant Professor, Information & Communication Technology, Adani Institute of Infrastructure Engineering
+Venkata Ramana Badarla
+Data Center Networking
+Utilizing Topology Structures for Delay Sensitive Traffic in Data Center Network
+Assistant Professor, Department of Computer Science and Engineering, Jaypee University of Information Technology
+Pradumn Kumar Pandey
+Bibhas Adhikari , Mainak Mazumdar and Venkata Ramana Badarla
+Parametric network models, network reconstruction and diffusion protocols for networks
+Assistant professor, Department of Computer Science and Engineering, IIT Roorkee
+Aritra Banik & Subhashish Banerjee
+Parameterized complexity, Approximation Algorithms, Computational Geometry
+Conflicts in Geometry
+Postdoctoral Fellow, University of Cologne
+Venkata Ramana Badarla
+Interdisciplinary - combining ideas from machine learning, psychology, biology and sensor networks
+Improving Security in Wireless Sensor Networks Through Bio-Inspired Approaches
+Assistant Professor, Department of Computer Science, University of Texas, SA, USA
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 01:10 PM

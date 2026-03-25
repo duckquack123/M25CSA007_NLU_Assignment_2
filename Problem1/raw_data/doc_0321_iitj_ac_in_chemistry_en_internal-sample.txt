@@ -1,0 +1,48 @@
+url: https://iitj.ac.in/chemistry/en/internal-sample
+title: Booking for Internal Sample | Chemistry | IIT Jodhpur
+depth: 1
+========================================
+
+Booking for Internal Sample | Chemistry | IIT Jodhpur
+Booking for Internal Sample
+Online Equipment Booking Portal
+Rules for sample submission and data collection:
+Students are strictly requested to submit your own samples and collect respective data by yourself only.
+Pen drive is not allowed in any equipment under CDIF (Chemistry Department Instrumentation Facility) facility.
+Student must come with his/her CD for collecting data.
+Students are requested to collect data within 7 days after performing samples. After that if any loss of data happens CASE staff will not take the responsibility.
+Rules for entering and working in CDIF facility:
+Signing in register before entering in CDIF is mandatory.
+Users are requested to do proper entry in log book Register & QR Code Scan for the respective equipment after completion of the measurements. Strict action will be taken if it is found that log book entry is not maintained properly.
+Users must have to submit requisition for working after 5:30 pm on weekdays as well as on holidays and weekends. (
+Requisition for working in beyond office hours
+Working alone beyond office hours is strictly prohibited. Two students (One should be Senior PhD student) are requested to work together on these times for safety purposes.
+Rules for arrangement of consumables for measurements:
+Consumables for measurements will be provided by CDIF if the expenditure is less the 10 thousands per year. Else consumables have to be arranged by users themselves.
+Rules for online booking of CDIF facility:
+Every student has to do a one-time registration of their roll number for utilizing the CDIF facility. In the case of project staff, registration can be done through their personal file number.
+Each student/project staff can book a slot for utilizing CDIF equipment through his or her ERP account.
+Each student is allowed to book only one slot per week for each equipment.
+Every Monday 10 AM onwards students are allowed to book a slot for the next 15 days through online portal
+Slot time for each equipment is displayed on CDIF portal with the equipment; students are requested to strictly adhere to the allotted time in order to make it convenient for other users.
+The cancellation of the slot is highly undesirable.
+If you have to cancel the slot due to an inevitable reason, inform the same to CDIF Faculty in charge in advance, at least one day before to make it convenient for others.
+Users are not allowed to cancel more than two slots in a month. If they do so, that particular user will be debarred for using the CDIF facility for the next three months.
+Rules for arranging demonstration for course work at CDIF facility:
+Please inform CDIF Faculty in charge the date of the demonstration at least one week prior.
+Please book online slot for the demonstration.
+Faculty member must be present there during the demonstration
+Guidelines to use CDIF facility located at other buildings for internal users
+For using CDIF facility extended to the other departments of the institute, users are requested to send an email to the respective faculty in charge of the equipment cc to CDIF Office. After getting consent from In-charge, online slot (
+Rules for online booking of CDIF facility is same as stated above)
+has to be booked. Measurements should be done in that fixed time slot. The consumable required for the measurements should be arranged by users themselves.
+Internal User Sample Analysis Charges
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 12 Mar 2026 - 03:42 PM

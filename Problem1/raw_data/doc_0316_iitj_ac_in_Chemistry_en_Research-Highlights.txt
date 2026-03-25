@@ -1,0 +1,18 @@
+url: https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=0c0e3376-5057-4848-940c-68e16aa25d1e
+title: Research Highlights | Chemistry | IIT Jodhpur
+depth: 1
+========================================
+
+Research Highlights | Chemistry | IIT Jodhpur
+Research Highlights
+Light Harvesting Complex II Resists Non-Bilayer Lipid-Induced Polymorphism in Plant Thylakoid Membranes via Lipid Redistribution, Avinash Garg and Ananya Debnath, The Journal of Physical Chemistry Letters. 2024.
+The plant thylakoid membrane hosting the light-harvesting complex (LHCII) is the site of oxygenic photosynthesis. Contrary to the earlier consensus of a protein-driven single lamellar phase of the thylakoid, despite containing 40% non-bilayer-forming lipids, recent experiments confirm the polymorphic state of the functional thylakoid. What, then, is the origin of this polymorphism and what factors control it? The current Letter addresses the question using a total of 617.8 s long coarse-grained simulations of thylakoids with and without LHCII and varying concentrations of non-bilayer lipids using Martini-2.2 and -3.0 at 323 K. The LHCII redistributes the non-bilayer lipids into its annular region, increases the bending modulus and the stalk formation free energy, reduces the nonzero mean curvature propensity, and resists the polymorphism these lipids promote. The thermodynamic trade-off between non-bilayer lipids and LHCII dictates the degree of nanoscopic curvature leading to polymorphism crucial for non-photochemical quenching under excess light conditions.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 12 Mar 2026 - 03:42 PM

@@ -1,0 +1,108 @@
+url: https://iitj.ac.in/chemistry/en/completed-projects
+title: Completed Projects | Chemistry | IIT Jodhpur
+depth: 1
+========================================
+
+Completed Projects | Chemistry | IIT Jodhpur
+Completed Projects
+Faculty Members of the Department have completed the following Sponsored Research Projects:
+Towards The Development Of Low-Cost Water Quality Sensors (Phase-II)
+Rakesh Kumar Sharma, PI
+Slow relaxations of chemically confined water near membranes
+Ananya Debnath, PI
+The slow relaxations are found to be universal irrespective of the nature of chemical confinement as the underlying source is dynamical heterogeneities at physiological temperature.
+Srivastava, A., & Debnath, A. (2018). Hydration dynamics of a lipid membrane: Hydrogen bond networks and lipid-lipid associations. The Journal of Chemical Physics, 148(9), 094901. ISSN: 0021-9606.
+Srivastava, A., Malik, S., & Debnath, A. (2019). Heterogeneity in structure and dynamics of water near bilayers using TIP3P and TIP4P /2005 water models. Chemical Physics, 525, 110396. ISSN: 0301-0104.
+Srivastava, A., Karmakar, S., & Debnath, A. (2019). Quantification of spatio-temporal scales of dynamical heterogeneity of water near lipid membranes above supercooling. Soft Matter, 15(47), 9805-9815. ISSN: 1744-6848.
+3. Phase transition of surfactants
+Science and Engineering Research Board, DST, Government of India
+Ananya Debnath,PI 2014-16
+Surfactants are amphilic molecules which can self-assemble into different macro-aggregates with huge applications in cosmetic industry, oil recovery process, etc. Designing a phase for the self-assembled surfactants is important to target a functionality relevant for industry. We find that water concentration can be a controlling parameter for a micelle to lamellar phase transition using all-atom molecular dynamics (AA-MD) simulations. Using multi-scale modeling we find that trans-bilayer compositional asymmetry can induce a interdigitated gel to ripple phase transition at the same temperature and surfactant to cosurfactant ratio. These phases are particularly important for formulating hair conditioners, hair gels, etc.
+Lunkad, R., Srivastava, A., & Debnath, A. (2017). Influence of water concentrations on the phase transformation of a model surfactant /co-surfactant/water system. Chemical Physics, 483 484, 103 111. ISSN: 0301-0104.
+Srivastava, A., & Debnath, A. (2019). Cylindrical to Spherical Shape transformations of Micelles using All-Atom and Coarse-Grained Molecular Dynamics Simulations, AIP Conference Proceedings, 2142, 130004.
+4. Role of non-covalent forces in peptide-based soft-materials
+Ananya Debnath, PI
+Non-covalent forces are responsible for the association of peptidebased hydrogels which are biologically inspired and have applications in material sciences/technology. We focus on understanding the driving forces behind the self-assembled super structures. Integrated information from e lectronic structure calculations and MD simulations provide insights on the preferential building blocks of self-assembled structures and the underlying physical phenomena driving water confinement within hydrogels with bio-medical applications (Sci Rep 2017, Chem Sci 2019, Bul. Mat. Sci. 2020).
+Ahmed, S., Pramanik, B., Sankar, K. N. A., Srivastava, A., Singha, N., Dowari, P., Srivastava, A., Mohanta, K.,
+& Das, D. (2017). Solvent assisted tuning of morphology of a peptide-perylenediimide conjugate: helical fibers to nano-rings and their differential semiconductivity. Scientific Reports, 7(1), 9485. ISSN: 2045-2322.
+Singha, N., Srivastava, A., Pramanik, B., Ahmed, S., Dowari, P., Chowdhuri, S., Das, B. K.,
+& Das, D. (2019). Unusual confinement properties of a water insoluble small peptide hydrogel. Chemical Science, 10(23), 5920 5928. ISSN: 2041-6539.
+Srivastava, A., Garg, A., Das, D. &
+(2020). Molecular dynamics simulations of a stacked conjugated soft material: binding energy and preferential geometry for self-assembly, Invited article on Bulletin of Materials Science for the Thematic issue on Soft Materials, in press.
+5. Chemical Dynamics Simulations of Complex Organic Reactions: Mechanistic Insights and Microsolvation Effects
+Science and Engineering Research Board, DST, Government of India
+Manikandan Paranjothy, PI
+Y. Krishnan, N. Sharma, U. Lourderaj, and
+Classical Dynamics Simulations of Dissociation of Protonated Tryptophan in the Gas Phase, J. Phys. Chem. A 121, 4389, 2017.
+Y. Krishnan, A. Vincent, and
+Classical Dynamics Simulations of Interstellar Glycine Formation via CH2=NH + CO + H2O Reaction, J. Chem. Sci. 129, 1571, 2017.
+S. Godara, P. Verma, and
+Dissociation chemistry of 3-Oxetanone in the gas phase, J. Phys. Chem. A 121, 6679, 2017.
+6. Solid State High Energy Density Lithium Ion Rechargeable Batteries
+Indo-Portuguese Research Cooperation in Science & Technology
+Rakesh Kumar Sharma, PI
+The project is towards the development of fast charging and high energy density Li-ion rechargeable batteries, where IIT Jodhpur and the University of Minho, Portugal together developed efficient cathode materials, polymer separators stable at higher voltages (> 5 volts). The cathode materials are prepared via surface modification and doping lanthanides in LMO, and the separator is produced as porous membranes based on polar polymers. Based on performance, coil cells are fabricated and characterization for various field applications.
+Ram,P., Patel, H., Singhal,R., Choudhary,G. and
+(2019), On the study of mixing and drying on electrochemical performance of spinel LiMn2O4 cathodes, Journal of Renewable and Sustainable Energy,( The American Institute of Physics),Vol. 11(1), pp 014104/1-014104/7
+Ram,P., Singhal,R., and
+, (2017), Preliminary study of dysprosium doped LiMn2O4 spinel cathode materials, Materials Today Proceedings,(Elsevier),Vol. 4, pp 9365-9370
+Ram,P., Singhal,R., Choudhary,G., and
+(2017), On the key role of Dy3 + in spinel LiMn2O4 cathodes for Li-ion rechargeable batteries, Journal of Electroanalytical Chemistry, ( Elsevier), Vol. 802, pp 91-99
+Ram,P., Goren,A., Ferdov,S., Silva,M.M., Singhal,R., Costa,C.M.,
+, and Lanceros-Mendez, S., (2017), Synthesis and improved electrochemical performance of LiMn2xGdxO4 based cathodes, Solid State Ionics, (Elsevier), Vol. 300, pp 18-25
+Pura,R., Ferdov,S., Silva,M.M., Singhal,R., Costa,C.M.,
+and Lanceros-Mendez,S., (2016), Improved performance of rare earth doped LiMn2O4 cathodes for lithium-ion battery applications, New Journal of Chemistry, (Royal Society of Chemistry), 40, pp 6244-6252
+and Singhal,R., (2014), Synthesis, Physical and Impedance Spectroscopy of Tb(III) Doped LiMn2O4 Cathode Material for Lithium Ion Rechargeable Batteries, Journal of Advanced Electrochemistry, (American Scientific Publishers) Vol.2, pp 46-49
+7. Towards The Development Of Low-Cost Water Quality Sensors (Phase-I)
+Rakesh Kumar Sharma, PI
+8. Generation, Storage and Distribution of Solar Hydrogen
+Department of Science & Technology (DST), Government of India
+Rakesh Kumar Sharma, PI
+In this project, we have developed surfactant-free facile synthesis method for titania (TiO2) nanostructures, by which morphology and phase can be tuned through temperature variation. The formation of oval-shaped nanocrystals and nanorods at different temperatures are attributed to the phase transformation between anatase and rutile by a one-step chemical reaction process involving titanium tetraisopropoxide and aqueous ethyl alcohol. Categorically, two different morphologies of TiO2 were observed with respect to variation in temperature with nanorods formation at -20 C and -10 C and oval shape formation at -40 oC, -30 oC and 0 oC. Crystalline nature and size of TiO2 nanoparticles were determined by transmission electron microscopy (TEM) and X-ray diffraction (XRD). The energy gap of TiO2 nanoparticles was determined by optical absorption measurement and found to be in the range of ~ 2.92 to 3.02 eV with an indirect band nature. Additionally, we have developed highly efficient visible light M/MO/ABX3/CdS nano-composites for photocatalytic hydrogen production via water splitting (M= d and f-block elements; 259 examples) under sunlight.
+Kiran P Shejale, Devika Laishram, Rakesh K Sharma and Arun Kumar Photocatalytic Nanocomposite and Applications Thereof: 201911008783 Application Date 6-March-2020
+Shejale,K.P., Laishram,D., and
+(2018), Engineered ZnO-TiO2 Nanospheres for High Performing Membrane Assimilated Photocatalytic Water Remediation and Energy Harvesting, ChemistrySelect (Wiley), 3, pp 7291-7301
+Devika,L., Shejale,K.P., Gupta,R., and
+(2018), Heterostructured HfO2/TiO2 Nano-Spheroids for Visible Photocatalytic Water Remediation, Material Letters, (Elsevier) 231, pp 225-228
+Shejale,K.P., Laishram,D., Gupta,R., and
+(2017), Zinc Oxide-Titania Heterojunction-based Solid Nanospheres as Photoanodes for Electron-Trapping in Dye-Sensitized Solar Cells, Energy Technology, (Wiley), Vol. 5, pp 489-494
+Laishram,D.,Shejale,K.P.,
+and Gupta,R., (2016), HfO2 Nanodots Incorporated in TiO2 and its hydrogenation for High Performance Dye Sensitized Solar Cells, RSC Advances, (Royal Society of Chemistry), 6, pp 78768-78773
+Shejale,K.P., Laishram,D., and
+(2016), High-performance dye-sensitized solar cell using dimensionally controlled titania synthesized at sub-zero temperatures, RSC Advances, (Royal Society of Chemistry), 6, pp 23459-23466
+Shejale,K.P., Laishram,D., Roy,M.S., Kumar,M., and
+(2016), On the study of phase and dimensionally controlled titania nanostructures synthesis at sub-zero temperatures, Materials & Design, (Elsevier), Vol. 92, pp 535-540
+9. Asymmetric Hydrogenation on Carbon Nanotube Surface
+DST- RFBR, Indo - Russian Bilateral Project
+Rakesh Kumar Sharma, PI
+In this project, we have developed highly selective novel heterogeneous nanocatalytic systems based on carbon materials and polymers. Out of various carbon-supported metals, the cinchona/Pt/MWCNTs is found to be most efficient system and provides high enantioselectivity (ee > 99.9 %) due to the high absorption of cinchona and atomically dispersed Pt nanoparticles that maximize metal utilization. Substrate-modifier interaction is examined by time dependent NMR studies. During this study, the excellent activity of Pt (111) plane is observed due to higher packing density, stability and cohesive energy than other crystal planes, leading to significant chemisorption of a variety of chemical entities. For that, a strategy is developed that involves the preparation of Pt (111) from phase transfer reagent Tw20, followed by mixing of functionalized carbon materials to obtain heterogeneous Pt (111) hexagonal nanocrystal loaded carbon catalyst, by simple thermolytic reduction in air, which are tested for asymmetric hydrogenation of -ketoester at ambient reaction conditions, using cinchonine as a modifier. Chiral polymers are prepared and used as tunable supports, it is found that the chirality could be transferred from the support to substrate with ease in case of hydrogenation of carbonyl groups.
+(2019), Electrophilic [N-F]+ Catalysed Asymmetric Allylation of (E)-N, 1-diphenylmethanimine , Chirality, (Wiley),Vol. 31, pp 91-96
+Nunes-Pereiraa,J., Sharma,P., Fernandes,L.C., Oliveira,J., Moreira,J.A.,
+and Lanceros-Mendez,S., (2018), Poly(vinylidene fluoride) composites with carbon nanotubes decorated with metal nanoparticles, Composites, Part B: Engineering, (Elsevier), 142, pp 1-8.
+(2018), Platinum/Graphene as Recyclable Catalyst for Asymmetric Hydrogenation of alpha-ketoesters, Catalysis in Green Chemistry and Engineering, (Begell House), Vol. 1, pp 43-50, DOI: 10.1615/.2017020858
+(2017), Platinum functionalized Chiral Polyamides: Efficient Heterogeneous Catalyst for Solvent Free Asymmetric Hydrogenation of Ethyl 2-oxo-4-phenylbutanoate, ChemistrySelect, (Wiley), Vol. 2, pp 513-520
+(2016), Asymmetric Hydrogenation of ketoesters on Pt(111) Surface, New Journal of Chemistry, (Royal Society of Chemistry), 40, pp 9038-9041
+(2015), Platinum functionalized multiwall carbon nanotube composites as recyclable catalyst for highly efficient asymmetric hydrogenation of methyl pyruvate, RSC Advances, (Royal Society of Chemistry), 5, pp 102481-102487
+(2015), Comparative study of Pt loaded carbon support catalysis in hydrogenation reaction, Chemical Engineering and Chemical Processes, (Global Science and Technology Forum), Vol.5, pp 99-103
+10. Molecular Sensors: Synthesis and Anion Recognition Studies
+Science and Engineering Research Board, DST, Government of India
+Rakesh Kumar Sharma, PI
+In this project new calix and cucurbit based supramolecular colourimetric sensors for selective recognition of toxic aquatic anions. Approximately 30 odd sensors were developed and they are selective towards ~20 anions including inorganic, organic drugs and vitamins. The arsenic, fluoride and ascorbate are few that give sharp colour changes.
+Nunes-Pereiraa,J., Lima,R., Choudhary,G., Sharma,P.R., Ferdov,S., Botelho,G.,
+and Lanceros-Mendez,S., (2018), Highly efficient removal of fluoride from aqueous media through polymer composite membranes, Separation and Purification Technology, (Elsevier), Vol. 205 pp 1-10
+Sharma,P.R.; Soni,V.K., Pandey,S., Choudhary,G., Plappally,A.K., and
+(2017), Dipicrylhydrazine: A versatile visual anions sensor, Journal of Environmental Chemical Engineering, (Elsevier), Vol. 5, pp 2232-2239
+Pandey,S., Soni,V.K., Choudhary,G., Sharma,P.R., and
+(2017), Understanding Behavior of Vitamin-C Guest Binding with the Cucurbit[6]uril Host, Supramolecular Chemistry, (Taylor and Francis), Vol. 29, pp 387-394
+Sharma,P., Choudhary,G., Satankar,R., Plappally,A.K.,
+(2015), Development of Low Cost Polycalixarene-Clay Based Water Guards, IWW, (Ministry of Water Resources, GoI), Vol.3, pp 91-99
+and Plappally,A.K., (2015), Local Material composite sintered systems for fluoride removal, Desalination and Water Treatment, (Taylor and Francis), Vol.10, pp 2626-2637
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 12 Mar 2026 - 03:42 PM

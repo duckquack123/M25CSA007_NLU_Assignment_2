@@ -1,0 +1,24 @@
+url: https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=8d7527fa-9c50-4864-b374-03c2c649a1de
+title: All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur
+depth: 2
+========================================
+
+All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur
+All Research Highlights
+Rajasthani Clay Catalytic Converters for Automobiles
+The current discovery, indicate new non-rare earth, non-noble metal based catalytic convertor using Rajasthani Clay. The catalytic convertor is developed by cleaver use Iron-Nickel-Cobalt nanoparticles in Rajasthani Clay. The metal oxides work as oxygen reservoir and could completely oxidize NOx, COx, and hydrocarbons at lower than 300oC temperature.
+Automobile industries are facing more and stricter emissions regulations in an effort to reduce the amount of harmful air pollutants that are released into the environment related to NOx, COx, and soot along with particulate matter. Currently, one method of reducing harmful emissions is three-way catalytic (TWC) converter that reduces harmful NOx to N2 and O2, oxidizes CO to CO2, and oxidizes residual hydrocarbons to CO2 and water. However, it requires the use of the rare-earth element Cerium (Ce) and Palladium, which are increasing in price and suffering from supply problems lately. These expensive metals make the the catalyst convertor one of the costliest part of car with price from $1000-$1500. Each catalytic convertor have about 5-7gm of pure palladium, which cost around $60 per gram more expensive than gold. Despite that cost, the performance of catalytic convertors go down with time mostly in 8-10 years, while approved life of car is about 15 years.
+The research team of Prof. Sharma has been working on find an alternate solution by understanding the catalytic convertor deactivation and looking for a cheaper solution for the same. His team has found that with time, palladium particle spread over Ceria undergo surface oxidation and decompose in small particle due to high temperature oxidation process (>320 degree). So there were three challenges, reduction of temperature, replacement of palladium and cerium with non-nobel metal, and re-design the convertor to prevent metal deactivation. The Fe-Ni-Co cooperative nano-particles were used in the isolated Nanospheres (work as single site catalyst) where HafniaRajasthani Clay used as oxygen reservoir. The catalytic performance was found to be better than conventional convertor at < 300 degree.
+Article written by: Rakesh K Sharma
+Image credits: Rakesh K Sharma, SMCRG Lab
+Link to published work (Patent): A hydrogen-annealed bimetallic oxide and implementations thereof 201911031662 Application Date 5-August-2019
+Research Domain: Environmental Science
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 19 Mar 2026 - 04:38 PM

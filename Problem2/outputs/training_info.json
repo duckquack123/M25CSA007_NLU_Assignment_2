@@ -1,0 +1,50 @@
+{
+  "vanilla_rnn": {
+    "trainable_params": 25244,
+    "final_loss": 0.9055574834346771,
+    "best_loss": 0.9055574834346771,
+    "hyperparams": {
+      "embed_dim": 32,
+      "hidden_size": 128,
+      "num_layers": 1,
+      "learning_rate": 0.003,
+      "epochs": 100,
+      "batch_size": 64,
+      "clip_grad": 5.0,
+      "optimizer": "Adam",
+      "scheduler": "ReduceLROnPlateau"
+    }
+  },
+  "blstm": {
+    "trainable_params": 172956,
+    "final_loss": 0.0002430107197142206,
+    "best_loss": 0.0002430107197142206,
+    "hyperparams": {
+      "embed_dim": 32,
+      "hidden_size": 128,
+      "num_layers": 1,
+      "learning_rate": 0.003,
+      "epochs": 100,
+      "batch_size": 64,
+      "clip_grad": 5.0,
+      "optimizer": "Adam",
+      "scheduler": "ReduceLROnPlateau"
+    }
+  },
+  "rnn_attention": {
+    "trainable_params": 74524,
+    "final_loss": 0.8910672962665558,
+    "best_loss": 0.8872975210348765,
+    "hyperparams": {
+      "embed_dim": 32,
+      "hidden_size": 128,
+      "num_layers": 1,
+      "learning_rate": 0.003,
+      "epochs": 100,
+      "batch_size": 64,
+      "clip_grad": 5.0,
+      "optimizer": "Adam",
+      "scheduler": "ReduceLROnPlateau"
+    }
+  }
+}

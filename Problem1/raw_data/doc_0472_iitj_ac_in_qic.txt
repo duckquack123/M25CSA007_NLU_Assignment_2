@@ -1,0 +1,20 @@
+url: https://iitj.ac.in/qic
+title: Quantum Information and Computation | IIT Jodhpur
+depth: 2
+========================================
+
+Quantum Information and Computation | IIT Jodhpur
+Welcome to Quantum Information and Computation
+The Quantum Information and Computation (QIC) group at IIT Jodhpur is working towards analyzing classical and quantum correlations from the perspective of a practical interface between quantum optics and quantum information processing. Such correlations occupy a central position in the quest for understanding and harvesting the power of quantum mechanics and fundamentals of quantum information processing. As a group, we are addressing some of the key issues in characterizing multiqubit entanglement. From the applications perspective, the spectrum includes, but is not limited to, quantum key distribution, quantum dense coding, quantum teleportation, quantum cryptography, quantum game theory and quantum secure communication. For a practical implementation of any quantum information task, it is important to consider the role of noise on the chosen task. The group is interested in the systematic study of quantum information and computation in realistic scenarios, including the effect of ambient noise, using ideas and techniques of Open Quantum Systems.
+Provisionally selected candidates for Ph.D. Interview AY 2025-26 Semester-II
+Selected and waitlisted candidates for Ph.D. admission: semester I, Academic Year 2025-26
+Final Selected Candidates IDRD-M.Tech_QT (Non-MoE) AY 2025-26 Semester I
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 15 Dec 2025 - 03:00 PM

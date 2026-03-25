@@ -1,0 +1,50 @@
+url: https://iitj.ac.in/physics/en/laboratories
+title: Laboratories | Physics | IIT Jodhpur
+depth: 1
+========================================
+
+Laboratories | Physics | IIT Jodhpur
+The Department of Physics puts a strong emphasis on experiential learning aspects as an integral part of its curriculum for MSc as well as Ph.D students. This allows the students to learn theoretical concepts much quicker and better through hands-on experience. The department thus offers several laboratory courses for MSc student as prescribed in the program structure. Further, the lab experiments are designed in such a way that the students can comprehend the theoretical concepts taught in the class room and develop the skill sets which will enable them excel in their future professional endeavours.
+There has been tremendous growth in computational capabilities in past few decades. This has brought significant changes in the approaches towards research not only in engineering domains but also the areas of core sciences. The use of advanced computational tools has made it possible to perform experiments on virtual platforms through the process of simulation and modeling. This has significantly improved the pace at which the research outputs are obtained. Today, many of the outputs of simulation and modeling are applied directly in design and development of systems and technologies. Hence, it has been endeavour of the department to ensure that the computational laboratories are given due emphasis along with the laboratories with advanced equipment.
+Keeping this in view, the department has set up a number of laboratories for Teaching and Research. The teaching labs of the Department are equipped with some specialized instruments which the students can also use for their research activities as part of their project and thesis.
+In order to facilitate globally competitive cutting edge research and breakthrough technologies it is imperative to develop an atmosphere wherein the students and faculty members have free access to research facilities not only within the department but across all the departments oft he institute. With this philosophy in mind, the department is operating various thematic research labs wherein any student or faculty member can carry out his/her research.
+The department has set up four focussed research groups which carry out fundamental and applied research in the areas of (i) Quantum Physics, (ii) High Energy and Astrophysics, (iii) Optics and Photonics and (iv) Condensed Matter and Plasma Physics. These research groups are supported by the Thematic Research Laboratories catering to the need of the Faculty members, PhD students and Research staffs. The details of Laboratories (Teaching / Research lab, Thematic Research lab) and Research Groups of the Department are given below. The laboratories of the Department are managed under the supervision of faculty members of the department with the support of qualified technical staff and Ph.D. students.
+Optics and Photonics
+High Energy Physics and Astrophysics
+Condensed Matter and Plasma Physics
+Teaching / Research Laboratories:
+Name of the Laboratory
+Faculty In-Charge
+Basic Physics Lab
+Dr Reetanjali Moharana
+Dr Satyajit Sahu
+Condensed Matter Physics
+Dr Durgamadhab Mishra
+Atomic and Nuclear Physics
+Optics and Laser
+Dr B. M. Krishna Mariserla
+Computational Physics Lab
+Dr Prabhat Jaiswal
+Thematic Research Laboratories:
+Name of the Laboratory
+Faculty In-Charge
+Thin film and Device Lab
+Multiscale Characterization Lab
+Dr Durgamadhab Mishra
+Functional Material Design Lab
+Dr Satyajit Sahu
+Functional Material Processing Lab
+Nonliniear Optics and Photonics Lab
+Dr Somnath Ghosh
+Quantum Optics and Quantum Information Lab
+Modelling and Simulation Physics Lab
+Dr Prabhat Jaiswal
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 27 Feb 2026 - 02:26 PM

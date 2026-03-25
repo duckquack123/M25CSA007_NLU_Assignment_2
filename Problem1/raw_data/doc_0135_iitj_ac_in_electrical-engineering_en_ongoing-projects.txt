@@ -1,0 +1,128 @@
+url: https://iitj.ac.in/electrical-engineering/en/ongoing-projects
+title: Ongoing Projects | Electrical Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Ongoing Projects | Electrical Engineering | IIT Jodhpur
+Ongoing Projects
+Year of Completion
+Technology Track
+A Programmable CMOS image sensor for high speed, low power and low noise applications (Funded)
+Dec 2020-Dec2022
+Analog and mixed
+signals circuits or
+A Robust Visual Positioning System
+Himanshu Kumar (PI)
+Signal and Image Processing
+Achieving Collaborative Missions via Distributed Coordination and Control of Autonomous Multi-Vehicle System
+Anoop Jain, (PI)
+AI/ML, IoT, and Wireless Practice Advisory
+Dr. Sandeep Kumar Yadav (PI)
+Spanidea Systems Pvt. Ltd. Bengaluru
+February, 2021 (2 Years)
+An endoscopic camera system (Approved)
+Analog and mixed
+signals circuits or VLSI
+An Interdisciplinary study of Technologically Manipulated Information: Its ecosystem and its psycho-social impact
+Rajendra Nagar (CO-PI)
+Computer Vision and Machine Learning
+Animatable Human 3D Surface Reconstruction from Partial 3D Scans
+Rajendra Nagar (PI)
+3D Computer Vision and Geometry Processing
+Compact Modeling and Simulations of Nano-Scale Devices
+Harshit Agarwal, (PI)
+Data-driven Haptic Modeling and Rendering of Normal Interactions on Inhomogeneous Viscoelastic Deformable Objects
+Dr. Amit Bhardwaj (PI)
+Computer Haptics
+Design and Development of NavIC Receiver
+Arun Kumar Singh, PI
+Ministry of Electronics and Information Technology, Government of India
+Technologies for Sustainability
+Design and Development of Substrate Integrated Waveguide (SIW) and Empty SIW (ESIW) Based RF-Microwave Components
+Arani Ali Khan, PI
+5G&Beyond Communication
+Design, fabrication and characterization of all-fiber Multimode Interference (MMI) devices for generating highly pure Laguerre-Gaussian (LG) modes in free-space
+Nitin Bhatia (PI)
+5G&BEYOND COMMUNICATIONS
+Development of Cognitive Cyber-Physical System (C2PS) testbed
+Dr. Sandeep Kumar Yadav (PI) Dr. Aashish Mathur (Co-PI)
+C3iHub, IIT Kanpur
+Development of low cost sensors for monitoring of odours in ambient air
+Mahesh Kumar, PI
+Nanoelectronics and ICs
+Development of System to Mitigate Second Order Harmonic Ripple in AC/DC Microgrid using Advanced Control Techniques
+Deepak Fulwani, PI
+Cyber-Physical Systems
+Establishment of AI-Based Platform to Monitor and Identify Smell Taste and Key Covid19 Erapeutic Hotspots
+Amandeep Kaur, (PI)
+Experimental Investigation and Performance Evaluation of HARQ Technique for Free-Space Optical Communication Systems
+Aashish Mathur, PI
+5G&Beyond Communication
+Experimental Investigation and Performance Evaluation of Visible Light Communication Systems
+Ashish Mathur (PI)
+Communication System
+Gate All Around Steep Slope Transistors
+Harshit Agarwal, (PI)
+Haptic Camera: Inter-relationship between Different Sensing Modalities for Textured Surfaces
+Amit Bhardwaj (PI)
+Seed Grant IIT Jodhpur
+March. 2022- March. 2025
+Haptics Based Medical Simulator for Abdomen Palpation and Pulse Behavior
+Rajendra Nagar (CO-PI)
+3D Computer Vision and Robotics
+High Performance Low Voltage Flexible Organic Field-Effect Transistors for Circuit and Sensing Applications
+Shree Prakash Tiwari, PI
+Nanoelectronics and ICs
+Hub and Spoke Consortia for e2W and e3W Electric Drives-Design Development of Prototyping of Advanced IM and Synchronous Reluctance Drives and Vehicle Integration for e2W and e3W Applications
+Deepak Fulwani, Co-PI
+(Consortium Project)
+Department of Heavy Industry, Government of India
+Cyber-Physical Systems
+Human perception driven on-chip compression for power efficient CMOS image sensors (Approved)
+Analog and mixed
+signals circuits or
+Investigation on Planar Horn Antenna using Substrate Integrated Waveguide (SIW) Technology
+Soumava Mukherjee, PI
+5G&Beyond Communication
+Object Based Spatial 3D Audio Rendering for Augmented and Virtual Reality Applications
+Manish Narwaria, (PI)
+Augmented and virtual reality
+Perception-Theoretic Approach for Quantifying Robustness of Machine Learning Models
+Manish Narwaria,
+Signal processing and machine learning
+Photometry based Biomedical Analyzer
+Arpit Khandelwal (PI)
+Johari Digital Healthcare Pvt. Ltd
+Analog and mixed signals circuits or VLSI Systems
+Point of use and in-line coliform sensors for smart water management
+PI- Dr. Meenu Chhabra and Co-PI - Dr. Arpit Khandelwal, Dr. Saakshi Dhanekar, Dr. kamaljit Rangra, Dr. Ravi Bhandari and Dr. Raviraj Vankayala
+Jal Shakti Ministry, GoI
+Real-Time 3D Scene Reconstruction and Localization of Autonomous Ground Vehicles in Unknown Environments
+Rajendra Nagar (PI)
+3D Computer Vision and Robotics
+Reflection Symmetry Based 3D Surface Reconstruction and Restoration from Partial Point Cloud
+Rajendra Nagar (PI)
+3D Computer Vision and Geometry Processing
+Secure and Robust Coordination and Control of Autonomous Multi-Vehicle Systems with Desired Constraints
+Special Manpower development Program for Chips to System Design (SMDP-C2SD)/ Design of a Sensor Signal Conditioning System (I) & Multiprocessor Scheduling Alogrithms using Control Theoretic Approach (II)
+Shree Prakash Tiwari, PI
+Department of Electronics and Information Technology
+Nanoelectronics and ICs
+Substate Integrated Coaxial Line (SICL) based Circuits and Systems for Millimeter Wave Application
+Soumava Mukherjee, PI
+Department of Science Technology (DST) - INSPIRE, Government of India
+5G&Beyond Communication
+Telepresence and Teleaction System for Robot Assisted Dentistry
+Dr. Amit Bhardwaj (PI)
+Robot Technology
+Unified Modeling and Design of High Voltage Transistors
+Harshit Agarwal (PI)
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 13 Mar 2026 - 03:28 PM

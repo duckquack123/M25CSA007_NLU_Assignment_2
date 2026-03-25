@@ -1,0 +1,18 @@
+url: https://erponline.iitj.ac.in/exapp/auth/apps.htm
+title: Welcome to IITJ!
+depth: 1
+========================================
+
+Welcome to IITJ!
+Indian Institute of Technology Jodhpur
+ERP for External Users
+Chemistry Department Instrumentation Facility (CDIF)
+Students/Scholars can request to avail lab test facilities
+Document Verification
+Organizations can request for verification of alumni's documents
+Individuals can request for accomodation for a short period of time
+SURAJ Internship
+NIT students may apply for 'Summer Undergraduate Reasearch at Jodhpur' Internship
+Individual/Organization can request for transcript documents
+Payment by Vendor
+Rent, Electricity, Water charges etc.

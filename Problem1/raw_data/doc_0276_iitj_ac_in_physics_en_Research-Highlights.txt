@@ -1,0 +1,39 @@
+url: https://iitj.ac.in/physics/en/Research-Highlights?dsl=2&dslID=6417cf68-2288-435b-b7a3-f5e7dede10da
+title: Research Highlights | Physics | IIT Jodhpur
+depth: 1
+========================================
+
+Research Highlights | Physics | IIT Jodhpur
+Research Highlights
+Dr. Yogeshwar Nath Mishra has co-invented the World s fastest single-shot wide-field microscope with his collaborators at NASA-Caltech in USA and FAU in Germany. They published their work in the journal Nature Communications.
+Congratulations Dr. Yogeshwar Nath Mishra and his collaborators in USA and Germany for
+publishing their joint collaborative work entitled Single-shot two dimensional nano-size mapping of
+fluorescent molecules by ultrafast polarization anisotropy imaging in Nature Communications. It is
+a proud moment for the department.
+The team has developed Compressed Ultrafast Planar Polarization Anisotropy Imaging (CUP2AI),
+which they describe as the world s fastest wide-field microscopic imaging tool for real-time sizing of
+fluorescent molecules in liquids and gases in 2D at hundreds of billions of frames per second. It was
+tested on fluorescein-dextran, commonly known as FITC-dextran, a conjugate of fluorescein and
+dextran a natural glucose-based polymer used to mimic biomolecules. Fluorescein is a dye also
+found in food and drink coloring. FITC is biodegradable, water-soluble, and widely used in
+applications such as monitoring blood flow, drug delivery, and tissue and cell labeling.
+Additionally, CUP2AI was employed to map polycyclic aromatic hydrocarbons (PAHs) in flames,
+which are precursors to black carbon nanoparticles substances known to pose significant
+environmental and health risks.
+While traditional techniques often rely on time-consuming point-by-point scanning, CUP2AI captures
+the scene in a single shot, in 2D, delivering real-time data without the need for temporal averaging or
+spatial scanning. It achieves imaging speeds of hundreds of billions of frames per second, enabling
+the observation of molecular interactions and delicate samples in unprecedented slow motion. This
+technology holds significant potential for applications in disease detection, biomarker development,
+and pharmaceutical research. It can also be applied to study nanoparticle growth and aggregation,
+particle sizing in combustion processes, and the spray drying industry.
+The published paper can be accessed from here
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 27 Feb 2026 - 02:26 PM

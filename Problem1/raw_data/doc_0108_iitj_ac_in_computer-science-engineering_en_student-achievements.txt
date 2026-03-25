@@ -1,0 +1,38 @@
+url: https://iitj.ac.in/computer-science-engineering/en/student-achievements
+title: Student Achievements | Computer Science & Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Student Achievements | Computer Science & Engineering | IIT Jodhpur
+Student Achievements
+The paper titled MorsEar: Toward Generalizable Low-Resource Covert Messaging via Earable-Based Inertial Sensing by Mr. Garvit Chugh (Ph.D. Student), under the guidance of Dr. Suchetana Chakraborty, has received the Honourable Mention Award (Top 5% of 1,703 accepted papers) at the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026), held in Barcelona from 13 17 April 2026.
+PhD student Yogesh Kumar has been recognized as one of the Outstanding Reviewers for the British Machine Vision Conference (BMVC) 2024.
+Team NeuralNinjas (Alli Khadga Jyoth, Kushal Agrawal, Nachiketa Purohit, Ritu Singh), winners of the 'Amazon ML' Challenge 2024.
+Ph.D. Students Chiranjeev and Garvit were awarded the PMRF 2023.
+Jayant Vyas (Ph.D. student) selected as research intern (April - October) @ Accenture Labs.
+Jayant Vyas selected for student travel award for the IEEE VTC 2023 Conference.
+PhD Student Abhirama P. has been awarded the Microsoft Research Travel Grant to present his work at the Main Track of IJCAI 2023 in Macao.
+Mr. Ankur Nahar(Ph.D Student), working under the guidance of Dr. Debasis Das, received a travel grant for ACM ICDCN 2023 for participating in the conference at IIT Kharagpur.
+Mr. Jayant Vyas (Ph.D. Student), working under the guidance of Dr. Debasis Das and Prof. Santanu Chaudhury, received the CODS - COMAD 2023 Diversity and Inclusion Track Scholarship. This Scholarship includes travel, accommodation, and a registration grant to attend CODS - COMAD 2023 at IIT Bombay.
+Mr. Ankur Nahar(Ph.D. Student), working under the guidance of Dr. Debasis Das, received the ACM India Anveshan Setu Fellowship 2023 for participating in the conference.
+Ms. Shruti Sureshan( M. Tech(CSE) Student), working under the guidance of Dr. Debasis Das, received a Student Travel Grant (Registration fees, Travel, and Accommodation) for attending CODS-COMAD 2023 at IIT Bombay. Presented Poster titled Few-Shot Learning based Anomaly Detection in Security Applications at CODS-COMAD 2023, IIT Bombay.
+Mr. Jayant Vyas (Ph.D. Student), working under the guidance of Dr. Debasis Das and Prof. Santanu Chaudhury, received the Best Poster Award 2023 in Industry Day at IIT Jodhpur.
+Km. Bhavna (Ph.D. Student under Dr. R. Banerjee and Dr. D. Roy) won the "Best Poster" award in NAiBS 2023.
+Prajwal Gatti (Research Assistant under Dr. Anand Mishra) presented his paper VisTOT at EMNLP 2022.
+Nakul Sharma (3rd year B.Tech. AI) presented his paper at ICVGIP 2022.
+Swapnil Mane (Ph.D. student under Dr. Suman Kundu) was awarded PMRF 2022.
+Abhirama Subramanyam (Ph.D. student under Dr. Anand Mishra) and Kartik Thakral (Ph.D. student under Dr. Mayank Vatsa & Dr. Richa Singh) were awarded PMRF 2021.
+Mr. Ankur Nahar, working under the guidance of Dr. Debasis Das, received the USENIX Annual Technical Conference(ATC) 2021 Student Grant for participating in the USENIX Annual Technical Conference (ATC).
+Mr. Lokendra Vishwakarma, Mr. Jayant Vyas, and Mr. Ankur Nahar, working under the guidance of Dr. Debasis Das, received the ACM SIGMATRICS 2021 Student Grant for participating in the ACM SIGMATRICS 2021 Conference.
+Dr. A. Mishra, Abhirama P., P. Revanth, & K. Tawatia received the Microsoft Academic Partnership Grant (MAPG), 2021, for a project on "Inference and Reasoning over Web-Scale Multimodal Knowledge Graph".
+Students Bharat Biradar and Dhruv Patel have been selected for the Google Summer of Code. Congratulations to them!
+Ankur Nahar, PhD Student under Dr. Debasis Das, receives the ACM India Travel Award for presenting his research at IFIP Networking 2020, Paris, France.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 01:10 PM

@@ -1,0 +1,91 @@
+url: https://library.iitj.ac.in/ssp/subjects/guide.php?subject=OER
+title: Open Educational Resources
+depth: 2
+========================================
+
+Open Educational Resources
+Open Educational Resources
+What is Open Access?
+Open Access literature refers to scholarly publications that are freely available for internet access without any restrictions or fees. This type of literature is digital in nature and can be read without any cost (gratis). Additionally, Open Access literature is often exempt from most copyright and licensing limitations. The term "barrier-free" access could be utilized.
+Open-access (OA) literature is digital, online, free of charge, and free of most copyright and licensing restrictions. What makes it possible is the internet and the consent of the author or copyright-holder . -Peter Suber
+Models of Open-Access Publishing
+Gold Open Access
+Green Open Access
+Mandate (Open Access)
+Embargo Open Access
+Institutional Repository (IR) Open Access
+What can be made available under Open Access?
+There are serious, practical, successful campaigns to provide many kinds of content useful toscholars which includes.
+Archival records and manuscripts images (artworks, photographs, diagrams, maps) teaching.
+Government data source code conference presentations (texts, slides, audio, video) scholarly learning materials ( open education resources and open courseware ) monographs textbooks novels, stories, plays, and poetry newspapers.
+Peer-reviewed research articles.
+CORE s mission is to aggregate all open access research outputs from repositories and journals worldwide and make them available to the public. In this way CORE facilitates free unrestricted access to research for all. CORE is a not-for-profit service delivered by
+The Open University
+SCIOPEN Science Open
+is a discovery platform with interactive features for scholars to enhance their research in the open, make an impact, and receive credit for it. We provide context building services for publishers, to bring researchers closer to the content than ever before. Our advanced search and discovery functions, combined with post-publication peer review, recommendation, social sharing, and collection-building features make
+the only research platform you ll ever need.
+An innovative open access publishing platform offering rapid publication and open peer review, whilst supporting data deposition and sharing.
+Open Research Central
+Open Research Central is a not-for-profit organisation created to enable the international research community to establish standards for academic publishing.
+These platforms are currently operated by
+F1000 Research Limited
+and use a model of rapid publication followed by transparent invited peer review, and require the inclusion of all supporting data.
+Open Access Benefits
+arXiv is a free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. arXiv is a collaboratively funded, community-supported resource founded by Paul Ginsparg in 1991 and maintained and operated by
+Cornell University
+bioRxiv (pronounced "bio-archive") is a free online archive and distribution service for
+unpublished preprints
+in the life sciences. It is operated by Cold Spring Harbor Laboratory, a not-for-profit research and educational institution. By posting preprints on bioRxiv, authors are able to make their findings immediately available to the scientific community and receive feedback on draft manuscripts before they are submitted to journals.
+ChemRxiv (pronounced 'chem-archive') is a free submission, distribution and archive service for unpublished preprints in chemistry and related areas.
+It gives researchers across a broad range of chemistry fields the opportunity to share early results with colleagues and respond to comments and recommendations for improvement, ahead of formal peer review and publication.
+ERTRXIV EarthArXiv Preprints
+Capturing a broad spectrum of interest and experience will help EarthArXiv consider and include the full geoscience community. An essential step to achieving this objective is to ensure broad and intersectional diversity in staffing our Advisory Council.
+ERXIV engrXiv Preprints
+(engineering archive) is dedicated to the dissemination of engineering knowledge quickly and efficiently. engrXiv was launched in beta in July 2016 under the direction of Devin R. Berg, associate professor of mechanical engineering at the University of Wisconsin-Stout, and in partnership with the Center for Open Science.
+IndiaRxiv Preprints
+A Preprints Repository Service for India
+Open Access India.
+medRxiv (pronounced "med-archive") is a free online archive and distribution server for complete but
+unpublished manuscripts
+(preprints) in the medical, clinical, and related health sciences.
+Preprints are preliminary reports of work that have not been peer-reviewed.
+Preprints.org is a free preprint server subsidized by
+in Basel, Switzerland.
+PsyArXiv Preprints
+PsyArXiv (psychology archive) is
+a free preprint service for the psychological sciences
+, designed to facilitate rapid dissemination of psychological research. PsyArXiv is a creation of the
+Society for the Improvement of Psychological Science (SIPS) and the Center for Open Science (COS).
+SRXIV SocArXiv Papers
+, open archive of the social sciences, provides a free, non-profit, open access platform for social scientists to upload working papers, preprints, and published papers, with the option to link data and code. SocArXiv
+is dedicated to opening up social science, to reach more people more effectively, to improve research, and build the future of scholarly communication.
+Creative Commons License
+Creative Commons gives authors or creators the ability to release their work under an open license for others to use. Once released under a Creative Commons Licence, the works exist as open educational resources (OER).
+A Creative Commons (CC) licence gives you certain degrees of use such as making a copy, adapting and sharing without getting permission from the creator. Most of the CC license types, shown with the icons below will allow you to reuse material for educational purposes at no cost.
+How the Licenses Work?
+Each CC license has three layers Imagine a layer cake where the first layer is the legal code that does all the heavy lifting of extending the rights to the end user. The second layer makes the licenses easily readable by a human Creative Commons does this with the license shorthand and simple graphic images we'll explore below. The final layer of the cake is machine readable, or written in a way that computers and software understand.
+Each license begins as a traditional legal tool, using the jargon-y kind of language and text formats that lawyers know and love.
+Each license is also available in a format that an average person can read and easily understand its key terms and conditions.
+Machine Readable:
+Each license has a summary of the key freedoms and obligations written in a format that software systems, search engines, and other technology can understand.
+Understanding Licence Terms
+These terms and symbols describe permitted uses:
+Types of Creative Commons Linceses
+You can identify Creative Commons works by looking out for the icons below.
+Open Access Books
+Note: Free textbooks written by professors from the world s top universities, all on one easy-to-use online ebook platform.
+Cambridge University Press OA Books
+JSTOR Open Books
+Note: Open and free content on JSTOR
+Note: OAPEN Library contains freely accessible academic books, mainly in the area of humanities and social sciences
+Open Access publisher
+Note: Open Access publisher in the Humanities and Social Sciences in the UK: a not-for-profit Social Enterprise run by scholars who are committed to making high-quality research freely available to readers around the world.
+Open Textbook Library
+Note: Open textbooks are textbooks that have been funded, published, and licensed to be freely used, adapted, and distributed.
+Note: Free, adaptable, openly licensed textbooks and supplemental resources.
+OpenStax CNX Library
+Note: OpenStax publishes high-quality, peer-reviewed, openly licensed textbooks that are absolutely free online and low cost in print.
+Taylor & Francis Open Access Books
+Note: There are 1000 plus eBooks available as Open Access.
+This page maintained by:
+Dr. Kamlesh Patel

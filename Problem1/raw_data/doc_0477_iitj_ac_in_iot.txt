@@ -1,0 +1,23 @@
+url: https://iitj.ac.in/iot
+title: Center for AIoT and Applications | IIT Jodhpur
+depth: 2
+========================================
+
+Center for AIoT and Applications | IIT Jodhpur
+Welcome to AIOT and Applications (formally Known as IDRP: IoT and Applications)
+The Internet of Things (IoT) has captured significant interest across various sectors, including smart agriculture, transportation, environmental monitoring, healthcare, and industrial applications. Central to IoT functionality are sensors that need to be both highly sensitive and selective to effectively interact with their environment. Furthermore, the data these sensors collect is essential for enhancing the intelligence of processes and systems. IoT encompasses a broad range of disciplines, from material science to data analytics, all vital for developing IoT systems. To address these complex needs, an Inter-Disciplinary Research Platform (IDRP) has been established for the Center for AIOT and Applications. This platform aims to integrate technologies comprehensively, fostering research and development across sectors like Industry 4.0, health, and infrastructure, which includes safety and environmental monitoring. The collaborative R&D ecosystem in Jodhpur, which brings together institutions like IITJ, AIIMS, NLU, and Police University, is poised to drive innovation in AIOT in areas such as healthcare, environment, and cybersecurity.
+Internet of Things (IoT) and its applications
+The infographic depicts various aspects of the Internet of Things (IoT) and its applications across multiple domains. On the left side, key technological components are listed, such as Sensors, Communication, Computing, AI/ML, AR/VR, Security, and Energy Harvesting. The center of the image displays specific application areas, categorized into Manufacturing, Energy, Mobility, Healthcare, Infrastructure, Logistics, Living, and Agriculture, with examples like Industry 4.0, Smart Grid, Intelligent Mobility, and Precision Agriculture. On the right, the outcomes or benefits of IoT integration are shown, including Intelligence, Efficiency, Connectivity, Transparency, and Flexibility. This layout illustrates how foundational technologies enable diverse applications which in turn generate various beneficial outcomes.
+The design aspects of IoT focus on embedded AI and efficient data management within constrained resources, highlighting the importance of secure, scalable architectures and edge computing for real-time processing. The key applications of IoT encompass practical deployments like Industry 4.0, which integrates digital twins and predictive maintenance, and Smart City technologies for optimizing urban infrastructure. Smart Interfaces involve enhancing user interaction through AR/VR, haptic feedback, sensor fusion, and robotic e-skin, making IoT devices more intuitive and effective in real-world applications. Together, these elements define the multifaceted scope of IoT technology.
+Design aspects of IoT
+Final selected candidates for Ph.D.admission for sem I, AY 2025-26
+Shortlisted candidates for Ph.D. admission sem I, AY 2025-26
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 28 Jan 2026 - 11:23 AM

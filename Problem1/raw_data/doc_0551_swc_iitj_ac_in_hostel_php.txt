@@ -1,0 +1,7 @@
+url: http://swc.iitj.ac.in/hostel.php
+title: Hostels - IIT Jodhpur
+depth: 2
+========================================
+
+Hostels - IIT Jodhpur
+All hostel rooms (~80 square feet) are air-cooled, and have basic furniture facilities like table, chair, bed and almirah and Internet connection. The hostel (of 236 rooms) will have a gymnasium, a games room, a TV room, a music room, and a reading room. The Dining Hall caters to 1000 students. It will have separate vegetarian and non-vegetarian kitchens and dining areas, along with a generic food court.

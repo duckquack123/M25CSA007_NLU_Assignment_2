@@ -1,0 +1,18 @@
+url: https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=03e7f723-69e1-4081-af9b-ea02c21585ff
+title: Research Highlights | Chemistry | IIT Jodhpur
+depth: 1
+========================================
+
+Research Highlights | Chemistry | IIT Jodhpur
+Research Highlights
+Bench-Stable Low-Valent Chromium Catalysts for Hydrogenation of CO2, Bicarbonate, and Inorganic Carbonates to Formate. Singh T.; Gutal A.; Regina A.; Banerjee A.; Paranjothy M.; Chakraborty S.; ACS Catal. 2024, 14, 14958 14965. DOI: 10.1021/acscatal.4c04492
+Catalytic hydrogenation of the potent greenhouse gas carbon dioxide to obtain value-added products represents a much sought after methodology in academia and industry. Hydrogenation of CO2 to formic acid catalyzed by molecular complexes is a highly desirable protocol because of the industrial importance of formic acid and its potential application as a renewable hydrogen storage material. Herein we disclose that the bench-stable, low-valent phosphine-tethered chromium carbonyl complex Cr(DPPP)(CO)4 (C-3) (DPPP = 1,3-bis(diphenylphosphino)propane) catalyzed efficient hydrogenation of CO2 to formate giving a maximum turnover number (TON) of 259,000 at 130 C in THF/H2O mixture after 24 h at the expense of 40 bar (CO2:H2 = 10:30) pressure. Biologically relevant sodium bicarbonate and inorganic carbonates were also tested for hydrogenation to sodium formate, furnishing decent yields of the desired products. Mechanistic investigation along with theoretical studies revealed that the reaction proceeded via the formation of a metallacarboxylate intermediate, which was further converted to a formato complex via an anionic hydrido carbonyl intermediate.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 12 Mar 2026 - 03:42 PM

@@ -1,0 +1,25 @@
+url: http://swc.iitj.ac.in/faculty_advisors.php
+title: Institute Students Wellbeing Committee (ISWC)
+depth: 2
+========================================
+
+Institute Students Wellbeing Committee (ISWC)
+Institute Students Wellbeing Committee (ISWC)
+Prof. Ankita Sharma
+Dean of Student Affairs
+Chairperson (Ex-officio)
+Dr. Prasenjeet Tribhuvan
+Faculty Advisors
+Dr. Priyanka Singh, Associate Professor, Deptt. of BSBE
+Dr. Milan Kumar Hazra, Assistant Professor, Deptt. of Chemistry
+Dr. Sumit Kamal, Assistant Professor, Deptt. of CE
+Dr. Monika Dubey, Assistant Professor, Deptt. of C&IE
+Dr. Anand Mishra, Assistant Professor, Deptt. of CS&E
+Dr. Rajendra Nagar, Assistant Professor, Deptt. of EE
+Dr. Moumita Mandal, Assistant Professor, Deptt. of Mathematics
+Dr. Amrita Puri, Assistant Professor, Deptt. of ME
+Dr. Appala Naidu Gandi, Associate Professor, Deptt. of M&ME
+Dr. Sunita, Assistant Professor, Deptt. of Physics
+Dr. Venkat Ram Reddy Ganuthula, Assistant Professor, SME
+Dr. Ganesh Manjhi, Assistant Professor, SAIDE
+Dr. Shimmila Bhowmick, Young Faculty Associate, School of Design

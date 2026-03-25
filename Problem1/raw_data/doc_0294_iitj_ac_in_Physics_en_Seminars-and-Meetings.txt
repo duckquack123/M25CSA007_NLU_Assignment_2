@@ -1,0 +1,29 @@
+url: https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=e4eb5e08-789d-4506-8c0a-f9eb2662f19c
+title: Seminars and Meetings | Physics | IIT Jodhpur
+depth: 1
+========================================
+
+Seminars and Meetings | Physics | IIT Jodhpur
+Seminars and Meetings
+Diving Deep into Physics Colloquium Series: "The amazing world of gravitational wave from binary neutron star merger" by Prof. Ritam Mallick, Indian Institutes of Science Education and Research Bhopal on Nov 13, 2024 at 5.15 PM
+Title of the Talk:
+The amazing world of gravitational wave from binary neutron star merger
+Speaker: Prof. Ritam Mallick,
+Indian Institutes of Science Education and Research Bhopal
+When? Nov 13, 2024
+, from 5:15 p.m. IST
+D. S. Kothari Seminar Hall, Department of Physics.
+The binary neutron star merger has opened the world of multimessenger astronomy. The binary merger of GW170817 has emitted gravitational waves and electromagnetic waves in almost all spectrums. However, detecting the signal and extracting the physics from it is a challenging task. This task is done using a numerical technique called numerical relativity. The talk will encompass the basic structure of numerical relativity and solving them in computers. We will also discuss recent developments and results regarding binary neutron star mergers. We will primarily focus on the post-merger signals that are yet to be detected by current detectors and what those results could answer some of the fundamental questions of physics. We will try to analyze the fundamental physics question of the state of matter at the core of such neutron stars and how they are connected with the physics of high-density matter, which is yet to be probed in earth-based experiments.
+About the speaker:
+Dr. Ritam Mallick is a theoretical physicist and currently serves as an associate professor in the Department of Physics at the Indian Institute of Science Education and Research (IISER), Bhopal, India. He completed his Ph.D. at Jadavpur University in 2010, focusing on nonequilibrium phenomena in high-energy nuclear physics and cosmology. Following this, he spent two years as a postdoctoral fellow at the Institute of Physics (IOP) in India. In 2013, Dr. Ritam's dedication to research took him to the Frankfurt Institute for Advanced Studies (FIAS) in Germany, where he held a postdoctoral position. There, he worked with Prof. Stefan Schramm on the study of shock waves in astrophysical contexts. Upon returning to India, In 2015, Dr. Ritam joined IISER Bhopal as an assistant professor, where he continued his research and teaching efforts. He received an early career research award and Ramanujan fellowship from our esteemed Science and Engineering Research Board (SERB) in 2016. In recognition of his contributions, he was promoted to associate professor in 2022. Join us on an excellent academic journey as Dr. Ritam generously shares his vast knowledge and deep insights. Get ready to be motivated and enlightened by the leading expert in the field. Don't let this remarkable chance pass you by to explore the intricacies of nuclear astrophysics with Dr. Ritam Mallick.
+All are welcome!
+Flyer: Download Here
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 27 Feb 2026 - 02:26 PM

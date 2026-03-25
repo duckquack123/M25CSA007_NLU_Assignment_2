@@ -1,0 +1,18 @@
+url: https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=b01a0ca9-12f3-42d2-b3c5-cab0a9024cb0
+title: Research Highlights | Chemistry | IIT Jodhpur
+depth: 1
+========================================
+
+Research Highlights | Chemistry | IIT Jodhpur
+Research Highlights
+Copper-Photoredox-Catalyzed Divergent Strategy for the Site-selective Arylation and Alkylation of Glycines and peptides. P. Meher, M. S. Prasad, K. R. Thombare, and S. Murarka* ACS Catal. 2024, 14, 18896-18906.
+There is a scarcity of general strategies for the site-selective Csp3 H arylation of glycine derivatives to synthesize nonproteinogenic -arylglycines that occur frequently in commercial drugs and bioactive molecules. We disclose a copper-photoredox-catalyzed site-selective Csp3 H arylation of glycine derivatives using diaryliodonium reagents (DAIRs) as arylating agents. This strategy harnesses the underexplored ability of DAIRs to serve as arylating agents under visible-light irradiation using copper salts as photocatalysts. The method applies to the glycine-selective C H arylation of peptides with electronically and structurally diverse DAIRs. Moreover, we demonstrate that the photoinduced copper-catalyzed single electron transfer (SET) strategy can be coupled with the halogen atom transfer (XAT) process in the presence of alkyl iodides to accomplish site-selective Csp3 H alkylation of glycines and peptides. In this synergistic SET/XAT approach, phenyl radicals generated from diphenyl iodonium triflate mediate the XAT process to generate alkyl radicals from alkyl iodides. Both of these methods operate under mild conditions and exhibit broad scope with appreciable functional group tolerance. Overall, the divergent toolbox strategies presented here facilitate access to various alkylated and arylated glycines and peptides and enable bioconjugation between peptides and drug molecules.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 12 Mar 2026 - 03:42 PM

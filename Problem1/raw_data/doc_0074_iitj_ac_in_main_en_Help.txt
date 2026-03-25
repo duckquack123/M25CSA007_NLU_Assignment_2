@@ -1,0 +1,25 @@
+url: https://iitj.ac.in/main/en/Help
+title: Help | Indian Institute of Technology Jodhpur | IIT Jodhpur
+depth: 1
+========================================
+
+Help | Indian Institute of Technology Jodhpur | IIT Jodhpur
+The website will enable people with visual impairments access the website using assistive technologies, including screen readers. The information of the website is accessible with different screen readers, such as JAWS, NVDA, SAFA, Supernova and Window-Eyes. Following table lists the information about different screen readers:
+Information related to the various screen readers
+Non Visual Desktop Access (NVDA)
+System Access To Go
+Speech Recognition Support
+The information of the website is accessible with different speech recognition software, such as Dragon Naturally Speaking as well as Speech Recognition support available in Windows Vista and Windows 7 operating systems. Following table lists the information about different speech recognition software:
+Information related to Speech Recognition Software
+Speech Recognition Software
+Windows Speech Recognition in Windows Vista
+Speech Recognition in Windows 7
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 19 Mar 2026 - 04:38 PM

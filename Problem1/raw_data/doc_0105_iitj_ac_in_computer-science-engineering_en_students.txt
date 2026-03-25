@@ -1,0 +1,35 @@
+url: https://iitj.ac.in/computer-science-engineering/en/students
+title: Students | Computer Science & Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Students | Computer Science & Engineering | IIT Jodhpur
+We encourage highly motivated students to apply for short and long term internships. The short term internship is usually offered during the summer for three months, May-July. For long term internships, we encourage you to contact the faculty members directly.
+(Form for Summer internships for UG/PG students)
+Option to pursue internship on campus. Accommodation will be arranged at IITJ hostels.
+Option to pursue BTech/MTech final year project work in collaboration with CSE faculty, provided there is no objection from applicant s university/institute.
+Opportunity to pursue longer term commitments in the form of PhD, MTech+PhD on satisfactory performance (subject to fulfilment of admission requirements).
+Opportunity to work in core and interdisciplinary areas in a department with faculties from diverse backgrounds.
+Opportunity to work in some of the cutting edge areas of computer science:
+Computer Vision and Image processing
+Machine Learning (including Deep Learning)
+Internet of Things
+IoT and Sensory Data Analytics
+Multi-access edge computing
+Parameterized complexity
+Computational Social Choice Theory
+Security and Blockchain
+Computer Architecture
+High Performance Computing
+Mobile app development
+For More Details:
+Our Research Areas & Labs
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 01:10 PM

@@ -1,0 +1,45 @@
+url: https://iitj.ac.in/materials-engineering/en/completed-projects
+title: Completed Projects | Materials Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Completed Projects | Materials Engineering | IIT Jodhpur
+Completed Projects
+Faculty Members of the Department have completed the following Sponsored Research Projects:
+Project Investigator
+Development of Transparent, Durable superhydrophobic-coating for self-cleaning of Endoscope
+Novel in-situ volume contractible metal halide negative electrodes for high performance lithium-ion batteries
+Dr. Srijan Sengupta
+Understanding the deformation mechanisms under in-plane shear and role of pre-twinning on formability behavior of AZ31-xCa Mg alloy sheets
+Dr. Jaiveer Singh
+Study of the Effects of Stress-State and Strain-Rate on Constitutive Response of Polymer Gels via Experiments and Continuum Mechanics Modeling
+Dr. Abir Bhattacharyya
+Thermoelectric Performance Study Using First-Principles Calculations Based Methods
+Dr. Appala Naidu Gandi
+Design and Fabrication of Indigenous Powder Fed Metal Additive Manufacturing Machine
+Technology Development Board (TDB), Department of Science and Technology (DST)
+Quantitative assessment of Hot tearing characteristics of Aerospace Magnesium Alloys
+Differential Phase Contrast in Electron Magnetic Circular Dichroism in Transmission Electron Microscopy
+Dr. Devendra Singh Negi
+Large Scale Synthesis of Freestanding 2D Borophene Atomic Sheets and its Hybrids for Conducting Tapes
+Dr. Pranay Ranjan
+A High-Throughput Structure-Sensitive Designing of Electrocatalysts for Next-generation Alternative Fuel-"Green Ammonia"-Synthesis
+Dr. Amitava Banerjee
+Grain boundary engineering for improvement of high temperature strength and ductility in FCC alloys for structural applications
+Dr. Nitin Kumar Sharma
+Investigation of weldability and hydrogen embrittlement phenomenon in high-strength bainitic steel
+Design of ultralight, cost-effective high entropy alloys with transformation induced plasticity
+Dr. Saurabh Nene
+Development of High Capacity Advanced Borophene Oxide based Supercapacitor
+Dr. Pranay Ranjan (PI),
+Dr. Devendra Singh Negi (PI),
+Dr. Amitava Banerjee (PI)
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 26 Nov 2025 - 05:12 PM

@@ -1,0 +1,50 @@
+url: https://iitj.ac.in/computer-science-engineering/en/outstanding-student-projects
+title: Outstanding Student Projects | Computer Science & Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Outstanding Student Projects | Computer Science & Engineering | IIT Jodhpur
+Outstanding Student Projects
+Graduate Year: 2022
+Project Report Title
+An Approach to Address the Generalizability Challenge in Collaborative Deep Learning
+Baddepudi Venkata Naga Sri Sai Vineetha
+Adversarial Attack Estimation and Mitigation in Semantic Segmentation
+Pashikanti Rohith Parjanya
+FPPR: Fast Pessimistic (dynamic) PageRank to Update PageRank in Evolving Directed Graphs on Network Changes
+Hateful Meme Detection
+Vinit Ramesh Gore
+Estimating Diffusion Degree for Influence Maximization on graph streams
+Explainability Inspired Learning: Making Deep Learning Models Robust Against Occlusions
+Hypergraph Based Optimal Route Identification with Driver Behavior Prediction as Beyond the Root Solution
+Blockchain Optimization Techniques and its Application in Fintech
+A Study of Strike-Through Text Identification from Handwritten Answer Sheets
+Yash Kumar Singhal
+Computational Model of Time Perception
+Graduate Year: 2021
+Project Report Title
+Image Annotation using Labels and Captions
+Non Invasive estimation of Heart Rate and Blood oxygen level to classify an individual as Healthy or Non-Healthy
+Madugunda Jeevan Kumar
+Pipelined-PBFT Protocol for Banking Transaction Processing
+Meenakshi Sharma
+Windmill System Failure Prediction using Image Processing
+Crowd Counting and Density Estimation
+Federated learning based predictive maintenance of vehicle
+Prashant Kumar Choudhary
+Fraudulent account recognition using supervised learning in Ethereum
+Unravelling the Masked Faces
+Cyberbully: Aggressive Tweets, Bully and Bully Target Identification from Multilingual Indian Tweets
+Tejas Sudam Gaikwad
+Curiosity-driven Intuitive Physics Learning
+An Approach to Develop Interactive Comics through Visual Computing
+Some Aspects of Anomaly Detection under Industry 4.0 using Deep Learning
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 01:10 PM

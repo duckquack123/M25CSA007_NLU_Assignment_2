@@ -1,0 +1,166 @@
+url: https://iitj.ac.in/chemistry/en/ongoing-projects
+title: Ongoing Projects | Chemistry | IIT Jodhpur
+depth: 1
+========================================
+
+Ongoing Projects | Chemistry | IIT Jodhpur
+Ongoing Projects
+Some of the prominent on-going Sponsored Research Projects include:
+1. Multiparticle Entanglement, Nonlocality and Quantum Information processing- Analysing the role and applications of statistical correlations
+Core Research Grant,
+Science and Engineering Research Board, DST, Government of India
+Atul Kumar, PI (2019-22)
+Project Description:
+For bi-partite or multi qubit systems, the distinction between quantum and classical resources are laid down in terms of the Bell or Bell-type inequalities whose violation confirms the existence of quantum correlations in the system. The Bell-type inequalities for three-qubit pure entangled systems itself either fail to distinguish between bipartite and tripartite inequalities or fail to identify the presence of nonlocal correlations in a large set of states. The intricacy of the problem increases further considering the real conditions. Moreover, discord- a measure of genuine nonlocal correlations- is difficult to evaluate analytically due to the optimization procedures involved. A simple description that can be obtained analytically to distinguish the quantum and classical boundaries would therefore be of great value. Hence, the relationship between entanglement, correlations, and non-classicality needs adequate attention to analyse, evaluate and understand the importance and significance of quantum correlations in communication and computing. In this project, we aim to provide a general description of entangled systems which may provide a consistent definition of entanglement in bi-partite as well as multipartite pure states. The approach developed for pure states will also be extended to family of mixed states. Our study will be based on the distinction of quantum and classical correlations for understanding the relation between entanglement, nonlocality, and efficiencies of different quantum information processing protocols.
+2. Chiral Calix Crowns for asymmetric phase transfer catalyst DST Women Scientist (WOS-A),
+Department of Chemistry
+Pragati R. Sharma, PI (2019-22)
+Project Description:
+Calix[n]arenes (n=4,6,8) have been widely studied due to their three-dimensional shape and ease of functionalization. The synthetic flexibility of calixarenes makes them a suitable candidate for a wide range of applications that include molecular recognition, sensors and variable architectures. The Phase transferability of Calix-crowns plays a very important role for various biological and pharmaceutical applications, most interest in the development of enantioselective reactions to obtain optically active molecules. In this proposal PI will develop novel series of chiral Calix-crown derivatives with systemic variation in chiral functionalities such as chiral amines and esters in the lower rim, exploiting four phenolic OH groups for catalytic applications. These novel chiral calix-crown PTC are sensitive towards cations, lead to asymmetric induction for industrially important alkylation of C=X (X=N, S, C) and Tsuji-Trost allylic alkylation.
+, V.K. Soni, G. Choudhary and R.K. Sharma, Cucurbit[6]uril and 4-tert-Butylcalix[6]arene as Multifunctional Lubricant Additives, New Journal of Chemistry,
+, S. Pandey, V. K. Soni, G. Choudhary, R.K. Sharma, Macroscopic Recognition of Iodide by Polymer Appended Calix[4]amidocrown Resin,
+, Supramolecular Chemistry, 31, 634-644
+3. Impact of Rainwater Harvesting on Groundwater Quality in India with Specific Reference to Fluoride and Mircropollutants
+Department of Science & Technology (DST), Government of India
+Rakesh Kumar Sharma, PI (2018-21)
+Project Description:
+Groundwater is the main source of freshwater in many parts of the world however excessive abstraction is causing a continuous decrease in water tables in some places. In Rajasthan on the Western side of India, methods are being utilized to replenish groundwater and provide a reliable water supply. This is achieved in several ways including the use of Rainwater Harvesting (RWH) systems. These structures capture rainwater and runoff and allow it to infiltrate into the subsurface and subsequently aquifers. In India this has been achieved both through traditional approaches such as storing water in percolation ponds and in check dams. The use of more novel emerging approaches such as sand dams has also been explored. A sand dam is a concrete wall built across a seasonal riverbed. During the rainy season, a seasonal river forms and carries sand downstream. The sand accumulates behind the dam and is filled with water providing storage, this water can then be abstracted or percolate into the groundwater. Although these techniques increase water availability it is unclear as to their effect on groundwater quality. Depending on the scale and location of RWH structures, rainwater contained within them may contain a range of harmful substances. These pollutants could travel through the RWH structures and contaminate the groundwater. Additionally, in Rajasthan, high fluoride concentrations in the groundwater are a major health concern. Excessive fluoride in drinking water causes dental and skeletal fluorosis. This problem may be worsened as dissolved organic matter (DOM) present in harvested rainwater which has been found to increase fluoride levels during recharge. The analysis of the transport of pollutants and DOM in RWH structures is thus of crucial importance in ensuring groundwater quality. This transport can be effected by a number of different factors most notably design and location of these structures.
+The field work will be carried out to monitor the water quality used for recharge and groundwater in the vicinity of the three RWH structures over a period of two years. This will include topographical surveys, groundwater level monitoring, water sampling, tracer testing, weather recording and obtaining soil samples to provide information on the mineral characteristics of the aquifer material. In addition, laboratory testing will be completed on water samples obtained from the field. The quality of the rainwater and groundwater will be assessed using a variety of techniques. Parameters tested will include nutrients, e.coli, heavy metals and pharmaceuticals amongst others. To enhance our understanding of the impact of DOM present in rainwater on Fluoride levels in groundwater, fluorescence excitation-emission matrix (F-EEM) will be used. Pollutant transport models which simulate pollutant transport and DOM interaction with fluoride in RWH structures and across the whole catchment will be created.
+Parker, A., Lise, N., Sharma, R.K., et al (2019) Managed aquifer recharge and its impact on fluoride contamination in Rajasthan, Hydrochemistry and Human Health processdngs, GH21A-04; 2019AGUFMGH21A..04P (American Geophysical Union)
+Singh,J., Vija, K.L., Sharma,R.K., et.al. (2019) Estimation of Soil Water Retention Characteristics of a Novel Artificial Recharge System located in Laporiya, Rajasthan, Groundwater, xx, xxx
+Nunes-Pereiraa,J., Lima,R., Choudhary,G., Sharma,P.R., Ferdov,S., Botelho,G., Sharma,R.K., and Lanceros-Mendez,S., (2018), Highly efficient removal of fluoride from aqueous media through polymer composite membranes, Separation and Purification Technology, (Elsevier), Vol. 205 pp 1-10
+Shejale,K.P., Laishram,D., Gupta, R., and Sharma,R.K., (2018), Engineered ZnO-TiO2 Nanospheres for High Performing Membrane Assimilated Photocatalytic Water Remediation and Energy Harvesting, ChemistrySelect (Wiley), Vol. 3, pp 7291-7301
+4. Development of Catalytic Diastereo and Enantiodivergent Tandem Reactions
+Department of Science & Technology (DST), Government of India
+Nirmal Kumar Rana, PI (2018-20)
+Project Description:
+In Nature many organic compounds exist in stereoisomers and they often exhibit different chemical and biological properties. Organic molecules having cyclohexane core with multiple stereogenic centres are common structural subunits found in many natural products and pharmaceuticals. Several recent studies in asymmetric synthesis are reported for their synthesis. Nonetheless, despite the great progress made on asymmetric catalysis in the past decades, for compounds containing multiple stereogenic centers, it still remains a great challenge to freely access all the possible stereoisomers. This project is focused to establish new approaches for the synthesis of diversely substituted cyclohexane in a stereodivergent fashion.
+, K. Shukla, P. Mahto, R. K. Jha, V. K. Singh, A facile and highly diastereoselective synthesis of carbocyclic spiro-pyrazolones via DABCO catalyzed Michael-Michael domino reaction, Tetrahedron,
+Shukla, S. Shah,
+, V. K. Singh, An efficient and highly diastereoselective synthesis of carbocyclic spiropyrazolones via one-pot sequential dual organo-silver catalyzed Michael-hydroalkylation reactions, Tetrahedron Letters
+, K. Shukla, B. G. Das, H. Joshi, V. K. Singh, Asymmetric Multifunctional Modular Organocatalysis: One-Pot Direct Strategy to Enantiopure , -Disubstituted -Butyrolactones, Org. Lett.
+5. Tandem Annulations Involving Metallocarbenes: Towards Diverse Molecular Architectures
+cience and Engineering Research Board, DST, Government of India
+Sandip Murarka, PI (2018-21)
+Project Description:
+Transition-metal carbenes/carbenoids as active intermediates play an important role in modern organic synthesis. They undergo a wide variety of synthetic transformations, such as, cycloadditions, cyclopropanations, etc. among many others. These transformations have proven to be valuable tools in the construction of complex molecular scaffolds. The investigator proposes to develop novel reaction technologies to exploit the reactivity of carbenoids in a range of diverse cascade annulation processes to afford myriad of molecular architectures.
+R. Budhwan, S. Yadav,
+*, Late Stage Functionalization of Heterocycles Using Hypervalent Iodine(III) Reagents, Org. Biomol. Chem.
+S. Das, S. K. Parida, T. Mandal, L. Sing, S. De Sarkar*,
+*, Organophotoredox Catalyzed Cascade Radical Annulation of 2-(Allyloxy)arylaldehydes with N-(acyloxy)phthalimides: Towards Alkylated Chroman-4-one Derivatives, Chem. Asian J.
+R. Budhwan, G. Garg, I. N. N. Namboothiri*,
+*, Hypervalent Iodine(III) Reagents in the Synthesis of Heterocyclic Compounds, in Reviews and Accounts on Heterocyclic Chemistry, O. A. Attanasi, P. Merino, D. Spinelli (Eds.), Targets Heterocycl. Syst.
+6. Ligand based 19F NMR Methods with Selective Pulses to Probe Small-Molecule Protien Interaction
+Indian Institute of Technology Jodhpur, Rajasthan
+Samanwita Pal, PI (2017-20)
+Project Description:
+Analysis and quantification of ligand-protein interaction draws major attention in the field of biomedicine, agrochemicals to name a few. In the recent past solution state Nuclear Magnetic Resonance (NMR) has emerged as one of the most powerful method for understanding the impact of various small to intermediate sized ligands on protein structure and function. The project aims to investigate ligand-protein interactions using solution-state multinuclear 1D Nuclear Magnetic Resonance (NMR) spectroscopy as a major technique complemented by fluorescence quenching studies, molecular docking, and Isothermal Titration Calorimetry (ITC), whenever required. Figure 1 represents the graphical illustration of one of the objective. Three different problems are being addressed under this umbrella. Organophosphate-protein interaction using 1H NMR, Organoflurine-protein interaction employing 19F NMR and small molecule-Humic acid interaction analysis employing multinuclear NMR methods based on relaxation, diffusion and Saturation Transfer Difference.
+Vandana, Chaubey, B., Dhaharwal, A. K., & Pal, S., Solvent-dependent binding interactions of the organophosphate pesticide, chlorpyrifos (CPF), and its metabolite, 3,5,6- trichloro-2-pyridinol (TCPy), with Bovine Serum Albumin (BSA): A comparative fluorescence quenching analysis. Pesticide Biochemistry and Physiology, Elsevier, 2017,139, 92-100.
+Dahiya, V., & Pal, S. The effect of paracetamol on 5 fluorouracil and bovine serum albumin interaction: A biophysical study. AIP Conference Proceedings.2018,1953(1), 140012.
+Chaubey, B., & Pal, S. Binding Interaction of Organofluorine Serum Albumin: A Comparative Ligand-Detected 19F NMR Analysis. Journal of Physical Chemistry B., 2018 122(40), , 9409 9418.
+Salian, S. R., Nayak, G., Kumari, S., Patel, S., Gowda, S., Shenoy, Y., Sugunan, S., GK, R., Managuli, R., Mutalik. S., Dahiya, V, Pal, S., Adiga, S. & K. Guruprasad. Supplementation of biotin to sperm preparation medium enhances fertilizing ability of spermatozoa and improves preimplantation embryo development. Journal of Assisted Reproduction and Genetics, Springer, 2018, ISSN: 1058-0468.,
+Chaubey, B., & Pal, S. Hexaflumuron_ -Cyclodextrin Inclusion Complex as Improved Pesticide Formulation: A NMR Case Study. AIP Conference Proceedings,2019, 2142 (1), 180003.
+7. Development of Electrochemical Energy Storage from Carbon Rich Waste
+Science and Engineering Research Board, DST, Government of India
+Ritu Gupta, PI and Rakesh K. Sharma, Co-PI (2017-20)
+Project Description:
+The disposal of waste organic materials such as polymers is a serious problem to natural ecosystems as some of them can be non-biodegradable and potentially toxic.The recycling of waste material can largely help to address environmental problem however recycling is limited due to lack of infrastructure, facilities for recycling and complexity involved.Several methods have been developed for the recycling of polymers such as polyesters, polyethylene and polypropylene.During recycling, the well-defined hydrocarbons (CnH2n) that are generated could be used directly to produce carbon nanomaterials. Carbon is one of the stable form of material that is utilized extensively as electrode material for energy storage devices. Porous carbons suchas activated carbon, carbon nanotubes and graphene are used exclusively as the active electrode materials in electric double layer capacitors (EDLCs). The performance of EDLCs depend on surface area and electrical conductivityof the graphitic carbon which is produced.The high porosity of carbon based nanomaterials is conventionally coupled to poor electrical conductivity that increases with addition of conductive fillers and binders. This by far has prevented the commercialization of these materials as active electrodes in EDLCs. In this project, we propose to develop a cost effective process for synthesis of carbon based materials from waste polymeric sources for the fabrication of electrodes for supercapacitors.
+Bahuguna, G; Choudhary, S;
+Sharma, R. K.; Gupta, R
+.* Electrophilic Fluorination of Graphitic Activated Carbon for Enhancement in Electric Double Layer Capacitance Energy Technol.,
+Bahuguna, G. Ram, P.;
+Sharma, R. K. and Gupta, R
+.* An Organo-fluorine Compound Mixed Electrolyte for Ultrafast Electric Double Layer Supercapacitors ChemElectroChem,
+8. Solid State Nuclear Magnetic Resonance (NMR) Assessment of Zinc Oxide (ZnO) Nanomaterial Based Drug Delivery Systems
+Science and Engineering Research Board, DST, Government of India
+Samanwita Pal, PI (2017-20)
+Project Description:
+The project aims to apply various one and two dimensional solid state NMR experiments to characterize molecular interaction of bare and surface functionalized ZnO nanomaterials with some anticancer drugs and amino acids. Established literature methods are used to synthesize ZnO nanoparticle and nanorods along with drug loading and adsorption of amino acids. Multinuclear solid state NMR experiments are used to understand drug dynamics and mechanism of adsorption. In the project, a set of ZnO nanomaterials have been synthesized and characterized following established literature methods. Further, the materials are used for surface functionalization with small anti-cancer drug and amino acid. Solid state CPMAS NMR experiments are carried out to analyse the effect of surface adsorption on the small drug molecules. A series of solid state relaxation measurements are also undertaken to understand the modification in dynamic regime due to adsorption.
+Optical Band Gap and Crystallite Size Investigations of Anticancer Drug Loaded ZnO.. AIP Conference Proceedings 2142 (1),
+9. New Single Source Precursors for Potential Nanostructured Bi2Te3/sb2Te3 System Based Thermoelectric Materials
+Science and Engineering Research Board, DST, Government of India
+Ramesh K.Matre, PI (2017-20)
+Project Description:
+Group V/VI materials of the type V2VI3 such as antimony and bismuth telluride (Sb2Te3, Bi2Te3) are narrow band-gap layered semiconductors are attracting intense interest in the recent years due to their potential applications as superior thermoelectric materials at ambient temperature range. single source precursors approaches in presence of non-aqueous solution to synthesize nanostructures seems advantageous as it provide better control over particle size and morphology and thereby expected to improve overall properties.In this project, functionalized tellurium centered ligands will be synthesized using intramolecular coordination strategy while some of the ligands will be synthesized utilizing bulky organic substituent. These ligands will be reacted with appropriate starting metal precursor to synthesize various coordination complexes of p block elements such as Bi, Sb and Sn. It is expected that a library of coordination complexes will be formed and in all the case structure and nuclearity of the final product will be governed by the reaction conditions and type of the starting reactant used. In each case systematic characterization of all the complexes will be carried out. While NMR ESIMS, IR spectroscopy will be used to characterize the ligands, structural characterization of the complexes will be carried out by Single crystal X-ray diffraction. All the complexes will also be investigated by DSC and TGA/DTA (thermal properties) techniques. All the complexes will be converted into nanostructured materials via solution phase decomposition method. Nanostructured materials will be further characterized by SEM, TEM, EDX and PXRD techniques. In addition, their thermoelectric properties will be investigated in collaboration. It is anticipated that these nanostructured materials will show interesting thermoelectric properties.
+A. Mishra, A. Betal, N. Pal, R. Kumar, P. Lama, S. Sahu, R. K. Metre Molecular Memory Switching Device Based on a Tetranuclear Organotin Sulfide Cage [(RSnIV)4( -S)6] 2CHCl3 4H2O (R = 2-(Phenylazo)phenyl): Synthesis, Structure, DFT Studies, and Memristive Behavior, ACS Appl. Electron. Mater. 2020, 2, 1, 220-229
+10. Catalytic Upgrading of Bio-Oil (Algae-Oil) to Transport Fuel
+Department of Biotechnology, Government of India
+Rakesh Kumar Sharma, PI (2014-20)
+Project Description:
+The proposal aims to develop new and improved heterogeneous catalytic systems for conversion of algal/non-edible/pyrolysis oil to transport fuel and value-added products via hydrodeoxygenation (HDO), Hydrodecarbonyltaion, decarboxylation and hydrogenation processes. The heterogeneous catalytic systems based on d8 & d9 metals nanoparticles supported on clay and silica-alumina is developed.
+Scale-up and recycling of catalyst and catalytic at kilogram has also been successfully carried out. The catalyst could be recycled up 50 cycles with>99 % hydrocarbon selectivity and < 1 ppm metal leaching. The project discovers best sulphide free non-noble metals catalyst that can work at ~250 oC and 5 bar pressure to develop diesel grade bio-fuel from biomass. Clay catalyzed hydrogenation of squalene to squalane (emollient used in cosmetics) with 99.999% purity (best ever) is also a major achievement.
+Metal Nanoparticles Intercalated Clay for Solvent Free Hydrogenation of Squalene into Squalane :
+Indian Pat. Appl. (2018), IN 201611009866 A 20180126
+Metal(s)/clay Catalysts for Converting Biomass into Diesel Grade Hydrocarbons:
+Indian Pat. Appl. (2019), IN 201711025555 A 20190125
+Metal Nanoparticles Doped Hollow Carbon Nanobubbles and Preparation Method thereof
+201911017622 Application Date 2-May-2019
+A Hydrogen-Annealed Bimetallic Oxide and Implementations Thereof
+201911031662 Application Date 5-August-2019
+Laishram, D., Shejale, K.P., Krishnapriya, R.,
+(2020) Nitrogen-Enriched Carbon Nanobubbles and Nanospheres for Applications in Energy Harvesting, Storage, and CO2 Sequestration, ACS Applied Nano Materials, (American Chemical Society)Vol. 3, pp 3706-3716
+Krishanpriya,R., Gupta,U., Soni,V.K., and
+(2020), Catalytic Conversion of Biomass to Diesel Grade Hydrocarbon: Impact of Cobalt (II,III) oxide Integration in SiO2-Al2O3, Sustainable Energy & Fuels, (Royal Society of Chemistry), (Accepted;
+Soni,V.K., Krishanpriya,R., and
+(2020), Highly Selective Co3O4/Silica-Alumina Catalytic System for Deoxygenation of Triglyceride-based Feedstock, Fuel, Vol 266, pp 117065 (Elsevier)
+Sharma,P., Solanki M. and
+(2019), Metal Functionalized Carbon Nanotubes for Biomass Conversion: Base-Free highly Efficient and Recyclable Catalysts for Aerobic Oxidation of 5-Hydroxymethylfurfural . New Journal of Chemistry, (Royal Society of Chemistry), Vol. 43, pp 10601-10609
+Soni,V.K., Roy,T., Dhara,S., Choudhary,G., Sharma,P.R.,
+(2018), On the investigation of acid and surfactant modification of natural clay for photocatalytic water remediation, Journal Material Science, (Springer), Vol. 53 pp 10095-10110.
+Devika,L., Shejale,K.P., Gupta,R., and and
+(2018), Solution Processed Hafnia Nanoaggregates: Influence of Surface Oxygen on Catalytic Soot Oxidation, ACS Sustainable Chemistry & Engineering, (American Chemical Society) Vol. 6, pp 11286-11294
+Soni,V.K., Sharma,P.R., Choudhary,G., Pandey,S., and
+, (2017), Ni/Co-Natural Clay as Green Catalysts for Microalgae Oil to Diesel-Grade Hydrocarbons Conversion, ACS Sustainable Chemistry & Engineering, (American Chemical Society), Vol.5, pp 5351-5359
+(2016), Palladium Nanoparticles Intercalated Montmorillonite Clay: A Green Catalyst for Solvent Free Chemoselective Hydrogenation of Squalene, ChemCatChem, (Wiley), Vol. 8, pp 1763-1768
+11. Streamlined Total Synthesis of Biologically Active natural Products: Unified Approach to the Potent Indole Diterpeniods
+IIT Jodhpur, SEED Grant
+Rohan D. Erande, PI (2019-22)
+Project Description:
+Natural products synthesis is a vibrant research area of the chemistry that plays the major role in human life whereas, natural products as a medicine is one of the important weapons to cure from various diseases. To date, thousands of natural products and their synthetic analogs are presents in the market to treat either independent or combined with the various types of targeted diseases. Though, many of diseases increasingly being hampered by the presence of multidrug-resistant parasites in fact some of the diseases are still alive (ex. Cancer). Despite considerable progress in medical research they remain one of the high-ranking causes of the death in the world today. So, new natural products with new mechanism of action that display the required chemical diversity to help combat drug resistance are always required, and to achieve such a targets, it is necessitate to develop new reactions and methods and their applications in the total synthesis of novel biologically active indeed architecturally complex natural products remain constantly demanding. So, we take this opportunity to develop a unified approach towards advances and applications in the total synthesis of numerous biologically active indole diterpenoids.
+12. Pincer Ligand based Transition Metal Catalysts Design for Carbon dioxide activation and catalytic utilization
+IIT Jodhpur, SEED Grant
+Subrata Chakroborty, PI (2019-22)
+Project Description:
+The ongoing project is exploring the possibility of designing novel pincer transition metal catalysts in combination of Lewis acid moieties and their potential to exploit industrially important and catalytically challenging high-value chemical transformations under mild conditions utilizing potent greenhouse gas CO2 as a raw material.
+13.Modelling Organic and Biochemical Phenomena via Direct Chemical Dynamics Simulations
+Core Research Grant,
+Science and Engineering Research Board, DST, Government of India
+Manikandan P., PI (2020-23)
+Project Description:
+In this project, state-of-the-art direct dynamics methodology along with appropriate electronic structure theory will be used to investigate important and interesting chemical phenomena. Two different problems will be addressed: (a) mechanisms of covalent adduct formation between DNA base pairs with few select carcinogens, and (b) chemistry of negatively charged arenes. An atomic level dynamics investigation of covalent adduct formation between DNA bases and a few select carcinogenic molecules will be undertaken. The results from these simulations are expected to provide a detailed atomic level mechanistic information about DNA adduct formation useful in drug designing.
+14. Thermodynamic Origin and Stability of Asymmetric Bilayers
+Core Research Grant,
+Science and Engineering Research Board, DST, Government of India
+Ananya Debnath, PI (2020-23)
+Project Description:
+The naturally existing bilayers are mostly asymmetric in nature and act as a selective barrier for the passage of extracellular fluids or ions within the cell. The difference in compositions across two leaflets results in asymmetric inhomogeneous bilayers. These are vital for a number of metabolic phenomena such as thrombosis, phagocytois etc. We aim to understand the origin and stability of asymmetry in biological membranes using multi-scale modeling.
+Some of the prominent on-going Sponsored Research Projects include:
+1. A Game-theoretic perspective of Quantum Information Processing
+Project Description:
+Game theory is an eminently interesting and flourishing field of study, wherein many situations of conflicts can be efficiently examined and resolved. With the advent of quantum information and computation, the quest to analyze classical game theory in quantum realm received significant interest not only to investigate the foundational aspects of quantum theory but also to inspect conditions where quantum strategies can be beneficial in comparison to classical strategies. The central idea to study and analyze quantum strategies as opposed to classical strategies is to achieve a better payoff or reward well within the settings of a game. The advantages using quantum strategies in a game theoretic framework are mainly attributed to quantum entanglement and nonlocal correlations present in the shared quantum resource. In fact, Bell and Bell-type inequalities- whose violation confirms the presence of nonlocal correlations in a quantum system- have a very strong connection with game theory. The basic framework of the Bell inequality based on locality and realism can be formulated in the game-theoretic realm using the CHSH (Clauser-Horne-Simony-Holt) game. Further the element of incompleteness, present in quantum mechanics and reflected in assumptions of Bell s inequality, is nicely portrayed as games with partial information; also known as Bayesian games. Moreover, quantum game theory also finds its application in analyzing security, algorithms, quantum key distribution, and quantum communication protocols by representing these concepts as games between different players. Our group is interest in analyzing the role of entanglement and nonlocality in quantum information, computation, and security using different perspectives of quantum game theory.
+2. Solution dynamics of amino acids and peptides: Application of NMR relaxation and Dynamic Nuclear Polarization Technique
+PI: Samanwita Pal
+Project Description:
+In this project we aim to understand molecular association and/or higher order structure formation under the influence of co-solute interaction in solution. NMR relaxation at high and low field in conjunction with Dynamic Nuclear Polarization has been employed to address to problems of interest: Self association of amino acids in presence of salts and structural transition of peptides in presence of fluoroalcohols.
+Bhagat, S., Hydrophobic Interaction of Alanine in Aqueous Electrolyte Solution: A NMR Spin-Lattice Relaxation Analysis, Master s Thesis submitted to Dept. of Chemistry, IITJ, 2018
+Chaubey, B., Dey, A., Banerjee, A., Chandrakumar, N. & Pal, S. Assessment of TFE solvent dynamics inducing conformational transitions in Melittin: An approach with solvent 19F low field NMR relaxation and Overhauser DNP studies. Journal of Physical Chemistry B, 2019 (Under Review).
+3. Solution state NMR investigation of drug delivery systems: Supramolecular and polymeric DDS
+PI: Samanwita Pal
+Project Description:
+Solution state Nuclear Magnetic Resonance (NMR) spectroscopy have been extensively used for the purpose of confirming encapsulation, structural details and stability of inclusion complexes of small drug molecules and supramolecular DDS. Similarly polymeric microspheres are also explored for drug encapsulation and consequently have been analysed by NMR in solution state providing knowledge about encapsulation efficiency, release kinetics and stability of encapsulated drugs. In this project, our main objective is to employ 1D selective NMR relaxation methods for analyzing motional dynamics of -cyclodextrin ( -CD) encapsulated drug molecules. Further, NMR exchange experiments in one dimensional mode has been employed to understand effect of encapsulation on the proton dynamics of uracil molecule in case of polymeric microspheres.
+Kumar, D., & Pal, S. Solution Dynamics of 5-Fluorouracil entrapped in Poly Lactic-co-Glycolic Acid (PLGA) microsphere - A study with 1D selective NMR methods. Magnetic Resonance in Chemistry. 57, 2019, 118-128.
+Kumar, D., Krishnan, Y., Paranjothy, M., & Pal, S., Analysis of Molecular Interaction of Drugs within b-Cyclodextrin Cavity by Solution-State NMR Relaxation. The Journal of Physical Chemistry B, ACS, 121(13), 2017, 2864-2872.
+Kumar, D., Krishnan, Y., Paranjothy, M., & Pal, S., Structure and dynamics of cyclodextrin inclusion complexes: Applicability of 1D selective NMR methods. (Communicated to ChemPhysChem)
+4. Coupling between water and membrane dynamics
+PI: Ananya Debnath
+Project Description:
+Water is the most abundant molecule in cells. Water molecules near membranes affect several biological processes such as transport of drugs and small molecules across the cell, influences formation of membrane rafts, molecular recognition, signal transduction and so on. In the past decade, with a major advancement of computer simulations and experimental techniques, water near bio and soft interfaces are found to have distinct properties with slow relaxations compared to that of the bulk water and these water molecules are termed as biological water. However, dynamics of biological water from membrane experiments remain fragmentary due to the fluidity of membranes at physiological temperature and inaccessible atomistic trajectories. Moreover, the influence of water on global dynamics of membrane or protein are still debated. The hydration water dynamics near lipid membranes are investigated using all atom molecular dynamics simulations. Chemically confined interfacial water and lipid membranes exhibit distinct relaxation rates manifesting dynamical heterogeneity. We aim to find the correlation between relaxation time scales of interface water and hydrogen bonded lipid moieties so that hydration dynamics can act as a sensitive reflector of regional membrane dynamics.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 12 Mar 2026 - 03:42 PM

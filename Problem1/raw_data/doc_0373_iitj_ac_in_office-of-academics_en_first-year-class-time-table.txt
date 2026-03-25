@@ -1,0 +1,130 @@
+url: https://iitj.ac.in/office-of-academics/en/first-year-class-time-table
+title: First Year Class Time-Table | Office of Academics Affairs | IIT Jodhpur
+depth: 1
+========================================
+
+First Year Class Time-Table | Office of Academics Affairs | IIT Jodhpur
+First Year Class Time-Table
+Slot System AY 2023-24 Semester-I (B.Tech. 1st Year)
+UG First Year Time Table
+Section and Group allocation for UG First Year
+Instructors and Classrooms
+Faculty Advisors
+Courses for Section A:
+BBL1020: Introduction to Bioengineering Theory (LHB308)
+BBP1010: Introduction to Bioengineering Lab ( Bioengineering Dept)
+EEL1010: Introduction to Electrical Engineering (LHB308)
+MAL1010: Mathematics I (LHB308)
+CSL1010: Introduction to Computer Science (LHB308)
+MEP1010: Engineering Visualization (Computer Centre)
+OAE1010: Engineering Design I (PH/MT Department)
+HSN1010: Communication Skill I (Computer Centre)
+OSN1020: Performing Arts I
+OSN1030: Sport I (Sport Ground / Berm)
+OSN1010: Social Connect and Responsibilities I
+Table-2023-FGroupA1 (use the horizontal scroll bar to see the full table)
+Table-2023-FGroupA2 (use the horizontal scroll bar to see the full table)
+Table-2023-FGroupA3 (use the horizontal scroll bar to see the full table)
+Table-2023-FGroupA4 (use the horizontal scroll bar to see the full table)
+Group A4 (Sr. 121 to 160)
+Table-2023-FGroupA5 (use the horizontal scroll bar to see the full table)
+Group A5 (Sr. 161 to 200)
+Table-2023-FGroupA6 (use the horizontal scroll bar to see the full table)
+Group A6 (Sr. 201 to 240)
+Courses for Section B:
+CYL1010: Chemistry (LHB 110)
+MEL1010: Engineering Mechanics (LHB 110)
+PHL1010: Electromagnetism and Optics (LHB 110)
+MAL1010: Mathematics I (LHB 110)
+PHP1010: Physics Lab (Physics Department)
+CYP1010: Chemistry Lab (Chemistry Department)
+MEP1010: Engineering Visualization (Computer Centre)
+OAE1010: Engineering Design I (PH/MT Department)
+HSN1010: Communication Skill I (Computer Centre)
+OSN1020: Performing Arts I (Sport Ground / Berm)
+OSN1030: Sport I (Sport Ground / Berm)
+OSN1010: Social Connect and Responsibilities I (LHB110)
+Table-2023-FGroupB1 (use the horizontal scroll bar to see the full table)
+Table-2023-FGroupB2 (use the horizontal scroll bar to see the full table)
+Table-2023-FGroupB3 (use the horizontal scroll bar to see the full table)
+Table-2023-FGroupB4 (use the horizontal scroll bar to see the full table)
+Table-2023-FGroupB5 (use the horizontal scroll bar to see the full table)
+Table-2023-FGroupB6 (use the horizontal scroll bar to see the full table)
+Table-2023-FGroupB7 (use the horizontal scroll bar to see the full table)
+Section and Group allocation for UG First Year
+Table-Section2023 (use the horizontal scroll bar to see the full table)
+Instructors and Classrooms
+Table-Instructors2023 (use the horizontal scroll bar to see the full table)
+Course Instructor
+Introduction to Bioengineering Theory [BBL1020]
+Raviraj Vankayala
+Introduction to Bioengineering Lab [BBP1010]
+Bioengineering Dept
+Introduction to Electrical Engineering [EEL1010]
+Rajlaxmi Chouhan, Soumava Mukherjee
+Introduction to Computer Science [CSL1010]
+Mathematics I [MAL1010]
+Kirankumar Hiremath
+Engineering Visualization [MEP1010]
+Prodyut Ranjan Chakraborty
+Communication Skill I [HSN1010]
+Social Connect and Responsibilities I [OSN1010]
+Performing Arts I [OSN1020] / Sport I [OSN1030]
+Sport Ground / Berm
+Engineering Design I
+PH/MT Department
+Chemistry [CYL1010]
+Rakesh Kumar Sharma
+Engineering Mechanics [MEL1010]
+Electromagnetism and Optics [PHL1010]
+Durgamadhab Mishra
+Mathematics I [MAL1010]
+Kirankumar Hiremath
+B M Krishna Mariserla
+Physics Department
+Nirmal Kumar Rana
+Chemistry Department
+Engineering Visualization [MEP1010]
+Prodyut Ranjan Chakraborty
+Communication Skill I [HSN1010]
+Social Connect and Responsibilities I [OSN1010]
+Performing Arts I [OSN1020] / Sport I [OSN1030]
+Sport Ground / Berm
+Engineering Design I
+PH/MT Department
+Faculty Advisors
+Table-FAs-2023 (use the horizontal scroll bar to see the full table)
+Mechanical Engineering
+B.Tech. 1st Year (ME)
+Dr. Vignesh T. G.
+Computer Science and Engineering
+B.Tech. 1st Year (CSE)
+Dr. Kshitiz Gajjar
+Artificial Intelligence and Data Science
+B.Tech. 1st Year (AI)
+Electrical Engineering
+B.Tech. 1st Year (EE)
+Dr. Jai Narayan Tripathi
+B.Tech. 1st Year (BE)
+Dr. Meenu Chhabra
+Metallurgical & Materials Engineering
+B.Tech. 1st Year (MT)
+Srijan Sen Gupta
+Chemical Engineering
+B.Tech. 1st Year (CH)
+Dr. Nirmalya Bachhar
+Civil and Infrastructural engineering
+B.Tech. 1st Year (CI)
+Dr. Tekcham Gishan Singh
+B.S. 1st Year (CY)
+B.S. 1st Year (PH)
+Dr. Durgamadhab Mishra
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 02 Mar 2026 - 11:36 AM

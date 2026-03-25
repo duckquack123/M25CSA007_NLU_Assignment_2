@@ -1,0 +1,5146 @@
+[
+  {
+    "id": 0,
+    "source": "https://iitj.ac.in",
+    "category": "depth_0",
+    "title": "Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 3197,
+    "depth": 0
+  },
+  {
+    "id": 1,
+    "source": "https://iitj.ac.in/computer-science-engineering",
+    "category": "depth_0",
+    "title": "Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 4714,
+    "depth": 0
+  },
+  {
+    "id": 2,
+    "source": "https://iitj.ac.in/electrical-engineering",
+    "category": "depth_0",
+    "title": "Electrical Engineering | IIT Jodhpur",
+    "char_count": 3785,
+    "depth": 0
+  },
+  {
+    "id": 3,
+    "source": "https://iitj.ac.in/mechanical-engineering",
+    "category": "depth_0",
+    "title": "Mechanical Engineering | IIT Jodhpur",
+    "char_count": 4196,
+    "depth": 0
+  },
+  {
+    "id": 5,
+    "source": "https://iitj.ac.in/chemical-engineering",
+    "category": "depth_0",
+    "title": "Chemical Engineering | IIT Jodhpur",
+    "char_count": 3945,
+    "depth": 0
+  },
+  {
+    "id": 6,
+    "source": "https://iitj.ac.in/materials-engineering",
+    "category": "depth_0",
+    "title": "Materials Engineering | IIT Jodhpur",
+    "char_count": 3917,
+    "depth": 0
+  },
+  {
+    "id": 7,
+    "source": "https://iitj.ac.in/bioscience-bioengineering",
+    "category": "depth_0",
+    "title": "Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 4694,
+    "depth": 0
+  },
+  {
+    "id": 9,
+    "source": "https://iitj.ac.in/physics",
+    "category": "depth_0",
+    "title": "Physics | IIT Jodhpur",
+    "char_count": 6702,
+    "depth": 0
+  },
+  {
+    "id": 10,
+    "source": "https://iitj.ac.in/chemistry",
+    "category": "depth_0",
+    "title": "Chemistry | IIT Jodhpur",
+    "char_count": 4371,
+    "depth": 0
+  },
+  {
+    "id": 11,
+    "source": "https://iitj.ac.in/mathematics",
+    "category": "depth_0",
+    "title": "Mathematics | IIT Jodhpur",
+    "char_count": 4247,
+    "depth": 0
+  },
+  {
+    "id": 15,
+    "source": "https://iitj.ac.in/office-of-academics/en/academic-regulations",
+    "category": "depth_0",
+    "title": "Academic Regulations | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 98882,
+    "depth": 0
+  },
+  {
+    "id": 20,
+    "source": "https://library.iitj.ac.in",
+    "category": "depth_1",
+    "title": "S. R. Ranganathan Learning Hub",
+    "char_count": 1745,
+    "depth": 1
+  },
+  {
+    "id": 21,
+    "source": "https://old.iitj.ac.in",
+    "category": "depth_1",
+    "title": "IITJ-Indian Institute of Technology Jodhpur",
+    "char_count": 4008,
+    "depth": 1
+  },
+  {
+    "id": 24,
+    "source": "https://iitj.ac.in/main/en/important-links",
+    "category": "depth_1",
+    "title": "Important Links | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 906,
+    "depth": 1
+  },
+  {
+    "id": 25,
+    "source": "https://iitj.ac.in/main/en/introduction",
+    "category": "depth_1",
+    "title": "Introduction to IIT Jodhpur | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1484,
+    "depth": 1
+  },
+  {
+    "id": 26,
+    "source": "https://iitj.ac.in/office-of-academics/en/academics",
+    "category": "depth_1",
+    "title": "Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 1608,
+    "depth": 1
+  },
+  {
+    "id": 27,
+    "source": "https://iitj.ac.in/main/en/visiting-faculty-members",
+    "category": "depth_1",
+    "title": "Visiting Faculty Members | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1262,
+    "depth": 1
+  },
+  {
+    "id": 28,
+    "source": "https://iitj.ac.in/es/en/engineering-science",
+    "category": "depth_1",
+    "title": "Engineering Science | IIT Jodhpur",
+    "char_count": 3511,
+    "depth": 1
+  },
+  {
+    "id": 29,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/office-of-executive-education",
+    "category": "depth_1",
+    "title": "Office of Executive Education | IIT Jodhpur",
+    "char_count": 3446,
+    "depth": 1
+  },
+  {
+    "id": 30,
+    "source": "https://iitj.ac.in/main/en/events?dsl=2&dslID=74ebb42f-9e61-47e6-bd93-defceeaa5e71",
+    "category": "depth_1",
+    "title": "All Events | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 466,
+    "depth": 1
+  },
+  {
+    "id": 32,
+    "source": "https://iitj.ac.in/m/Index/main-key functionaries?lg=en",
+    "category": "depth_1",
+    "title": "Key Functionaries | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 480,
+    "depth": 1
+  },
+  {
+    "id": 33,
+    "source": "https://iitj.ac.in/feedback",
+    "category": "depth_1",
+    "title": "Feedback",
+    "char_count": 323,
+    "depth": 1
+  },
+  {
+    "id": 34,
+    "source": "https://iitj.ac.in/office-of-stores-purchase/en/tender-details",
+    "category": "depth_1",
+    "title": "Tenders Details | Office of Stores & Purchase | IIT Jodhpur",
+    "char_count": 468,
+    "depth": 1
+  },
+  {
+    "id": 35,
+    "source": "https://iitj.ac.in/main/en/faqs-applicants",
+    "category": "depth_1",
+    "title": "FAQs: Applicants | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 819,
+    "depth": 1
+  },
+  {
+    "id": 36,
+    "source": "https://iitj.ac.in/m/Index/main-idrps-idrcs?lg=en",
+    "category": "depth_1",
+    "title": "IDRPs/IDRCs | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 548,
+    "depth": 1
+  },
+  {
+    "id": 37,
+    "source": "https://iitj.ac.in/anti-sexual-harassment-policy/en/anti-sexual-harassment-policy",
+    "category": "depth_1",
+    "title": "Anti Sexual Harassment Policy | IIT Jodhpur",
+    "char_count": 1358,
+    "depth": 1
+  },
+  {
+    "id": 38,
+    "source": "https://iitj.ac.in/m/Index/main-schools?lg=en",
+    "category": "depth_1",
+    "title": "Schools | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 517,
+    "depth": 1
+  },
+  {
+    "id": 39,
+    "source": "https://iitj.ac.in/main/en/director",
+    "category": "depth_1",
+    "title": "Director | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 5037,
+    "depth": 1
+  },
+  {
+    "id": 40,
+    "source": "https://iitj.ac.in/m/Index/schools-master%20of%20business%20administration?lg=en",
+    "category": "depth_1",
+    "title": "Master of Business Administration | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 487,
+    "depth": 1
+  },
+  {
+    "id": 41,
+    "source": "https://iitj.ac.in/m/Index/main-infrastructure?lg=en",
+    "category": "depth_1",
+    "title": "Infrastructure | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 472,
+    "depth": 1
+  },
+  {
+    "id": 42,
+    "source": "https://iitj.ac.in/aiot-fab-facility/en/aiot-fab-facility",
+    "category": "depth_1",
+    "title": "Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur",
+    "char_count": 4251,
+    "depth": 1
+  },
+  {
+    "id": 43,
+    "source": "https://iitj.ac.in/techscape/en/Techscape",
+    "category": "depth_1",
+    "title": "Techscape | IIT Jodhpur",
+    "char_count": 2458,
+    "depth": 1
+  },
+  {
+    "id": 44,
+    "source": "http://swc.iitj.ac.in",
+    "category": "depth_1",
+    "title": "Student Wellbeing Committee - IIT Jodhpur",
+    "char_count": 1585,
+    "depth": 1
+  },
+  {
+    "id": 45,
+    "source": "https://iitj.ac.in/m/Index/main-various offices?lg=en",
+    "category": "depth_1",
+    "title": "Various Offices | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1266,
+    "depth": 1
+  },
+  {
+    "id": 46,
+    "source": "https://iitj.ac.in/m/Index/main-departments?lg=en",
+    "category": "depth_1",
+    "title": "Departments | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 575,
+    "depth": 1
+  },
+  {
+    "id": 47,
+    "source": "https://iitj.ac.in/office-of-administration/en/office-of-administration",
+    "category": "depth_1",
+    "title": "Office of Administration | IIT Jodhpur",
+    "char_count": 3725,
+    "depth": 1
+  },
+  {
+    "id": 48,
+    "source": "https://iitj.ac.in/main/en/research-highlight",
+    "category": "depth_1",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1151,
+    "depth": 1
+  },
+  {
+    "id": 49,
+    "source": "https://iitj.ac.in/main/en/intranet-page",
+    "category": "depth_1",
+    "title": "Intranet Page | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 558,
+    "depth": 1
+  },
+  {
+    "id": 50,
+    "source": "https://iitj.ac.in/m/Index/main-outreach?lg=en",
+    "category": "depth_1",
+    "title": "Outreach | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 564,
+    "depth": 1
+  },
+  {
+    "id": 51,
+    "source": "https://iitj.ac.in/office-of-research-development/en/office-of-research-and-development",
+    "category": "depth_1",
+    "title": "Office of Research & Development | IIT Jodhpur",
+    "char_count": 2902,
+    "depth": 1
+  },
+  {
+    "id": 52,
+    "source": "https://iitj.ac.in/m/Index/main-programs?lg=en",
+    "category": "depth_1",
+    "title": "Programs | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 602,
+    "depth": 1
+  },
+  {
+    "id": 53,
+    "source": "https://iitj.ac.in/m/Index/main-centers?lg=en",
+    "category": "depth_1",
+    "title": "Centers | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 686,
+    "depth": 1
+  },
+  {
+    "id": 54,
+    "source": "https://iitj.ac.in/institute-repository/en/nirf",
+    "category": "depth_1",
+    "title": "NIRF | Institute Repository | IIT Jodhpur",
+    "char_count": 1175,
+    "depth": 1
+  },
+  {
+    "id": 55,
+    "source": "https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=682d62af-b4b9-46d8-8130-a2144d06e003",
+    "category": "depth_1",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 2280,
+    "depth": 1
+  },
+  {
+    "id": 56,
+    "source": "https://iitj.ac.in/main/en/how-to-reach-iit-jodhpur",
+    "category": "depth_1",
+    "title": "How To Reach IIT Jodhpur | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 2185,
+    "depth": 1
+  },
+  {
+    "id": 57,
+    "source": "https://iitj.ac.in/school-of-artificial-intelligence-data-science/en/Events?dsl=2&dslID=6bda9606-7644-4a40-b10c-fe0c914f4b3d",
+    "category": "depth_1",
+    "title": "Events | School of Artificial Intelligence & Data Science | IIT Jodhpur",
+    "char_count": 662,
+    "depth": 1
+  },
+  {
+    "id": 58,
+    "source": "https://iitj.ac.in/main/en/events",
+    "category": "depth_1",
+    "title": "All Events | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1358,
+    "depth": 1
+  },
+  {
+    "id": 59,
+    "source": "https://iitj.ac.in/admission-postgraduate-programs/en/Admission-to-Postgraduate-Programs",
+    "category": "depth_1",
+    "title": "Admission to Postgraduate Programs | IIT Jodhpur",
+    "char_count": 2252,
+    "depth": 1
+  },
+  {
+    "id": 60,
+    "source": "https://iitj.ac.in/main/en/administrative-contact",
+    "category": "depth_1",
+    "title": "Administrative Contact | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 2069,
+    "depth": 1
+  },
+  {
+    "id": 61,
+    "source": "https://iitj.ac.in/faculty-positions/en/faculty-positions",
+    "category": "depth_1",
+    "title": "Faculty Positions | IIT Jodhpur",
+    "char_count": 1651,
+    "depth": 1
+  },
+  {
+    "id": 62,
+    "source": "https://iitj.ac.in/main/en/events?dsl=2&dslID=651de5e6-905b-416b-95d8-9d221f39a4e5",
+    "category": "depth_1",
+    "title": "All Events | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1259,
+    "depth": 1
+  },
+  {
+    "id": 63,
+    "source": "https://iitj.ac.in/main/en/chairman",
+    "category": "depth_1",
+    "title": "Chairman, BoG | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 3944,
+    "depth": 1
+  },
+  {
+    "id": 64,
+    "source": "https://iitj.ac.in/m/Index/main-institute?lg=en",
+    "category": "depth_1",
+    "title": "Institute | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 453,
+    "depth": 1
+  },
+  {
+    "id": 65,
+    "source": "https://iitj.ac.in/main/en/web-policy",
+    "category": "depth_1",
+    "title": "Web Policy | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 23013,
+    "depth": 1
+  },
+  {
+    "id": 66,
+    "source": "https://iitj.ac.in/main/en/why-pursue-a-career-@-iit-jodhpur",
+    "category": "depth_1",
+    "title": "Why Pursue a Career @ IIT Jodhpur | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 4744,
+    "depth": 1
+  },
+  {
+    "id": 67,
+    "source": "https://iitj.ac.in/main/en/faculty-members",
+    "category": "depth_1",
+    "title": "Faculty Members | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1395,
+    "depth": 1
+  },
+  {
+    "id": 68,
+    "source": "https://iitj.ac.in/office-of-corporate-relations/en/Donate",
+    "category": "depth_1",
+    "title": "Donate | Office of Corporate Relations | IIT Jodhpur",
+    "char_count": 2328,
+    "depth": 1
+  },
+  {
+    "id": 69,
+    "source": "https://iitj.ac.in/office-of-students/en/office-of-students",
+    "category": "depth_1",
+    "title": "Office of Students | IIT Jodhpur",
+    "char_count": 3883,
+    "depth": 1
+  },
+  {
+    "id": 70,
+    "source": "https://iitj.ac.in/main/en/web-information-manager",
+    "category": "depth_1",
+    "title": "Web Information Manager (WIM) | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 784,
+    "depth": 1
+  },
+  {
+    "id": 71,
+    "source": "https://iitj.ac.in/Institute-Repository/en/Institute-Repository",
+    "category": "depth_1",
+    "title": "Institute Repository | IIT Jodhpur",
+    "char_count": 499,
+    "depth": 1
+  },
+  {
+    "id": 72,
+    "source": "https://iitj.ac.in/main/en/adjunct-faculty-members",
+    "category": "depth_1",
+    "title": "Adjunct Faculty Members | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1282,
+    "depth": 1
+  },
+  {
+    "id": 73,
+    "source": "https://iitj.ac.in/main/en/news?dsl=2&dslID=e68ae573-7d7e-4f5f-bf35-e3c801ac5f60",
+    "category": "depth_1",
+    "title": "All News | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 964,
+    "depth": 1
+  },
+  {
+    "id": 74,
+    "source": "https://iitj.ac.in/m/Index/main-statutory bodies?lg=en",
+    "category": "depth_1",
+    "title": "Statutory Bodies | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 492,
+    "depth": 1
+  },
+  {
+    "id": 75,
+    "source": "https://iitj.ac.in/main/en/admission-links",
+    "category": "depth_1",
+    "title": "Admission Links | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 562,
+    "depth": 1
+  },
+  {
+    "id": 76,
+    "source": "https://iitj.ac.in/m/Index/company-oversight?lg=en",
+    "category": "depth_1",
+    "title": "Company Oversight | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 632,
+    "depth": 1
+  },
+  {
+    "id": 77,
+    "source": "https://iitj.ac.in/Search?lg=en",
+    "category": "depth_1",
+    "title": "Search | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 385,
+    "depth": 1
+  },
+  {
+    "id": 79,
+    "source": "https://iitj.ac.in/office-of-director/en/office-of-director",
+    "category": "depth_1",
+    "title": "Office of Director | IIT Jodhpur",
+    "char_count": 3252,
+    "depth": 1
+  },
+  {
+    "id": 80,
+    "source": "https://iitj.ac.in/main/hi/iitj",
+    "category": "depth_1",
+    "title": "\u092d\u093e\u0930\u0924\u0940\u092f \u092a\u094d\u0930\u094c\u0926\u094d\u092f\u094b\u0917\u093f\u0915\u0940 \u0938\u0902\u0938\u094d\u0925\u093e\u0928 \u091c\u094b\u0927\u092a\u0941\u0930",
+    "char_count": 232,
+    "depth": 1
+  },
+  {
+    "id": 82,
+    "source": "https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=d747bac3-a0bd-4a6a-8843-6d33e721b331",
+    "category": "depth_1",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 3825,
+    "depth": 1
+  },
+  {
+    "id": 83,
+    "source": "https://iitj.ac.in/health-center/en/health-center",
+    "category": "depth_1",
+    "title": "Health Center | IIT Jodhpur",
+    "char_count": 4382,
+    "depth": 1
+  },
+  {
+    "id": 84,
+    "source": "https://iitj.ac.in/office-of-deputy-director/en/office-of-deputy-director",
+    "category": "depth_1",
+    "title": "Office of Deputy Director | IIT Jodhpur",
+    "char_count": 818,
+    "depth": 1
+  },
+  {
+    "id": 85,
+    "source": "https://iitj.ac.in/crf/en/crf",
+    "category": "depth_1",
+    "title": "Central Research Facility (CRF) | IIT Jodhpur",
+    "char_count": 2423,
+    "depth": 1
+  },
+  {
+    "id": 86,
+    "source": "https://iitj.ac.in/main/en/scholars-in-residence",
+    "category": "depth_1",
+    "title": "Scholars-in-Residence | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1446,
+    "depth": 1
+  },
+  {
+    "id": 87,
+    "source": "https://iitj.ac.in/main/en/recruitments",
+    "category": "depth_1",
+    "title": "Recruitments | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 499,
+    "depth": 1
+  },
+  {
+    "id": 88,
+    "source": "https://iitj.ac.in/main/en/Help",
+    "category": "depth_1",
+    "title": "Help | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1339,
+    "depth": 1
+  },
+  {
+    "id": 89,
+    "source": "https://iitj.ac.in/main/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 740,
+    "depth": 1
+  },
+  {
+    "id": 90,
+    "source": "https://iitj.ac.in/schools/en/cat-cut-offs",
+    "category": "depth_1",
+    "title": "CAT Cut-offs | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 496,
+    "depth": 1
+  },
+  {
+    "id": 91,
+    "source": "https://www.iitj.ac.in/admission-postgraduate-programs/en/msc-computational-social-science",
+    "category": "depth_1",
+    "title": "M.Sc. Computational Social Science AY 2026-27 | Admission to Postgraduate Programs | IIT Jodhpur",
+    "char_count": 1173,
+    "depth": 1
+  },
+  {
+    "id": 92,
+    "source": "https://www.iitj.ac.in/m/Index/schools-master%20of%20business%20administration?lg=en",
+    "category": "depth_1",
+    "title": "Master of Business Administration | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 487,
+    "depth": 1
+  },
+  {
+    "id": 93,
+    "source": "https://iitj.ac.in/Main/en/Help",
+    "category": "depth_1",
+    "title": "Help | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1339,
+    "depth": 1
+  },
+  {
+    "id": 94,
+    "source": "https://iitj.ac.in/main/en/all-announcement",
+    "category": "depth_1",
+    "title": "All Announcements | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1135,
+    "depth": 1
+  },
+  {
+    "id": 95,
+    "source": "https://iitj.ac.in/office-of-registrar/en/office-of-registrar",
+    "category": "depth_1",
+    "title": "Office of Registrar | IIT Jodhpur",
+    "char_count": 1386,
+    "depth": 1
+  },
+  {
+    "id": 96,
+    "source": "https://iitj.ac.in/admission-postgraduate-programs/en/list-of-shortlisted-candidates",
+    "category": "depth_1",
+    "title": "List of Shortlisted Candidates | Admission to Postgraduate Programs | IIT Jodhpur",
+    "char_count": 1236,
+    "depth": 1
+  },
+  {
+    "id": 97,
+    "source": "https://iitj.ac.in/admission-postgraduate-programs/en/list-of-provisionally-selected-candidates",
+    "category": "depth_1",
+    "title": "List of Provisionally Selected Candidates | Admission to Postgraduate Programs | IIT Jodhpur",
+    "char_count": 907,
+    "depth": 1
+  },
+  {
+    "id": 98,
+    "source": "https://iitj.ac.in/AtoZ?lg=en",
+    "category": "depth_1",
+    "title": "Sitemap",
+    "char_count": 53938,
+    "depth": 1
+  },
+  {
+    "id": 99,
+    "source": "https://iitj.ac.in/dia/en/dia",
+    "category": "depth_1",
+    "title": "Digital Infrastructure & Automation (DIA) | IIT Jodhpur",
+    "char_count": 1742,
+    "depth": 1
+  },
+  {
+    "id": 100,
+    "source": "https://iitj.ac.in/main/en/news?dsl=2&dslID=e0f79fba-e306-49c8-9f2a-0df29de67bc1",
+    "category": "depth_1",
+    "title": "All News | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 822,
+    "depth": 1
+  },
+  {
+    "id": 101,
+    "source": "https://iitj.ac.in/main/en/news",
+    "category": "depth_1",
+    "title": "All News | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1945,
+    "depth": 1
+  },
+  {
+    "id": 102,
+    "source": "https://iitj.ac.in/main/en/iitj",
+    "category": "depth_1",
+    "title": "Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 3197,
+    "depth": 1
+  },
+  {
+    "id": 103,
+    "source": "https://iitj.ac.in/office-of-students/en/campus-life",
+    "category": "depth_1",
+    "title": "Campus Life | Office of Students | IIT Jodhpur",
+    "char_count": 1709,
+    "depth": 1
+  },
+  {
+    "id": 104,
+    "source": "https://iitj.ac.in/electrical-engineering/en/Research-Highlights?dsl=2&dslID=45070ea5-4bdc-4e1f-a594-bb7c6cafa195",
+    "category": "depth_1",
+    "title": "Research Highlights | Electrical Engineering | IIT Jodhpur",
+    "char_count": 865,
+    "depth": 1
+  },
+  {
+    "id": 105,
+    "source": "https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=3647aa9a-ea25-41e5-9bc4-4f491beb5f4d",
+    "category": "depth_1",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 3473,
+    "depth": 1
+  },
+  {
+    "id": 106,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/placements",
+    "category": "depth_1",
+    "title": "Placements | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 491,
+    "depth": 1
+  },
+  {
+    "id": 107,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/faculty",
+    "category": "depth_1",
+    "title": "Faculty | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 4683,
+    "depth": 1
+  },
+  {
+    "id": 108,
+    "source": "https://iitj.ac.in/grad-cohort-workshop/en/Grad-Cohort-Workshop",
+    "category": "depth_1",
+    "title": "Grad Cohort Workshop | IIT Jodhpur",
+    "char_count": 1702,
+    "depth": 1
+  },
+  {
+    "id": 109,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/Research-Archive",
+    "category": "depth_1",
+    "title": "Research Archive | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 33403,
+    "depth": 1
+  },
+  {
+    "id": 110,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/projects",
+    "category": "depth_1",
+    "title": "Projects | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 7589,
+    "depth": 1
+  },
+  {
+    "id": 111,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/compute-resources",
+    "category": "depth_1",
+    "title": "Compute Resources | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 2972,
+    "depth": 1
+  },
+  {
+    "id": 112,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/doctoral-programs",
+    "category": "depth_1",
+    "title": "Doctoral Programs | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 7754,
+    "depth": 1
+  },
+  {
+    "id": 113,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/Faculty",
+    "category": "depth_1",
+    "title": "Faculty | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 4683,
+    "depth": 1
+  },
+  {
+    "id": 114,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/postgraduate-programs",
+    "category": "depth_1",
+    "title": "Postgraduate Programs | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 7115,
+    "depth": 1
+  },
+  {
+    "id": 115,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 627,
+    "depth": 1
+  },
+  {
+    "id": 116,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/webinars",
+    "category": "depth_1",
+    "title": "Webinars | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 819,
+    "depth": 1
+  },
+  {
+    "id": 117,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/outstanding-student-projects",
+    "category": "depth_1",
+    "title": "Outstanding Student Projects | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 2224,
+    "depth": 1
+  },
+  {
+    "id": 118,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/computer-science-and-engineering",
+    "category": "depth_1",
+    "title": "Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 4714,
+    "depth": 1
+  },
+  {
+    "id": 119,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/students",
+    "category": "depth_1",
+    "title": "Students | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 1673,
+    "depth": 1
+  },
+  {
+    "id": 120,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/research-area-labs",
+    "category": "depth_1",
+    "title": "Research Area & Labs | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 562,
+    "depth": 1
+  },
+  {
+    "id": 121,
+    "source": "https://iitj.ac.in/computer-science-engineering/hi/computer-science-and-engineering",
+    "category": "depth_1",
+    "title": "\u0938\u0902\u0917\u0923\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0914\u0930 \u0905\u092d\u093f\u092f\u093e\u0902\u0924\u094d\u0930\u093f\u0915\u0940",
+    "char_count": 394,
+    "depth": 1
+  },
+  {
+    "id": 122,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/student-achievements",
+    "category": "depth_1",
+    "title": "Student Achievements | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 4039,
+    "depth": 1
+  },
+  {
+    "id": 123,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/iit-jodhpur-industry-connect-2022",
+    "category": "depth_1",
+    "title": "IIT Jodhpur Industry Connect 2022 | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 4061,
+    "depth": 1
+  },
+  {
+    "id": 124,
+    "source": "https://iitj.ac.in/admission-postgraduate-programs/en/Rolling-advertisement-for-Admission-to-Interdisciplinary-and-Ph.D.-Programmes?ep=fw",
+    "category": "depth_1",
+    "title": "Rolling advertisement for Admission to Interdisciplinary and Ph.D. Programmes | Admission to Postgraduate Programs | IIT Jodhpur",
+    "char_count": 1318,
+    "depth": 1
+  },
+  {
+    "id": 125,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/researchers",
+    "category": "depth_1",
+    "title": "Researchers | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 606,
+    "depth": 1
+  },
+  {
+    "id": 126,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/alumni",
+    "category": "depth_1",
+    "title": "Alumni | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 415,
+    "depth": 1
+  },
+  {
+    "id": 127,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/students-presentation",
+    "category": "depth_1",
+    "title": "Students Presentation | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 497,
+    "depth": 1
+  },
+  {
+    "id": 128,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/Annoncement-Archive",
+    "category": "depth_1",
+    "title": "Annoncement Archive | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 6272,
+    "depth": 1
+  },
+  {
+    "id": 129,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/News-Events",
+    "category": "depth_1",
+    "title": "News & Events | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 469,
+    "depth": 1
+  },
+  {
+    "id": 130,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/sponsors-collaborators",
+    "category": "depth_1",
+    "title": "Sponsors & Collaborators | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 2476,
+    "depth": 1
+  },
+  {
+    "id": 131,
+    "source": "https://iitj.ac.in/winter-school/en/Winter-School",
+    "category": "depth_1",
+    "title": "Winter School | IIT Jodhpur",
+    "char_count": 1401,
+    "depth": 1
+  },
+  {
+    "id": 132,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/faculty-achievements",
+    "category": "depth_1",
+    "title": "Faculty Achievements | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 4829,
+    "depth": 1
+  },
+  {
+    "id": 133,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/undergraduate-programs",
+    "category": "depth_1",
+    "title": "Undergraduate Programs | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 4090,
+    "depth": 1
+  },
+  {
+    "id": 134,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/programs-for-working-professionals",
+    "category": "depth_1",
+    "title": "Programs for Working Professionals | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 8541,
+    "depth": 1
+  },
+  {
+    "id": 135,
+    "source": "https://www.iitj.ac.in/admission-postgraduate-programs/en/list-of-provisionally-selected-candidates",
+    "category": "depth_1",
+    "title": "List of Provisionally Selected Candidates | Admission to Postgraduate Programs | IIT Jodhpur",
+    "char_count": 907,
+    "depth": 1
+  },
+  {
+    "id": 136,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/teams",
+    "category": "depth_1",
+    "title": "Teams | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 458,
+    "depth": 1
+  },
+  {
+    "id": 137,
+    "source": "https://iitj.ac.in/computer-science-engineering/en/phd-students",
+    "category": "depth_1",
+    "title": "PhD Students | Computer Science & Engineering | IIT Jodhpur",
+    "char_count": 12482,
+    "depth": 1
+  },
+  {
+    "id": 138,
+    "source": "https://iitj.ac.in/electrical-engineering/en/research-overview",
+    "category": "depth_1",
+    "title": "Research Overview | Electrical Engineering | IIT Jodhpur",
+    "char_count": 3877,
+    "depth": 1
+  },
+  {
+    "id": 139,
+    "source": "https://iitj.ac.in/electrical-engineering/en/post-doctoral-fellows",
+    "category": "depth_1",
+    "title": "Post Doctoral Fellows | Electrical Engineering | IIT Jodhpur",
+    "char_count": 806,
+    "depth": 1
+  },
+  {
+    "id": 140,
+    "source": "https://iitj.ac.in/electrical-engineering/en/doctoral-program",
+    "category": "depth_1",
+    "title": "Doctoral Program | Electrical Engineering | IIT Jodhpur",
+    "char_count": 2370,
+    "depth": 1
+  },
+  {
+    "id": 141,
+    "source": "https://www.iitj.ac.in/electrical-engineering/en/Research-Highlights?dsl=2&dslID=fdf273ff-7aba-4b31-a972-27572962f5f3",
+    "category": "depth_1",
+    "title": "Research Highlights | Electrical Engineering | IIT Jodhpur",
+    "char_count": 809,
+    "depth": 1
+  },
+  {
+    "id": 142,
+    "source": "https://iitj.ac.in/electrical-engineering/en/News-Newsletter?dsl=2&dslID=c1dabca8-6870-4104-a18c-26251fd677da",
+    "category": "depth_1",
+    "title": "News & Newsletter | Electrical Engineering | IIT Jodhpur",
+    "char_count": 770,
+    "depth": 1
+  },
+  {
+    "id": 143,
+    "source": "https://iitj.ac.in/electrical-engineering/en/faculty-members",
+    "category": "depth_1",
+    "title": "Faculty Members | Electrical Engineering | IIT Jodhpur",
+    "char_count": 1420,
+    "depth": 1
+  },
+  {
+    "id": 144,
+    "source": "https://iitj.ac.in/main/en/events?dsl=2&dslID=11101c33-1810-4d4d-a9b5-1bcc488ef6ba",
+    "category": "depth_1",
+    "title": "All Events | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1181,
+    "depth": 1
+  },
+  {
+    "id": 145,
+    "source": "https://iitj.ac.in/electrical-engineering/en/News-Newsletter?dsl=2&dslID=df2f95a0-8d6e-4167-ae72-460e4e7af21c",
+    "category": "depth_1",
+    "title": "News & Newsletter | Electrical Engineering | IIT Jodhpur",
+    "char_count": 575,
+    "depth": 1
+  },
+  {
+    "id": 147,
+    "source": "https://iitj.ac.in/electrical-engineering/en/Research-Highlights?dsl=2&dslID=b2edd69b-19f5-4ac8-ab29-e62467c56e62",
+    "category": "depth_1",
+    "title": "Research Highlights | Electrical Engineering | IIT Jodhpur",
+    "char_count": 1493,
+    "depth": 1
+  },
+  {
+    "id": 148,
+    "source": "https://iitj.ac.in/electrical-engineering/en/curriculum",
+    "category": "depth_1",
+    "title": "Curriculum | Electrical Engineering | IIT Jodhpur",
+    "char_count": 1422,
+    "depth": 1
+  },
+  {
+    "id": 149,
+    "source": "https://iitj.ac.in/electrical-engineering/en/events-and-activities",
+    "category": "depth_1",
+    "title": "Events and Activities | Electrical Engineering | IIT Jodhpur",
+    "char_count": 1263,
+    "depth": 1
+  },
+  {
+    "id": 150,
+    "source": "https://iitj.ac.in/electrical-engineering/en/ongoing-projects",
+    "category": "depth_1",
+    "title": "Ongoing Projects | Electrical Engineering | IIT Jodhpur",
+    "char_count": 5792,
+    "depth": 1
+  },
+  {
+    "id": 151,
+    "source": "https://iitj.ac.in/electrical-engineering/en/postgraduate-program",
+    "category": "depth_1",
+    "title": "Postgraduate program | Electrical Engineering | IIT Jodhpur",
+    "char_count": 1074,
+    "depth": 1
+  },
+  {
+    "id": 152,
+    "source": "https://iitj.ac.in/electrical-engineering/hi/electrical-engineering",
+    "category": "depth_1",
+    "title": "\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u0905\u092d\u093f\u092f\u093e\u0902\u0924\u094d\u0930\u093f\u0915\u0940",
+    "char_count": 221,
+    "depth": 1
+  },
+  {
+    "id": 153,
+    "source": "https://iitj.ac.in/electrical-engineering/en/electrical-engineering",
+    "category": "depth_1",
+    "title": "Electrical Engineering | IIT Jodhpur",
+    "char_count": 3785,
+    "depth": 1
+  },
+  {
+    "id": 154,
+    "source": "https://iitj.ac.in/electrical-engineering/en/Research-Highlights",
+    "category": "depth_1",
+    "title": "Research Highlights | Electrical Engineering | IIT Jodhpur",
+    "char_count": 1161,
+    "depth": 1
+  },
+  {
+    "id": 155,
+    "source": "https://iitj.ac.in/electrical-engineering/en/completed-projects",
+    "category": "depth_1",
+    "title": "Completed Projects | Electrical Engineering | IIT Jodhpur",
+    "char_count": 2489,
+    "depth": 1
+  },
+  {
+    "id": 156,
+    "source": "https://iitj.ac.in/electrical-engineering/en/calender",
+    "category": "depth_1",
+    "title": "Calender | Electrical Engineering | IIT Jodhpur",
+    "char_count": 409,
+    "depth": 1
+  },
+  {
+    "id": 157,
+    "source": "https://iitj.ac.in/electrical-engineering/en/News-Newsletter?dsl=2&dslID=94d697eb-8eb3-4978-b346-20374fc6f308",
+    "category": "depth_1",
+    "title": "News & Newsletter | Electrical Engineering | IIT Jodhpur",
+    "char_count": 603,
+    "depth": 1
+  },
+  {
+    "id": 158,
+    "source": "https://iitj.ac.in/electrical-engineering/en/Events-and-Activities?dsl=2&dslID=e5ce5c85-868d-4dfb-9fc9-54d2a17bc4f5",
+    "category": "depth_1",
+    "title": "Events and Activities | Electrical Engineering | IIT Jodhpur",
+    "char_count": 1276,
+    "depth": 1
+  },
+  {
+    "id": 159,
+    "source": "https://iitj.ac.in/electrical-engineering/en/collaborations",
+    "category": "depth_1",
+    "title": "Collaborations | Electrical Engineering | IIT Jodhpur",
+    "char_count": 3922,
+    "depth": 1
+  },
+  {
+    "id": 160,
+    "source": "https://iitj.ac.in/electrical-engineering/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Electrical Engineering | IIT Jodhpur",
+    "char_count": 579,
+    "depth": 1
+  },
+  {
+    "id": 161,
+    "source": "https://iitj.ac.in/electrical-engineering/en/project-staff-members",
+    "category": "depth_1",
+    "title": "Project Staff Members | Electrical Engineering | IIT Jodhpur",
+    "char_count": 715,
+    "depth": 1
+  },
+  {
+    "id": 162,
+    "source": "https://iitj.ac.in/Electrical-Engineering/en/News-Newsletter",
+    "category": "depth_1",
+    "title": "News & Newsletter | Electrical Engineering | IIT Jodhpur",
+    "char_count": 1771,
+    "depth": 1
+  },
+  {
+    "id": 163,
+    "source": "https://iitj.ac.in/electrical-engineering/en/laboratories",
+    "category": "depth_1",
+    "title": "Laboratories | Electrical Engineering | IIT Jodhpur",
+    "char_count": 534,
+    "depth": 1
+  },
+  {
+    "id": 164,
+    "source": "https://iitj.ac.in/electrical-engineering/en/undergraduate-program",
+    "category": "depth_1",
+    "title": "Undergraduate Program | Electrical Engineering | IIT Jodhpur",
+    "char_count": 9301,
+    "depth": 1
+  },
+  {
+    "id": 165,
+    "source": "https://iitj.ac.in/Electrical-Engineering/en/Research-Overview",
+    "category": "depth_1",
+    "title": "Research Overview | Electrical Engineering | IIT Jodhpur",
+    "char_count": 3877,
+    "depth": 1
+  },
+  {
+    "id": 166,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/about-research",
+    "category": "depth_1",
+    "title": "About Research | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 576,
+    "depth": 1
+  },
+  {
+    "id": 167,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/program-structure",
+    "category": "depth_1",
+    "title": "Program Structure | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 951,
+    "depth": 1
+  },
+  {
+    "id": 168,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/laboratories",
+    "category": "depth_1",
+    "title": "Laboratories | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 2150,
+    "depth": 1
+  },
+  {
+    "id": 169,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/News-Newsletter",
+    "category": "depth_1",
+    "title": "News & Newsletter | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 3244,
+    "depth": 1
+  },
+  {
+    "id": 170,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/undergraduate-program",
+    "category": "depth_1",
+    "title": "Undergraduate Program | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 7542,
+    "depth": 1
+  },
+  {
+    "id": 171,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 535,
+    "depth": 1
+  },
+  {
+    "id": 172,
+    "source": "https://iitj.ac.in/Mechanical-Engineering/en/Research-Highlights?dsl=2&dslID=e6434f72-b92b-418a-b683-b98cbc25d1e9",
+    "category": "depth_1",
+    "title": "Research Highlights | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 1654,
+    "depth": 1
+  },
+  {
+    "id": 173,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/Research-Highlights",
+    "category": "depth_1",
+    "title": "Research Highlights | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 445,
+    "depth": 1
+  },
+  {
+    "id": 174,
+    "source": "https://iitj.ac.in/Mechanical-Engineering/en/Research-Highlights?dsl=2&dslID=ca74623b-8627-4d3c-a2ea-60fb1e48f5f2",
+    "category": "depth_1",
+    "title": "Research Highlights | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 1503,
+    "depth": 1
+  },
+  {
+    "id": 175,
+    "source": "https://iitj.ac.in/mechanical-engineering/hi/mechanical-engineering",
+    "category": "depth_1",
+    "title": "\u092f\u093e\u0902\u0924\u094d\u0930\u093f\u0915\u0940 \u0905\u092d\u093f\u092f\u093e\u0902\u0924\u094d\u0930\u093f\u0915\u0940",
+    "char_count": 225,
+    "depth": 1
+  },
+  {
+    "id": 176,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/faculty-members",
+    "category": "depth_1",
+    "title": "Faculty Members | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 2176,
+    "depth": 1
+  },
+  {
+    "id": 177,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/curriculum",
+    "category": "depth_1",
+    "title": "Curriculum | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 1792,
+    "depth": 1
+  },
+  {
+    "id": 178,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/regulations",
+    "category": "depth_1",
+    "title": "Regulations | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 781,
+    "depth": 1
+  },
+  {
+    "id": 179,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/Seminars-and-Meetings",
+    "category": "depth_1",
+    "title": "Seminar And Meetings | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 899,
+    "depth": 1
+  },
+  {
+    "id": 180,
+    "source": "https://iitj.ac.in/Mechanical-Engineering/en/Research-Highlights?dsl=2&dslID=24ec98ef-5698-4fef-831c-374a9427bbcb",
+    "category": "depth_1",
+    "title": "Research Highlights | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 1745,
+    "depth": 1
+  },
+  {
+    "id": 181,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/post-doctoral-fellows",
+    "category": "depth_1",
+    "title": "Post Doctoral Fellows | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 1083,
+    "depth": 1
+  },
+  {
+    "id": 182,
+    "source": "https://events.iitj.ac.in/IHMTC2025",
+    "category": "depth_1",
+    "title": "IHMTC-2025",
+    "char_count": 4853,
+    "depth": 1
+  },
+  {
+    "id": 183,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/technical-staff-members",
+    "category": "depth_1",
+    "title": "Technical Staff Members | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 1205,
+    "depth": 1
+  },
+  {
+    "id": 184,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/courses",
+    "category": "depth_1",
+    "title": "Courses | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 1100,
+    "depth": 1
+  },
+  {
+    "id": 185,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/completed-projects",
+    "category": "depth_1",
+    "title": "Completed Projects | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 1319,
+    "depth": 1
+  },
+  {
+    "id": 186,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/News-Newsletter?dsl=2&dslID=005fa4f7-4d94-4cee-800e-f1daa8afa1f5",
+    "category": "depth_1",
+    "title": "News & Newsletter | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 603,
+    "depth": 1
+  },
+  {
+    "id": 187,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/ongoing-projects",
+    "category": "depth_1",
+    "title": "Ongoing Projects | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 26879,
+    "depth": 1
+  },
+  {
+    "id": 188,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/collaborations",
+    "category": "depth_1",
+    "title": "Collaborations | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 929,
+    "depth": 1
+  },
+  {
+    "id": 189,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/postgraduate-program",
+    "category": "depth_1",
+    "title": "Postgraduate Program | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 3283,
+    "depth": 1
+  },
+  {
+    "id": 190,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/mechanical-engineering",
+    "category": "depth_1",
+    "title": "Mechanical Engineering | IIT Jodhpur",
+    "char_count": 4196,
+    "depth": 1
+  },
+  {
+    "id": 191,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/doctorial-program",
+    "category": "depth_1",
+    "title": "Doctorial Program | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 2369,
+    "depth": 1
+  },
+  {
+    "id": 192,
+    "source": "https://iitj.ac.in/mechanical-engineering/en/Project-Staff-Members",
+    "category": "depth_1",
+    "title": "Project Staff Members | Mechanical Engineering | IIT Jodhpur",
+    "char_count": 1233,
+    "depth": 1
+  },
+  {
+    "id": 193,
+    "source": "https://iitj.ac.in/chemical-engineering/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Chemical Engineering | IIT Jodhpur",
+    "char_count": 663,
+    "depth": 1
+  },
+  {
+    "id": 194,
+    "source": "https://iitj.ac.in/chemical-engineering/en/curriculum",
+    "category": "depth_1",
+    "title": "Curriculum | Chemical Engineering | IIT Jodhpur",
+    "char_count": 1103,
+    "depth": 1
+  },
+  {
+    "id": 195,
+    "source": "https://iitj.ac.in/chemical-engineering/en/about-research",
+    "category": "depth_1",
+    "title": "Research & Infrastructure | Chemical Engineering | IIT Jodhpur",
+    "char_count": 536,
+    "depth": 1
+  },
+  {
+    "id": 196,
+    "source": "https://iitj.ac.in/chemical-engineering/en/collaborations",
+    "category": "depth_1",
+    "title": "Collaborations | Chemical Engineering | IIT Jodhpur",
+    "char_count": 1339,
+    "depth": 1
+  },
+  {
+    "id": 197,
+    "source": "https://iitj.ac.in/chemical-engineering/en/completed-projects",
+    "category": "depth_1",
+    "title": "Completed Projects | Chemical Engineering | IIT Jodhpur",
+    "char_count": 911,
+    "depth": 1
+  },
+  {
+    "id": 198,
+    "source": "https://iitj.ac.in/chemical-engineering/en/doctoral-program",
+    "category": "depth_1",
+    "title": "Doctoral Program | Chemical Engineering | IIT Jodhpur",
+    "char_count": 1072,
+    "depth": 1
+  },
+  {
+    "id": 199,
+    "source": "https://iitj.ac.in/chemical-engineering/en/postgraduate-program",
+    "category": "depth_1",
+    "title": "Postgraduate Program | Chemical Engineering | IIT Jodhpur",
+    "char_count": 3288,
+    "depth": 1
+  },
+  {
+    "id": 200,
+    "source": "https://iitj.ac.in/chemical-engineering/en/chemical-engineering",
+    "category": "depth_1",
+    "title": "Chemical Engineering | IIT Jodhpur",
+    "char_count": 3945,
+    "depth": 1
+  },
+  {
+    "id": 201,
+    "source": "https://iitj.ac.in/chemical-engineering/en/alumni",
+    "category": "depth_1",
+    "title": "Alumni | Chemical Engineering | IIT Jodhpur",
+    "char_count": 478,
+    "depth": 1
+  },
+  {
+    "id": 202,
+    "source": "https://iitj.ac.in/chemical-engineering/en/undergraduate-program",
+    "category": "depth_1",
+    "title": "Undergraduate Program | Chemical Engineering | IIT Jodhpur",
+    "char_count": 4782,
+    "depth": 1
+  },
+  {
+    "id": 203,
+    "source": "https://iitj.ac.in/chemical-engineering/en/Latest-News?dsl=2&dslID=3a0f6f31-4c4d-433a-8bc1-886fc3e44d43",
+    "category": "depth_1",
+    "title": "Latest News | Chemical Engineering | IIT Jodhpur",
+    "char_count": 598,
+    "depth": 1
+  },
+  {
+    "id": 204,
+    "source": "https://iitj.ac.in/chemical-engineering/en/laboratories",
+    "category": "depth_1",
+    "title": "Laboratories | Chemical Engineering | IIT Jodhpur",
+    "char_count": 586,
+    "depth": 1
+  },
+  {
+    "id": 205,
+    "source": "https://iitj.ac.in/chemical-engineering/en/project-staff-members",
+    "category": "depth_1",
+    "title": "Project Staff Members | Chemical Engineering | IIT Jodhpur",
+    "char_count": 1267,
+    "depth": 1
+  },
+  {
+    "id": 206,
+    "source": "https://iitj.ac.in/chemical-engineering/en/corporate-relations",
+    "category": "depth_1",
+    "title": "Corporate Relations | Chemical Engineering | IIT Jodhpur",
+    "char_count": 943,
+    "depth": 1
+  },
+  {
+    "id": 207,
+    "source": "https://iitj.ac.in/chemical-engineering/en/Latest-News?dsl=2&dslID=f6fc29cb-10ab-43a9-825e-fe8484bb44db",
+    "category": "depth_1",
+    "title": "Latest News | Chemical Engineering | IIT Jodhpur",
+    "char_count": 457,
+    "depth": 1
+  },
+  {
+    "id": 208,
+    "source": "https://iitj.ac.in/Chemical-Engineering/en/Research-Highlights?dsl=2&dslID=8a0a55d9-615f-49db-ab65-651558ef8572",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemical Engineering | IIT Jodhpur",
+    "char_count": 985,
+    "depth": 1
+  },
+  {
+    "id": 209,
+    "source": "https://iitj.ac.in/chemical-engineering/en/faculty-members",
+    "category": "depth_1",
+    "title": "Faculty Members | Chemical Engineering | IIT Jodhpur",
+    "char_count": 2083,
+    "depth": 1
+  },
+  {
+    "id": 210,
+    "source": "https://iitj.ac.in/chemical-engineering/en/courses",
+    "category": "depth_1",
+    "title": "Courses | Chemical Engineering | IIT Jodhpur",
+    "char_count": 1614,
+    "depth": 1
+  },
+  {
+    "id": 211,
+    "source": "https://iitj.ac.in/chemical-engineering/en/ongoing-projects",
+    "category": "depth_1",
+    "title": "Ongoing Projects | Chemical Engineering | IIT Jodhpur",
+    "char_count": 2192,
+    "depth": 1
+  },
+  {
+    "id": 212,
+    "source": "https://iitj.ac.in/chemical-engineering/en/program-structure",
+    "category": "depth_1",
+    "title": "Program Structure | Chemical Engineering | IIT Jodhpur",
+    "char_count": 1154,
+    "depth": 1
+  },
+  {
+    "id": 213,
+    "source": "https://iitj.ac.in/chemical-engineering/en/post-doctoral-fellows",
+    "category": "depth_1",
+    "title": "Post Doctoral Fellows | Chemical Engineering | IIT Jodhpur",
+    "char_count": 777,
+    "depth": 1
+  },
+  {
+    "id": 214,
+    "source": "https://iitj.ac.in/chemical-engineering/en/regulations",
+    "category": "depth_1",
+    "title": "Regulations | Chemical Engineering | IIT Jodhpur",
+    "char_count": 492,
+    "depth": 1
+  },
+  {
+    "id": 215,
+    "source": "https://iitj.ac.in/Chemical-Engineering/en/Research-Highlights",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemical Engineering | IIT Jodhpur",
+    "char_count": 936,
+    "depth": 1
+  },
+  {
+    "id": 216,
+    "source": "https://iitj.ac.in/chemical-engineering/en/Latest-Events?ep=fw",
+    "category": "depth_1",
+    "title": "Latest Events | Chemical Engineering | IIT Jodhpur",
+    "char_count": 639,
+    "depth": 1
+  },
+  {
+    "id": 218,
+    "source": "https://iitj.ac.in/Chemical-engineering/en/Research-Highlights?dsl=2&dslID=30343c06-1ae7-4d29-80da-e7034f9e2638",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemical Engineering | IIT Jodhpur",
+    "char_count": 612,
+    "depth": 1
+  },
+  {
+    "id": 219,
+    "source": "https://iitj.ac.in/chemical-engineering/en/\u091b\u093e\u0924\u094d\u0930",
+    "category": "depth_1",
+    "title": "Students | Chemical Engineering | IIT Jodhpur",
+    "char_count": 5439,
+    "depth": 1
+  },
+  {
+    "id": 220,
+    "source": "https://iitj.ac.in/chemical-engineering/en/Latest-News",
+    "category": "depth_1",
+    "title": "Latest News | Chemical Engineering | IIT Jodhpur",
+    "char_count": 1146,
+    "depth": 1
+  },
+  {
+    "id": 222,
+    "source": "https://iitj.ac.in/chemical-engineering/en/technical-staff-members",
+    "category": "depth_1",
+    "title": "Technical Staff Members | Chemical Engineering | IIT Jodhpur",
+    "char_count": 781,
+    "depth": 1
+  },
+  {
+    "id": 223,
+    "source": "https://iitj.ac.in/chemical-engineering/en/about-recruitment",
+    "category": "depth_1",
+    "title": "About Recruitment | Chemical Engineering | IIT Jodhpur",
+    "char_count": 2041,
+    "depth": 1
+  },
+  {
+    "id": 224,
+    "source": "https://iitj.ac.in/Chemical-Engineering/en/Research-Highlights?dsl=2&dslID=7a369de4-b933-4731-8748-d058244a3d1f",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemical Engineering | IIT Jodhpur",
+    "char_count": 916,
+    "depth": 1
+  },
+  {
+    "id": 225,
+    "source": "https://iitj.ac.in/materials-engineering/en/materials-engineering",
+    "category": "depth_1",
+    "title": "Materials Engineering | IIT Jodhpur",
+    "char_count": 3917,
+    "depth": 1
+  },
+  {
+    "id": 226,
+    "source": "https://iitj.ac.in/materials-engineering/en/Research-Highlights?dsl=2&dslID=e3ec29b9-b08e-4743-a212-3e5abff49de2",
+    "category": "depth_1",
+    "title": "Research Highlights | Materials Engineering | IIT Jodhpur",
+    "char_count": 1706,
+    "depth": 1
+  },
+  {
+    "id": 228,
+    "source": "https://iitj.ac.in/materials-engineering/en/News-Newsletter?ep=fw",
+    "category": "depth_1",
+    "title": "News & Newsletter | Materials Engineering | IIT Jodhpur",
+    "char_count": 1161,
+    "depth": 1
+  },
+  {
+    "id": 229,
+    "source": "https://iitj.ac.in/metallurgical-and-materials-engineering/en/Events?dsl=2&dslID=6c19c3ad-8694-4372-9975-9d870d126b40",
+    "category": "depth_1",
+    "title": "All Events | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 5206,
+    "depth": 1
+  },
+  {
+    "id": 230,
+    "source": "https://iitj.ac.in/materials-engineering/en/post-doctoral-fellows",
+    "category": "depth_1",
+    "title": "Post Doctoral Fellows | Materials Engineering | IIT Jodhpur",
+    "char_count": 745,
+    "depth": 1
+  },
+  {
+    "id": 231,
+    "source": "https://iitj.ac.in/materials-engineering/en/program-structure",
+    "category": "depth_1",
+    "title": "Program Structure | Materials Engineering | IIT Jodhpur",
+    "char_count": 633,
+    "depth": 1
+  },
+  {
+    "id": 232,
+    "source": "https://iitj.ac.in/materials-engineering/en/regulations",
+    "category": "depth_1",
+    "title": "Regulations | Materials Engineering | IIT Jodhpur",
+    "char_count": 767,
+    "depth": 1
+  },
+  {
+    "id": 233,
+    "source": "https://iitj.ac.in/metallurgical-and-materials-engineering/en/Events?dsl=2&dslID=98161cbe-356e-4364-a33a-319a9a44db8b",
+    "category": "depth_1",
+    "title": "All Events | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 5206,
+    "depth": 1
+  },
+  {
+    "id": 234,
+    "source": "https://iitj.ac.in/materials-engineering/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Materials Engineering | IIT Jodhpur",
+    "char_count": 509,
+    "depth": 1
+  },
+  {
+    "id": 235,
+    "source": "https://iitj.ac.in/materials-engineering/en/courses",
+    "category": "depth_1",
+    "title": "Courses | Materials Engineering | IIT Jodhpur",
+    "char_count": 1207,
+    "depth": 1
+  },
+  {
+    "id": 236,
+    "source": "https://iitj.ac.in/materials-engineering/en/doctoral-programs",
+    "category": "depth_1",
+    "title": "Doctoral Programs | Materials Engineering | IIT Jodhpur",
+    "char_count": 3463,
+    "depth": 1
+  },
+  {
+    "id": 237,
+    "source": "https://iitj.ac.in/materials-engineering/en/Research-Highlights?ep=fw",
+    "category": "depth_1",
+    "title": "Research Highlights | Materials Engineering | IIT Jodhpur",
+    "char_count": 864,
+    "depth": 1
+  },
+  {
+    "id": 238,
+    "source": "https://iitj.ac.in/metallurgical-and-materials-engineering/en/News-Newsletter?dsl=2&dslID=c8179dcb-0389-4188-80fd-6d241e71469c",
+    "category": "depth_1",
+    "title": "News & Newsletter | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 900,
+    "depth": 1
+  },
+  {
+    "id": 239,
+    "source": "https://iitj.ac.in/materials-engineering/en/project-staff-members",
+    "category": "depth_1",
+    "title": "Project Staff Members | Materials Engineering | IIT Jodhpur",
+    "char_count": 748,
+    "depth": 1
+  },
+  {
+    "id": 240,
+    "source": "https://iitj.ac.in/materials-engineering/en/laboratories",
+    "category": "depth_1",
+    "title": "Laboratories | Materials Engineering | IIT Jodhpur",
+    "char_count": 4104,
+    "depth": 1
+  },
+  {
+    "id": 241,
+    "source": "https://iitj.ac.in/Metallurgical-and-Materials-Engineering/en/Research-Highlights?dsl=2&dslID=66fc131e-4416-4074-9ccb-d1d1af64443c",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemical Engineering | IIT Jodhpur",
+    "char_count": 1637,
+    "depth": 1
+  },
+  {
+    "id": 242,
+    "source": "https://iitj.ac.in/metallurgical-and-materials-engineering/en/News-Newsletter?dsl=2&dslID=e7abf753-ad39-429a-81cf-8e767ffe4cfe",
+    "category": "depth_1",
+    "title": "News & Newsletter | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 900,
+    "depth": 1
+  },
+  {
+    "id": 243,
+    "source": "https://iitj.ac.in/materials-engineering/en/completed-projects",
+    "category": "depth_1",
+    "title": "Completed Projects | Materials Engineering | IIT Jodhpur",
+    "char_count": 2368,
+    "depth": 1
+  },
+  {
+    "id": 244,
+    "source": "https://iitj.ac.in/materials-engineering/en/Events-and-Activities?ep=fw",
+    "category": "depth_1",
+    "title": "Events and Activities | Materials Engineering | IIT Jodhpur",
+    "char_count": 2402,
+    "depth": 1
+  },
+  {
+    "id": 245,
+    "source": "https://iitj.ac.in/materials-engineering/en/faculty-members",
+    "category": "depth_1",
+    "title": "Faculty Members | Materials Engineering | IIT Jodhpur",
+    "char_count": 2002,
+    "depth": 1
+  },
+  {
+    "id": 247,
+    "source": "https://iitj.ac.in/Metallurgical-and-Materials-Engineering/en/Research-Highlights?dsl=2&dslID=0428e3f4-1a97-4632-86a4-71afd2dbacfd",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemical Engineering | IIT Jodhpur",
+    "char_count": 1637,
+    "depth": 1
+  },
+  {
+    "id": 248,
+    "source": "https://iitj.ac.in/metallurgical-and-materials-engineering/en/News-Newsletter?dsl=2&dslID=ff5dbe8d-451d-45bb-b217-f50d5d5b2ba4",
+    "category": "depth_1",
+    "title": "News & Newsletter | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 900,
+    "depth": 1
+  },
+  {
+    "id": 249,
+    "source": "https://iitj.ac.in/metallurgical-and-materials-engineering/en/Events?dsl=2&dslID=0758ea28-0662-4e70-9f51-1c0ac467789d",
+    "category": "depth_1",
+    "title": "All Events | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 5206,
+    "depth": 1
+  },
+  {
+    "id": 250,
+    "source": "https://iitj.ac.in/materials-engineering/en/curriculum",
+    "category": "depth_1",
+    "title": "Curriculum | Materials Engineering | IIT Jodhpur",
+    "char_count": 1297,
+    "depth": 1
+  },
+  {
+    "id": 251,
+    "source": "https://iitj.ac.in/materials-engineering/en/collaborations",
+    "category": "depth_1",
+    "title": "Collaborations | Materials Engineering | IIT Jodhpur",
+    "char_count": 828,
+    "depth": 1
+  },
+  {
+    "id": 252,
+    "source": "https://iitj.ac.in/materials-engineering/en/postgraduate-program",
+    "category": "depth_1",
+    "title": "Postgraduate Program | Materials Engineering | IIT Jodhpur",
+    "char_count": 441,
+    "depth": 1
+  },
+  {
+    "id": 253,
+    "source": "https://iitj.ac.in/materials-engineering/en/undergraduate-program",
+    "category": "depth_1",
+    "title": "Undergraduate Program | Materials Engineering | IIT Jodhpur",
+    "char_count": 5626,
+    "depth": 1
+  },
+  {
+    "id": 254,
+    "source": "https://iitj.ac.in/materials-engineering/en/ongoing-projects",
+    "category": "depth_1",
+    "title": "Ongoing Projects | Materials Engineering | IIT Jodhpur",
+    "char_count": 3642,
+    "depth": 1
+  },
+  {
+    "id": 255,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/postgraduate-program",
+    "category": "depth_1",
+    "title": "Postgraduate Program | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 5302,
+    "depth": 1
+  },
+  {
+    "id": 256,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/Research-Highlights?dsl=2&dslID=75a8801c-10f6-4473-9cd8-9feeedc2f600",
+    "category": "depth_1",
+    "title": "Research Highlights | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 773,
+    "depth": 1
+  },
+  {
+    "id": 257,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/Announcement?dsl=2&dslID=cf48781f-7432-452c-a895-fc497f56923e",
+    "category": "depth_1",
+    "title": "Announcement | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 724,
+    "depth": 1
+  },
+  {
+    "id": 258,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/completed-projects",
+    "category": "depth_1",
+    "title": "Completed Projects | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 1306,
+    "depth": 1
+  },
+  {
+    "id": 259,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/regulations",
+    "category": "depth_1",
+    "title": "Regulations | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 641,
+    "depth": 1
+  },
+  {
+    "id": 260,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/doctorial-program",
+    "category": "depth_1",
+    "title": "Doctorial Program | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 4401,
+    "depth": 1
+  },
+  {
+    "id": 261,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/hi/bioscience-bioengineering",
+    "category": "depth_1",
+    "title": "\u091c\u0940\u0935\u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0935 \u091c\u0940\u0935\u0905\u092d\u093f\u092f\u093e\u0902\u0924\u094d\u0930\u093f\u0915\u0940",
+    "char_count": 1902,
+    "depth": 1
+  },
+  {
+    "id": 262,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/Announcement?dsl=2&dslID=6cba3b22-8041-46ea-bc6a-174e4adc49b4",
+    "category": "depth_1",
+    "title": "Announcement | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 713,
+    "depth": 1
+  },
+  {
+    "id": 263,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/collaborations",
+    "category": "depth_1",
+    "title": "Collaborations | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 3619,
+    "depth": 1
+  },
+  {
+    "id": 265,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/Events",
+    "category": "depth_1",
+    "title": "Events | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 679,
+    "depth": 1
+  },
+  {
+    "id": 266,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/Announcement",
+    "category": "depth_1",
+    "title": "Announcement | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 1299,
+    "depth": 1
+  },
+  {
+    "id": 267,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/courses",
+    "category": "depth_1",
+    "title": "Courses | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 856,
+    "depth": 1
+  },
+  {
+    "id": 268,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/Research-Highlights?dsl=2&dslID=4615e654-71de-4182-a0a7-3d5afe0991b1",
+    "category": "depth_1",
+    "title": "Research Highlights | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 896,
+    "depth": 1
+  },
+  {
+    "id": 269,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/post-doctoral-fellows",
+    "category": "depth_1",
+    "title": "Post Doctoral Fellows | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 1067,
+    "depth": 1
+  },
+  {
+    "id": 270,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/curriculum",
+    "category": "depth_1",
+    "title": "Curriculum | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 671,
+    "depth": 1
+  },
+  {
+    "id": 272,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/project-staff-members",
+    "category": "depth_1",
+    "title": "Project Staff Members | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 1287,
+    "depth": 1
+  },
+  {
+    "id": 273,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/Research-Highlights?dsl=2&dslID=cbd3d3b1-f6dc-4b48-b341-9868f36b61fe",
+    "category": "depth_1",
+    "title": "Research Highlights | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 775,
+    "depth": 1
+  },
+  {
+    "id": 274,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/undergraduate-program",
+    "category": "depth_1",
+    "title": "Undergraduate Program | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 8372,
+    "depth": 1
+  },
+  {
+    "id": 275,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/faculty-members",
+    "category": "depth_1",
+    "title": "Faculty Members | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 3122,
+    "depth": 1
+  },
+  {
+    "id": 276,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/about-research",
+    "category": "depth_1",
+    "title": "About Research | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 483,
+    "depth": 1
+  },
+  {
+    "id": 277,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/bioscience-bioengineering",
+    "category": "depth_1",
+    "title": "Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 4694,
+    "depth": 1
+  },
+  {
+    "id": 278,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/ongoing-projects",
+    "category": "depth_1",
+    "title": "Ongoing Projects | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 1587,
+    "depth": 1
+  },
+  {
+    "id": 279,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/technical-staff-members",
+    "category": "depth_1",
+    "title": "Technical Staff Members | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 1254,
+    "depth": 1
+  },
+  {
+    "id": 280,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/about-recruitment",
+    "category": "depth_1",
+    "title": "About Recruitment | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 1955,
+    "depth": 1
+  },
+  {
+    "id": 281,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/Announcement?dsl=2&dslID=cd54565d-a4d9-46f4-b990-e44d64ccb055",
+    "category": "depth_1",
+    "title": "Announcement | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 721,
+    "depth": 1
+  },
+  {
+    "id": 282,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/Research-Highlights",
+    "category": "depth_1",
+    "title": "Research Highlights | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 918,
+    "depth": 1
+  },
+  {
+    "id": 283,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 548,
+    "depth": 1
+  },
+  {
+    "id": 284,
+    "source": "https://iitj.ac.in/bioscience-bioengineering/en/program-structure",
+    "category": "depth_1",
+    "title": "Program Structure | Bioscience & Bioengineering | IIT Jodhpur",
+    "char_count": 825,
+    "depth": 1
+  },
+  {
+    "id": 285,
+    "source": "https://iitj.ac.in/physics/en/collaborations",
+    "category": "depth_1",
+    "title": "Collaborations | Physics | IIT Jodhpur",
+    "char_count": 2579,
+    "depth": 1
+  },
+  {
+    "id": 286,
+    "source": "https://iitj.ac.in/physics/en/faculty-members",
+    "category": "depth_1",
+    "title": "Faculty Members | Physics | IIT Jodhpur",
+    "char_count": 1848,
+    "depth": 1
+  },
+  {
+    "id": 287,
+    "source": "https://iitj.ac.in/physics/en/doctoral-program",
+    "category": "depth_1",
+    "title": "Doctoral Program | Physics | IIT Jodhpur",
+    "char_count": 2649,
+    "depth": 1
+  },
+  {
+    "id": 288,
+    "source": "https://iitj.ac.in/physics/en/completed-projects",
+    "category": "depth_1",
+    "title": "Completed Projects | Physics | IIT Jodhpur",
+    "char_count": 1809,
+    "depth": 1
+  },
+  {
+    "id": 289,
+    "source": "https://iitj.ac.in/physics/en/regulations",
+    "category": "depth_1",
+    "title": "Regulations | Physics | IIT Jodhpur",
+    "char_count": 566,
+    "depth": 1
+  },
+  {
+    "id": 290,
+    "source": "https://iitj.ac.in/physics/en/Research-Highlights",
+    "category": "depth_1",
+    "title": "Research Highlights | Physics | IIT Jodhpur",
+    "char_count": 1505,
+    "depth": 1
+  },
+  {
+    "id": 291,
+    "source": "https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=47f61299-11c1-48f0-99da-c561c965b00b",
+    "category": "depth_1",
+    "title": "Seminars and Meetings | Physics | IIT Jodhpur",
+    "char_count": 1885,
+    "depth": 1
+  },
+  {
+    "id": 292,
+    "source": "https://iitj.ac.in/physics/en/program-structure",
+    "category": "depth_1",
+    "title": "Program Structure | Physics | IIT Jodhpur",
+    "char_count": 483,
+    "depth": 1
+  },
+  {
+    "id": 293,
+    "source": "https://iitj.ac.in/physics/en/laboratories",
+    "category": "depth_1",
+    "title": "Laboratories | Physics | IIT Jodhpur",
+    "char_count": 3992,
+    "depth": 1
+  },
+  {
+    "id": 294,
+    "source": "https://iitj.ac.in/physics/en/Latest-News",
+    "category": "depth_1",
+    "title": "Latest News | Physics | IIT Jodhpur",
+    "char_count": 910,
+    "depth": 1
+  },
+  {
+    "id": 295,
+    "source": "https://iitj.ac.in/Physics/en/Research-Highlights?dsl=2&dslID=5419547a-12ba-44ab-baaa-3fa643ac823f",
+    "category": "depth_1",
+    "title": "Research Highlights | Physics | IIT Jodhpur",
+    "char_count": 927,
+    "depth": 1
+  },
+  {
+    "id": 296,
+    "source": "https://iitj.ac.in/physics/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Physics | IIT Jodhpur",
+    "char_count": 587,
+    "depth": 1
+  },
+  {
+    "id": 297,
+    "source": "https://iitj.ac.in/physics/en/Research-Highlights?dsl=2&dslID=6417cf68-2288-435b-b7a3-f5e7dede10da",
+    "category": "depth_1",
+    "title": "Research Highlights | Physics | IIT Jodhpur",
+    "char_count": 2568,
+    "depth": 1
+  },
+  {
+    "id": 298,
+    "source": "https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=8ab39186-5449-459e-bfd4-c710b4cf33a8",
+    "category": "depth_1",
+    "title": "Seminars and Meetings | Physics | IIT Jodhpur",
+    "char_count": 2921,
+    "depth": 1
+  },
+  {
+    "id": 299,
+    "source": "https://iitj.ac.in/physics/en/research-groups",
+    "category": "depth_1",
+    "title": "Research Groups | Physics | IIT Jodhpur",
+    "char_count": 652,
+    "depth": 1
+  },
+  {
+    "id": 300,
+    "source": "https://iitj.ac.in/Physics/en/Research-Highlights?dsl=2&dslID=a5ac8425-631a-406b-94b8-852389a2319b",
+    "category": "depth_1",
+    "title": "Research Highlights | Physics | IIT Jodhpur",
+    "char_count": 940,
+    "depth": 1
+  },
+  {
+    "id": 301,
+    "source": "https://iitj.ac.in/physics/en/ongoing-projects",
+    "category": "depth_1",
+    "title": "Ongoing Projects | Physics | IIT Jodhpur",
+    "char_count": 2401,
+    "depth": 1
+  },
+  {
+    "id": 303,
+    "source": "https://iitj.ac.in/physics/en/postgraduate-program",
+    "category": "depth_1",
+    "title": "Postgraduate Program | Physics | IIT Jodhpur",
+    "char_count": 9121,
+    "depth": 1
+  },
+  {
+    "id": 304,
+    "source": "https://iitj.ac.in/admission-postgraduate-programs/en/advertisements",
+    "category": "depth_1",
+    "title": "Advertisements | Admission to Postgraduate Programs | IIT Jodhpur",
+    "char_count": 1263,
+    "depth": 1
+  },
+  {
+    "id": 305,
+    "source": "https://iitj.ac.in/Physics/en/Research-Highlights?dsl=2&dslID=ed54e590-492d-4aba-b2a4-f0940b0be08f",
+    "category": "depth_1",
+    "title": "Research Highlights | Physics | IIT Jodhpur",
+    "char_count": 1087,
+    "depth": 1
+  },
+  {
+    "id": 306,
+    "source": "https://iitj.ac.in/physics/en/technical-staff-members",
+    "category": "depth_1",
+    "title": "Technical Staff Members | Physics | IIT Jodhpur",
+    "char_count": 828,
+    "depth": 1
+  },
+  {
+    "id": 307,
+    "source": "https://iitj.ac.in/physics/en/post-doctoral-fellows",
+    "category": "depth_1",
+    "title": "Post Doctoral Fellows | Physics | IIT Jodhpur",
+    "char_count": 723,
+    "depth": 1
+  },
+  {
+    "id": 308,
+    "source": "https://iitj.ac.in/physics/en/courses",
+    "category": "depth_1",
+    "title": "Courses | Physics | IIT Jodhpur",
+    "char_count": 455,
+    "depth": 1
+  },
+  {
+    "id": 309,
+    "source": "https://iitj.ac.in/physics/en/undergraduate-program",
+    "category": "depth_1",
+    "title": "Undergraduate Program | Physics | IIT Jodhpur",
+    "char_count": 9834,
+    "depth": 1
+  },
+  {
+    "id": 310,
+    "source": "https://iitj.ac.in/physics/en/Research-Highlights?dsl=2&dslID=785a9a5e-2848-43b1-bc26-77dabb2b79b5",
+    "category": "depth_1",
+    "title": "Research Highlights | Physics | IIT Jodhpur",
+    "char_count": 2512,
+    "depth": 1
+  },
+  {
+    "id": 311,
+    "source": "https://iitj.ac.in/physics/en/Seminars-and-Meetings",
+    "category": "depth_1",
+    "title": "Seminars and Meetings | Physics | IIT Jodhpur",
+    "char_count": 1409,
+    "depth": 1
+  },
+  {
+    "id": 312,
+    "source": "https://iitj.ac.in/physics/en/project-staff-members",
+    "category": "depth_1",
+    "title": "Project Staff Members | Physics | IIT Jodhpur",
+    "char_count": 879,
+    "depth": 1
+  },
+  {
+    "id": 313,
+    "source": "https://iitj.ac.in/Physics/en/Research-Highlights?dsl=2&dslID=92df13bb-c954-4291-ba81-d79b828d3b3c",
+    "category": "depth_1",
+    "title": "Research Highlights | Physics | IIT Jodhpur",
+    "char_count": 1626,
+    "depth": 1
+  },
+  {
+    "id": 314,
+    "source": "https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=9c600ba9-b270-404a-8fe2-1564d796c0e0",
+    "category": "depth_1",
+    "title": "Seminars and Meetings | Physics | IIT Jodhpur",
+    "char_count": 3102,
+    "depth": 1
+  },
+  {
+    "id": 315,
+    "source": "https://iitj.ac.in/physics/en/physics",
+    "category": "depth_1",
+    "title": "Physics | IIT Jodhpur",
+    "char_count": 6702,
+    "depth": 1
+  },
+  {
+    "id": 317,
+    "source": "https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=e4eb5e08-789d-4506-8c0a-f9eb2662f19c",
+    "category": "depth_1",
+    "title": "Seminars and Meetings | Physics | IIT Jodhpur",
+    "char_count": 3331,
+    "depth": 1
+  },
+  {
+    "id": 318,
+    "source": "https://iitj.ac.in/physics/hi/physics",
+    "category": "depth_1",
+    "title": "\u092d\u094c\u0924\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928",
+    "char_count": 341,
+    "depth": 1
+  },
+  {
+    "id": 319,
+    "source": "https://iitj.ac.in/physics/en/curriculum",
+    "category": "depth_1",
+    "title": "Curriculum | Physics | IIT Jodhpur",
+    "char_count": 494,
+    "depth": 1
+  },
+  {
+    "id": 320,
+    "source": "https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=6b3e07aa-38f0-4616-ac67-1a05e2e6fdec",
+    "category": "depth_1",
+    "title": "Seminars and Meetings | Physics | IIT Jodhpur",
+    "char_count": 2526,
+    "depth": 1
+  },
+  {
+    "id": 321,
+    "source": "https://iitj.ac.in/chemistry/en/faculty-list",
+    "category": "depth_1",
+    "title": "Faculty List by Reseach Area | Chemistry | IIT Jodhpur",
+    "char_count": 6346,
+    "depth": 1
+  },
+  {
+    "id": 323,
+    "source": "https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=b01a0ca9-12f3-42d2-b3c5-cab0a9024cb0",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemistry | IIT Jodhpur",
+    "char_count": 2043,
+    "depth": 1
+  },
+  {
+    "id": 325,
+    "source": "https://iitj.ac.in/chemistry/en/ongoing-projects",
+    "category": "depth_1",
+    "title": "Ongoing Projects | Chemistry | IIT Jodhpur",
+    "char_count": 31968,
+    "depth": 1
+  },
+  {
+    "id": 326,
+    "source": "https://iitj.ac.in/chemistry/en/chemmeet-2024",
+    "category": "depth_1",
+    "title": "ChemMeet 2024 | Chemistry | IIT Jodhpur",
+    "char_count": 1044,
+    "depth": 1
+  },
+  {
+    "id": 327,
+    "source": "https://iitj.ac.in/chemistry/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Chemistry | IIT Jodhpur",
+    "char_count": 596,
+    "depth": 1
+  },
+  {
+    "id": 328,
+    "source": "https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=03e7f723-69e1-4081-af9b-ea02c21585ff",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemistry | IIT Jodhpur",
+    "char_count": 1846,
+    "depth": 1
+  },
+  {
+    "id": 329,
+    "source": "https://iitj.ac.in/chemistry/en/facilities",
+    "category": "depth_1",
+    "title": "About Facilities | Chemistry | IIT Jodhpur",
+    "char_count": 1229,
+    "depth": 1
+  },
+  {
+    "id": 330,
+    "source": "https://iitj.ac.in/chemistry/en/seminar",
+    "category": "depth_1",
+    "title": "Seminar | Chemistry | IIT Jodhpur",
+    "char_count": 1353,
+    "depth": 1
+  },
+  {
+    "id": 331,
+    "source": "https://iitj.ac.in/chemistry/en/regulations",
+    "category": "depth_1",
+    "title": "Regulations | Chemistry | IIT Jodhpur",
+    "char_count": 1148,
+    "depth": 1
+  },
+  {
+    "id": 332,
+    "source": "https://iitj.ac.in/chemistry/en/post-graduate-program",
+    "category": "depth_1",
+    "title": "Post Graduate Program | Chemistry | IIT Jodhpur",
+    "char_count": 3554,
+    "depth": 1
+  },
+  {
+    "id": 333,
+    "source": "https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=cc95de00-8c49-4c09-aa57-6af9581847c2",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemistry | IIT Jodhpur",
+    "char_count": 1559,
+    "depth": 1
+  },
+  {
+    "id": 334,
+    "source": "https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=07977274-8b86-444a-85c6-d995394649a1",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemistry | IIT Jodhpur",
+    "char_count": 2412,
+    "depth": 1
+  },
+  {
+    "id": 335,
+    "source": "https://iitj.ac.in/chemistry/en/courses",
+    "category": "depth_1",
+    "title": "Courses | Chemistry | IIT Jodhpur",
+    "char_count": 2177,
+    "depth": 1
+  },
+  {
+    "id": 336,
+    "source": "https://iitj.ac.in/chemistry/en/chemistry",
+    "category": "depth_1",
+    "title": "Chemistry | IIT Jodhpur",
+    "char_count": 4371,
+    "depth": 1
+  },
+  {
+    "id": 337,
+    "source": "https://iitj.ac.in/chemistry/en/faculty-members",
+    "category": "depth_1",
+    "title": "Faculty Members | Chemistry | IIT Jodhpur",
+    "char_count": 1862,
+    "depth": 1
+  },
+  {
+    "id": 338,
+    "source": "https://erponline.iitj.ac.in/exapp/auth/apps.htm",
+    "category": "depth_1",
+    "title": "Welcome to IITJ!",
+    "char_count": 561,
+    "depth": 1
+  },
+  {
+    "id": 339,
+    "source": "https://iitj.ac.in/chemistry/en/news-and-newsletter?dsl=2&dslID=295d72c0-2073-44be-8f04-d06ab79ac788",
+    "category": "depth_1",
+    "title": "News and Newsletter | Chemistry | IIT Jodhpur",
+    "char_count": 825,
+    "depth": 1
+  },
+  {
+    "id": 340,
+    "source": "https://iitj.ac.in/chemistry/en/about-research",
+    "category": "depth_1",
+    "title": "About Research | Chemistry | IIT Jodhpur",
+    "char_count": 1669,
+    "depth": 1
+  },
+  {
+    "id": 341,
+    "source": "https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=0c0e3376-5057-4848-940c-68e16aa25d1e",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemistry | IIT Jodhpur",
+    "char_count": 1715,
+    "depth": 1
+  },
+  {
+    "id": 342,
+    "source": "https://iitj.ac.in/chemistry/en/post-doctoral-fellows",
+    "category": "depth_1",
+    "title": "Post Doctoral Fellows | Chemistry | IIT Jodhpur",
+    "char_count": 1701,
+    "depth": 1
+  },
+  {
+    "id": 343,
+    "source": "https://iitj.ac.in/chemistry/hi/chemistry",
+    "category": "depth_1",
+    "title": "\u0930\u0938\u093e\u092f\u0928 \u0935\u093f\u091c\u094d\u091e\u093e\u0928",
+    "char_count": 488,
+    "depth": 1
+  },
+  {
+    "id": 344,
+    "source": "https://iitj.ac.in/chemistry/en/Booking-for-External-Sample",
+    "category": "depth_1",
+    "title": "Booking for External Sample | Chemistry | IIT Jodhpur",
+    "char_count": 2795,
+    "depth": 1
+  },
+  {
+    "id": 345,
+    "source": "https://iitj.ac.in/chemistry/en/collaborations",
+    "category": "depth_1",
+    "title": "Collaborations | Chemistry | IIT Jodhpur",
+    "char_count": 1943,
+    "depth": 1
+  },
+  {
+    "id": 346,
+    "source": "https://iitj.ac.in/chemistry/en/internal-sample",
+    "category": "depth_1",
+    "title": "Booking for Internal Sample | Chemistry | IIT Jodhpur",
+    "char_count": 3804,
+    "depth": 1
+  },
+  {
+    "id": 347,
+    "source": "https://iitj.ac.in/chemistry/en/news-and-newsletter?dsl=2&dslID=409787ad-4a87-43c7-b1b0-349726770797",
+    "category": "depth_1",
+    "title": "News and Newsletter | Chemistry | IIT Jodhpur",
+    "char_count": 966,
+    "depth": 1
+  },
+  {
+    "id": 348,
+    "source": "https://iitj.ac.in/chemistry/en/teaching-laboratories",
+    "category": "depth_1",
+    "title": "Teaching Laboratories | Chemistry | IIT Jodhpur",
+    "char_count": 493,
+    "depth": 1
+  },
+  {
+    "id": 349,
+    "source": "https://iitj.ac.in/Chemistry/en/Research-Highlights",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemistry | IIT Jodhpur",
+    "char_count": 1662,
+    "depth": 1
+  },
+  {
+    "id": 350,
+    "source": "https://iitj.ac.in/chemistry/en/Latest-Events?ep=fw",
+    "category": "depth_1",
+    "title": "Latest Events | Chemistry | IIT Jodhpur",
+    "char_count": 483,
+    "depth": 1
+  },
+  {
+    "id": 351,
+    "source": "https://iitj.ac.in/chemistry/en/technical-staff-members",
+    "category": "depth_1",
+    "title": "Technical Staff Members | Chemistry | IIT Jodhpur",
+    "char_count": 818,
+    "depth": 1
+  },
+  {
+    "id": 352,
+    "source": "https://iitj.ac.in/chemistry/en/doctoral-program",
+    "category": "depth_1",
+    "title": "Doctoral Program | Chemistry | IIT Jodhpur",
+    "char_count": 3488,
+    "depth": 1
+  },
+  {
+    "id": 353,
+    "source": "https://iitj.ac.in/Chemistry/en/News-and-Newsletter",
+    "category": "depth_1",
+    "title": "News and Newsletter | Chemistry | IIT Jodhpur",
+    "char_count": 1925,
+    "depth": 1
+  },
+  {
+    "id": 354,
+    "source": "https://iitj.ac.in/chemistry/en/project-staff-members",
+    "category": "depth_1",
+    "title": "Project Staff Members | Chemistry | IIT Jodhpur",
+    "char_count": 882,
+    "depth": 1
+  },
+  {
+    "id": 355,
+    "source": "https://iitj.ac.in/chemistry/en/curriculum",
+    "category": "depth_1",
+    "title": "Curriculum | Chemistry | IIT Jodhpur",
+    "char_count": 2173,
+    "depth": 1
+  },
+  {
+    "id": 356,
+    "source": "https://iitj.ac.in/chemistry/en/news-and-newsletter?dsl=2&dslID=5a8fc08a-cfcf-4477-b858-f0d750bdfa08",
+    "category": "depth_1",
+    "title": "News and Newsletter | Chemistry | IIT Jodhpur",
+    "char_count": 837,
+    "depth": 1
+  },
+  {
+    "id": 357,
+    "source": "https://iitj.ac.in/chemistry/en/completed-projects",
+    "category": "depth_1",
+    "title": "Completed Projects | Chemistry | IIT Jodhpur",
+    "char_count": 14123,
+    "depth": 1
+  },
+  {
+    "id": 358,
+    "source": "https://iitj.ac.in/chemistry/en/program-structure",
+    "category": "depth_1",
+    "title": "Program Structure | Chemistry | IIT Jodhpur",
+    "char_count": 534,
+    "depth": 1
+  },
+  {
+    "id": 359,
+    "source": "https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=46ebd116-a312-4649-af46-ba507a6f9b33",
+    "category": "depth_1",
+    "title": "Research Highlights | Chemistry | IIT Jodhpur",
+    "char_count": 2912,
+    "depth": 1
+  },
+  {
+    "id": 360,
+    "source": "https://iitj.ac.in/mathematics/en/laboratories",
+    "category": "depth_1",
+    "title": "Laboratories | Mathematics | IIT Jodhpur",
+    "char_count": 1252,
+    "depth": 1
+  },
+  {
+    "id": 361,
+    "source": "https://iitj.ac.in/mathematics/en/post-doctoral-fellows",
+    "category": "depth_1",
+    "title": "Post Doctoral Fellows | Mathematics | IIT Jodhpur",
+    "char_count": 786,
+    "depth": 1
+  },
+  {
+    "id": 362,
+    "source": "https://iitj.ac.in/mathematics/en/faculty-members",
+    "category": "depth_1",
+    "title": "Faculty Members | Mathematics | IIT Jodhpur",
+    "char_count": 1987,
+    "depth": 1
+  },
+  {
+    "id": 363,
+    "source": "https://iitj.ac.in/mathematics/en/phd-students",
+    "category": "depth_1",
+    "title": "PhD Students | Mathematics | IIT Jodhpur",
+    "char_count": 7320,
+    "depth": 1
+  },
+  {
+    "id": 364,
+    "source": "https://iitj.ac.in/mathematics/en/collaborations",
+    "category": "depth_1",
+    "title": "Collaborations | Mathematics | IIT Jodhpur",
+    "char_count": 1148,
+    "depth": 1
+  },
+  {
+    "id": 365,
+    "source": "https://iitj.ac.in/mathematics/en/Announcement-Page?dsl=2&dslID=ac11eb93-3e20-4bf1-8507-2c8de5557975",
+    "category": "depth_1",
+    "title": "Announcement | Mathematics | IIT Jodhpur",
+    "char_count": 615,
+    "depth": 1
+  },
+  {
+    "id": 366,
+    "source": "https://iitj.ac.in/mathematics/en/latest-events?dsl=2&dslID=bc80d343-5618-44ea-8373-3de79f652aad",
+    "category": "depth_1",
+    "title": "Latest Events | Mathematics | IIT Jodhpur",
+    "char_count": 1529,
+    "depth": 1
+  },
+  {
+    "id": 367,
+    "source": "https://iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=6ab68d38-e9ee-41d8-9291-a6f8fa9868b9",
+    "category": "depth_1",
+    "title": "Research Highlights | Mathematics | IIT Jodhpur",
+    "char_count": 1823,
+    "depth": 1
+  },
+  {
+    "id": 368,
+    "source": "https://iitj.ac.in/mathematics/en/hod-message",
+    "category": "depth_1",
+    "title": "Message From The Head Of The Department | Mathematics | IIT Jodhpur",
+    "char_count": 2416,
+    "depth": 1
+  },
+  {
+    "id": 369,
+    "source": "https://iitj.ac.in/mathematics/en/our-alumni",
+    "category": "depth_1",
+    "title": "Our Alumni | Mathematics | IIT Jodhpur",
+    "char_count": 4206,
+    "depth": 1
+  },
+  {
+    "id": 370,
+    "source": "https://iitj.ac.in/mathematics/en/technical-staff-members",
+    "category": "depth_1",
+    "title": "Technical Staff Members | Mathematics | IIT Jodhpur",
+    "char_count": 870,
+    "depth": 1
+  },
+  {
+    "id": 371,
+    "source": "https://iitj.ac.in/mathematics/en/latest-events",
+    "category": "depth_1",
+    "title": "Latest Events | Mathematics | IIT Jodhpur",
+    "char_count": 6619,
+    "depth": 1
+  },
+  {
+    "id": 372,
+    "source": "https://iitj.ac.in/mathematics/en/project-staff-members",
+    "category": "depth_1",
+    "title": "Project Staff Members | Mathematics | IIT Jodhpur",
+    "char_count": 838,
+    "depth": 1
+  },
+  {
+    "id": 373,
+    "source": "https://iitj.ac.in/mathematics/en/Announcement-Page?dsl=2&dslID=7cfe7dc3-21af-4f92-99b9-72522e314b5a",
+    "category": "depth_1",
+    "title": "Announcement | Mathematics | IIT Jodhpur",
+    "char_count": 673,
+    "depth": 1
+  },
+  {
+    "id": 374,
+    "source": "https://iitj.ac.in/mathematics/en/completed-projects",
+    "category": "depth_1",
+    "title": "Completed Projects | Mathematics | IIT Jodhpur",
+    "char_count": 1617,
+    "depth": 1
+  },
+  {
+    "id": 375,
+    "source": "https://iitj.ac.in/mathematics/en/courses",
+    "category": "depth_1",
+    "title": "Courses | Mathematics | IIT Jodhpur",
+    "char_count": 852,
+    "depth": 1
+  },
+  {
+    "id": 376,
+    "source": "https://iitj.ac.in/mathematics/en/ongoing-projects",
+    "category": "depth_1",
+    "title": "Ongoing Projects | Mathematics | IIT Jodhpur",
+    "char_count": 1872,
+    "depth": 1
+  },
+  {
+    "id": 377,
+    "source": "https://iitj.ac.in/mathematics/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Mathematics | IIT Jodhpur",
+    "char_count": 514,
+    "depth": 1
+  },
+  {
+    "id": 378,
+    "source": "https://iitj.ac.in/mathematics/en/latest-events?dsl=2&dslID=4002d61e-4996-4124-bcf6-56e093adf072",
+    "category": "depth_1",
+    "title": "Latest Events | Mathematics | IIT Jodhpur",
+    "char_count": 2218,
+    "depth": 1
+  },
+  {
+    "id": 379,
+    "source": "https://iitj.ac.in/mathematics/en/postgraduate-programs",
+    "category": "depth_1",
+    "title": "Postgraduate Programs | Mathematics | IIT Jodhpur",
+    "char_count": 1232,
+    "depth": 1
+  },
+  {
+    "id": 380,
+    "source": "https://iitj.ac.in/mathematics/hi/mathematics",
+    "category": "depth_1",
+    "title": "\u0905\u0902\u0915 \u0936\u093e\u0938\u094d\u0924\u094d\u0930",
+    "char_count": 259,
+    "depth": 1
+  },
+  {
+    "id": 381,
+    "source": "https://iitj.ac.in/mathematics/en/Announcement-Page?ep=fw",
+    "category": "depth_1",
+    "title": "Announcement | Mathematics | IIT Jodhpur",
+    "char_count": 1631,
+    "depth": 1
+  },
+  {
+    "id": 382,
+    "source": "https://iitj.ac.in/mathematics/en/curriculum",
+    "category": "depth_1",
+    "title": "Curriculum | Mathematics | IIT Jodhpur",
+    "char_count": 1282,
+    "depth": 1
+  },
+  {
+    "id": 383,
+    "source": "https://iitj.ac.in/mathematics/en/mathematics",
+    "category": "depth_1",
+    "title": "Mathematics | IIT Jodhpur",
+    "char_count": 4247,
+    "depth": 1
+  },
+  {
+    "id": 384,
+    "source": "https://iitj.ac.in/mathematics/en/program-structure",
+    "category": "depth_1",
+    "title": "Program Structure | Mathematics | IIT Jodhpur",
+    "char_count": 778,
+    "depth": 1
+  },
+  {
+    "id": 385,
+    "source": "https://iitj.ac.in/mathematics/en/latest-news",
+    "category": "depth_1",
+    "title": "Latest News | Mathematics | IIT Jodhpur",
+    "char_count": 859,
+    "depth": 1
+  },
+  {
+    "id": 386,
+    "source": "https://iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=6da631bc-829f-4c61-b822-6d29310f0ec8",
+    "category": "depth_1",
+    "title": "Research Highlights | Mathematics | IIT Jodhpur",
+    "char_count": 2222,
+    "depth": 1
+  },
+  {
+    "id": 387,
+    "source": "https://iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=7c2955af-4e48-4dfa-8d25-1e658fa68ec5",
+    "category": "depth_1",
+    "title": "Research Highlights | Mathematics | IIT Jodhpur",
+    "char_count": 751,
+    "depth": 1
+  },
+  {
+    "id": 388,
+    "source": "https://iitj.ac.in/mathematics/en/Research-Highlights",
+    "category": "depth_1",
+    "title": "Research Highlights | Mathematics | IIT Jodhpur",
+    "char_count": 7673,
+    "depth": 1
+  },
+  {
+    "id": 389,
+    "source": "https://iitj.ac.in/mathematics/en/latest-events?dsl=2&dslID=0a76c603-f0bd-4473-9508-c5e1ad407a78",
+    "category": "depth_1",
+    "title": "Latest Events | Mathematics | IIT Jodhpur",
+    "char_count": 2803,
+    "depth": 1
+  },
+  {
+    "id": 390,
+    "source": "https://iitj.ac.in/mathematics/en/undergraduate-programs",
+    "category": "depth_1",
+    "title": "Undergraduate Programs | Mathematics | IIT Jodhpur",
+    "char_count": 2451,
+    "depth": 1
+  },
+  {
+    "id": 391,
+    "source": "https://iitj.ac.in/mathematics/en/regulations",
+    "category": "depth_1",
+    "title": "Regulations | Mathematics | IIT Jodhpur",
+    "char_count": 972,
+    "depth": 1
+  },
+  {
+    "id": 392,
+    "source": "https://iitj.ac.in/mathematics/en/doctoral-program",
+    "category": "depth_1",
+    "title": "Doctoral Program | Mathematics | IIT Jodhpur",
+    "char_count": 1180,
+    "depth": 1
+  },
+  {
+    "id": 394,
+    "source": "https://iitj.ac.in/mathematics/en/latest-news?dsl=2&dslID=93b7a67b-0e3e-40cf-a916-61bb99b82ea7",
+    "category": "depth_1",
+    "title": "Latest News | Mathematics | IIT Jodhpur",
+    "char_count": 2216,
+    "depth": 1
+  },
+  {
+    "id": 395,
+    "source": "https://iitj.ac.in/office-of-academics/en/bs",
+    "category": "depth_1",
+    "title": "B.S. | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 478,
+    "depth": 1
+  },
+  {
+    "id": 396,
+    "source": "https://iitj.ac.in/office-of-academics/en/m.sc.-m.tech.",
+    "category": "depth_1",
+    "title": "M.Sc. \u2013 M.Tech. | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 539,
+    "depth": 1
+  },
+  {
+    "id": 397,
+    "source": "https://iitj.ac.in/office-of-academics/en/m.sc.",
+    "category": "depth_1",
+    "title": "M.Sc. | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 541,
+    "depth": 1
+  },
+  {
+    "id": 398,
+    "source": "https://iitj.ac.in/office-of-academics/en/collaborations",
+    "category": "depth_1",
+    "title": "Collaborations | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 497,
+    "depth": 1
+  },
+  {
+    "id": 399,
+    "source": "https://iitj.ac.in/office-of-academics/en/first-year-class-time-table",
+    "category": "depth_1",
+    "title": "First Year Class Time-Table | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 4754,
+    "depth": 1
+  },
+  {
+    "id": 400,
+    "source": "https://iitj.ac.in/office-of-academics/en/engineering-science",
+    "category": "depth_1",
+    "title": "Engineering Science | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 15620,
+    "depth": 1
+  },
+  {
+    "id": 401,
+    "source": "https://iitj.ac.in/office-of-academics/en/discontinued-program",
+    "category": "depth_1",
+    "title": "Discontinued Program | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 2020,
+    "depth": 1
+  },
+  {
+    "id": 402,
+    "source": "https://iitj.ac.in/office-of-academics/en/m.tech.",
+    "category": "depth_1",
+    "title": "M.Tech. | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 963,
+    "depth": 1
+  },
+  {
+    "id": 403,
+    "source": "https://iitj.ac.in/Office-of-Academics/en/Academic-Calendar",
+    "category": "depth_1",
+    "title": "Academic Calendar | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 948,
+    "depth": 1
+  },
+  {
+    "id": 404,
+    "source": "https://iitj.ac.in/office-of-academics/en/mdes",
+    "category": "depth_1",
+    "title": "MDes | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 462,
+    "depth": 1
+  },
+  {
+    "id": 405,
+    "source": "https://iitj.ac.in/office-of-academics/en/contact",
+    "category": "depth_1",
+    "title": "Contact | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 508,
+    "depth": 1
+  },
+  {
+    "id": 407,
+    "source": "https://iitj.ac.in/Office-of-Academics/en/Download-Forms",
+    "category": "depth_1",
+    "title": "Download Forms | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 7577,
+    "depth": 1
+  },
+  {
+    "id": 408,
+    "source": "https://iitj.ac.in/office-of-academics/en/academic-calendar",
+    "category": "depth_1",
+    "title": "Academic Calendar | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 948,
+    "depth": 1
+  },
+  {
+    "id": 409,
+    "source": "https://iitj.ac.in/m/Index/56318149-17A4-4EA3-B560-5AD984D1B8E6?lg=en",
+    "category": "depth_1",
+    "title": "More | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 498,
+    "depth": 1
+  },
+  {
+    "id": 410,
+    "source": "https://iitj.ac.in/office-of-academics/en/specialization-minor-dual-degree",
+    "category": "depth_1",
+    "title": "Specialization/Minor/Dual Degree | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 10554,
+    "depth": 1
+  },
+  {
+    "id": 411,
+    "source": "https://iitj.ac.in/office-of-academics/en/ph.d.",
+    "category": "depth_1",
+    "title": "Ph.D. | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 1529,
+    "depth": 1
+  },
+  {
+    "id": 412,
+    "source": "https://iitj.ac.in/office-of-academics/hi/Academic-Regulations",
+    "category": "depth_1",
+    "title": "\u0936\u0948\u0915\u094d\u0937\u0923\u093f\u0915 \u0935\u093f\u0928\u093f\u092f\u092e | \u0936\u0948\u0915\u094d\u0937\u0923\u093f\u0915 \u092e\u093e\u092e\u0932\u094b\u0902 \u0915\u093e \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f",
+    "char_count": 98421,
+    "depth": 1
+  },
+  {
+    "id": 413,
+    "source": "https://iitj.ac.in/office-of-academics/en/ug-registration-guidelines",
+    "category": "depth_1",
+    "title": "UG Registration Guidelines | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 1551,
+    "depth": 1
+  },
+  {
+    "id": 414,
+    "source": "https://iitj.ac.in/Office-of-Academics/en/Old-Regulations",
+    "category": "depth_1",
+    "title": "Old Regulations | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 1624,
+    "depth": 1
+  },
+  {
+    "id": 415,
+    "source": "https://iitj.ac.in/office-of-academics/en/mba",
+    "category": "depth_1",
+    "title": "MBA | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 488,
+    "depth": 1
+  },
+  {
+    "id": 416,
+    "source": "https://iitj.ac.in/office-of-academics/en/list-of-academic-programs",
+    "category": "depth_1",
+    "title": "List of Academic Programs | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 3301,
+    "depth": 1
+  },
+  {
+    "id": 417,
+    "source": "https://iitj.ac.in/office-of-academics/en/b.tech.",
+    "category": "depth_1",
+    "title": "B.Tech. | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 685,
+    "depth": 1
+  },
+  {
+    "id": 420,
+    "source": "https://librdv.iitj.ac.in/dashboard.py",
+    "category": "depth_2",
+    "title": "IITJ Research Data Visualization Dashboard",
+    "char_count": 6190,
+    "depth": 2
+  },
+  {
+    "id": 421,
+    "source": "https://library.iitj.ac.in/video_guide.html",
+    "category": "depth_2",
+    "title": "Video Guide",
+    "char_count": 636,
+    "depth": 2
+  },
+  {
+    "id": 424,
+    "source": "https://iitj.ac.in/office-of-academics/en/list-of-holidays",
+    "category": "depth_2",
+    "title": "List of Holidays | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 486,
+    "depth": 2
+  },
+  {
+    "id": 425,
+    "source": "https://library.iitj.ac.in/ssp/subjects/databases.php?letter=bytype&type=Research_Support_Tools",
+    "category": "depth_2",
+    "title": "Database List By Format: Research Support Tools",
+    "char_count": 625,
+    "depth": 2
+  },
+  {
+    "id": 426,
+    "source": "https://library.iitj.ac.in/ssp/subjects/guide.php?subject=RG",
+    "category": "depth_2",
+    "title": "Resource Guide",
+    "char_count": 25555,
+    "depth": 2
+  },
+  {
+    "id": 429,
+    "source": "https://library.iitj.ac.in/ssp/subjects/databases.php?letter=All",
+    "category": "depth_2",
+    "title": "Database List: All",
+    "char_count": 17567,
+    "depth": 2
+  },
+  {
+    "id": 431,
+    "source": "https://library.iitj.ac.in/ssp/subjects/databases.php?letter=bytype&type=Magazines",
+    "category": "depth_2",
+    "title": "Database List By Format: Magazines",
+    "char_count": 1402,
+    "depth": 2
+  },
+  {
+    "id": 432,
+    "source": "https://library.iitj.ac.in/ssp/subjects/guide.php?subject=OER",
+    "category": "depth_2",
+    "title": "Open Educational Resources",
+    "char_count": 8347,
+    "depth": 2
+  },
+  {
+    "id": 433,
+    "source": "https://ir.iitj.ac.in/home",
+    "category": "depth_2",
+    "title": "DSpace Repository :: Home",
+    "char_count": 23296,
+    "depth": 2
+  },
+  {
+    "id": 434,
+    "source": "https://library.iitj.ac.in/ssp/subjects/databases.php?letter=bytype&type=eBooks",
+    "category": "depth_2",
+    "title": "Database List By Format: EBooks",
+    "char_count": 1155,
+    "depth": 2
+  },
+  {
+    "id": 435,
+    "source": "https://library.iitj.ac.in/ssp/subjects/faq.php",
+    "category": "depth_2",
+    "title": "Library FAQs",
+    "char_count": 5009,
+    "depth": 2
+  },
+  {
+    "id": 436,
+    "source": "https://libraryopac.iitj.ac.in",
+    "category": "depth_2",
+    "title": "S. R. Ranganathan Learning Hub catalog",
+    "char_count": 632,
+    "depth": 2
+  },
+  {
+    "id": 437,
+    "source": "https://library.iitj.ac.in/ssp/subjects/databases.php?letter=bytype&type=Research_Database",
+    "category": "depth_2",
+    "title": "Database List By Format: Research Database",
+    "char_count": 3775,
+    "depth": 2
+  },
+  {
+    "id": 439,
+    "source": "https://library.iitj.ac.in/ssp/subjects/databases.php?letter=bytype&type=archive",
+    "category": "depth_2",
+    "title": "Database List By Format: Archive",
+    "char_count": 2830,
+    "depth": 2
+  },
+  {
+    "id": 443,
+    "source": "https://old.iitj.ac.in/events/index.php?id=948&title=948&event=recognitions",
+    "category": "depth_2",
+    "title": "IITJ-Indian Institute of Technology Jodhpur",
+    "char_count": 5250,
+    "depth": 2
+  },
+  {
+    "id": 446,
+    "source": "https://iitj.ac.in/GIAN",
+    "category": "depth_2",
+    "title": "Global Initiative for Academic Networks (GIAN) | IIT Jodhpur",
+    "char_count": 1158,
+    "depth": 2
+  },
+  {
+    "id": 450,
+    "source": "https://www.iitj.ac.in/itep",
+    "category": "depth_2",
+    "title": "Integrated Teacher Education Programme | IIT Jodhpur",
+    "char_count": 7151,
+    "depth": 2
+  },
+  {
+    "id": 452,
+    "source": "https://old.iitj.ac.in/events/index.php?id=946&title=946&event=recognitions",
+    "category": "depth_2",
+    "title": "IITJ-Indian Institute of Technology Jodhpur",
+    "char_count": 4898,
+    "depth": 2
+  },
+  {
+    "id": 457,
+    "source": "http://iro.iitj.ac.in",
+    "category": "depth_2",
+    "title": "Office of International Relations | IIT Jodhpur",
+    "char_count": 3436,
+    "depth": 2
+  },
+  {
+    "id": 458,
+    "source": "http://iitj.ac.in/techscape",
+    "category": "depth_2",
+    "title": "Techscape | IIT Jodhpur",
+    "char_count": 2458,
+    "depth": 2
+  },
+  {
+    "id": 461,
+    "source": "https://old.iitj.ac.in/events/index.php?id=947&title=947&event=recognitions",
+    "category": "depth_2",
+    "title": "IITJ-Indian Institute of Technology Jodhpur",
+    "char_count": 3715,
+    "depth": 2
+  },
+  {
+    "id": 463,
+    "source": "https://iitj.ac.in/main/en/vigilance-policy",
+    "category": "depth_2",
+    "title": "Vigilance Policy | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1117,
+    "depth": 2
+  },
+  {
+    "id": 464,
+    "source": "https://iitj.ac.in/office-of-international-relations/en/Office-of-International-Relations",
+    "category": "depth_2",
+    "title": "Office of International Relations | IIT Jodhpur",
+    "char_count": 3436,
+    "depth": 2
+  },
+  {
+    "id": 465,
+    "source": "https://iitj.ac.in/sc-and-st-helpdesk/en/sc-and-st-helpdesk",
+    "category": "depth_2",
+    "title": "SC and ST Helpdesk | IIT Jodhpur",
+    "char_count": 952,
+    "depth": 2
+  },
+  {
+    "id": 466,
+    "source": "https://iitj.ac.in/main/en/joint-consultative-committee",
+    "category": "depth_2",
+    "title": "Joint Consultative Committee | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1462,
+    "depth": 2
+  },
+  {
+    "id": 467,
+    "source": "https://iitj.ac.in/inclusivity-cell/en/inclusivity-cell",
+    "category": "depth_2",
+    "title": "Inclusivity Cell | IIT Jodhpur",
+    "char_count": 2349,
+    "depth": 2
+  },
+  {
+    "id": 468,
+    "source": "https://iitj.ac.in/support-iit-jodhpur/en/friends-of-iitj",
+    "category": "depth_2",
+    "title": "Friends of IIT Jodhpur | Support IIT Jodhpur | IIT Jodhpur",
+    "char_count": 5707,
+    "depth": 2
+  },
+  {
+    "id": 470,
+    "source": "https://iitj.ac.in/office-of-security-transports/en/transport",
+    "category": "depth_2",
+    "title": "Transport | Office of Security & Transports | IIT Jodhpur",
+    "char_count": 1895,
+    "depth": 2
+  },
+  {
+    "id": 471,
+    "source": "https://iitj.ac.in/post-doctoral-fellows/en/PDF",
+    "category": "depth_2",
+    "title": "Post-Doctoral Fellows (PDF) | IIT Jodhpur",
+    "char_count": 1358,
+    "depth": 2
+  },
+  {
+    "id": 472,
+    "source": "https://iitj.ac.in/main/en/companies-oversight",
+    "category": "depth_2",
+    "title": "Companies Oversight | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 617,
+    "depth": 2
+  },
+  {
+    "id": 473,
+    "source": "https://iitj.ac.in/main/en/grievance-redressal-committee",
+    "category": "depth_2",
+    "title": "Grievance Redressal Committee | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1552,
+    "depth": 2
+  },
+  {
+    "id": 474,
+    "source": "https://iitj.ac.in/main/en/house-allotment-rules-for-employee",
+    "category": "depth_2",
+    "title": "House Allotment Rules for Employee | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 526,
+    "depth": 2
+  },
+  {
+    "id": 475,
+    "source": "https://iitj.ac.in/office-of-corporate-relations/en/Office-of-Corporate-Relations",
+    "category": "depth_2",
+    "title": "Office of Corporate Relations | IIT Jodhpur",
+    "char_count": 6682,
+    "depth": 2
+  },
+  {
+    "id": 476,
+    "source": "https://iitj.ac.in/m/Index/A524D520-FFFB-4C8A-9327-ECD4E4A95FC1?lg=en",
+    "category": "depth_2",
+    "title": "About IITJ | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 424,
+    "depth": 2
+  },
+  {
+    "id": 478,
+    "source": "https://iitj.ac.in/m/Index/B3A85DF9-7350-46C0-A967-A48DBDEED8C7?lg=en",
+    "category": "depth_2",
+    "title": "Institute | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 453,
+    "depth": 2
+  },
+  {
+    "id": 479,
+    "source": "https://iitj.ac.in/office-of-academics/en/scholarships",
+    "category": "depth_2",
+    "title": "Scholarships | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 1486,
+    "depth": 2
+  },
+  {
+    "id": 480,
+    "source": "https://iitj.ac.in/office-of-academics/en/cgpa-conversion-medium-of-teaching",
+    "category": "depth_2",
+    "title": "CGPA Conversion & Medium of Teaching | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 498,
+    "depth": 2
+  },
+  {
+    "id": 481,
+    "source": "https://iitj.ac.in/office-of-academics/en/academic-programs?ep=fw",
+    "category": "depth_2",
+    "title": "Academic Programs | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 614,
+    "depth": 2
+  },
+  {
+    "id": 482,
+    "source": "https://iitj.ac.in/m/Index/e1ec016d-ad3e-4a5a-bfbe-831afdd32b38?lg=en",
+    "category": "depth_2",
+    "title": "Departments | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 575,
+    "depth": 2
+  },
+  {
+    "id": 483,
+    "source": "https://iitj.ac.in/office-of-academics/en/fee-structure",
+    "category": "depth_2",
+    "title": "Fee Structure | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 492,
+    "depth": 2
+  },
+  {
+    "id": 484,
+    "source": "https://iitj.ac.in/office-of-academics/en/circulars",
+    "category": "depth_2",
+    "title": "Circulars | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 4035,
+    "depth": 2
+  },
+  {
+    "id": 485,
+    "source": "https://iitj.ac.in/office-of-academics/en/ph.d.-thesis-defense",
+    "category": "depth_2",
+    "title": "Ph.D. Thesis Defense | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 23345,
+    "depth": 2
+  },
+  {
+    "id": 486,
+    "source": "https://iitj.ac.in/office-of-academics/en/convocation",
+    "category": "depth_2",
+    "title": "Convocation | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 1732,
+    "depth": 2
+  },
+  {
+    "id": 487,
+    "source": "https://iitj.ac.in/office-of-academics/en/curriculum",
+    "category": "depth_2",
+    "title": "Curriculum | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 5942,
+    "depth": 2
+  },
+  {
+    "id": 488,
+    "source": "https://iitj.ac.in/office-of-academics/en/download-forms",
+    "category": "depth_2",
+    "title": "Download Forms | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 7577,
+    "depth": 2
+  },
+  {
+    "id": 489,
+    "source": "https://iitj.ac.in/m/Index/ab99d4da-35b6-40f6-bcd5-b549c8b309c1?lg=en",
+    "category": "depth_2",
+    "title": "Centers | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 686,
+    "depth": 2
+  },
+  {
+    "id": 490,
+    "source": "https://iitj.ac.in/office-of-academics/en/program-Structure",
+    "category": "depth_2",
+    "title": "Program Structure | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 3314,
+    "depth": 2
+  },
+  {
+    "id": 491,
+    "source": "https://iitj.ac.in/m/Index/765f3f7b-09d5-42e5-b376-4e72ee5c5a21?lg=en",
+    "category": "depth_2",
+    "title": "Schools | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 517,
+    "depth": 2
+  },
+  {
+    "id": 493,
+    "source": "https://iitj.ac.in/m/Index/1afa243f-2cf8-49ec-b8c3-e00f3ad1627d?lg=en",
+    "category": "depth_2",
+    "title": "IDRPs/IDRCs | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 548,
+    "depth": 2
+  },
+  {
+    "id": 494,
+    "source": "https://iitj.ac.in/office-of-academics/en/transcripts",
+    "category": "depth_2",
+    "title": "Transcripts | Office of Academics Affairs | IIT Jodhpur",
+    "char_count": 1269,
+    "depth": 2
+  },
+  {
+    "id": 496,
+    "source": "https://iitj.ac.in/m/Index/37B5E15F-A653-4C72-8604-DE296A2114C1?lg=en",
+    "category": "depth_2",
+    "title": "Faculty | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 526,
+    "depth": 2
+  },
+  {
+    "id": 503,
+    "source": "https://iitj.ac.in/es/en/Contact",
+    "category": "depth_2",
+    "title": "Contact | Engineering Science | IIT Jodhpur",
+    "char_count": 500,
+    "depth": 2
+  },
+  {
+    "id": 504,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/program-portfolio",
+    "category": "depth_2",
+    "title": "Program Portfolio | Office of Executive Education | IIT Jodhpur",
+    "char_count": 4722,
+    "depth": 2
+  },
+  {
+    "id": 506,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/testimonials",
+    "category": "depth_2",
+    "title": "Testimonials | Office of Executive Education | IIT Jodhpur",
+    "char_count": 420,
+    "depth": 2
+  },
+  {
+    "id": 507,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/contact",
+    "category": "depth_2",
+    "title": "Contact | Office of Executive Education | IIT Jodhpur",
+    "char_count": 580,
+    "depth": 2
+  },
+  {
+    "id": 509,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/operational-model",
+    "category": "depth_2",
+    "title": "Operational Model | Office of Executive Education | IIT Jodhpur",
+    "char_count": 1652,
+    "depth": 2
+  },
+  {
+    "id": 510,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/news-updates",
+    "category": "depth_2",
+    "title": "News & Updates | Office of Executive Education | IIT Jodhpur",
+    "char_count": 422,
+    "depth": 2
+  },
+  {
+    "id": 511,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/industry-collaboration-strategic-partnerships",
+    "category": "depth_2",
+    "title": "Industry Collaboration & Strategic Partnerships | Office of Executive Education | IIT Jodhpur",
+    "char_count": 503,
+    "depth": 2
+  },
+  {
+    "id": 512,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/program-delivery-infrastructure",
+    "category": "depth_2",
+    "title": "Program Delivery & Infrastructure | Office of Executive Education | IIT Jodhpur",
+    "char_count": 2698,
+    "depth": 2
+  },
+  {
+    "id": 513,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/registration",
+    "category": "depth_2",
+    "title": "Registration | Office of Executive Education | IIT Jodhpur",
+    "char_count": 7395,
+    "depth": 2
+  },
+  {
+    "id": 514,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/faculty",
+    "category": "depth_2",
+    "title": "Faculty | Office of Executive Education | IIT Jodhpur",
+    "char_count": 2222,
+    "depth": 2
+  },
+  {
+    "id": 515,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/executive-alumni-network-lifelong-learning",
+    "category": "depth_2",
+    "title": "Executive Alumni Network & Lifelong Learning | Office of Executive Education | IIT Jodhpur",
+    "char_count": 794,
+    "depth": 2
+  },
+  {
+    "id": 516,
+    "source": "https://iitj.ac.in/main/hi/events",
+    "category": "depth_2",
+    "title": "\u0938\u092d\u0940 \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e | \u092d\u093e\u0930\u0924\u0940\u092f \u092a\u094d\u0930\u094c\u0926\u094d\u092f\u094b\u0917\u093f\u0915\u0940 \u0938\u0902\u0938\u094d\u0925\u093e\u0928 \u091c\u094b\u0927\u092a\u0941\u0930",
+    "char_count": 209,
+    "depth": 2
+  },
+  {
+    "id": 517,
+    "source": "https://iitj.ac.in/main/en/deputy-director",
+    "category": "depth_2",
+    "title": "Deputy Director | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 570,
+    "depth": 2
+  },
+  {
+    "id": 519,
+    "source": "https://iitj.ac.in/main/en/registrar",
+    "category": "depth_2",
+    "title": "Registrar | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 537,
+    "depth": 2
+  },
+  {
+    "id": 520,
+    "source": "https://iitj.ac.in/main/en/officers",
+    "category": "depth_2",
+    "title": "Officers | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1642,
+    "depth": 2
+  },
+  {
+    "id": 521,
+    "source": "https://iitj.ac.in/main/en/deans-associate-deans",
+    "category": "depth_2",
+    "title": "Deans & Associate Deans | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1583,
+    "depth": 2
+  },
+  {
+    "id": 522,
+    "source": "https://iitj.ac.in/main/en/wardens",
+    "category": "depth_2",
+    "title": "Wardens | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1112,
+    "depth": 2
+  },
+  {
+    "id": 523,
+    "source": "https://iitj.ac.in/main/en/chairpersons-coordinators-of-committees",
+    "category": "depth_2",
+    "title": "Chairpersons/Coordinators of Committees | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 2012,
+    "depth": 2
+  },
+  {
+    "id": 524,
+    "source": "https://iitj.ac.in/main/en/advisors",
+    "category": "depth_2",
+    "title": "Advisors | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 551,
+    "depth": 2
+  },
+  {
+    "id": 525,
+    "source": "https://iitj.ac.in/main/en/professor-in-charge",
+    "category": "depth_2",
+    "title": "Professor In Charge | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 867,
+    "depth": 2
+  },
+  {
+    "id": 526,
+    "source": "https://iitj.ac.in/m/Index/BBEDC153-4C92-4C4D-98C9-68E5AC662BBF?lg=en",
+    "category": "depth_2",
+    "title": "Key Functionaries | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 480,
+    "depth": 2
+  },
+  {
+    "id": 529,
+    "source": "https://iitj.ac.in/office-of-stores-purchase/en/office-of-stores-and-purchase",
+    "category": "depth_2",
+    "title": "Office of Stores & Purchase | IIT Jodhpur",
+    "char_count": 1205,
+    "depth": 2
+  },
+  {
+    "id": 530,
+    "source": "https://iitj.ac.in/office-of-stores-purchase/en/Manual",
+    "category": "depth_2",
+    "title": "Manual | Office of Stores & Purchase | IIT Jodhpur",
+    "char_count": 467,
+    "depth": 2
+  },
+  {
+    "id": 533,
+    "source": "https://iitj.ac.in/office-of-stores-purchase/en/Contact",
+    "category": "depth_2",
+    "title": "Contact | Office of Stores & Purchase | IIT Jodhpur",
+    "char_count": 516,
+    "depth": 2
+  },
+  {
+    "id": 536,
+    "source": "https://iitj.ac.in/Main/en/Recruitment",
+    "category": "depth_2",
+    "title": "Recruitment | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 2969,
+    "depth": 2
+  },
+  {
+    "id": 537,
+    "source": "https://iitj.ac.in/Main/en/IT-Jodhpur-Surroundings",
+    "category": "depth_2",
+    "title": "IT Jodhpur & Surroundings | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 4788,
+    "depth": 2
+  },
+  {
+    "id": 538,
+    "source": "https://iitj.ac.in/Main/en/Life-@-IIT-Jodhpur",
+    "category": "depth_2",
+    "title": "Life @ IIT Jodhpur | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 7671,
+    "depth": 2
+  },
+  {
+    "id": 539,
+    "source": "https://iitj.ac.in/Main/en/Professional-Development",
+    "category": "depth_2",
+    "title": "Professional Development | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1878,
+    "depth": 2
+  },
+  {
+    "id": 540,
+    "source": "https://iitj.ac.in/m/Index/1AFA243F-2CF8-49EC-B8C3-E00F3AD1627D?lg=en",
+    "category": "depth_2",
+    "title": "IDRPs/IDRCs | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 548,
+    "depth": 2
+  },
+  {
+    "id": 541,
+    "source": "https://iitj.ac.in/sst",
+    "category": "depth_2",
+    "title": "Space Technology | IIT Jodhpur",
+    "char_count": 2748,
+    "depth": 2
+  },
+  {
+    "id": 542,
+    "source": "https://iitj.ac.in/qic",
+    "category": "depth_2",
+    "title": "Quantum Information and Computation | IIT Jodhpur",
+    "char_count": 1763,
+    "depth": 2
+  },
+  {
+    "id": 543,
+    "source": "https://iitj.ac.in/rm",
+    "category": "depth_2",
+    "title": "Robotics & Mobility Systems | IIT Jodhpur",
+    "char_count": 1402,
+    "depth": 2
+  },
+  {
+    "id": 544,
+    "source": "https://iitj.ac.in/cdh",
+    "category": "depth_2",
+    "title": "Centre for Digital Health | IIT Jodhpur",
+    "char_count": 3670,
+    "depth": 2
+  },
+  {
+    "id": 545,
+    "source": "https://iitj.ac.in/dh",
+    "category": "depth_2",
+    "title": "Digital Humanities | IIT Jodhpur",
+    "char_count": 2256,
+    "depth": 2
+  },
+  {
+    "id": 546,
+    "source": "https://iitj.ac.in/m/Index/3D1303DA-B189-4443-8E0E-4ABE2E50FFA1?lg=en",
+    "category": "depth_2",
+    "title": "Academics | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 466,
+    "depth": 2
+  },
+  {
+    "id": 548,
+    "source": "https://iitj.ac.in/iot",
+    "category": "depth_2",
+    "title": "Center for AIoT and Applications | IIT Jodhpur",
+    "char_count": 3346,
+    "depth": 2
+  },
+  {
+    "id": 549,
+    "source": "https://iitj.ac.in/anti-sexual-harassment-policy/en/suggestions",
+    "category": "depth_2",
+    "title": "Suggestions | Anti Sexual Harassment Policy | IIT Jodhpur",
+    "char_count": 470,
+    "depth": 2
+  },
+  {
+    "id": 550,
+    "source": "https://iitj.ac.in/anti-sexual-harassment-policy/en/people",
+    "category": "depth_2",
+    "title": "People | Anti Sexual Harassment Policy | IIT Jodhpur",
+    "char_count": 1112,
+    "depth": 2
+  },
+  {
+    "id": 551,
+    "source": "https://iitj.ac.in/anti-sexual-harassment-policy/en/guidelines",
+    "category": "depth_2",
+    "title": "Guidelines | Anti Sexual Harassment Policy | IIT Jodhpur",
+    "char_count": 631,
+    "depth": 2
+  },
+  {
+    "id": 553,
+    "source": "https://iitj.ac.in/anti-sexual-harassment-policy/en/how-to-make-a-complaint",
+    "category": "depth_2",
+    "title": "How To Make A Complaint | Anti Sexual Harassment Policy | IIT Jodhpur",
+    "char_count": 942,
+    "depth": 2
+  },
+  {
+    "id": 554,
+    "source": "https://iitj.ac.in/anti-sexual-harassment-policy/en/important-contacts",
+    "category": "depth_2",
+    "title": "Important Contacts | Anti Sexual Harassment Policy | IIT Jodhpur",
+    "char_count": 464,
+    "depth": 2
+  },
+  {
+    "id": 555,
+    "source": "https://iitj.ac.in/anti-sexual-harassment-policy/en/what-can-be-termed-as-sexual-harassment",
+    "category": "depth_2",
+    "title": "What Can Be Termed As Sexual Harassment | Anti Sexual Harassment Policy | IIT Jodhpur",
+    "char_count": 956,
+    "depth": 2
+  },
+  {
+    "id": 556,
+    "source": "https://iitj.ac.in/school-of-design",
+    "category": "depth_2",
+    "title": "School of Design | IIT Jodhpur",
+    "char_count": 3239,
+    "depth": 2
+  },
+  {
+    "id": 557,
+    "source": "https://iitj.ac.in/schools",
+    "category": "depth_2",
+    "title": "School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 4150,
+    "depth": 2
+  },
+  {
+    "id": 558,
+    "source": "https://iitj.ac.in/school-of-artificial-intelligence-data-science/en/school-of-artificial-intelligence-and-data-science",
+    "category": "depth_2",
+    "title": "School of Artificial Intelligence & Data Science | IIT Jodhpur",
+    "char_count": 1575,
+    "depth": 2
+  },
+  {
+    "id": 559,
+    "source": "https://iitj.ac.in/school-of-liberal-arts",
+    "category": "depth_2",
+    "title": "School of Liberal Arts | IIT Jodhpur",
+    "char_count": 5601,
+    "depth": 2
+  },
+  {
+    "id": 560,
+    "source": "https://iitj.ac.in/m/Index/765F3F7B-09D5-42E5-B376-4E72EE5C5A21?lg=en",
+    "category": "depth_2",
+    "title": "Schools | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 517,
+    "depth": 2
+  },
+  {
+    "id": 562,
+    "source": "https://iitj.ac.in/main/hi/director",
+    "category": "depth_2",
+    "title": "\u0928\u093f\u0926\u0947\u0936\u0915 | \u092d\u093e\u0930\u0924\u0940\u092f \u092a\u094d\u0930\u094c\u0926\u094d\u092f\u094b\u0917\u093f\u0915\u0940 \u0938\u0902\u0938\u094d\u0925\u093e\u0928 \u091c\u094b\u0927\u092a\u0941\u0930",
+    "char_count": 516,
+    "depth": 2
+  },
+  {
+    "id": 563,
+    "source": "https://iitj.ac.in/schools/en/final-placement",
+    "category": "depth_2",
+    "title": "Final Placement | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 3941,
+    "depth": 2
+  },
+  {
+    "id": 564,
+    "source": "https://iitj.ac.in/m/Index/schools-master of business administration?lg=en",
+    "category": "depth_2",
+    "title": "Master of Business Administration | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 487,
+    "depth": 2
+  },
+  {
+    "id": 565,
+    "source": "https://iitj.ac.in/schools/en/how-to-apply",
+    "category": "depth_2",
+    "title": "How to Apply | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 1374,
+    "depth": 2
+  },
+  {
+    "id": 566,
+    "source": "https://iitj.ac.in/schools/en/phd",
+    "category": "depth_2",
+    "title": "PhD | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 4765,
+    "depth": 2
+  },
+  {
+    "id": 567,
+    "source": "https://iitj.ac.in/schools/en/Minor-Programs",
+    "category": "depth_2",
+    "title": "Minor Programs | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 3393,
+    "depth": 2
+  },
+  {
+    "id": 568,
+    "source": "https://iitj.ac.in/schools/en/industry-interaction",
+    "category": "depth_2",
+    "title": "Industry Interaction | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 3033,
+    "depth": 2
+  },
+  {
+    "id": 569,
+    "source": "https://iitj.ac.in/schools/en/projects",
+    "category": "depth_2",
+    "title": "Projects | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 2740,
+    "depth": 2
+  },
+  {
+    "id": 570,
+    "source": "https://iitj.ac.in/schools/en/mission-vision",
+    "category": "depth_2",
+    "title": "Mission & Vision | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 2087,
+    "depth": 2
+  },
+  {
+    "id": 571,
+    "source": "https://iitj.ac.in/schools/en/About-COE-IP",
+    "category": "depth_2",
+    "title": "About COE-IP | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 4895,
+    "depth": 2
+  },
+  {
+    "id": 572,
+    "source": "https://iitj.ac.in/m/Index/schools-executive program?lg=en",
+    "category": "depth_2",
+    "title": "Executive Program | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 415,
+    "depth": 2
+  },
+  {
+    "id": 573,
+    "source": "https://iitj.ac.in/schools/en/live-project",
+    "category": "depth_2",
+    "title": "Live Projects | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 1784,
+    "depth": 2
+  },
+  {
+    "id": 574,
+    "source": "https://iitj.ac.in/schools/en/phd-program",
+    "category": "depth_2",
+    "title": "PhD Program | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 10474,
+    "depth": 2
+  },
+  {
+    "id": 575,
+    "source": "https://iitj.ac.in/schools/en/placement-brochure",
+    "category": "depth_2",
+    "title": "Placement Brochure | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 731,
+    "depth": 2
+  },
+  {
+    "id": 576,
+    "source": "https://iitj.ac.in/schools/en/program-curriculum",
+    "category": "depth_2",
+    "title": "Program Curriculum | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 1552,
+    "depth": 2
+  },
+  {
+    "id": 577,
+    "source": "https://iitj.ac.in/m/Index/84EF8F1A-3FF6-4AF1-AD38-2913EC4FBA09?lg=en",
+    "category": "depth_2",
+    "title": "Admissions | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 442,
+    "depth": 2
+  },
+  {
+    "id": 578,
+    "source": "https://iitj.ac.in/schools/en/eligibility-criteria-and-selection-process",
+    "category": "depth_2",
+    "title": "Eligibility Criteria and Selection Process | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 7587,
+    "depth": 2
+  },
+  {
+    "id": 580,
+    "source": "https://iitj.ac.in/schools/en/publications",
+    "category": "depth_2",
+    "title": "Publications | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 26774,
+    "depth": 2
+  },
+  {
+    "id": 582,
+    "source": "https://iitj.ac.in/schools/en/about-sme",
+    "category": "depth_2",
+    "title": "About SME | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 1750,
+    "depth": 2
+  },
+  {
+    "id": 583,
+    "source": "https://iitj.ac.in/m/Index/schools-executive-program?lg=en",
+    "category": "depth_2",
+    "title": "Executive Program | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 439,
+    "depth": 2
+  },
+  {
+    "id": 584,
+    "source": "https://iitj.ac.in/m/Index/schools-mba in - fintech - cybersecurity?lg=en",
+    "category": "depth_2",
+    "title": "MBA in Fintech & Cybersecurity | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 410,
+    "depth": 2
+  },
+  {
+    "id": 585,
+    "source": "https://iitj.ac.in/m/Index/schools-dual degree?lg=en",
+    "category": "depth_2",
+    "title": "Dual Degree | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 417,
+    "depth": 2
+  },
+  {
+    "id": 586,
+    "source": "https://iitj.ac.in/m/Index/1B66200D-9309-4212-AF0B-D98FA1D9C356?lg=en",
+    "category": "depth_2",
+    "title": "Master of Business Administration | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 487,
+    "depth": 2
+  },
+  {
+    "id": 587,
+    "source": "https://iitj.ac.in/schools/en/fee-structure-student-intake",
+    "category": "depth_2",
+    "title": "Fee Structure & Student Intake | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 2020,
+    "depth": 2
+  },
+  {
+    "id": 588,
+    "source": "https://iitj.ac.in/m/Index/schools-mba in fintech - cybersecurity?lg=en",
+    "category": "depth_2",
+    "title": "MBA In FinTech & Cybersecurity | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 446,
+    "depth": 2
+  },
+  {
+    "id": 589,
+    "source": "https://iitj.ac.in/schools/en/faq-1",
+    "category": "depth_2",
+    "title": "FAQs | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 4378,
+    "depth": 2
+  },
+  {
+    "id": 590,
+    "source": "https://iitj.ac.in/schools/en/summer-internship",
+    "category": "depth_2",
+    "title": "Summer Internship | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 2750,
+    "depth": 2
+  },
+  {
+    "id": 592,
+    "source": "https://iitj.ac.in/schools/en/contact",
+    "category": "depth_2",
+    "title": "Contact | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 683,
+    "depth": 2
+  },
+  {
+    "id": 593,
+    "source": "https://iitj.ac.in/schools/en/School-of-Management-&-Entrepreneurship",
+    "category": "depth_2",
+    "title": "School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 4150,
+    "depth": 2
+  },
+  {
+    "id": 594,
+    "source": "https://iitj.ac.in/schools/en/phd-students",
+    "category": "depth_2",
+    "title": "PhD Students | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 1132,
+    "depth": 2
+  },
+  {
+    "id": 595,
+    "source": "https://iitj.ac.in/schools/en/mdp",
+    "category": "depth_2",
+    "title": "Management Development Programs | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 3056,
+    "depth": 2
+  },
+  {
+    "id": 596,
+    "source": "https://iitj.ac.in/m/Index/schools-mba & mba technology?lg=en",
+    "category": "depth_2",
+    "title": "MBA & MBA Technology | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 400,
+    "depth": 2
+  },
+  {
+    "id": 597,
+    "source": "https://iitj.ac.in/schools/en/placement-process",
+    "category": "depth_2",
+    "title": "Placement Process | School of Management & Entrepreneurship | IIT Jodhpur",
+    "char_count": 1131,
+    "depth": 2
+  },
+  {
+    "id": 598,
+    "source": "https://iitj.ac.in/main/en/sustainability-policy",
+    "category": "depth_2",
+    "title": "Sustainability Policy | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 5896,
+    "depth": 2
+  },
+  {
+    "id": 599,
+    "source": "https://iitj.ac.in/main/en/campus-infrastructure",
+    "category": "depth_2",
+    "title": "Campus Infrastructure | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 3103,
+    "depth": 2
+  },
+  {
+    "id": 600,
+    "source": "https://iitj.ac.in/m/Index/2FF9DBA0-6F41-48FB-9E39-2EE58419FE24?lg=en",
+    "category": "depth_2",
+    "title": "Infrastructure | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 472,
+    "depth": 2
+  },
+  {
+    "id": 602,
+    "source": "https://iitj.ac.in/aiot-fab-facility/en/contact",
+    "category": "depth_2",
+    "title": "Contact | Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur",
+    "char_count": 705,
+    "depth": 2
+  },
+  {
+    "id": 603,
+    "source": "https://iitj.ac.in/aiot-fab-facility/en/usage-charges",
+    "category": "depth_2",
+    "title": "Booking and Usage Charges | Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur",
+    "char_count": 2307,
+    "depth": 2
+  },
+  {
+    "id": 606,
+    "source": "https://iitj.ac.in/aiot-fab-facility/en/facilities",
+    "category": "depth_2",
+    "title": "AIoT Fab Facilities | Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur",
+    "char_count": 560,
+    "depth": 2
+  },
+  {
+    "id": 607,
+    "source": "https://iitj.ac.in/techscape/en/contact",
+    "category": "depth_2",
+    "title": "Contact | Techscape | IIT Jodhpur",
+    "char_count": 691,
+    "depth": 2
+  },
+  {
+    "id": 608,
+    "source": "https://iitj.ac.in/techscape/en/all-issues",
+    "category": "depth_2",
+    "title": "All Issues | Techscape | IIT Jodhpur",
+    "char_count": 433,
+    "depth": 2
+  },
+  {
+    "id": 609,
+    "source": "https://iitj.ac.in/techscape/en/Information-for-Authors",
+    "category": "depth_2",
+    "title": "Information for Authors | Techscape | IIT Jodhpur",
+    "char_count": 7447,
+    "depth": 2
+  },
+  {
+    "id": 610,
+    "source": "https://iitj.ac.in/techscape/hi/Techscape",
+    "category": "depth_2",
+    "title": "\u091f\u0947\u0915\u0938\u094d\u0915\u0947\u092a",
+    "char_count": 879,
+    "depth": 2
+  },
+  {
+    "id": 611,
+    "source": "https://iitj.ac.in/techscape/en/editorial-board",
+    "category": "depth_2",
+    "title": "Editorial Board | Techscape | IIT Jodhpur",
+    "char_count": 1839,
+    "depth": 2
+  },
+  {
+    "id": 612,
+    "source": "https://iitj.ac.in/techscape/en/information-for-authors",
+    "category": "depth_2",
+    "title": "Information for Authors | Techscape | IIT Jodhpur",
+    "char_count": 7447,
+    "depth": 2
+  },
+  {
+    "id": 613,
+    "source": "https://iitj.ac.in/techscape",
+    "category": "depth_2",
+    "title": "Techscape | IIT Jodhpur",
+    "char_count": 2458,
+    "depth": 2
+  },
+  {
+    "id": 615,
+    "source": "http://swc.iitj.ac.in/freshers_grp_performance.php",
+    "category": "depth_2",
+    "title": "Events",
+    "char_count": 4191,
+    "depth": 2
+  },
+  {
+    "id": 616,
+    "source": "http://swc.iitj.ac.in/activities_pmr.php",
+    "category": "depth_2",
+    "title": "Counsellor Activities",
+    "char_count": 17409,
+    "depth": 2
+  },
+  {
+    "id": 619,
+    "source": "http://swc.iitj.ac.in/cs_team_ug_2024.php",
+    "category": "depth_2",
+    "title": "SWC team - UG",
+    "char_count": 3324,
+    "depth": 2
+  },
+  {
+    "id": 620,
+    "source": "http://swc.iitj.ac.in/fiesta.php",
+    "category": "depth_2",
+    "title": "FIESTA",
+    "char_count": 1256,
+    "depth": 2
+  },
+  {
+    "id": 621,
+    "source": "http://swc.iitj.ac.in/cs_team_pg_2025.php",
+    "category": "depth_2",
+    "title": "SWC team - PG",
+    "char_count": 1583,
+    "depth": 2
+  },
+  {
+    "id": 623,
+    "source": "http://swc.iitj.ac.in/student_exp.php",
+    "category": "depth_2",
+    "title": "Student Experiences",
+    "char_count": 4704,
+    "depth": 2
+  },
+  {
+    "id": 624,
+    "source": "http://swc.iitj.ac.in/misc_faqs.php",
+    "category": "depth_2",
+    "title": "Misc FAQs",
+    "char_count": 4245,
+    "depth": 2
+  },
+  {
+    "id": 625,
+    "source": "http://swc.iitj.ac.in/index.php",
+    "category": "depth_2",
+    "title": "Student Wellbeing Committee - IIT Jodhpur",
+    "char_count": 1585,
+    "depth": 2
+  },
+  {
+    "id": 627,
+    "source": "http://swc.iitj.ac.in/festivals.php",
+    "category": "depth_2",
+    "title": "Festivals - IIT Jodhpur",
+    "char_count": 4840,
+    "depth": 2
+  },
+  {
+    "id": 628,
+    "source": "http://swc.iitj.ac.in/academics_faqs.php",
+    "category": "depth_2",
+    "title": "Academics FAQs",
+    "char_count": 4443,
+    "depth": 2
+  },
+  {
+    "id": 629,
+    "source": "http://swc.iitj.ac.in/mr_msfreshers.php",
+    "category": "depth_2",
+    "title": "Freshanza",
+    "char_count": 1416,
+    "depth": 2
+  },
+  {
+    "id": 630,
+    "source": "http://swc.iitj.ac.in/orientation_formal.php",
+    "category": "depth_2",
+    "title": "Formal Orientation",
+    "char_count": 1944,
+    "depth": 2
+  },
+  {
+    "id": 631,
+    "source": "http://swc.iitj.ac.in/registration_faqs.php",
+    "category": "depth_2",
+    "title": "Registration FAQs",
+    "char_count": 1724,
+    "depth": 2
+  },
+  {
+    "id": 632,
+    "source": "http://iitj.ac.in",
+    "category": "depth_2",
+    "title": "Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 3197,
+    "depth": 2
+  },
+  {
+    "id": 633,
+    "source": "http://swc.iitj.ac.in/orientation.php",
+    "category": "depth_2",
+    "title": "Orientation",
+    "char_count": 5268,
+    "depth": 2
+  },
+  {
+    "id": 634,
+    "source": "http://swc.iitj.ac.in/general_faqs.php",
+    "category": "depth_2",
+    "title": "General FAQs",
+    "char_count": 11446,
+    "depth": 2
+  },
+  {
+    "id": 635,
+    "source": "http://swc.iitj.ac.in/hostel.php",
+    "category": "depth_2",
+    "title": "Hostels - IIT Jodhpur",
+    "char_count": 429,
+    "depth": 2
+  },
+  {
+    "id": 636,
+    "source": "http://swc.iitj.ac.in/counsellors_team.php",
+    "category": "depth_2",
+    "title": "Counsellors Team",
+    "char_count": 879,
+    "depth": 2
+  },
+  {
+    "id": 638,
+    "source": "http://swc.iitj.ac.in/hostel_mess_faqs.php",
+    "category": "depth_2",
+    "title": "Hostel | Mess FAQs",
+    "char_count": 1859,
+    "depth": 2
+  },
+  {
+    "id": 639,
+    "source": "http://swc.iitj.ac.in/cs_team_ug_2025.php",
+    "category": "depth_2",
+    "title": "SWC team - UG",
+    "char_count": 3543,
+    "depth": 2
+  },
+  {
+    "id": 641,
+    "source": "http://swc.iitj.ac.in/faculty_advisors.php",
+    "category": "depth_2",
+    "title": "Institute Students Wellbeing Committee (ISWC)",
+    "char_count": 928,
+    "depth": 2
+  },
+  {
+    "id": 642,
+    "source": "https://iitj.ac.in/office-of-international-relations/en/office-of-international-relations",
+    "category": "depth_2",
+    "title": "Office of International Relations | IIT Jodhpur",
+    "char_count": 3436,
+    "depth": 2
+  },
+  {
+    "id": 643,
+    "source": "https://iitj.ac.in/office-of-security-transports/en/office-of-security-transports",
+    "category": "depth_2",
+    "title": "Office of Security & Transports | IIT Jodhpur",
+    "char_count": 2646,
+    "depth": 2
+  },
+  {
+    "id": 644,
+    "source": "https://iitj.ac.in/office-of-registrar/en/Office-of-Registrar",
+    "category": "depth_2",
+    "title": "Office of Registrar | IIT Jodhpur",
+    "char_count": 1386,
+    "depth": 2
+  },
+  {
+    "id": 645,
+    "source": "https://iitj.ac.in/office-of-training-and-placement/en/Office-of-Training-and-Placement",
+    "category": "depth_2",
+    "title": "Office of Training and Placement | IIT Jodhpur",
+    "char_count": 2304,
+    "depth": 2
+  },
+  {
+    "id": 646,
+    "source": "https://iitj.ac.in/m/Index/75AB8EFC-DBC4-4BE7-985B-50A3DC0CF2CD?lg=en",
+    "category": "depth_2",
+    "title": "Administration | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 506,
+    "depth": 2
+  },
+  {
+    "id": 647,
+    "source": "https://iitj.ac.in/office-of-corporate-relations/en/office-of-corporate-relations",
+    "category": "depth_2",
+    "title": "Office of Corporate Relations | IIT Jodhpur",
+    "char_count": 6682,
+    "depth": 2
+  },
+  {
+    "id": 648,
+    "source": "https://iitj.ac.in/centre-for-continuing-education/en/centre-for-continuing-education",
+    "category": "depth_2",
+    "title": "Centre for Continuing Education (CCE) | IIT Jodhpur",
+    "char_count": 1638,
+    "depth": 2
+  },
+  {
+    "id": 649,
+    "source": "https://iitj.ac.in/office-of-recruitment-nf/en/office-of-recruitment-nf",
+    "category": "depth_2",
+    "title": "Office of Recruitment (Non-Faculty) | IIT Jodhpur",
+    "char_count": 660,
+    "depth": 2
+  },
+  {
+    "id": 650,
+    "source": "https://iitj.ac.in/office-of-establishment-e-I/en/Office-of-Establishment-(E-I)",
+    "category": "depth_2",
+    "title": "Office of Faculty Affairs/ Establishment (E-I) | IIT Jodhpur",
+    "char_count": 2156,
+    "depth": 2
+  },
+  {
+    "id": 651,
+    "source": "https://iitj.ac.in/office-of-alumni-affairs/en/Office-of-Alumni-Affairs",
+    "category": "depth_2",
+    "title": "Office of Alumni Affairs | IIT Jodhpur",
+    "char_count": 1893,
+    "depth": 2
+  },
+  {
+    "id": 652,
+    "source": "https://iitj.ac.in/transit-accommodation-guest-house/en/transit-accommodation-guest-house",
+    "category": "depth_2",
+    "title": "Visitors Hostel | IIT Jodhpur",
+    "char_count": 1748,
+    "depth": 2
+  },
+  {
+    "id": 653,
+    "source": "https://iitj.ac.in/office-of-director/en/Office-of-Director",
+    "category": "depth_2",
+    "title": "Office of Director | IIT Jodhpur",
+    "char_count": 3252,
+    "depth": 2
+  },
+  {
+    "id": 654,
+    "source": "https://iitj.ac.in/Office-of-Administration/en/Office-of-Administration",
+    "category": "depth_2",
+    "title": "Office of Administration | IIT Jodhpur",
+    "char_count": 3725,
+    "depth": 2
+  },
+  {
+    "id": 655,
+    "source": "https://iitj.ac.in/office-of-establishment-nf/en/office-of-establishment-nf",
+    "category": "depth_2",
+    "title": "Office of Establishment (Non-Faculty) | IIT Jodhpur",
+    "char_count": 1221,
+    "depth": 2
+  },
+  {
+    "id": 656,
+    "source": "https://iitj.ac.in/m/Index/36046C31-E4D5-49F8-A527-1B2C71AC5752?lg=en",
+    "category": "depth_2",
+    "title": "Various Offices | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 1266,
+    "depth": 2
+  },
+  {
+    "id": 657,
+    "source": "https://iitj.ac.in/legal-cell/en/Legal-Cell",
+    "category": "depth_2",
+    "title": "Legal Cell | IIT Jodhpur",
+    "char_count": 1727,
+    "depth": 2
+  },
+  {
+    "id": 658,
+    "source": "https://iitj.ac.in/lf/en/lf",
+    "category": "depth_2",
+    "title": "Office of Logistics & Facilities (LF) | IIT Jodhpur",
+    "char_count": 1207,
+    "depth": 2
+  },
+  {
+    "id": 660,
+    "source": "https://iitj.ac.in/office-of-internal-audit/en/Office-of-Internal-Audit",
+    "category": "depth_2",
+    "title": "Office of Internal Audit | IIT Jodhpur",
+    "char_count": 2763,
+    "depth": 2
+  },
+  {
+    "id": 662,
+    "source": "https://iitj.ac.in/office-of-iitj-connect-pro/en/office-of-iitj-connect-pro",
+    "category": "depth_2",
+    "title": "Office of IITJ Connect & PRO | IIT Jodhpur",
+    "char_count": 1979,
+    "depth": 2
+  },
+  {
+    "id": 663,
+    "source": "https://iitj.ac.in/vtu/en/vtu",
+    "category": "depth_2",
+    "title": "Office of Vocational Training and Upskilling (VTU) | IIT Jodhpur",
+    "char_count": 1250,
+    "depth": 2
+  },
+  {
+    "id": 664,
+    "source": "https://iitj.ac.in/rti-cell/en/rti-cell",
+    "category": "depth_2",
+    "title": "RTI Cell | IIT Jodhpur",
+    "char_count": 1928,
+    "depth": 2
+  },
+  {
+    "id": 665,
+    "source": "https://iitj.ac.in/green-cell/en/green-cell",
+    "category": "depth_2",
+    "title": "Green Cell | IIT Jodhpur",
+    "char_count": 451,
+    "depth": 2
+  },
+  {
+    "id": 666,
+    "source": "https://iitj.ac.in/dora/en/dora",
+    "category": "depth_2",
+    "title": "Office of Resources and Alumni (DORA) | IIT Jodhpur",
+    "char_count": 2926,
+    "depth": 2
+  },
+  {
+    "id": 667,
+    "source": "https://iitj.ac.in/office-of-accounts/en/Accounts-Home",
+    "category": "depth_2",
+    "title": "Office of Accounts | IIT Jodhpur",
+    "char_count": 2126,
+    "depth": 2
+  },
+  {
+    "id": 668,
+    "source": "https://iitj.ac.in/Office-of-Deputy-Director/en/Office-of-Deputy-Director",
+    "category": "depth_2",
+    "title": "Office of Deputy Director | IIT Jodhpur",
+    "char_count": 818,
+    "depth": 2
+  },
+  {
+    "id": 669,
+    "source": "https://iitj.ac.in/office-of-estate/en/Office-of-Estate",
+    "category": "depth_2",
+    "title": "Office of Estate | IIT Jodhpur",
+    "char_count": 2429,
+    "depth": 2
+  },
+  {
+    "id": 670,
+    "source": "https://iitj.ac.in/office-of-infrastructure-engineering/en/Office-of-Infrastructure-Engineering",
+    "category": "depth_2",
+    "title": "Office of Infrastructure Engineering | IIT Jodhpur",
+    "char_count": 1533,
+    "depth": 2
+  },
+  {
+    "id": 672,
+    "source": "https://iitj.ac.in/civil-and-infrastructure-engineering",
+    "category": "depth_2",
+    "title": "Civil and Infrastructure Engineering | IIT Jodhpur",
+    "char_count": 5329,
+    "depth": 2
+  },
+  {
+    "id": 673,
+    "source": "https://iitj.ac.in/m/Index/E1EC016D-AD3E-4A5A-BFBE-831AFDD32B38?lg=en",
+    "category": "depth_2",
+    "title": "Departments | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 575,
+    "depth": 2
+  },
+  {
+    "id": 674,
+    "source": "https://iitj.ac.in/office-of-internal-audit/en/office-of-internal-audit",
+    "category": "depth_2",
+    "title": "Office of Internal Audit | IIT Jodhpur",
+    "char_count": 2763,
+    "depth": 2
+  },
+  {
+    "id": 675,
+    "source": "https://intranet.iitj.ac.in/correspondences/index.php?id=Office_of_administration_form",
+    "category": "depth_2",
+    "title": "",
+    "char_count": 377,
+    "depth": 2
+  },
+  {
+    "id": 677,
+    "source": "https://iitj.ac.in/office-of-administration/hi/office-of-administration",
+    "category": "depth_2",
+    "title": "\u092a\u094d\u0930\u0936\u093e\u0938\u0928 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f",
+    "char_count": 213,
+    "depth": 2
+  },
+  {
+    "id": 678,
+    "source": "https://intranet.iitj.ac.in/correspondences/index.php?id=Office_of_administration_notification",
+    "category": "depth_2",
+    "title": "",
+    "char_count": 1709,
+    "depth": 2
+  },
+  {
+    "id": 679,
+    "source": "https://iitj.ac.in/office-of-administration/en/about-dean-of-administration",
+    "category": "depth_2",
+    "title": "About Dean of Administration | Office of Administration | IIT Jodhpur",
+    "char_count": 3149,
+    "depth": 2
+  },
+  {
+    "id": 680,
+    "source": "https://iitj.ac.in/office-of-administration/en/contact",
+    "category": "depth_2",
+    "title": "Contact | Office of Administration | IIT Jodhpur",
+    "char_count": 619,
+    "depth": 2
+  },
+  {
+    "id": 681,
+    "source": "https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=b2f05f6e-32d9-4575-9540-db7e6642eb3c",
+    "category": "depth_2",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 4637,
+    "depth": 2
+  },
+  {
+    "id": 682,
+    "source": "https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=e12c5ea7-867e-473b-bea1-a24e044a5082",
+    "category": "depth_2",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 2128,
+    "depth": 2
+  },
+  {
+    "id": 683,
+    "source": "https://iitj.ac.in/main/en/research-highlight?dsl=1&dslArchive=1",
+    "category": "depth_2",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 509,
+    "depth": 2
+  },
+  {
+    "id": 684,
+    "source": "https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=8147fa40-508b-42e9-b6ef-6b489f8f8d61",
+    "category": "depth_2",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 828,
+    "depth": 2
+  },
+  {
+    "id": 686,
+    "source": "https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=fc0f191d-4d20-4b42-8012-24087a4b174a",
+    "category": "depth_2",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 4281,
+    "depth": 2
+  },
+  {
+    "id": 687,
+    "source": "https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=cb60d9b9-c1fb-4e86-a75e-1a80010fd3e2",
+    "category": "depth_2",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 4719,
+    "depth": 2
+  },
+  {
+    "id": 688,
+    "source": "https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=8d7527fa-9c50-4864-b374-03c2c649a1de",
+    "category": "depth_2",
+    "title": "All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 2903,
+    "depth": 2
+  },
+  {
+    "id": 691,
+    "source": "https://iitj.ac.in/main/en/web-policy-guidelines?ep=fw",
+    "category": "depth_2",
+    "title": "Web Policy Guidelines | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 24164,
+    "depth": 2
+  },
+  {
+    "id": 692,
+    "source": "https://iitj.ac.in/main/en/phonebook",
+    "category": "depth_2",
+    "title": "Phone Book | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 427,
+    "depth": 2
+  },
+  {
+    "id": 695,
+    "source": "https://intranet.iitj.ac.in/correspondences",
+    "category": "depth_2",
+    "title": "",
+    "char_count": 21590,
+    "depth": 2
+  },
+  {
+    "id": 696,
+    "source": "https://eoffice.iitj.ac.in",
+    "category": "depth_2",
+    "title": "",
+    "char_count": 268,
+    "depth": 2
+  },
+  {
+    "id": 697,
+    "source": "https://iitj.ac.in/ishaan-vikaas-program/en/ishaan-vikaas-program",
+    "category": "depth_2",
+    "title": "Ishaan Vikaas Program | IIT Jodhpur",
+    "char_count": 1898,
+    "depth": 2
+  },
+  {
+    "id": 698,
+    "source": "https://iitj.ac.in/vigyan-jyoti-program/en/vigyan-jyoti-program",
+    "category": "depth_2",
+    "title": "Vigyan Jyoti Program | IIT Jodhpur",
+    "char_count": 1032,
+    "depth": 2
+  },
+  {
+    "id": 700,
+    "source": "https://iitj.ac.in/imprint-india/en/imprint-india",
+    "category": "depth_2",
+    "title": "IMPRINT India | IIT Jodhpur",
+    "char_count": 1001,
+    "depth": 2
+  },
+  {
+    "id": 701,
+    "source": "https://iitj.ac.in/unnat-bharat-abhiyan/en/unnat-bharat-abhiyan",
+    "category": "depth_2",
+    "title": "Unnat Bharat Abhiyan (UBA) | IIT Jodhpur",
+    "char_count": 4459,
+    "depth": 2
+  },
+  {
+    "id": 702,
+    "source": "https://iitj.ac.in/m/Index/0F2B53C7-7953-4F42-B172-FC4397E13AAB?lg=en",
+    "category": "depth_2",
+    "title": "Outreach | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 564,
+    "depth": 2
+  },
+  {
+    "id": 703,
+    "source": "https://iitj.ac.in/lecture-series/en/lecture-series",
+    "category": "depth_2",
+    "title": "Lecture Series | IIT Jodhpur",
+    "char_count": 755,
+    "depth": 2
+  },
+  {
+    "id": 704,
+    "source": "https://iitj.ac.in/ek-bharat-shreshtha-bharat/en/ek-bharat-shreshtha-bharat",
+    "category": "depth_2",
+    "title": "Ek Bharat Shreshtha Bharat | IIT Jodhpur",
+    "char_count": 3187,
+    "depth": 2
+  },
+  {
+    "id": 705,
+    "source": "https://iitj.ac.in/rashtriya-avishkar-abhiyan/en/rashtriya-avishkar-abhiyan",
+    "category": "depth_2",
+    "title": "Rashtriya Avishkar Abhiyan (RAA) | IIT Jodhpur",
+    "char_count": 1138,
+    "depth": 2
+  },
+  {
+    "id": 706,
+    "source": "https://iitj.ac.in/gian/en/gian",
+    "category": "depth_2",
+    "title": "Global Initiative for Academic Networks (GIAN) | IIT Jodhpur",
+    "char_count": 1158,
+    "depth": 2
+  },
+  {
+    "id": 707,
+    "source": "https://iitj.ac.in/office-of-research-development/en/forms",
+    "category": "depth_2",
+    "title": "Forms | Office of Research & Development | IIT Jodhpur",
+    "char_count": 662,
+    "depth": 2
+  },
+  {
+    "id": 708,
+    "source": "https://iitj.ac.in/office-of-research-development/en/projects",
+    "category": "depth_2",
+    "title": "Projects | Office of Research & Development | IIT Jodhpur",
+    "char_count": 419,
+    "depth": 2
+  },
+  {
+    "id": 709,
+    "source": "https://iitj.ac.in/office-of-research-development/en/project-staff-appointment",
+    "category": "depth_2",
+    "title": "Project Staff Appointment | Office of Research & Development | IIT Jodhpur",
+    "char_count": 805,
+    "depth": 2
+  },
+  {
+    "id": 711,
+    "source": "https://iitj.ac.in/office-of-research-development/en/ipr",
+    "category": "depth_2",
+    "title": "IPR | Office of Research & Development | IIT Jodhpur",
+    "char_count": 708,
+    "depth": 2
+  },
+  {
+    "id": 713,
+    "source": "https://iitj.ac.in/office-of-research-development/en/information",
+    "category": "depth_2",
+    "title": "Information | Office of Research & Development | IIT Jodhpur",
+    "char_count": 1347,
+    "depth": 2
+  },
+  {
+    "id": 714,
+    "source": "https://iitj.ac.in/office-of-research-development/en/funding-opportunities",
+    "category": "depth_2",
+    "title": "Funding Opportunities | Office of Research & Development | IIT Jodhpur",
+    "char_count": 929,
+    "depth": 2
+  },
+  {
+    "id": 715,
+    "source": "https://iitj.ac.in/office-of-research-development/en/news",
+    "category": "depth_2",
+    "title": "All News | Office of Research & Development | IIT Jodhpur",
+    "char_count": 520,
+    "depth": 2
+  },
+  {
+    "id": 717,
+    "source": "https://iitj.ac.in/office-of-research-development/en/notification",
+    "category": "depth_2",
+    "title": "Notification | Office of Research & Development | IIT Jodhpur",
+    "char_count": 5571,
+    "depth": 2
+  },
+  {
+    "id": 718,
+    "source": "https://iitj.ac.in/office-of-research-development/en/contact",
+    "category": "depth_2",
+    "title": "Contact | Office of Research & Development | IIT Jodhpur",
+    "char_count": 617,
+    "depth": 2
+  },
+  {
+    "id": 719,
+    "source": "https://iitj.ac.in/suraj/en/suraj",
+    "category": "depth_2",
+    "title": "Summer Undergraduate Research at Jodhpur (SURAJ) | IIT Jodhpur",
+    "char_count": 2824,
+    "depth": 2
+  },
+  {
+    "id": 720,
+    "source": "https://iitj.ac.in/m/Index/8009454C-7333-408E-8E1D-27C822A929E6?lg=en",
+    "category": "depth_2",
+    "title": "Programs | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 602,
+    "depth": 2
+  },
+  {
+    "id": 721,
+    "source": "https://iitj.ac.in/Master-of-Science/en/Master-of-Science",
+    "category": "depth_2",
+    "title": "Master of Science | IIT Jodhpur",
+    "char_count": 521,
+    "depth": 2
+  },
+  {
+    "id": 722,
+    "source": "https://iitj.ac.in/office-of-executive-education/en/Program-Portfolio",
+    "category": "depth_2",
+    "title": "Program Portfolio | Office of Executive Education | IIT Jodhpur",
+    "char_count": 4722,
+    "depth": 2
+  },
+  {
+    "id": 723,
+    "source": "https://www.iitj.ac.in/school-of-design/en/masters-of-design-(mdes)-2025",
+    "category": "depth_2",
+    "title": "Masters of Design (MDes) 2025 | School of Design | IIT Jodhpur",
+    "char_count": 2665,
+    "depth": 2
+  },
+  {
+    "id": 724,
+    "source": "https://iitj.ac.in/m/Index/7B1B9D8D-C52B-4AF9-80FD-CBE275F8CBED?lg=en",
+    "category": "depth_2",
+    "title": "Admissions | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 424,
+    "depth": 2
+  },
+  {
+    "id": 725,
+    "source": "https://iitj.ac.in/itep",
+    "category": "depth_2",
+    "title": "Integrated Teacher Education Programme | IIT Jodhpur",
+    "char_count": 7151,
+    "depth": 2
+  },
+  {
+    "id": 726,
+    "source": "https://iitj.ac.in/Bachelor-of-Technology/en/Bachelor-of-Technology",
+    "category": "depth_2",
+    "title": "Bachelor of Technology | IIT Jodhpur",
+    "char_count": 7797,
+    "depth": 2
+  },
+  {
+    "id": 728,
+    "source": "https://iitj.ac.in/Doctor-of-Philosophy/en/Doctor-of-Philosophy",
+    "category": "depth_2",
+    "title": "Doctor of Philosophy | IIT Jodhpur",
+    "char_count": 1468,
+    "depth": 2
+  },
+  {
+    "id": 729,
+    "source": "https://iitj.ac.in/Master-of-Technology/en/Master-of-Technology",
+    "category": "depth_2",
+    "title": "Master of Technology | IIT Jodhpur",
+    "char_count": 999,
+    "depth": 2
+  },
+  {
+    "id": 730,
+    "source": "https://iitj.ac.in/medical-technologies/en/medical-technologies",
+    "category": "depth_2",
+    "title": "Medical Technologies | IIT Jodhpur",
+    "char_count": 2362,
+    "depth": 2
+  },
+  {
+    "id": 731,
+    "source": "https://iitj.ac.in/cete/en/cete",
+    "category": "depth_2",
+    "title": "Center for Education Technology (CET) | IIT Jodhpur",
+    "char_count": 2277,
+    "depth": 2
+  },
+  {
+    "id": 733,
+    "source": "https://iitj.ac.in/m/Index/AB99D4DA-35B6-40F6-BCD5-B549C8B309C1?lg=en",
+    "category": "depth_2",
+    "title": "Centers | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 686,
+    "depth": 2
+  },
+  {
+    "id": 734,
+    "source": "https://iitj.ac.in/cetsd/en/cetsd",
+    "category": "depth_2",
+    "title": "Center for Emerging Technologies for Sustainable Development | IIT Jodhpur",
+    "char_count": 2695,
+    "depth": 2
+  },
+  {
+    "id": 735,
+    "source": "https://iitj.ac.in/rcrice",
+    "category": "depth_2",
+    "title": "Rishabh Centre for Research and Innovation in Clean Energy (RCRICE) | IIT Jodhpur",
+    "char_count": 1920,
+    "depth": 2
+  },
+  {
+    "id": 736,
+    "source": "https://iitj.ac.in/center-for-technology-foresight-and-policy",
+    "category": "depth_2",
+    "title": "Center for Technology Foresight and Policy | IIT Jodhpur",
+    "char_count": 647,
+    "depth": 2
+  },
+  {
+    "id": 737,
+    "source": "https://iitj.ac.in/manekshaw-centre/en/Manekshaw-Centre",
+    "category": "depth_2",
+    "title": "Manekshaw Centre (MCOENSSR) | IIT Jodhpur",
+    "char_count": 2243,
+    "depth": 2
+  },
+  {
+    "id": 738,
+    "source": "https://iitj.ac.in/Main/en/Minutes-of-the-Meetings-Senate",
+    "category": "depth_2",
+    "title": "Minutes of the Meetings of the Senate | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 2346,
+    "depth": 2
+  },
+  {
+    "id": 739,
+    "source": "https://iitj.ac.in/Main/en/Minutes-of-the-Meetings",
+    "category": "depth_2",
+    "title": "Minutes of the Meetings of the Board of Governors | Indian Institute of Technology Jodhpur | IIT Jodhpur",
+    "char_count": 2956,
+    "depth": 2
+  },
+  {
+    "id": 740,
+    "source": "https://iitj.ac.in/institute-repository/en/Vanguard-Lectures",
+    "category": "depth_2",
+    "title": "Vanguard Lectures | Institute Repository | IIT Jodhpur",
+    "char_count": 1623,
+    "depth": 2
+  },
+  {
+    "id": 741,
+    "source": "https://iitj.ac.in/institute-repository/en/institute-repository",
+    "category": "depth_2",
+    "title": "Institute Repository | IIT Jodhpur",
+    "char_count": 499,
+    "depth": 2
+  },
+  {
+    "id": 743,
+    "source": "https://iitj.ac.in/institute-repository/en/brochure",
+    "category": "depth_2",
+    "title": "Brochure | Institute Repository | IIT Jodhpur",
+    "char_count": 750,
+    "depth": 2
+  },
+  {
+    "id": 744,
+    "source": "https://iitj.ac.in/institute-repository/en/Newsletter",
+    "category": "depth_2",
+    "title": "Newsletter | Institute Repository | IIT Jodhpur",
+    "char_count": 1437,
+    "depth": 2
+  }
+]

@@ -1,0 +1,245 @@
+url: https://iitj.ac.in/mathematics/en/phd-students
+title: PhD Students | Mathematics | IIT Jodhpur
+depth: 1
+========================================
+
+PhD Students | Mathematics | IIT Jodhpur
+The details of Ph.D. and M.Tech.-Ph.D. students are :
+B.Sc., Gurukul Kangri Vishwavidyalaya, Haridwar, 2014
+M.Sc., Gurukul Kangri Vishwavidyalaya, Haridwar, 2016
+Dr. Gaurav Bhatnagar
+Image Processing
+Vishnu Bharadwaj
+B.Tech, IIITDM Kancheepuram, 2018
+Dr. Gaurav Bhatnagar & Dr. Chiranjoy Chattopadhyay
+Applications of Deep Learning
+Ratnesh Kumar Singh
+B.Sc. (H), University of Delhi
+M.Sc., IIT Ropar
+Fractional Poisson Process
+B.Sc., K.M. Govt. College
+M.Sc., IIT Ropar
+Dr. Kirankumar Hiremath
+Approximation Methods for Differential Equations
+B.Sc., University of Delhi
+M.Sc., IIT Jodhpur
+Dr. Puneet Sharma
+Topological Dynamical Systems
+B.Sc. (PCM), CCS University Meerut
+M.Sc. Mathematics, BHU
+Dr. Puneet Sharma & Dr. Manish Aggarwal
+Dynamical Systems & Fuzzy Set Theory
+Deepak Kumar Mahanta
+B.Sc., North Odisha University
+M.Sc., NIT Jalandhar
+Dr. Abhishek Sarkar & Dr. Tuhina Mukherjee
+Partial Differential Equations
+Deepanshu Dhawan
+B.Sc., Kurukshetra University
+Dr. Puneet Sharma
+Topological Dynamics
+B.Sc., CCS University Meerut
+M.Sc., Central University of South Bihar
+Dr. Tuhina Mukharjee
+Analysis of PDEs
+Nammi Venkata Apparao
+B.Sc., Andhra University
+M.Sc., Andhra University
+Categorical Data Analysis
+B.Tech, Galgotias College
+M.Tech, IIT Patna
+Dr. Gaurav Bhatnagar
+Image Processing
+B.A., NMPG Govt College Hansi
+M.Sc., Kurukshetra University
+Dr. Ambesh Dixit
+Statistical Properties of Entropy
+Integrated M.Sc., Pondicherry University
+M.Tech., IIT Jodhpur
+Risk Measures and Dependence Modeling
+B.Sc. (Hons), CBPBU
+Dr. Md Abu Talhamainuddin Ansary
+Multi-objective Optimization
+B.Sc. (H), University of Delhi
+M.Sc., IIT Delhi
+Dr. V.V.M.S. Chandramouli & Dr. Saurabh Verma
+Fractal Geometry & Dynamical Systems
+B.Sc. & M.Sc., CBPBU
+Dr. Sukhendu Ghosh
+Hydrodynamic Instability
+B.Sc. (Hons), University of Delhi
+Dr. Gaurav Bhatnagar
+Image Processing
+University of Delhi
+Predictive Modeling for Disease Diagnosis
+B.Sc. & M.Sc., AMU Aligarh
+Dr. Nil Kamal Hazra
+Information Theory
+B.Sc., Rajasthan University
+M.Sc., IIT Gandhinagar
+Dr. Moumita Mandal
+Numerical Functional Analysis
+BA, RKSD College/Kurukshetra University, 2018
+M.Sc., University of Delhi, 2020
+Dr. V.V.M.S. Chandramouli
+Dynamical Systems, Neural Networks, Mathematical Biology
+B.Sc. (Hons) Mathematics, University of Calcutta
+M.Sc. Applied Mathematics, Vidyasagar University
+Dr. Subhash Bhagat
+Multi-robot Systems Coordination
+University of Burdwan
+Dr. Md Abu T. Ansary
+Km Deepanshi Singh
+B.Sc., Maharana Pratap Govt. Degree College, Hardoi, 2018
+M.Sc., IIT Patna, 2021
+Dr. Kirankumar R. Hiremath
+Applied Functional Analysis
+Nikita Srivastava
+B.Sc., St. Andrew's College
+M.Sc., MMMUT Gorakhpur
+Dr. Pradip Sasmal & Dr. Mriganka Mandal
+Quantum Cryptography
+B.Sc. & M.Sc., Jadavpur University
+Dr. Bimal Mandal
+Cryptographic Boolean Functions
+Shubham Kumar Jain
+B.Sc. & M.Sc., University College of Science, Udaipur
+Dr. Pradip Sasmal
+Compressive Sensing and Frame Theory
+B.Sc. Mathematical Sciences, University of Delhi
+M.Sc. Mathematics, BHU
+Dr. Abhishek Sarkar
+Elliptic Partial Differential Equations
+R.K.M.V.C.C, 2020
+IIT Madras, 2022
+Dr. Pradip Sasmal
+University of Delhi
+Dr. Pradip Sasmal, Dr. Santhosh Kumar
+Physics-informed neural network and application in systems engineering
+M.Sc., NIT Silchar
+Dr. Kirankumar R. Hiremath
+Numerical Solutions of Differential Equations
+B.Sc., University Maharaja College, Jaipur
+M.Sc., IIT Bhubaneswar
+Dr. Mandira Mondal & Dr. Nil Kamal Hazra
+Commutative Algebra, Algebraic Geometry
+B.Sc., Kurukshetra University
+M.Sc., IIT Jodhpur
+Dr. Bimal Mandal
+Cryptographic Boolean Functions
+B.Sc. (Hons), University of Delhi
+M.Sc., MNNIT Allahabad
+Dr. Subhash Bhagat
+Distributed Computing for Swarm Robotics
+B.Sc. (Hons), Punjabi University
+M.Sc. (Hons), Punjab University
+Dr. Nil Kamal Hazra & Dr. Bhargab Chattopadhyay
+University of Delhi
+HGC, Maharshi Dayanand University
+Dr. VVMS Chandramouli
+Dynamical Systems
+B.Sc. & M.Sc., Dr. Hari Singh Gour University
+Dr. Tuhina Mukherjee
+Analysis of PDEs
+Dyal Singh College, University of Delhi,2020
+MSBU Bharatpur,2022
+Dr. Dilpreet Kaur
+B.Sc. (H), University of Delhi, 2020
+M.Sc., University of Delhi, 2022
+Dr. V.V.M.S. Chandramouli
+Dynamical System And Ordinary Differential Equations
+Dyal Singh college, University of Delhi, 2021
+J.C. Bose University of Science and Technology, YMCA, Faridabad, 2023
+Dr. Subhash Bhagat
+Distributed Computing
+Amal Kumar Pramanick
+Burdwan Raj College, 2022
+Ramakrishna Mission Vidyamandira, 2024
+Dr. Sukhendu Ghosh
+Applied Differential Equations and Numerical Simulations
+B.Sc(M.P.CS), Osmania University, 2021
+M.Sc(Applied Mathematics), University of Hyderabad, 2023
+Geometry of Smooth Mappings
+Vanasthali Vidhyapith, 2019
+Indian Institute of Technology Kanpur, 2022
+Some contributions in Riemannian Geometry.
+University of Kalyani,2021
+University of Kalyani,2023
+Dr. Sukhendu Ghosh
+Lie symmetry analysis of differential equations
+University of Delhi, 2019
+Delhi Technological University, 2021
+Dr. Moumita mondal
+Numerical functional Analysis
+Maharshi Dayanand University, Rohtak
+Central University Haryana
+Dr. Nil Kamal Hazra
+Generalized Entropies, Majorization
+Nammi Venkata Apparao
+B.Sc, D.V.N College, 2011
+M.Sc, Andhra University, 2013
+Generalized Entropies, Majorization
+University's Maharaja's College, Jaipur, 2018
+Hansraj College, University of Delhi, 2020
+Optimization Theory and Quantum information science
+Adarsh Vishwakarma
+B.Sc., University of Allahabad, 2021
+M.Sc., University of Allahabad, 2023
+Dr. Md Abu Talhamainuddin Ansary
+Midnapore College (Autonomous), 2023
+NIT Calicut, 2025
+Dr. Subhash Bhagat
+Distributed computing
+Hemchandracharya North Gujarat University, 2022
+The Maharaja Sayajirao University of Baroda, 2024
+Indranil Mukherjee
+Burdwan University, 2022
+Ramakrishna Mission Vidyamandira
+Dr. Bimal Mandal
+Jaikishan Bairwa
+University of Rajasthan, Jaipur, 2021
+Malaviya National Institute of Technology Jaipur (NIT Jaipur), 2023
+Dr. Subhash Bhagat
+Distributed Computing
+B.Sc, Bajkul Milani Mahavidyalaya, 2022
+M.Sc, Ramakrishna Mission Vidyamandira, 2024
+Dr. Nil Kamal Hazra
+Prateek Somvanshi
+University of Allahabad
+University of Allahabad
+Dr. Nil Kamal Hazra
+Robust Statistical Inference
+Rajasthan University, 2019
+IIT Tirupati, 2022
+University of Rajasthan (2020)
+IIT Mandi (2024)
+Dr. Puneet Sharma
+Jagannath Kishore College, Purulia, 2022
+IIT Madras, 2024
+Dr. Abhishek Sarkar
+Partial Differential Equations
+Vidyasagar University, 2021
+National Institute of Technology Jamshedpur, 2023
+Dr. Gaurav Bhatnagar
+Image Reconstruction and Restoration
+B.Sc, Guru Jambheshwar University of Science and Technology, 2020
+M.Sc, IIT Jodhpur, 2024
+Dr. Brahadeesh Sankarnarayanan
+Graph theory and combinatorics
+Sanchita Satpathy
+B.Sc., Midnapore College (Autonomous), 2021
+M.Sc., IISER Mohali, 2024
+Dr. Tuhina Mukherjee
+B.Sc., University of Calcutta
+M.Sc., IIT Mandi
+Dr. Sukhendu Ghosh
+Differential Equations: Theory and Numerical
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 12:36 PM

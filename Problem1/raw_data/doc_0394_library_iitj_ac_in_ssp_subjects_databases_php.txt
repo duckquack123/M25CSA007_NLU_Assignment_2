@@ -1,0 +1,25 @@
+url: https://library.iitj.ac.in/ssp/subjects/databases.php?letter=bytype&type=Research_Support_Tools
+title: Database List By Format: Research Support Tools
+depth: 2
+========================================
+
+Database List By Format: Research Support Tools
+Database List By Format: Research Support Tools
+expand all descriptions
+displaying databases filtered by Research_Support_Tools >>
+Off-campus resource access tool.
+Click here for the
+Turnitin Similarity Enterprise
+Plagiarism detection tool
+Click here for User Guide
+Search Databases
+Newest Databases
+One Nation One Subscription (ONOS)
+Thieme Journals (ONOS)
+SPIE Digital Library (ONOS)
+Lippincott Williams & Wilkins (Walter Kluwer) Journals (ONOS)
+Cold Spring Harbor Laboratory Press Journals (ONOS)
+= Some full text
+= OpenURL enabled
+This page maintained by:
+Dr. Kamlesh Patel

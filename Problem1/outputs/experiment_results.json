@@ -1,0 +1,111 @@
+{
+  "cbow": [
+    {
+      "name": "cbow_dim50_win3",
+      "dim": 50,
+      "window": 3,
+      "neg": null,
+      "final_loss": 1.7164002795552098
+    },
+    {
+      "name": "cbow_dim100_win3",
+      "dim": 100,
+      "window": 3,
+      "neg": null,
+      "final_loss": 0.8964114937671396
+    },
+    {
+      "name": "cbow_dim200_win3",
+      "dim": 200,
+      "window": 3,
+      "neg": null,
+      "final_loss": 0.38833066335944244
+    },
+    {
+      "name": "cbow_dim100_win2",
+      "dim": 100,
+      "window": 2,
+      "neg": null,
+      "final_loss": 0.7257284023191618
+    },
+    {
+      "name": "cbow_dim100_win3",
+      "dim": 100,
+      "window": 3,
+      "neg": null,
+      "final_loss": 0.8931114784506864
+    },
+    {
+      "name": "cbow_dim100_win5",
+      "dim": 100,
+      "window": 5,
+      "neg": null,
+      "final_loss": 1.5120163742701214
+    }
+  ],
+  "skipgram": [
+    {
+      "name": "sg_dim50_win3_neg5",
+      "dim": 50,
+      "window": 3,
+      "neg": 5,
+      "final_loss": 1.3544763821475911
+    },
+    {
+      "name": "sg_dim100_win3_neg5",
+      "dim": 100,
+      "window": 3,
+      "neg": 5,
+      "final_loss": 1.3016554589541454
+    },
+    {
+      "name": "sg_dim200_win3_neg5",
+      "dim": 200,
+      "window": 3,
+      "neg": 5,
+      "final_loss": 1.3434738705947509
+    },
+    {
+      "name": "sg_dim100_win2_neg5",
+      "dim": 100,
+      "window": 2,
+      "neg": 5,
+      "final_loss": 1.137942306150364
+    },
+    {
+      "name": "sg_dim100_win3_neg5",
+      "dim": 100,
+      "window": 3,
+      "neg": 5,
+      "final_loss": 1.300566133872109
+    },
+    {
+      "name": "sg_dim100_win5_neg5",
+      "dim": 100,
+      "window": 5,
+      "neg": 5,
+      "final_loss": 1.4956735647154968
+    },
+    {
+      "name": "sg_dim100_win3_neg5",
+      "dim": 100,
+      "window": 3,
+      "neg": 5,
+      "final_loss": 1.302605886606573
+    },
+    {
+      "name": "sg_dim100_win3_neg10",
+      "dim": 100,
+      "window": 3,
+      "neg": 10,
+      "final_loss": 1.7378081265281036
+    },
+    {
+      "name": "sg_dim100_win3_neg15",
+      "dim": 100,
+      "window": 3,
+      "neg": 15,
+      "final_loss": 2.025567905980563
+    }
+  ]
+}

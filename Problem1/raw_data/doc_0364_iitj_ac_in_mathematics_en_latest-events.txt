@@ -1,0 +1,32 @@
+url: https://iitj.ac.in/mathematics/en/latest-events?dsl=2&dslID=0a76c603-f0bd-4473-9508-c5e1ad407a78
+title: Latest Events | Mathematics | IIT Jodhpur
+depth: 1
+========================================
+
+Latest Events | Mathematics | IIT Jodhpur
+Invited talk by Prof. Basant Lal Sharma on 27 January 2026 at 12PM
+Prof. Basant Lal Sharma, from the Dept. of Mechanical Engineering, IIT Kanpur
+Title of the talk:
+On analysis of some direct and inverse problems in scattering involving lattices.
+Date, Time & Venue:
+27 Jan'26 at 12:00 PM on Seminar Room, Dept. of Mathematics
+In this talk, I will give a brief overview of physical problems involving crystal lattices that lead to certain idealized cases which permit an interesting application of mathematics.
+I will mainly focus on those applications where Fourier analysis (Wiener-Hopf factorization), theory of inverse problems, and stochastic calculus play a dominant role. In such an overview of several works available in public domain, I will touch upon a topic just enough to highlight a connection with mathematics and also point out some open problems.
+[However, I may not be able to go into details but discussions after seminar can be used to get into details.]
+I will start with the problem of scattering of waves by sharp slits in crystal lattices which can be understood in the paradigm of mechanical waves as well as tight-binding approximations in quantum mechanics. Some of these problems involve issues related to matrix Wiener-Hopf factorization and are currently open. I will also talk about some recent works dealing with the inverse problems for such discrete models based on the observations of scattering data. I will discuss briefly some ways to capture effects of stochasticity in lattice model specifications and obtain analogues of certain rigorous results available in the continuous framework.
+Useful Refs (see complete list here:
+Sharma BL, "Diffraction of waves on square lattice by semi-infinite crack , SIAM Journal on Applied Mathematics (2015).
+Sharma BL, "Near-tip field for diffraction on square lattice by crack , SIAM Journal on Applied Mathematics (2015).
+Sharma BL, "Wave propagation in bifurcated waveguides of square lattice strips , SIAM Journal on Applied Mathematics (2016).
+Sharma BL, "Electronic transport across a junction between armchair graphene nanotube and zigzag nanoribbon , The European physical journal (2018).
+Novikov RG, Sharma BL, "Inverse source problem for discrete Helmholtz equation , Inverse Problems (2024).
+Garnier J, Sharma BL, "Surface waves in randomly perturbed discrete models , SIAM Multiscale Modeling & Simulation (2024).
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 12:36 PM

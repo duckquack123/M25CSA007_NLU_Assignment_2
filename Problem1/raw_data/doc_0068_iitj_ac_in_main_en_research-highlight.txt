@@ -1,0 +1,51 @@
+url: https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=d747bac3-a0bd-4a6a-8843-6d33e721b331
+title: All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur
+depth: 1
+========================================
+
+All Research Highlights | Indian Institute of Technology Jodhpur | IIT Jodhpur
+All Research Highlights
+Structure and exfoliation mechanism of two-dimensional boron nanosheets
+Tittle of the paper:
+Structure and exfoliation mechanism of two-dimensional boron nanosheets
+Nature Communications | (2024) 15:6122,
+Dr. Pranay Ranjan
+Department of Metallurgical and Materials Engineering, IIT Jodhpur
+Exfoliation of two-dimensional (2D) nanosheets from three-dimensional
+(3D) non-layered, non-van der Waals crystals represents an emerging
+strategy for materials engineering that could significantly increase the
+library of 2D materials. Yet, the exfoliation mechanism in which
+nanosheets are derived from crystals that are not intrinsically layered
+remains unclear. Here, we show that planar defects in the starting 3D
+boron material promote the exfoliation of 2D boron sheets by combining
+liquid-phase exfoliation, aberration-corrected scanning transmission
+electron microscopy, Raman spectroscopy, and density functional theory
+calculations. We demonstrate that 2D boron nanosheets consist of a
+planar arrangement of icosahedral sub-units cleaved along the {001}
+planes of -rhombohedral boron. Correspondingly, intrinsic stacking
+faults in 3D boron form parallel layers of faulted planes in the same
+orientation as the exfoliated nanosheets, reducing the {001} cleavage
+energy. Planar defects represent a potential engineerable pathway for
+exfoliating 2D sheets from 3D boron and, more broadly, the other
+covalently bonded materials.
+Liquid phase exfoliation of boron.
+Schematic depiction of products through liquid-phase exfoliation from van der Waals (vdW) crystals, isotropic polycrystalline materials, and boron.
+Scanning electron microscopy (SEM) images of the starting boron material: Sample A (Sigma-Aldrich), Sample B (Alfa-Aesar), and Sample C (Yamanaka Advanced Materials).
+Converged beam transmission electron microscopy (TEM) image, and corresponding high-angle annular darkfield (HAADF) scanning transmission electron microscopy (STEM) image of 2D boron sheets suspended on a holey carbon TEM grid.
+Figure 2: Role of planar defects in the exfoliation mechanism of boron.
+TEM BF image of 3D boron (Sample C) with a high density of planar defects in the bottom right crystal grain 2.
+C-BF STEM image of -rhombohedral boron projected along the [001] zone-axis showing a sequence of parallel planar defects, including twins and stacking faults (dashed lines indicate the defect plane). The icosahedral columns are represented as red-ringed circles for easier visualization of the symmetry breaking due to the defects. The magnified images of the twin boundary and stacking fault (SF), boxed in light blue and red, respectively, are shown on the right with the faulted plane marked by the black arrows.
+Model of the unit cell projected in the [001] depicting the atoms (red circles) forming the defect planes.
+Density functional theory (DFT) calculated energies for the formation of the {001}-I and {001}-II surfaces from the pristine crystal and from the planar defects.
+Schematic of the defect-mediated exfoliation process (viewed from the [110] orientation). The icosahedral columns are represented as red-ringed circles, stacking faults as dashed lines, and symmetry breaking of the crystal as solid lines. The black arrows represent the cleaving of the crystal from the stacking faults
+Article by: Dr. Pranay Ranjan
+Research domain: 2D Materials, Borophene
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 19 Mar 2026 - 04:38 PM

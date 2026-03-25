@@ -1,0 +1,27 @@
+url: https://iitj.ac.in/Mechanical-Engineering/en/Research-Highlights?dsl=2&dslID=ca74623b-8627-4d3c-a2ea-60fb1e48f5f2
+title: Research Highlights | Mechanical Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Research Highlights | Mechanical Engineering | IIT Jodhpur
+Research Highlights
+Mechanical Design
+The Mechanical Design section focuses on cutting-edge research and development in the following research areas:
+Vibration and Acoustics Advanced analysis for noise reduction and system stability.
+Renewable Energy Development of sustainable energy systems, including solar technologies.
+Robotics Design and control of robotic systems for automation and precision tasks, Multibody Dynamics and Control, Automated Visual Inspection, Human-Machine Interface;
+Lower limb rehabilitation robots; Medical robotics; Robot manipulator kinematic and dynamic control
+Soft Active Materials and Structures Innovative materials with adaptive and responsive properties.
+Nonlinear Dynamics Study of complex mechanical behaviors for improved system performance.
+Flapping Wing Micro Aerial Vehicles Bio-inspired UAVs for surveillance and remote sensing.
+Computational Fracture Mechanics, Computational Solid Mechanics, Adaptive re-meshing strategy, Topology Optimization
+Dynamics of Machines and Structures, Flexible Robots, Rotor Dynamics, Nonlinear Oscillations
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 18 Mar 2026 - 05:34 PM

@@ -1,0 +1,564 @@
+source: https://iitj.ac.in/PageImages/Gallery/03-2025/Regulations-for-BTech-Programs-638772039377477445.pdf
+type: academic_regulation_pdf
+========================================
+
+Regulations for B.Tech. Programs
+(For Students enrolled from July 201 4 onwards)
+Indian Institute of Technology Jodhpur
+Description Page
+1. INTRODUCTION 3
+2. ACADEMIC SESSION 3
+2.1 Academic Calendar 3
+3.1 B. Tech . Programs 4
+3.2 Non -Degree Program 4
+3.3 Cancellation of Admission 5
+3.4 Fulfil lment of Admission Requirements 5
+4.1 Academic Load 6
+4.2 Cancellation of Credits for a Course 6
+5. REGISTRATION 7
+5.1 Credits to be earned 7
+5.2 Registration Procedure 8
+5.3 Student deficient in Academic performance 8
+5.4 Late Registration 8
+5.5 Adding and Dropping of Courses 9
+5.6 Withdrawing from a Course 9
+5.7 Cancellation of Registration 9
+6. TEACHING AND EV ALUATION 9
+6.2 Evaluation 11
+6.3 Grading System 11
+6.4 Grade Point Averages 13
+7. TERMINATION 13
+7.1 Termination from B. Tech. Program 13
+7.2 Appeal against Termination 14
+8. LEAVE OF ABSENCE 14
+8.1 Mid -Semester Recess and Vacation 14
+8.2 Short Leave 14
+8.3 Temporary Withdrawal / Semester Leave 14
+8.4 Permission to Proceed to other Institutions 15
+9. BRANCH CHANGE 16
+10. REQUIREMENTS FOR GRADUATION 16
+10.1 Minimum Duration of Residence 17
+10.2 Academic 17
+10.3 Payment of Fees and Dues 17
+10.4 No case of Disciplinary Action 17
+10.5 Completion of Summer Immersion in Industry 17
+10.6 Completion of engagement in NCC, NSS or NSO 18
+10.7 Award of Degrees 18
+10.8 Withdrawal of Degree 18
+11. AME NDMENTS 18
+3 1. INTRODUCTION
+IIT Jodhpur offers five Bachelor of Technology (B.Tech.) Programs,
+(1) B.Tech. (Computer Science and Engineering);
+(2) B.Tech. (Electrical Engineering);
+(3) B.Tech. (Mechanical Engineering); and
+(5) B.Tech . (Biotechnology ).
+The duration of each of these programs is 4 years.
+The objectives of these B.Tech. Programs are to:
+(1) Provide fundamental concepts to students in technology and science,
+(2) Promote spirit of free and objective enquiry in the fie ld of study, and
+(3) Contribute towards development of skilled technical manpower to address
+the technological needs of the nation.
+This document sets out the procedures and requirements of the said
+undergraduate Programs of study at IIT Jodhpur.
+2. AC ADEMIC SESSION
+Each academic year ( July to June ) consists of two academic semesters.
+Each semester is for about sixteen (16) weeks with one week of recess for
+students, making it about 15 working weeks in each semester. Excluding the days
+of the examinati ons, the total number of days of instruction in a semester is at
+least 70. Normal schedule of these semesters is given in Table 1.
+Table 1: Schedule of the Academic Session
+S.No. Person Duration
+1 Semester 1 Fourth week of July Last week of November
+2 Summer Vacation First week of December Third week of December
+3 Semester 2 Last week of December Last week of April
+4 Summer Vacation First week of May Third week of July
+2.1 Academic Calendar
+It gives the exact dates of all important events dur ing the Academic
+Session, such as orientation, registration, commencement of classes, adding and
+dropping of courses, submission of documents, examinations, submission of
+grades, conversion of Incomplete I -grades, vacation, mid -semester recess. This
+calend ar shall be approved by the Senate .
+3.1 B.Tech . Programs
+Admissions to the B.Tech. Programs are made once a year in July through
+the all -India level Joint Entrance Examination (JEE) conducted by IITs. The
+procedures and other requirements f or admission are specified in the JEE
+Information Brochure brought out every year.
+3.1.1 Foreign Nationals
+A few admissions are offered to foreign nationals under the Cultural
+Exchange Fellowship Program of the Government of India, administered by Indian
+Council of Cultural Relations (ICCR), New Delhi . Persons interested in these
+Programs are required to apply through the Indian High Commission/Embassy in
+their respective countries.
+3.1.2 Reservation of Seats and Admission to Reserved Seats
+Reservation of s eats for the various categories shall be in accordance with
+the policy of the Government of India. The admission process for the reserved
+seats is as stated below:
+(a) SC and ST Candidates : Reserved seats are filled on the basis of JEE qualifying
+norms specifi ed for them. In case these reserved seats remain vacant, other
+SC and ST candidates (who appeared in JEE and satisfy certain relaxed
+conditions) are offered admission to the Preparatory Course of one year
+duration in Physics, Chemistry, Mathematics and Eng lish. On completion of
+the preparatory course and passing of the examination conducted by the
+Institute, the candidates are offered admission to the first year of B.Tech.
+Program against the vacant reserved seats of the year of their appearance
+(b) Other Backward Classes (OBC) Candidates (Not belonging to creamy layer):
+Reserved seats are filled on the basis of JEE qualifying norms specified for
+(c) PD Candidates : Reserved seats are filled on the basis of JEE qualifying norms
+specified for them. In ca se these reserved seats remain vacant, other
+candidates in their respective categories are offered admission.
+3.1.3 Change of Program
+Normally, students shall pursue the respective B.Tech. Program allocated
+to them at the time of admission. But, the Senate may permit a limited number of
+students to change their Program as per approved guidelines.
+3.2 Non -Degree Program
+A non -degree student is a student who is registered for a degree in a
+recognized Institute or a University in India or abroad, and who is o fficially
+sponsored by that Institute or University to complete a part of his/her academic
+5 Program at IIT Jodhpur. For that purpose, the non -degree student may carry out
+research, take courses for credit or otherwise, and/or may use other academic
+faciliti es. An official transcript of work done at the Institute along with grades
+obtained, if any, would be given to the non - degree student concerned for his/her
+use as he/she may deem appropriate. But, any credits earned at the Institute, by a
+non -degree stude nt, cannot be applied for any degree Program of IIT Jodhpur at
+any time thereafter.
+A person can be admitted as a non -degree student on a duly sponsored
+application to the Associate Dean (Academics), who will recommend admission on
+the advice of Academic C ommittee ( AC) to the Chairman, Senate, for approval. A
+non -degree student may be admitted for a maximum period of one year. The
+strength of non -degree students in any Program should not be more than 25% of
+the Program strength. A non -degree student will be required to pay all applicable
+fees depending upon the status, Program, and nationality. Students so admitted
+also will be governed by all rules, regulations and discipline applicable to regular
+students of the Institute.
+3.3 Cancellation of Admission
+Students admitted provisionally or otherwise to any Program shall submit
+copies of their mark sheets , provisional certificates, etc. of the qualifying
+examination and other documents by the last date specified for the purpose in the
+Academic Calendar. The Se nate reserves the right to cancel the admission of any
+student, who fails to submit the prescribed documents by the specified date or to
+meet other stipulated requirement(s). Also, the Senate reserves the right to
+cancel the admission at any later time, if it is found that the student had provided
+some false information or suppressed relevant information while seeking
+3.4 Fulfillment of Admission Requirements
+Admission to any undergraduate Program requires that the applicant be
+eligible, go thr ough the laid -down admission procedure, and pay the prescribed
+fees. The Senate should formally approve all admissions to the undergraduate
+The curri culum consists of a package of 7 types of courses as listed in
+Table 2. Some cou rses have pre -requisites of courses in earlier semesters.
+6 Table 2: Schedule of the Academic Session
+Category Course Category
+Title Description
+Experience These courses provide the first brush -up for the
+incoming stud ents to any stream. This is to be hand -
+on in -order to provide a feel of the stream but also
+build the basic foundations.
+2 B Technology Basics These courses basically re -affirm what you have learnt
+as pre -requisites for a B. Tech program admission and
+may provide applied foundations in Mathematics and
+Compulsory These courses form the backbone of the technical
+program and encompass all its different sub -areas
+within the specific program.
+Electives These courses form the backbone of the technical
+program and encompass all electives offered in the
+Project These courses help students to specialize in their
+areas of interest for future studies and research.
+6 L Life Skill These c ourses will prepare students to be able to face
+the real world .
+7 D Introduction to
+Professional Work
+Industries These courses will be taken in summer months after
+completing the first, second, and third year,
+respectively, for Industrial t raining. This 2 Semester or
+10 course equivalents will provide students with
+rigorous industrial training and practice on the field.
+The work done by the students at the Industry will be
+in synergy with the supportive course work back at IIT
+Jodhpur. No g rades and credits are assigned to this
+set of course e quivalents.
+4.1 Academic Load
+Each course is given a weightage called credits. This is based on the
+number of contact hours for lectures, tutorials and practicals. Students with
+excellent academic re cord alone may be allowed to register for 3 more credits
+than usual, on a special request to AC.
+4.2 Calculation of Credits for a Course
+The total credits for a course will be calculated by taking into account the
+number of Lecture, tutorial and practic al hours (L -T-P-C) assigned to the course.
+Each lecture hour in a week will be equivalent to one (0 1) credit. Each Tutorial
+hour per week will add to one (0 1) credit. Each three -hour practical work per week
+will add to one (01) credit. Typical examples of credit assignment to courses are
+given in Table 3.
+7 Table 3: LTP -structure and credit assignment
+Hours per week Credits
+Lecture (L) Tutorial (T) Practical (P)
+Students are required to register each semester for the courses as per the
+Program, on the dates specified in the Academic Calendar.
+5.1 Credits to be earned
+Each B.Tech. program has certain core/compulsory courses. The core
+courses are the ones that are common to all branc hes/disciplines. The compulsory
+courses are the discipline -specific courses that must be taken in order to become
+eligible for a B.Tech. degree in that discipline. Apart from the core and
+compulsory, a student needs to do some elective courses. A student c an choose
+elective courses in consultation with the Faculty Advisor and Instructor of the
+Courses . These elective courses can be Program electives, Humanities and Social
+Sciences Electives, Open Electives, or Science Electives. A student has to earn at
+least 180 credits to be eligible for a B.Tech. degree; the category -wise distribution
+of the at least minimum credits to be earned is given in Table 4 .
+Table 4: Distribution of Credits into Core/Compulsory and Elective Courses
+Program At least the Minimum Credits to be Earned
+H B C E P L Total
+B.Tech. (Computer Science & Engineering) 32 28 51 18 27 24 180
+B.Tech. (Electrical Engineering) 32 28 54 18 24 24 180
+B.Tech. (Mechanical Engineering ) 32 28 56 18 22 24 180
+B.Tech. ( Biotechnology ) 32 24 59 18 23 24 180
+5.2 Registration Procedure
+A list of courses to be offered in the next semester will be announced
+online by the Office of Academics . Students shall pre -register for courses, in
+consultation with the Faculty Advisor and Head of the Department , whic h is
+8 hosting the B.Tech. program. Table 5, in the following page, shows the list of
+B.Tech . Programs hosted by each Department .
+Table 5: B.Tech. Pro grams hosted by each Department
+Department Program
+Department of Computer Science and
+Engineering B.Tech. (Computer Science and Engineering)
+Department of Electrical Engineering B.Tech. (Electrical Engineering)
+Department of Mechanical Engineering B.Tech. (Mechanical Engineering)
+Department of Bioscience and
+Bioengineering B.Tech. ( Biotechnology )
+The registration procedure involves
+(1) Online filling of the registration form with courses proposed to be credited in
+(2) Payment of fees and clearance of outstanding dues (if any),
+(3) Approval of the registra tion by the Faculty Advisor , and
+(3) Signing of the registration roll at the office of the Head of the Department
+hosting the B.Tech. Program.
+A fresh student joining the Institute, who is waiting the final results of the
+qualifying examination, is allow ed to register provisionally on submission of a
+certificate from his/her last Institute stating that he/she has appeared in the final
+examination of the qualifying degree. The student is required to submit
+documents of having passed the qualifying examinat ion by the last date given in
+the Academic Calendar for the registration to be regularized.
+5.3 Student deficient in Academic performance
+A deficient student is one who either has not taken or has taken but failed
+in course(s) of previous semester(s). A d eficient student may be advised to
+register for the Basic Courses and complete them before registering for the
+Professional Courses.
+5.4 Late Registration
+All students must report at the Institute on the date of registration as
+specified in the Academic C alendar. If for any compelling reason, like illness, etc. a
+student is unable to register on the date of registration, he/she must inform the
+Academic Office. If there are some valid reasons which can prevent a student from
+reporting at the Institute on th e date of Registration then he/she must take prior
+permission to do late registration from the Chairman, AC. No student will be
+9 allowed to register after 1 week of the date of registration. In special cases, the
+final decision will rest with the Senate.
+5.5 Adding and Dropping of Courses
+A student may add or drop course(s) within one week of the beginning of
+the semester or the last date(s) specified in the Academic Calendar. For this, the
+student must fill the appropriate form, get it endorsed by the Inst ructor of the
+course being added and the Faculty Advisor , and submit the same to the AC. No
+permission is required to drop a course. But the total credits of the courses
+registered for shall not be less than 12.
+5.6 Withdrawing from a Course
+After the las t date of add -drop, a student will have the option of
+withdrawing from a course. The last date of course withdrawal will be 1 week after
+the first Mid -Term Exam. A student can withdraw from a course with the
+permission of the course Instructor and the Facu lty Advisor , and subsequent
+approval from the Academic Committee. A student cannot add a new course in
+lieu of the dropped course. The withdrawn course will be mentioned in the
+Student s g rade card with a letter grade Y .
+5.7 Cancellation of Registratio n
+Absence for a period of four or more weeks during a semester shall result in
+automatic cancellation of the registration of a student from all the courses in that
+6. TEACHING AND EVALUATION
+6.1.1 Medium of Instruction
+The medium of instruction is English .
+6.1.2 Approval of Courses
+Each course along with its weight in terms of credits is approved by the
+Senate. Only the approved courses may be offered during any semester/summer -
+6.1.3 List of Courses
+The list of courses to be offered in a B.Tech . Program is finalized before
+the beginnin g of the semester, by the Department hosting that Program.
+10 6.1.4 Conduct of Courses
+Each course is conducted by the Instructor with the assistance of the
+required number of tutors, as required. The Instructor is responsible for
+conducting the course: teaching in the class, holding the examinations, evaluating
+the performance of students, awarding the grades at the end of the semester, and
+transmitting the grades to AC within 72 hours of the compl etion of the final
+6.1.5 Teaching Assignments
+The instructors and tutors for all courses to be offered during the
+semester are allocated by the Head of the Department hosting the Program.
+When faculty members of other Department s are also requ ired to participate in
+teaching a particular course, the allocation shall be done in consultation with the
+Head of that Department .
+6.1.6 Auditing of Courses
+A student may audit a course in addition to the prescribed academic load
+requirement with the perm ission of the Instructor of the course being audited and
+the Faculty Advisor . Under this arrangement , the course will be listed in the Grade
+Card of the student .
+6.1.7 Attendance Requirements
+A Student is expected to have full attendance in each course. U nless the
+student takes leave of absence for valid reasons, the student has to attend every
+lecture, tutorial, or laboratory class. If a student is absent without any valid
+reason, the Instructor shall send the Student an email after each such class.
+Stude nts deficient in attendance will be de -registered as per the following
+(a) Before the start of First Mid -Semester Examination of the semester, the
+Faculty Member will send the first WARNING to the Student (with a copy to
+Head of the Department and Off ice of Academics), and before the start of
+Second Mid -Semester Examination , a second WARNING, in case the shortage
+of attendance continues; and
+(b) Three weeks before the last day of classes, if the attendance of a student is
+less than 75% in any course, the A cademic Committee will deregister all such
+Students, and inform the said Students of the same; and if the attendance is
+between 75 -85%, it shall refer such cases with its recommendation to the
+Chairman, Senate, for a decision.
+The Student can appeal again st this deregistration to the Chairman, Senate,
+through Instructor and Head of the Department. All such appeals shall be
+discussed in the Academic Committee, and the recommendations of the Academic
+Committee be placed by the Associate Dean (Academics) befo re the Senate along
+with the appeals of the Students.
+11 The leave of absence includes all leaves due to medical reasons,
+participation in events/competitions organized in other Institutes, etc. The student
+is expected to plan his participation in events/comp etitions while ensuring that
+his/her attendance does not fall below 85%. Under exceptional circumstances, the
+student may be given an additional relaxation of 10% in the attendance; however,
+such cases will be referred to the Chairman, Senate .
+The performance of students in a course is evaluated in a continuous
+basis, using their interaction in the classroom, and performances in examinations,
+the laboratory work (if any), and term -papers and projects.
+6.2.1 Schedule of Examinations
+Each cou rse shall have two mid -semester and one end -semester
+examinations; the mid -semester examinations shall be of 60 minutes duration and
+the final examination of 180 minutes. The weightages in different courses are
+listed in Table 6.
+Table 6: Weightages of el ements of evaluation in different courses
+Semester 1 Mid -
+Semester 2 End -
+Semester Homeworks Term
+Projects Laboratory
+1 25 25 50 - - -
+2 20 20 40 20 - -
+3 20 20 40 10 10 -
+5 20 20 40 - - 20
+6.2.2 Make -up Examinations
+No make -up examinations are admissible for any reason. But, if a student
+fails to appear in any examination (two mid -semester and one end semester
+examinations) for a genuine reason (such as illness), she/he may make a request
+to AC for a make -up examination; a c ertificate shall be furnished from the Medical
+Officer of the IIT Jodhpur Health Center , when illness being the reason for absence
+from the examination. In such cases, the marks obtained in the other elements of
+evaluation shall be prorated for the examina tion missed. When two examinations
+are missed in a course, the prorating is done for only one examination; the marks
+in the other examination shall be taken as zero.
+6.3 Grading System
+6.3.1 Grades and Grade Points
+At the end of the semester, a student is awarded a relative letter grade in
+each course by the Instructor offering the course considering the performance of
+12 the student during the semester with respect to those of the other students
+registered in the course. Five regular letter grades, namely A, B, C, D and F shall be
+awarded in each course. Each letter grade is associated with a numerical
+equivalent on a 10 -point scale (called Grade Point) shown in Table 7 . The grades
+shall be submitted to the AC within 72 hours after the end semester examinatio n.
+Table 7: Table showing letter grade and its equivalent grade points
+1 A 10 Excellent
+7 S Satisfactory
+8 X Unsatisfactory
+In addition, there are three special letter grades, namely, I, S and X, which stand
+for Incomplete , Satisfactory and Unsatisfactory , respectively. These are described
+(a) Incomplete I Grade
+A student is awarded this grade in a course wh en the student fails to
+appear in the end -semester examination for a genuine reason. I grade must
+be converted by the Instructor to an appropriate letter grade by the last date
+specified for the same in the academic calendar. I grade outstanding after
+this date shall be converted automatically into F grade.
+(b) Satisfactory S and Unsatisfactory X Grades
+A student is awarded these grades in a Pass/Fail Course ; satisfactory
+performance is recorded as S grade, and unsatisfactory as X grade. Credits
+earned in these courses are not counted in the calculation of the CGPA. When
+the student earns a S grade, she/he earns the credits; when the student
+earns X grade, she/he does not earn the associated credits.
+A student is awarded this grad e in a course for which the Academic
+Committee has granted a waiver to the student . A waiver may be granted by
+the Academic Committee for the courses credited by the student at other
+Universities/Institutes.
+(d) Withdrawal Y
+A student is awarded this grade in a course, if she/he withdraws from a
+course after the last date of add/drop .
+13 6.3.2 Change of Grade Already Awarded
+A letter grade once awarded cannot be changed under any circumstance. In
+exceptional cases, the Student may appeal to the Chairman, Sena te for
+reconsideration, with formal justification.
+6.4 Grade Point Averages
+6.4.1 Semester Grade Point Average
+The Semester Grade Point Average (SGPA) is a weighted average of the
+grades earned by a student in all the courses credited by her/him and refle cts
+her/his academic performance in the respective semester. If the grade points
+associated with the letter grades earned by a student in N courses registered
+during a semester are G1, G 2, G N, and the corresponding credits C1, C2, C N, then
+the SGPA is given by the following formula:
+C CCGC GCGCSGPA ......
+6.4.2 Cumulative Grade Point Average
+The Cumulative Grade Point Average (CGPA) indicates the overall academic
+performance of a student in all the courses registered up to the latest completed
+semester. The CGPA is compute d in a similar manner as the SGPA, considering all
+the courses in all semesters.
+6.4.3 Grade Card and Transcript
+A Grade Card shall be issued to each student at the end of each semester,
+and a Transcript at the end of the B.Tech. Program.
+7.1 Termination from B.Tech. Program
+A student may be terminated from the B.Tech. Program by AC, if the
+(a) Is absent without authorized leave of absence for 8 weeks or more in a
+semester and does not appear in the end -semester examination of the
+courses in which he/she is registered;
+(b) Fails to report and register by the last date of registration without an bona
+(c) Violates the code of conduct, involves in ragging, etc. as confirmed by a
+Committee constituted for the purpose ; and
+(d) Does not ea rn the prescribed minimum number of credits within a maximum
+of 8 years from the date of registration, including all leaves of absence.
+14 7.2 Appeal against Termination
+A student , who is terminated from the B.Tech. Program, can appeal to the
+Chairman, Sen ate, for reconsideration. While making such an appeal, the student
+is expected to give reasons for poor academic performance and/or why the
+termination should be reconsidered. The Senate shall take a final decision after
+considering all the available input s. But, the Senate will not entertain any further
+appeal for review, unless substantial additional information is brought to its
+8. LEAVE OF ABSENCE
+Application for leave of absence should be addressed to the Chairman,
+AC, and submitted with a m edical certificate, if applicable. Usually, leave must not
+be availed of without prior approval of the AC.
+8.1 Mid -Semester Recess and Vacation
+Undergraduate students are entitled to avail of mid -semester recess and
+vacation as specified in the Academic C alendar.
+Leave of absence during the semester shall be discouraged for all
+registered students. But, for bonafide reasons, a student may be granted leave of
+absence during the semester for a maximum of 15 days on medical grounds, and
+for 7 days for any other valid reason. Illness must be certified or verified by the
+Medical Officer at the IIT Jodhpur Health Center and recorded in the medical
+The student will apply for short leave at least three working days before
+starting date of the leave. No post facto leave approval will be given in general . In
+case of medical emergency, when it is not possible to take leave in advance, the
+student will apply for leave within 3 days of joining the institute.
+8.3 Temporary Withdrawal / Semester Leave
+Normally, a student is not allowed to withdraw temporarily from the
+academic Program, and is expected to complete the program without a break.
+But, for bona fide reasons and/or in exceptional circumstances, a student may be
+allowed to withdraw tempo rarily on leave of absence at the discretion of AC
+and/or Senate for an extended period. Such leave of absence(s) shall ordinarily not
+exceed two semesters with or without break during the entire period of the
+academic Program.
+15 In case of a prolonged lea ve of absence due to medical or other genuine
+reasons, the student or his parents must notify the Office of Academics , before
+proceeding on leave, or within a week of the incident . A student who remains on
+authorized leave of absence due to ill health, is required to submit on return a
+certificate from a Registered Medical Practitioner to the effect that he/she is
+sufficiently cured and is fit to resume his/her studies. Within 15 days of joining the
+Institute, after recovering from illness, the student shou ld get his treatment
+verified by the Medical Officer at the Health Center of IIT Jodhpur and get the
+treatment summary recorded on his/her medical booklet. The student will be
+allowed to register only when AC is fully satisfied of his/her state of health. The
+Academic Committee may advise the student to apply for a reduced course load or,
+if deemed necessary, dropping the semester.
+8.4 Permission to Proceed to other Institutions
+To help students to broaden their horizons and gain course/work
+experience, h e/she may be permitted to proceed to other academic institutes in
+India or abroad as a non -degree student. The following guidelines and procedures
+apply for this purpose:
+(a) Eligibility : A student may be allowed to spend up to one semester and/or one
+sum mer terms in any academic institute/university/industry of repute in India
+or abroad with prior permission of AC, if the student has:
+(i.) Completion of first four Semesters of course work with a CGPA of at least
+(ii.) No F grade in any course.
+(b) Proc edure: The student shall make an application to AC through the Head of
+the Department hosting the program, giving details of the proposed visit, and
+shall submit a statement of purpose with sufficient information about the
+institute/university/industry whe re he/she has chosen to spend time as a non -
+degree student. The AC will examine the student s request. On the
+recommendation of the AC, the Senate may approve the proposal and grant
+permission, with leave of absence, to the student to proceed as a non -degr ee
+student to the selected institute.
+(c) Transfer of Credits and Waiver in -lieu thereof : The student will be informed
+about the requirements he/she must fulfill to apply, on his/her return, for
+academic credit. On return, the student may apply for waiver with an official
+transcript of the grades obtained by him/her at the selected institute as a non -
+degree student and other documents/ma terial that the concerned
+Department may require for evaluation. The AC will determine the equivalent
+courses and/or requi rements for which the student may be given a waiver in
+his/her undergraduate Program at IIT Jodhpur.
+16 On the recommendation of the AC, the Senate may allow a student
+waiver for a maximum credit equivalent to that earned in 2 semesters in the
+respective bran ch in -lieu of his/her successful completion of the Program
+elsewhere as a non -degree student. Against each course or requirement for
+which a waiver is granted, the letter grade W would appear on the Grade
+Card with an explanatory note that it stands for waiver granted due to
+courses taken and/or work done at the selected institute elsewhere. All such
+courses and/or requirements will be deemed to carry zero credits for
+SGPA/CGPA calculations.
+(d) Students selected by the Institute, using prescribed rules a nd procedures, to
+proceed on any Academic Exchange Program will be governed by the other
+9. BRANCH CHANGE
+A student is eligible for a branch change only once at the end of the First
+Year of the B.Tech. Program, if she/he meets the followi ng requirements:
+(a) The CPI at the end of the second semester should be:
+i. Greater than or equal to 7.0 for SC/ST applicants
+ii. Greater than or equal to 8.0 for other applicants
+(b) The student should have passed a ll the courses till second semester
+(including the courses in which S/X grades are awarded).
+(c) The strength of no discipline exceeds by more than 5 from sanctioned
+The branch change decided based on CGPA of all students who are awarded.
+Students eligible and applying for branch change have to undertake a self -study of
+the Compulsory courses of the discipline to which they sought the branch, which
+were offered during 1st and 2nd Semester. The student will be directed to e -learning
+and other prescribed textbooks to gain the knowledge of those courses. This
+exercise shall be completed in the first summer itself. There will be no
+examinations to be written by the students on return to the Institute for the 3rd
+Semester. But, they will be required to meet specific F aculty Members, who will
+verify that the self -study was effectively accomplished.
+10. REQUIREMENTS FOR GRADUATION
+A student is deemed to have completed the requirements for graduation
+if she/he has met the requirements laid down in Clauses 10.1 to 10.4.
+17 10.1 Minimum Duration of Residence
+The maximum duration of residence for B.Tech. Programs shall be 8
+years, including the periods of leave of absence, from the date of registration. The
+minimum duration of residence sha ll be 4 years from the date of registration,
+excluding the periods of leaves of absence, from the date of registration.
+A student shall be declared to have fulfilled the academic requirement for
+the award of the B.Tech. degree if he/she has passed all the courses as per the
+Program s curriculum and earned the requisite number of credits as specified in
+Table 4. A student is considered to have passed a course if he/she secures a grade
+D and above in that course. A student must also earn a re quisite number of
+credits against the timeline as mentioned in the Table 8. The table indicates that if
+a student is not able to earn a minimum of 60 credits within the first 2 years of his
+enrolment in the Program, then he/she will be terminated from the Program.
+Similarly, if the student is not able to earn at least 120 credits at the end of 4 years,
+and further at least 160 credits at the end of 6 years, then he/she will be
+terminated from the Program. The maximum duration of a B.Tech. Program is 8
+years , and the student must earn all the credits within 8 years after enrolment.
+Table 8: Minimum number of credits to be earned
+S.No. Years in the Program since
+enrolment Minimum number of credits to be earned
+4 8 years Total credit requirement as per Table 5.
+10.3 Payment of Fees and Dues
+The student shall pay all admissible fee and dues, and seek a No DUE
+CERTIFICATE from the Institute, on completion of the Academic Requirements.
+10.4 No case of Disciplinary Ac tion
+The student shall not have any case of indiscipline pending against her/him.
+10.5 Completion of Summer Immersion in Industry
+The student should have completed a total of 24 weeks of industry
+engagement either as part of the Blended B.Tech. Program o r otherwise, during
+the summers following the 2nd, 4th and 6th Semesters.
+18 10.6 Completion of engagement in NCC, NSS or NSO
+The student should have completed on e of the three formal schemes,
+namely National Cadet Corps, National Service Schemes, and Nation al Sports
+Organisation for a period of at least two Semesters during their B.Tech. Program.
+10.7 Award of Degrees
+A student who completes all the graduation requirements specified in
+Clauses 10.1 to 10 .4 is recommended by the Senate to the Board of Governo rs (BOG)
+for the award of the appropriate degree in the ensuing convocation. The degree
+can be awarded only after the BOG accords its approval.
+10.8 Withdrawal of Degree
+Under extremely exceptional circumstances, where gross violation of the
+graduation re quirements is detected at a later stage, the Senate may recommend
+to the Board of Governors withdrawal of a degree already awarded to the student.
+Notwithstanding anything contained in this document, the Senate of IIT
+Jodhpur reserves the right to modify/amend without notice, the curricula,
+procedures, requirements, and rules pertaining to its B.Tech. Programs.
+Regulations for B.Tech. Programs
+Incorporating textual modifications , July 2018

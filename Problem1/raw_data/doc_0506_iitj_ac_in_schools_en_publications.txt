@@ -1,0 +1,351 @@
+url: https://iitj.ac.in/schools/en/publications
+title: Publications | School of Management & Entrepreneurship | IIT Jodhpur
+depth: 2
+========================================
+
+Publications | School of Management & Entrepreneurship | IIT Jodhpur
+, D. P. (2026). Institutional Governance and Energy Security: Unveiling the Drivers of Global Value Chain Participation in Asian Economies. Journal of Asian Economics, 102108.
+, D. P., & Sinha, A. (2026). The impact of natural disasters on agriculture in the tropics: New empirical evidence. Journal of Asian Economics, Volume 102, 102097.
+, B. P., Singh, A., & Rana, N. P. (2026). Transmission of democracy to a better business environment: roles of regulation and institutions. Journal of Business Research, 207, 116006.
+, S., & Kaushik, S. (2025). Green Finance, Innovation, and Environmental Sustainability in India: A Dynamic ARDL Simulation Approach. Sustainable Development.
+, D. P., & Singh, A. (2025). When algorithms meet emotions: Understanding consumer satisfaction in AI companion applications. Journal of Retailing and Consumer Services, 85, 104298.
+, N. K., Behera, B.,
+, D. P., Balsalobre-Lorente, D., & Sethi, N. (2025). What determines crime in tropical and sub-tropical countries? Exploring the dynamics of climate change, corruption, and information & communication technology. Economic Change and Restructuring, 58(4), 71.
+, D. P., Dagar, V., Kagzi, M., & Elmawazini, K. (2025). Financial development for energy access: Evidence from credit rationing and carbon emission in the MENA region. International Review of Financial Analysis, 103, 104176.
+, D. P. (2025). Institutional Effectiveness and Economic Development: A Machine Learning Approach With Empirical Modelling. American Journal of Economics and Sociology.
+, D. P., & Singh, A. (2025). Avatars at risk: Exploring public response to sexual violence in immersive digital spaces. Computers in Human Behavior, 163, 108500.
+, D. P. (2025). A Changing Social Aspect Across Economies: Role of Education in Engineering Financial Inclusion. The Journal of Developing Areas, 59(4), 171-197.
+, S., Singh, A., &
+, D. P. (2025). Beyond Technology: A Multi-Theoretical Examination of Immersive Technology Adoption in Indian Healthcare. Communications of the Association for Information Systems, 57(1), 12.
+, B. P. (2025). Assessing the Relationship between Global Production Networks and Energy Intensity: Empirical Evidence, Energy Research Letters
+Dahal, A., Byanjankar, R.,
+, B.P., Rath, B. N. (2025). Reassessing the Role of Exchange Rates in Export Dynamics: Evidence from a Disaggregated Industry-Level Analysis in the Case of Nepal, Economic Analysis and Policy, 85, 1752-1759.
+, A., & Bansal, V. (2025). Factors Affecting Customer Adoption of AI Digital Agents in Service Operations: An Assessment of Relative Importance. Behaviour & Information Technology, 1 23.
+, A. & Bansal, V. (2025). Technology or Organization: What is More Important for Artificial Intelligence Adoption?. Tehni ki Glasnik, 19 (1), 136-141.
+, A. & Bansal, V. (2025). Assessing Readiness for Artificial Intelligence Adoption: A Net and Configurational Perspective. International Journal of Business Information Systems.
+, B. and Bapat, S. R. (2025): Effect Size Comparison for Populations with an Application in Psychology. British Journal of Mathematical and Statistical Psychology. 2025 Jun 23. doi: 10.1111/bmsp.70001
+, B. (2025). Share price changes using MST-based sequential change point detection. Sequential Analysis, 1-15.
+, B., Bandyopadhyay, T., Kelley, K., and Padalunkal, J.J. (2025): A Sequential Approach for Noninferiority or Equivalence of a Linear Contrast Under Cost Constraints. Psychological Methods, 30, 425-439.
+Banerjee, S. and
+, B. (2025): Multi-Stage Methods for Cost-Controlled Data Compression using Principal Component Analysis. Mathematics, 13, 2140.
+, D. (2025). Rapido: Disruption in India s ride-hailing market. Journal of Information Technology Teaching Cases, 0(0).
+, A. P., Jain, V., & Bezaz, N. (2025). From wow to whatever: When ads go from eye-catching to eye-rolling. Academy of Marketing Science Annual Conference, Canada, USA.
+, T. S., Sinjana, Y., &
+, A. P. (2025). Queuing theory for efficient drone dispatch in healthcare logistics: An empirical analysis of system performance Research in Transportation Business & Management, 61, 101404.
+, A., & Verma, H. (2025). Neuro-insights: A systematic review of neuromarketing perspectives across consumer buying stages. Frontiers in Neuroergonomics, 6, 1542847.
+, T. S., Sinjana, Y., &
+, A. P. (2025). Revolutionizing healthcare logistics: The strategic role of drone technology in blood bag deliveries for remote and emergency care. Journal of Transport & Health, 42, 102053.
+, A. P., & Verma, H. (2025). Exploring consumer neuroscience in marketing research: Theoretical foundations, methodological aspects, and future research directions. Journal of Marketing Theory and Practice, Advance online publication, 1 27. 6.
+, T. S., Sinjana, Y., &
+, A. P. (2025). Innovative solutions for drone-based blood bag delivery to urban hospitals: A model and heuristic approach. Management International Review.
+, K.K. (2025). Artificial Intelligence Quotient Framework for Measuring Human Collaboration with Artificial Intelligence. Discover Artificial Intelligence.
+, V. R. R., & Sangwan, S. (2025). Implicit occupational gender stereotypes in India: A skills-based empirical analysis using multiple IATs. In Women's Studies International Forum, 112, 103169. Pergamon.
+, V. R. R. (2025). AI-enabled individual entrepreneurship theory: redefining scale, capability, and sustainability in the digital age. Journal of Innovation and Entrepreneurship, 14(1), 85.
+, V.R.R. (2025). Relationship between feedback frequency and task performance: Evidence on the mediating role of heart rate. Frontiers in Psychology, 16, 1438865.
+, V.R.R. (2025). The role of feedback frequency and valence in optimizing motor task performance: Interaction with physiological arousal. Journal of Sports Behavior.
+, V. R. R. (2025). Two-Stage Inference Procedure for Coefficient of Variation with an Application to the Performance of Goal Approach-Oriented Individuals. Sequential Analysis, 1-14.
+, D. (2025). Digital Governance Through Self-Regulation: A user-developer perspective of AI chatbots. Journal of Telecommunications and the Digital Economy, 13(3), 1-29.
+, D. (2025). National AI Policy: Keyword and Topic Modelling Analysis. In 2025 IEEE Guwahati Subsection Conference (GCON) (pp. 1-5). IEEE.
+, D. (2025). From policy to practice in digital governance: A three-level analysis of citizen-centric applications. JeDEM-eJournal of eDemocracy and Open Government, 17(1), 33-64.
+, D., & Kakade, V. (2025). Identification of success clusters using principal component analysis for the oil and gas industry. International Journal of Construction Management, 1-16.
+, D. (2025). Decision Models for Choice of AI: Generative AI, Machine Learning, and Deep Learning. In AI Frameworks and Tools for Software Development (pp. 89-122). IGI Global Scientific Publishing.
+, D. K. (2025). Understanding the Cognitive Constituents of E-Learning. In Best Practices and Strategies for Online Instructors: Insights From Higher Education Online Faculty (pp. 277-312). IGI Global Scientific Publishing.
+, K. K. (2025). Artificial intelligence quotient framework for measuring human collaboration with artificial intelligence. Discover Artificial Intelligence, 5(1), 1-16.
+, M., & Raghavan, N. (2025). Continuous degradation modeling under random shocks and imperfect maintenance using a generalized renewal process. Journal of Quality in Maintenance Engineering, 31(1), 1-16.
+, M. (2025). Intraday lottery demands in the cryptocurrency market. Studies in Economics and Finance, 42(4), 799 835.
+., Puram, P., Sensarma, R., & Gurumurthy, A. (2025). Does salary disparity affect team performance in cricket? Evidence from the Indian Premier League. IIMB Management Review, 100568.
+, & Gurumurthy, A. (2025). Leveraging social media to mitigate information asymmetry during humanitarian relief operations. International Journal of Intelligent Enterprise, 12(3-4), 395-421.
+, K. K., & Rose, E. L. (2024). A Microfoundational Framework of Institutions:
+Knowledge Transfer in Traditional Crafts for Sustainable Economic Growth. International
+Business and SDG 8: Exploring the Relationship between IB and Society (pp. 263-280).
+Palgrave Macmillan, 978-3-031-46801-8 in the book series The Academy of International
+Business, Springer Nature Switzerland.
+, B. P., Venkatesh, H., and Tiwari, A. K. (2024). Global Value Chains and Economic
+Growth: A Study of Resilience During the COVID-19 Pandemic, Journal of International
+Development, 36(4), 2096 2128.
+, A., & Bansal, V. (2024). Factors Influencing the Readiness for Artificial
+Intelligence Adoption in Indian Insurance Organizations. In International Working
+Conference on Transfer and Diffusion of IT (pp. 43-55). Springer, Cham.
+, A., & Bansal, V. (2024). AI as decision aid or delegated agent: The effects of trust
+dimensions on the adoption of AI digital agents. Computers in Human Behavior: Artificial
+Humans, 2(2), 100094.
+, M. (2024). Regulation of Brands in the Indian Pharmaceutical Industry in the
+1960s: Examination of the Tariff Commission Report, 1968. IIMB Management Review,
+Gupta, R., Verma, H., &
+, A. P. (2024). Neuromarketing in predicting voting
+behavior: A case of national elections in India. Journal of Consumer Behaviour, 23(2),
+, V.R.R. (2024). Beyond cognitive rationality: Integrating motivation and affect
+in human decision-making. Decision, 51, 531-544.
+, V.R.R. (2024). The limits of personal experience. Frontiers in Psychology, 15,
+Satankar, R., Plappally, A. K.,
+, D., Savage, T., & Wall, P. J. (2024). A Socio-cultural
+Perspective on Technology for Environmental Sustainability: The Case of Filtering Water
+Pots (G-filters) in Rajasthan, India. In International Conference on Implications of
+Information and Digital Technologies for Development (pp. 167-178). Cham: Springer
+Nature Switzerland.
+, D. (2024). Exploring Key Success Factors for ERP Systems in Schools.
+In Interdisciplinary Approach to Fostering Change in Schools (pp. 128-153). IGI Global.
+Savage, T., Wall, P. J., &
+, D. (2024). Partners in Design: Insights from an
+Innovative Education for Sustainable Development Module Design Process. In
+International Conference on Implications of Information and Digital Technologies for
+Development (pp. 245-257). Cham: Springer Nature Switzerland.
+, S. (2024). Can the homemaker contribute to commerce?
+Alignment of household micro-practices with the strategizing principles of Marwari
+businesses. In A World Scientific Encyclopedia of Business Storytelling Set 1: Corporate
+and Business Strategies of Business Storytelling Volume 3: Business Storytelling and
+Postcolonialism (pp. 219-239).
+, N., Sharma, V., Gupta, D. D., Singh, Y. P., & Agnihotri, R. (2024). Crisis-driven
+innovations in marketing. Industrial Marketing Management, 119, 135-146.
+, N., Sharma, V., & Agnihotri, R. (2024). Marketing innovation and strategy: enabling
+the smooth transition from B2B to B2C space. Journal of Marketing Theory and Practice,
+Mohanty, S., Sethi, N., &
+, D. P. (2024). What determines outward FDI in developing
+blocs? A new empirical comparative macroeconomic perspective of post 1990s. Heliyon,
+Hossain, M. R., Dash, D. P.,
+, N., Ullah, E., & Hossain, M. E. (2024). Green energy
+transition in OECD region through the lens of economic complexity and environmental
+technology: A method of moments quantile regression perspective. Applied Energy, 365,
+Sethi, N., Padhan, P. C., &
+, D. P. (2024). When is aid credible in the emerging asian
+economies? An empirical reassessment from the perspective of economic growth.
+Journal of the Knowledge Economy, 15(2), 7331-7357.
+, A. (2024). Let s CoCreate: A Systematic Literature Review on
+motivations to participate in the sharing economy. 2024 Winter American Marketing
+Association: Marketing for Higher Ed SIG Special, USA.
+, A. (2024). Dance of the Senses! An Integrative Review of Multi-
+sensory Experiences: Engaging Multiple Senses to Influence Consumer Decision- Making.
+AMA Summer Academic Conference 2024, Boston, Massachusetts, USA.
+, A. (2024). Lens on Sustainability: Exploring Vlogging as a
+Persuasive Tool for the Tourism Sector. Academy of Marketing, UK.
+Dohale, V., Mustafee, N., &
+, M. (2024). Orange grower's perception of
+drought impacts and strategies for mitigation and adaptation: A study of the Vidarbha
+region in India. International Journal of Disaster Risk Reduction, 105, 104392, Elsevier
+, D., & Wall, P. J. (2024). Data collection in the global south: practical,
+methodological, and philosophical considerations. Information Technology for
+Development, 30(3), 379-399.
+, D. (2024). Learner-Generated Video as an Assessment Tool in Management
+Education. In International Conference on Work Integrated Learning (pp. 391-398).
+Singapore: Springer Nature Singapore.
+, S., Ahmad, W., & Uddin, G. S. (2024). Do recessions induce Schumpeterian creative
+destruction? Micro Evidence from India. Emerging Markets Review, 59, 101106.
+, S., & Ahmad, W. (2024). Credit creation, credit destruction, and credit reallocation:
+Firm-level evidence from India. Journal of Asian Economics, 92, 101743.
+Tiwari, A. A., &
+, V. (2024). Symbolic interactionism and the metamorphosis of
+sports brands: Indian Premier League s journey from niche to mass cool. Journal of Sport
+Management, 1(aop), 1-16.
+, M.R., Ghosh, D., & Swami, S. (2024). Effectiveness of environmental
+regulations: firm s decisions and welfare implications. Journal of the Operational
+Research Society, 75(12), 2443-2463.
+Khan, F., Dammala, P. K., &
+, M. (2024). Reliability-Centric Prognostic Monitoring
+of Offshore Wind Turbine Foundations using Digital Twin. In AGU Fall Meeting
+Abstracts (Vol. 2024, pp. SY01-25).
+, M., & Dammala, P. K. (2024). Reliability-Centric Design of Monopile
+Foundations Supporting Offshore Wind Turbines for Prognostic Assessment: A State-of-
+the-Art Review. ISOG An International Convention 2024, Indian Symposium On Offshore
+Geotechnics, Mangaluru, India
+, M., Raghavan, N., & Dammala, P. K. (2024, June). Fault Detection and Isolation
+of Cyber-Physical System under Cyber-Attack Using Bayesian Network. In 2024 IEEE
+International Conference on Prognostics and Health Management (ICPHM) (pp. 84-92).
+, M. (2024). Behavioral biases of cryptocurrency investors: a prospect theory
+model to explain cryptocurrency returns. Review of Behavioral Finance, 16(4), 643 667.
+, M., & Dixit, G. (2024). Asymmetric dependence between the prospect theory
+value and stock returns in India: a quantile regression approach. Managerial Finance,
+Bhattacharya, M., Behera, S. R.,
+, D. P., & Apergis, N. (2023). FDI inflows and
+urbanization: A cross-country comparison from Asia, Africa, and Latin America. Global
+Business Review, 09721509231185829.
+, S. (2023). Generating value by selling Steel: TATA TISCON traverses
+the liberalization discontinuity (Part A).
+Chawla, R. N., Goyal, P., &
+, D. (2023). Exploring the drivers of digital
+transformation in Indian organisations: a multi-sector study. International Journal of
+Information Systems and Change Management, 13(3), 234-264.
+Chawla, R. N., Goyal, P., &
+, D. K. (2023). The role of CIO in digital transformation:
+an exploratory study. Information Systems and e-Business Management, 21(4), 797-835.
+, D., & McDonagh, J. (2023). Conducting processual research on organisational
+change. In Handbook of Research Methods in Organizational Change (pp. 47-68). Edward
+Elgar Publishing.
+Navaratna, A. R., &
+, D. (2023). An Indian Approach to AI Policy: A Comparative
+Study Between Three Sectors. Handbook of Evidence-Based Management Practices in
+, D., & Verma, J. K. (2023). ERP on the Cloud: Evolution, Benefits, and Critical
+Success Factors. In Cloud IoT: Concepts, Paradigms, and Applications (2022): 35. (pp. 35-
+44).ChapmanandHall/CRC.
+, B. P., and Rath, B. N. (2023). Does Global Value Chain Integration Enhance
+Export Competitiveness? Evidence from Indonesia s Industry-Level Analysis, Emerging
+Markets Finance and Trade, 60( 7), 1578 1598.
+, B.P. (2023). Do barriers to digital services trade hamper economic growth?
+Evidence from a cross- country analysis. Bulletin of Monetary Economics and Banking,
+Special Issue, pp. 111 126, Bank Indonesia Institute.
+Aggarwal, V., Sharma, S., Kumar, P.,
+, J., & Yadav, M. (2023). Lessons from the
+Russia-Ukraine war: portfolio optimisation in cryptos and stocks for investors in Ghana.
+International Journal of Diplomacy and Economy, 9(2), 160-175.
+Inani, S. K., Pradhan, H.,
+, J., Nagpal, G., & Nghiem, X. H. (2023). The Great
+forecasting face-off: Artificial neural networks vs conventional models for bank Nifty
+predictions. In 2023 Fourth International Conference on Smart Technologies in
+Computing, Electrical and Electronics (ICSTCEE) (pp. 1-6). IEEE.
+Darku, F.B., Ofori-Boateng, D., and
+, B. (2023): Comparison of Gini Indices
+Using Sequential Approach: Application to the U.S. Small Business Administration data.
+Sequential Analysis, 42, 248-268.
+, D. P., & Sethi, N. (2023). Pandemics, economy, and health in Asia: A scenario of
+post 2020. MethodsX, 11, 102347.
+, D. P., Sethi, N., & Barik, P. C. (2023). Dynamics of Foreign Aid and Human
+Development in South and South-East Asia: Analyzing the Effectiveness of Macro-
+Institutional Factors. International Economic Journal, 37(4), 646-674..
+, D. P., Nathaniel, S. P., Sargani, G. R., & Jiang, Y. (2023). Mitigation
+pathways towards climate change: Modelling the impact of climatological factors on
+wheat production in the top six regions of China. Ecological modelling, 481, 110381.
+, D. P. (2023). Examining the Perspectives of Gender
+Development and Inequality: A Tale of Selected Asian Economies. Administrative
+Sciences, 13(4), 115..
+Behera, S. R., Mishra, T., &
+, D. P. (2023). Do religious freedom vis- -vis trade
+openness affect economic growth? a cross-country empirical investigation. Theoretical
+Economics Letters, 13(1), 119-137.
+Rao, D. T., Sethi, N.,
+, D. P., & Bhujabal, P. (2023). Foreign aid, FDI, and economic
+growth in South-East Asia and South Asia. Global Business Review, 24(1), 31-47.
+Haldar, A., Sucharita, S.,
+, D. P., Sethi, N., & Padhan, P. C. (2023). The effects of ICT,
+electricity consumption, innovation, and renewable power generation on economic
+growth: An income level analysis for the emerging economies. Journal of Cleaner
+Production, 384, 135607.
+, A. & Sahney, S. (2023). A Systematic Literature Review on Green
+Skepticism. Australia and New Zealand Marketing Academy, New Zealand.
+, A. P. (2023). Love triad with eyes, nose, and lips: The role of the
+face triad on product preferences. In the NMSBA Yearbook. Neuromarketing Science and
+Business Association, Netherlands.
+, A. P., Verma, H. V. (2023). Reading the mind of Voters: A case of
+Neuro-politics and voting. European Marketing Academy (EMAC, 117276).
+Oliver, T.H., Bazaanah, P., Da Costa, J., Deka, N., Dornelles, A.Z., Greenwell, M.P.,
+, M., Narasimhan, K., Obuobie, E., Osei, M.A., and Gilbert, N. (2023).
+Empowering community-led adaptation to systemic risks from climate change. Nature
+Climate Change, 13, 671 678.
+Tyagi, S., Bansal, V., &
+, D. (2023). Big Data Analytics Adoption Framework and its
+Verification Using a Case Study. In International Working Conference on Transfer and
+Diffusion of IT (pp. 259-270). Cham: Springer Nature Switzerland.
+, D., Wall, P. J., & Lewis, D. (2023). Artificial intelligence (AI) ethics: A critical
+realist emancipatory approach. In 2023, IEEE International Symposium on Technology
+and Society (ISTAS) (pp. 1-5). IEEE.
+, D. K., & Kakade, V. B. (2023). Identification of success factors for oil
+and gas projects. In AIP Conference Proceedings (Vol. 2888, No. 1, p. 020008). AIP
+, M. R., Das, P., & Maiti, M. (2023). Effect of fairness and
+overconfidence on pricing strategy of substitute bundles in a two-echelon supply
+chain. RAIRO-Operations Research, 57(2), 401-425.
+Keprate, A., Sheikhi, S., Siddiqui, M. S., &
+, M. (2023). Comparing Deep Learning
+Based Image Processing Techniques for Unsupervised Anomaly Detection in Offshore
+Wind Turbines. In 2023 IEEE International Conference on Industrial Engineering and
+Engineering Management (IEEM) (pp. 0274-0278). IEEE.
+, M., & Mustafee, N. (2023). Augmenting EV charging
+infrastructure towards transformative sustainable cities: An equity-based approach.
+Technological Forecasting and Social Change, 196, 122829, Elsevier.
+Puram, P., Roy, S., Srivastav, D. et al. Understanding the effect of contextual factors and
+decision making on team performance in Twenty20 cricket: an interpretable machine
+learning approach. Ann Oper Res
+, 261 288 (2023).
+, B., and Banerjee, S. (2022): Minimum Cost-Compression Risk in
+Principal Component Analysis. Australia and New Zealand Journal of Statistics, 64, 422-
+, M., and Selvaraj, P (2022). Evaluating performance of an untargeted urban
+food security scheme in India, Benchmarking: An International Journal, Vol. 30 No. 4, pp.
+, D. P. (2022). A perspective on energy consumption balance: quality of
+life, governance, and carbon emissions in APEC. Energy Research Letters, 3(4).
+Chandio, A. A., Sethi, N.,
+, D. P., & Usman, M. (2022). Towards sustainable food
+production: what role can ICT and technological development play for cereal production
+in Asian 7 countries?. Computers and Electronics in Agriculture, 202, 107368.
+Parida, Y., Roy Chowdhury, J., Saini, S., &
+, D. P. (2022). Role of income and
+government responsiveness in reducing the death toll from floods in Indian states.
+Scientific Reports, 12(1), 16978..
+, D. P., Dash, A. K., & Sethi, N. (2022). Designing hydro-energy-led economic growth
+for pollution abatement: evidence from BRICS. Environmental Science and Pollution
+Research, 29(21), 31252-31269.
+, D. P., & Dash, A. K. (2022). Oil consumption pollution dynamics in the Asia-Pacific
+region: the importance of institutional factors. Energy Research Letters, 3(1).
+, A. K., & Dash, D. P. (2022). Assessment of risk factors of road traffic
+accidents: a panel model analysis of several states in India. Vision,
+09722629221113251.
+, B.P., and Hari, V. (2022). Global Value Chains and Exchange Rate Disconnect.
+Economic Papers: A Journal of Applied Economics and Policy, 41: 347-359.
+. Wiley Publishers.
+, J., & Pratap, S. (2022). Straddling Business, Jointness and Nuclearisation: A
+Decolonial Reading of Managing Through Indigenous Institution (s). In Managing the
+Post-Colony South Asia Focus: Ways of Organising, Managing and Living (pp. 159-176).
+Singapore: Springer Nature Singapore.
+, D., Brady, M., Lamest, M., & Fellenz, M. (2022). Bridging the marketing-finance
+divide: use of customer voice in managerial decision-making. Qualitative Market
+Research: An International Journal, 25(3), 361-382.
+, D., Muzellec, L., & McDonagh, J. (2022). From Bureaucracy to Citizen-Centricity:
+How the Citizen-Journey Should Inform the Digital Transformation of Public Services.
+International Journal of Electronic Government Research (IJEGR), 18(1),1-17.
+, D. (2022). Effectiveness of in-game advertisements within role-
+playing games. International Journal of Electronic Marketing and Retailing, 13(3), 280-
+Dibenedetto, S., &
+, D. (2022). Safety of Minors on Social Media Websites: Italian
+Parent Perceptions and Mitigation. International Journal of Adult Education and
+Technology (IJAET), 13(1), 1-14.
+, D., & McDonagh, J. (2022). Communication breakdowns during business process
+change projects Insights from a sociotechnical case study. International Journal of
+Project Management, 40(3), 181-191.
+, D., & Wall, P. J. (2022). The role of information and communications
+technology in refugee entrepreneurship: A critical realist case study. Electronic Journal of
+Information Systems in Developing Countries, 88(1), e12195.
+, D. (2022). Regaining legitimacy after an information systems implementation
+failure: Case of a National Blood Bank Service. Journal of Information Technology
+Teaching Cases, 12(1), 50-54.
+Ramachandran, S., Rani, L., &
+, D. (2022). Literature Survey on Information and
+Communication Technology s role in reducing inequalities. PACIS 2022 Proceedings.
+, D., & Goyal, P. (2022). The Critical Role of the Chief Information
+Officer in Smart Management of Digital Transformation. In Handbook of Research on
+Smart Management for Digital Transformation (pp. 165-189). IGI Global.
+, D. (2022). Free-roam virtual reality: A new avenue for gaming. In
+Advances in Augmented Reality and Virtual Reality (pp. 29-34). Springer, Singapore.
+, D., & Verma, J. K. (2022). Recreating Reality: Classification of Computer-Assisted
+Environments. In Advances in Augmented Reality and Virtual Reality (pp. 3-9). Springer,
+, D. (2022). Towards Energy Efficient Cloud Computing: Research
+Directions and Methodological Approach. In IoT and Cloud Computing for Societal Good,
+, D. (2022). Understanding the Effect of Social Media Use on
+Psychological Stress During the COVID-19 Pandemic. In Digital Innovations for Mental
+Health Support (pp. 228-249). IGI Global.
+, V., G, J., & Paul, B. (2022). Entrepreneurs and employees negotiated labour
+market flexibility in small firms. Labour and Industry, 32(3), 253-288.
+Bhattacharya, S.,
+, V., & Bhattacharya, S. (2022). The social and ethical issues of
+online learning during the pandemic and beyond. Asian Journal of Business Ethics, 11(1),
+Bhattacharya, S., Forsyth, D. R., Vandekerckhove, W., Chatterjee, S., Enderle, G., Das
+, V. (2022). Prologue for the special issue on business ethics in the
+virtual work environment: Challenges to educators and practitioners . Asian Journal of
+Business Ethics, 11(Suppl 1), 1-5.
+, M. R., Hazra, N. K., & Finkelstein, M. (2022). A note on the stochastic precedence
+order between component redundancy and system redundancy for k-out-of-n
+systems. Communications in Statistics-Theory and Methods, 51(15), 5003-5011.
+Sreekumar, H., &
+, S. (2022). Forging the nation state: an advertising history of
+Tata Steel, India. Journal of Historical Research in Marketing, 14(3), 351-373.
+, S. (2022). Constraint absorption in emerging economies: the role
+of business groups. International Journal of Organizational Analysis, 30(6), 1253-1270.
+, S., & Jha, N. C. (2022). Himang Infra Recasts the Core, Builds Novel
+Ideas to Stem Crisis.
+Sikder, S. K., Nahiduzzaman, K. M., &
+, M. (2022). Data-driven approaches to
+enable urban transformation. Frontiers in Sustainable Cities, 4, 999777.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 18 Mar 2026 - 05:44 PM

@@ -1,0 +1,47 @@
+url: https://library.iitj.ac.in/ssp/subjects/databases.php?letter=bytype&type=archive
+title: Database List By Format: Archive
+depth: 2
+========================================
+
+Database List By Format: Archive
+Database List By Format: Archive
+expand all descriptions
+displaying databases filtered by Archive >>
+American Chemical Society (ONOS)
+Backfiles From: 1996
+Access to ACS Archives from 1879.
+Provides access to complete collection of journals from American Chemical Society.
+American Institute of Physics (ONOS)
+Backfiles From: 1997
+Access to the AIP Archives from 1931.
+The American Institute of Physics (AIP) is a non-profit corporation chartered in 1931 to advance and diffuse the knowledge of physics and its application to human welfare. An umbrella organisation for 10 Member Societies, AIP represents more than 134,000 scientists, engineers and educators and is one of the world's largest publishers of physics journals.AIP's prestigious core journals (journals.aip.org) - many of which are among the most highly cited in their field - form the core of physics literature in libraries worldwide. With their high technical and editorial standards, these publications attract the most vital and current research papers from the world's leading authorities in fields ranging from chemistry, mathematics, fluid dynamics, and more. AIP's online platform(Scitation) hosts more than 1,000,000 articles from more than 170 scholarly publications for 25 learned society publishers, in fields including physics, chemistry, geoscience, engineering, acoustics, and more.
+Chemicals & Engineering News (C&EN) Global Enterprise
+Access to C&EN Archives from 1923 to 2015.
+Archive Collections
+The Economist Historical Archive
+Nineteenth Century Collections Online
+Women's Studies Archive
+Institute of Physics (IOP) Journals (ONOS)
+Backfiles From: 1998
+Access to the IOP e-Journals Archive from 1874 to 2011
+Journal of Fluid Mechanics
+Publisher: Cambridge University Press
+Access of JFM Archive from
+vol.1 to vol. 401
+Royal Society of Chemistry
+Access of RSC Archive from 1874 to 2011.
+The Royal Society of Chemistry publishes 43 peer-reviewed journals, more than 1,500 print books and a collection of online databases and literature updating services.
+RSC covers the core chemical sciences including related fields such as biology, biophysics, energy and environment, engineering, materials, medicine and physics. As a not-for-profit publisher, we reinvest surplus funds back into the global scientific community, supporting our mission to advance excellence in the chemical sciences.
+Society for Industrial and Applied Mathematics (SIAM) Locus Archive
+Access of SIAM Locus Archive from 1953 to 1996
+Search Databases
+Newest Databases
+One Nation One Subscription (ONOS)
+Thieme Journals (ONOS)
+SPIE Digital Library (ONOS)
+Lippincott Williams & Wilkins (Walter Kluwer) Journals (ONOS)
+Cold Spring Harbor Laboratory Press Journals (ONOS)
+= Some full text
+= OpenURL enabled
+This page maintained by:
+Dr. Kamlesh Patel

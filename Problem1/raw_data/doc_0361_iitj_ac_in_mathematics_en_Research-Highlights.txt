@@ -1,0 +1,23 @@
+url: https://iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=6da631bc-829f-4c61-b822-6d29310f0ec8
+title: Research Highlights | Mathematics | IIT Jodhpur
+depth: 1
+========================================
+
+Research Highlights | Mathematics | IIT Jodhpur
+Research Highlights
+Nonlinear coupled-mode framework for coupled systems: From exact Hamiltonian models to improved reduced-order formulations
+Nonlinear coupled-mode framework for coupled systems: From exact Hamiltonian models to improved reduced-order formulations
+Shubham Garg and Kirankumar R Hiremath
+Chaos 36, 023119 (2026)
+10.1063/5.0302806
+American Institute of Physics
+Accurate modeling of coupled nonlinear phenomena is essential for predicting energy transfer in many physical systems; however, conventional coupled-mode theory often relies on approximations that limit its validity under moderate and strong coupling. In this study, a nonlinear coupled-mode framework is developed that systematically incorporates key nonlinear interactions and counter-propagating wave effects, which are typically neglected in traditional formulations. To illustrate the approach, two nonlinear LC circuits containing Josephson junctions are analyzed. Starting from an exact Hamiltonian description, a reduced-order formulation is derived that retains the essential nonlinear and self-coupling contributions, including rapidly oscillating terms. Comparative analysis demonstrates that the conventional coupled-mode model captures only qualitative trends and exhibits significant phase and amplitude errors outside the weak-coupling regime. In contrast, the proposed reduced-order formulation achieves a close quantitative agreement with the exact Hamiltonian dynamics across the weak-to-strong coupling regimes. These findings clarify the limitations ofexisting phenomenological models and establish a systematic pathway for constructing accurate reduced-order descriptions of coupled nonlinear systems, with implications for circuit dynamics, photonics, and related areas involving energy transfer in complex media.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 12:36 PM

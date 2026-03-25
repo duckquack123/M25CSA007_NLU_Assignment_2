@@ -1,0 +1,84 @@
+url: https://library.iitj.ac.in/ssp/subjects/faq.php
+title: Library FAQs
+depth: 2
+========================================
+
+Note: Not all FAQs displayed. Search or browse for more
+How can I access electronic resources on and off campus?
+How do I find materials in IIT Jodhpur Library?
+How do I locate materials in the library?
+How many books can I borrow from library?
+How to permanently delete the indexed file in Turnitin?
+I am not able to access the resources. What do I do?
+Is IIT Jodhpur library open to all? Is there a provision for visitors and walk-in users to avail library services?
+The article/ research paper I require is not available in library subscribed resources. What do I do?
+The book I am looking for is not available in the library. What do I do?
+1. How can I access electronic resources on and off campus?
+IIT Jodhpur library subscribes to a wide range of scholarly resources. They are all IP based and can be accessed on and off the campus, in the following ways:
+Digital Library Section:
+You can access various resources from this facility, where there are a number of computer systems for users. However, please note that this facility is strictly for academic purposes only.
+On your laptops/desktops
+: By connecting to institute LAN/Wi-Fi while on campus.
+Off-campus access
+: Please contact Library or logon library website for
+2. How do I find materials in IIT Jodhpur Library?
+IIT Jodhpur Library houses a variety of reading materials. You can find them as:
+You can search for books, reference & research materials available in print and electronic formats through the
+Library Catalogue
+You can find details of theses through the
+Library Catalogue
+. The fulttext of theses can be accessed from the
+Theses Repository
+Journals & Databases:
+The library subscribes to a wide range of scholarly journals/databases from various reputed sources, which can be accessed from
+E-Journals & Databases
+3. How do I locate materials in the library?
+Books in IIT Jodhpur Library are arranged subject wise using the Dewey Decimal Classification system. Please follow this
+for more details.
+4. How many books can I borrow from library?
+Here are the book borrowing privileges.
+7 days (Textbooks)
+14 days (General books)
+Research Scholars
+5. How to permanently delete the indexed file in Turnitin?
+Please follow the below steps to delete the files in Turnitin permanently.
+1. Log in to your
+2. Go to folder your folder.
+3. Select the file/s which is/are you wish to delete and click on the delete button.
+4. Go to Trash, select the file/s.
+5. Click the permanently delete button.
+If you require help, please feel free to reach out us to
+6. I am not able to access the resources. What do I do?
+The S. R. Ranganathan Learning Hub (Library) provides technical support for the following:
+1. Technical Support for accessing eletronic Books, Journal Resources, Databases
+2. Plagiarism detection tools, i.e., Turnitin & Ouriginal
+3. Writing support tools, like, Grammarly
+4. Off-campus Resource Access Tool, i.e., RemoteXs
+5. Digital Newspapers and Magazines, like, PressReader
+6. Reference Management Tools, like Zotero, Mendeley & EndNote
+7. Open Educational Resources
+You are requested to kindly send an email to
+for any help regarding the above-mentioned topics.
+7. Is IIT Jodhpur library open to all? Is there a provision for visitors and walk-in users to avail library services?
+Library primarily serves the IIT Jodhpur community. However,
+from other academic and research institutions, government officials, etc. are welcome to use the library collection and services for a short duration. Borrowing facility is not available to visitors.
+Advance intimation about the visit will be appreciated. Kindly intimate by phone at +91-291-2801160 or by email to
+Please contact library upon arrival.
+Students and research scholars from other institutions can use the library collection and services for a short duration.
+Please bring an authorization letter from your institute along with your institute s valid ID card.
+Borrowing facility is not available.
+For more details, please contact the Office of Library at +91-291-2801160 or email to
+for more details.
+8. The article/ research paper I require is not available in library subscribed resources. What do I do?
+Library arranges to get a copy of articles/ papers not available in its collection to its users, through the Document Supply service.
+You can make a request for the same by filling the Article Request Form on the
+NOTE: For copyright compliance, please ensure that the document(s) being requested will be used strictly for academic and research purposes only and shall not reshared/ broadcasted/ linked further on any webistes.
+9. The book I am looking for is not available in the library. What do I do?
+Library provides Inter Library Loan (ILL) service to its users wherein the book(s) not available in library are borrowed from other libraries for a limited period of time.
+You can place your ILL request by filling the
+Inter Library Loan (ILL) Request Form
+available on the
+Browse FAQs by Subject
+Browse FAQs by Collection
+This page maintained by:
+Dr. Kamlesh Patel

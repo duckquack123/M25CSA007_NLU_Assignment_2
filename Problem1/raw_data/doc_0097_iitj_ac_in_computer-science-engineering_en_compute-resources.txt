@@ -1,0 +1,23 @@
+url: https://iitj.ac.in/computer-science-engineering/en/compute-resources
+title: Compute Resources | Computer Science & Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Compute Resources | Computer Science & Engineering | IIT Jodhpur
+Compute Resources
+The department's compute resources include a number of powerful servers and workstations, designed to handle a wide variety of computational tasks including complex data analysis, machine learning, and high-performance computing. With their advanced hardware and capabilities, these resources provide researchers and students to the department with reliable and efficient computing power, enabling them to tackle complex problems and push the boundaries of their fields.
+NVIDIA designed the DGX-2 Server as a high-performance computing system for deep learning applications. It features 16 interconnected GPUs that provide high-speed data throughput for massive machine learning and artificial intelligence operations. The DGX-2 is also endowed with NVIDIA's Tensor Cores, which accelerate matrix operations commonly employed in deep learning tasks. One DGX-2 machine with 16 Volta 100 GPUs and 1.5 terabytes of RAM is available in the CSE lab. It comes equipped with an additional 50 terabytes of storage that is all flash-based.
+This architecture combines DPUs and GPUs in order to accelerate high-performance computing tasks such as deep learning, scientific simulations, and data analytics. DPUs are specialized processors designed for data movement and security tasks, whereas GPUs are designed for computationally intensive tasks like matrix operations. DPU-GPU HPC systems can accomplish high throughput and low latency by combining the two, making them suitable for a variety of applications that require large-scale data processing and analysis. The department will have this system shortly. Each system will have 128 GB of RAM and 2 Nvidia A30 GPUs.
+Other GPU Systems:
+The department has 16 Nvidia 1080Ti GPU and 1 Nvidia A5000 GPU cards for the department users. NVIDIA GeForce GTX 1080 Ti is a graphics card that is often used in deep learning applications due to its powerful CUDA cores and high memory bandwidth. It has 3584 CUDA cores and 11 GB GDDR5X memory with a memory bandwidth of 484 GB/s. NVIDIA A5000 is based on the latest NVIDIA Ampere architecture and features 8,192 CUDA cores, 256 Tensor Cores, 64 RT Cores, 24GB GDDR6 with error-correction code (ECC) and a 384-bit memory interface.
+General purpose servers:
+The department has several servers that are used for various purposes, including web hosting, database management, and file storage. These servers are equipped with powerful CPUs and storage, making them suitable for handling large amounts of data and serving multiple users simultaneously.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 01:10 PM

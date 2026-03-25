@@ -1,0 +1,54 @@
+url: https://iitj.ac.in/electrical-engineering/en/completed-projects
+title: Completed Projects | Electrical Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Completed Projects | Electrical Engineering | IIT Jodhpur
+Completed Projects
+Year of completion
+Noise-enhanced Edge-preserving Image Denoising using Stochastic Resonance
+Rajlaxmi Chouhan, PI
+Design and Development of Midrange(>=10 km) RF Transceiver system to transmit Nuclear Radiation Sensor Data
+Arpit Khandelwal, PI
+Design and Development of Tunable RF Filters based on Ferroelectric Thin Films by Sputtering
+Mahesh Kumar, PI
+DMRL (DRDO) Hyderabad
+Modification of electron and hole transport layers for High Efficiency Perovskite Solar Cells
+Mahesh Kumar, PI
+Indo-U.S. Science and Technology Forum
+Computationally efficient fixed complexity sphere decodes for multiuser MIMO communications
+Arun Kumar Singh, PI
+Development of Tunable RF Filter Based on Ferroelectric Thin Film by Sputtering
+Mahesh Kumar, PI
+Indian National Science Academy (INSA)
+Ion-Beam Synthesis and Characterization of Gallium Nitride based Nanocrystals embedded in Si based Matrices for New-Generation Photodetector and Light-Emitter Applications
+Mahesh Kumar, PI
+Algorithms for Blind Signal Detection and Demodulation
+Sandeep Kumar Yadav, PI
+Department Research & Development Organisation (DRDO), Government of India
+Devlopement of MEMS Based Gas Sensors using RF Sputtered Transition Metal Dopen ZnO Nanostructures
+Mahesh Kumar, PI
+Encapsulation of Organic Devices by Atomic Layer Deposition (DRDO CAR Proposal)
+Shree Prakash Tiwari, PI
+Defense Research and Development Organization (DRDO), Jodhpur
+Reproductive Child Health
+Sandeep Kumar Yadav, PI
+UNICEF, Jaipur Branch
+Development of Metal Doped TiO2 Low Dimension Structures by Sputtering for Gas Sensing Applications
+Mahesh Kumar, PI
+Board of Research in Nuclear Sciences, Department of Atomic Energy, Government of India
+Enabling Technologies for Integlligent Wireless Sensor Network for Health and Environment Monitoring
+Anil Kumar Tiwari, PI
+Developing Dielectric Semiconductor Combinations and Processes for Flexible Organic Electronics
+Shree Prakash Tiwari, PI
+Development of Programmable Emulator for Photovoltaic Plant to Facilitate Complex Testing Requirements
+Deepakkumar M. Fulwani, PI
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 13 Mar 2026 - 03:28 PM

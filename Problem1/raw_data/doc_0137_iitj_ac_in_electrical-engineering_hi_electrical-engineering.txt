@@ -1,0 +1,12 @@
+url: https://iitj.ac.in/electrical-engineering/hi/electrical-engineering
+title: विद्युत अभियांत्रिकी
+depth: 1
+========================================
+
+. . (SIoT), (CPS), (ICS) M.Tech.
+, (SIoT) (CPS) - (M.Tech. + Ph.D.) , , , , , 2022 ( )
+Ph.D. AY 2025-26 II
+MATLAB/Simulink - (SDR) ...
+/ - ( )- (21 - 24 2025)
+. . 62, , , - 342030 ( )
+Last Updated : 13 Mar 2026 - 03:28 PM

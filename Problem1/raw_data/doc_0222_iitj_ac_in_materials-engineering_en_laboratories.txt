@@ -1,0 +1,68 @@
+url: https://iitj.ac.in/materials-engineering/en/laboratories
+title: Laboratories | Materials Engineering | IIT Jodhpur
+depth: 1
+========================================
+
+Laboratories | Materials Engineering | IIT Jodhpur
+The Department of Materials Engineering has the following laboratories for teaching and research purposes:
+1. Computational Materials Engineering Laboratory
+The Computational Materials Engineering laboratory supports teaching and research activities in the domain of computational materials engineering. Tutorials based on first-principles calculations and molecular dynamics of the MTL7030 Computational Materials Engineering course are carried in this laboratory. It also provides Mathematica support for the MTL7010 Metallurgical Thermodynamics and Kinetics course. Our research focuses on understanding the mechanical behavior, thermoelectric transport, and lattice dynamics in materials. We also support the experimentalists by calculating the Infra-Red and Raman spectra, simulated scanning tunneling microscopic images employing ab initio characterization methods. This lab also supports computational resources for Finite Element modeling and Materials selection for teaching and research purposes.
+The Computational Materials Engineering laboratory is equipped with ten workstations (eight-core) operating on Ubuntu. Firstprinciples calculations based codes (Quantum Espresso, VASP), molecular dynamic codes (LAMMPS, xmd), and Mathematica are installed in these workstations. Engineering and Multiphysics simulation softwares (ANSYS, COMSOL Multiphysics), Thermocalc Software with TCFE9 database and Materials selection softwares (CES Selector and CES Edupack) are also installed in Windows based operating systems.
+Laboratory CME image
+2. Metallography Laboratory
+The characterization of various materials is done in the metallography Laboratory for teaching and research activities. The laboratory currently has the following equipment.
+Optical microscopes
+Grinding and polishing machine
+Metallographic specimen cutoff machine
+High speed grinder and polisher
+Stereo-zoom microscopes
+Pedestal grinder
+Electronic weigh balance
+Density measurement system for solids
+Specimen leveling press
+Hot Mounting Press
+Optical Microscope
+Precision Cutting Machine
+Optical Microscope
+3. Mechanical Testing Laboratory
+The Mechanical Testing Laboratory supports teaching and research activities in the area of materials processing, testing, and characterization. In addition, this laboratory can supplement teaching and research in Computational Materials Engineering. The laboratory is currently equipped with the following experimental facilities.
+Universal Testing Machines
+Charpy/Izod impact testing machines for metals and plastics
+Microhardness testing machine
+Superficial Rockwell hardness tester
+Brinell hardness tester
+Vickers hardness tester
+Pin on disc wear tester
+Photo-elasticity Unit
+Universal Testing
+Charpy/lzod Impact Testing Machine
+Micro-Hardness Testing Machine
+Vickers Hardness Testing Machine
+Brinell Hardness Testing Machine
+Superficial Rockwell Hardness Testing Machine
+4. Phase Transformation Laboratory
+Currently, materials synthesis and characterization is being carried out at the phase Transformation Laboratory for teaching and research activities. The laboratory currently has the following equipment.
+Jominy end Quench Test Apparatus
+Portable induction hardening plant
+Vertical induction hardening plant
+Horizontal induction hardening plant
+Muffle furnaces (Up to 1000 C)
+High temperature furnaces (Up to 1400 C)
+Hot plate with magnetic stirrer
+IR-Temperature gun (Up to 1800 C)
+Induction melting furnace (Up to 1200 C)
+Thermal Analysis
+Spin Coating Unit
+Controlled atmosphere horizontal tubular furnace (Up to 1600 C)
+Controlled atmosphere vertical tubular furnace (Up to 1600 C)
+Vacuum Muffle furnaces (up to 1600 C and 10-3 mbar)
+Pit type furnace (Up to 1000 C)
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 26 Nov 2025 - 05:12 PM

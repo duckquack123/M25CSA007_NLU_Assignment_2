@@ -1,0 +1,96 @@
+url: https://old.iitj.ac.in/events/index.php?id=946&title=946&event=recognitions
+title: IITJ-Indian Institute of Technology Jodhpur
+depth: 2
+========================================
+
+IITJ-Indian Institute of Technology Jodhpur
+Scholars in Residence
+Adjunct Faculty Members
+Visiting Faculty Members
+Office of Faculty
+Faculty Positions
+Why Pursue a Career @ IITJ
+FAQs: Applicants
+Post Doctoral Fellows
+Office of Faculty
+Academic Staff Members
+Administrative Staff Members
+Technical Staff Members
+Recruitment of Staff Members
+Alumni Relations
+Office of Alumni Relations
+Permanent Campus
+Vision and Mission
+Statutory Bodies
+Board of Governors
+Finance Committee
+Buildings & Works Committee
+Key Functionaries
+Deans & Associate Deans
+Faculty In-charge
+Chairpersons of Committees
+Administrative Units
+Ishaan Vikaas Program
+Rashtriya Avishkar Abhiyan
+Vigyan Jyoti Program
+Social Initiatives
+Unnat Bharat Abhiyan
+MSc-MTech Programs
+MTech-PhD Programs
+Postgraduate Diploma
+Data Engineering and Cloud Computing
+Bioscience & Bioengineering
+Chemical Engineering
+Civil and Infrastructure Engineering
+Computer Science & Engineering
+Electrical Engineering
+Mechanical Engineering
+Metallurgical & Materials Engineering
+Program Structure
+Academic Calendar
+Ph.D. Thesis Defense
+Office of Academics
+Young Innovator Program
+Undergraduate Research Initiative
+Moodle@IIT Jodhpur
+Aryabhatta - Before 2019
+Aryabhatta - 2019 onwards
+Center for Advanced Scientific Equipment
+National Knowledge Network
+School of Management and Entrepreneurship
+School Of Liberal Arts
+Research & Development
+Research Facilities
+Ongoing Projects
+Project Regulations
+Temporary Appointments
+Ethics Committee
+Incubation and Tech Park
+Funding Agencies
+National Societies
+International Agencies
+Office of Students
+Courses (Social connect & Responsibility)
+Students Council
+Students Council
+Career services & Wellbeing
+Placements, training & internships
+Student Wellbeing Committee
+Why Technology Park @ Jodhpur?
+Salient Features
+Enrolment Process
+Latest @ IIT Jodhpur
+Permanent Campus
+Khamma Ghani (English Edition)
+Imaging atomic-scale magnetism with energy-filtered differential phase contrast method
+Tittle of the paper:
+Imaging atomic-scale magnetism with energy-filtered differential phase contrast method
+PHYSICAL REVIEW B 110, 134422 (2024)
+Dr. Devendra Singh Negi
+Department of Metallurgical and Materials Engineering, IIT Jodhpur
+The functional nano magnetic materials are indispensable for advanced electronic applications. As the nanotechnology is rapidly advancing, the size of these functional materials is also shrinking in the same proportion. Therefore, to further develop and engineers the nano magnetic materials we require a technique which can probe or image the magnetism at atomic scale sensitivity. The transmission electron microscopy (TEM) is one of the important instruments, which can image and quantify the magnetism at atomic scale. Recently developed electron magnetic circular dichroism (EMCD) and differential phase contrast (DPC) methods in TEM has enabled to access the electromagnetic information of single atom. The DPC method in TEM probes the elastic deflection of the incident convergent electron probe with the electromagnetic filed of the atom. The quantum of deflection is in proportion with the charge density or electromagnetic field of the atoms. Therefore, DPC allows to image the charge density, electromagnetism field at atomic scale. This method also enhances the imaging contrast and allow to image the light atoms very efficiently.
+In this work we have developed a new method in TEM to image the magnetism at atomic scale with energy filtered electron in DPC.The energy filtered electron in TEM are the core-loss electron, which excite the core electron of an atom to unoccupied energy levels. These electron carries the information of the magnetism of the atoms. Our develop method shows that, the sensitivity of the inelastic electron is two orders of magnitude then the conventional elastic counterpart. Interestingly, the energy-filtered DPC can probe the magnetism along the probe direction. Therefore, this novel approach offers a pathway to image the in-plane and out-of-plane magnetism simultaneously at atomic scale. Our work introduces a new paradigm to image the 3-dimensional magnetism at atomic scale sensitivity in TEM.
+Figure1. Schematic diagram showing the EF-DPC method in TEM. A converged electron probe excites the core-electron of atom to higher energy level. These inelastic electron carries the magnetism information of the atom, which subsequently forms the diffraction pattern. These diffraction patterns are detected by the DPC detector to image the magnetic field of the atom.
+Figure 2. EF-DPC of two Mn atom in LaMnAsO unit cell, showing the directional component of magnetism, referred as Sx, Sy, Sz and corresponding electron deflection in mili-radian unit. The out-of-plane magnetic field and magnetic signal shows the vortex at the centre of the Mn atoms.
+Article by: Dr. Devendra Singh Negi
+Research domain: Transmission electron microscopy, Magnetism

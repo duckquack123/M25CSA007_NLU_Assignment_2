@@ -1,0 +1,738 @@
+[
+  {
+    "model": "cbow_dim100_win3",
+    "label": "CBOW (scratch, dim=100, win=3)",
+    "neighbors": {
+      "research": [
+        [
+          "vikki",
+          0.4164348542690277
+        ],
+        [
+          "indo",
+          0.37681570649147034
+        ],
+        [
+          "chennai",
+          0.37215864658355713
+        ],
+        [
+          "correctli",
+          0.371428906917572
+        ],
+        [
+          "sit-to-stand",
+          0.36522379517555237
+        ]
+      ],
+      "student": [
+        [
+          "exam.stud",
+          0.38522303104400635
+        ],
+        [
+          "obc",
+          0.3744378983974457
+        ],
+        [
+          "ganesh",
+          0.3723667860031128
+        ],
+        [
+          "solver",
+          0.359277606010437
+        ],
+        [
+          "eartharxiv",
+          0.35795655846595764
+        ]
+      ],
+      "phd": [
+        [
+          "jayant",
+          0.3596886694431305
+        ],
+        [
+          "style",
+          0.34534478187561035
+        ],
+        [
+          "ad7",
+          0.34049028158187866
+        ],
+        [
+          "milanhazra",
+          0.33217060565948486
+        ],
+        [
+          "14th-15th",
+          0.3277739882469177
+        ]
+      ],
+      "exam": [
+        [
+          "examinat",
+          0.4160822033882141
+        ],
+        [
+          "esiw",
+          0.3732540011405945
+        ],
+        [
+          "taught",
+          0.3645595610141754
+        ],
+        [
+          "syllabu",
+          0.3308109939098358
+        ],
+        [
+          "satisfactori",
+          0.32698917388916016
+        ]
+      ]
+    },
+    "analogies": [
+      {
+        "description": "ug:b.tech :: pg:?",
+        "resolved_tokens": {
+          "ug": "undergradu",
+          "b.tech": "btech",
+          "pg": "postgradu"
+        },
+        "result": [
+          [
+            "arvind",
+            0.4131307601928711
+          ],
+          [
+            "kalam",
+            0.33741918206214905
+          ],
+          [
+            "indianjournals.com",
+            0.33634403347969055
+          ]
+        ]
+      },
+      {
+        "description": "professor:teaching :: researcher:?",
+        "resolved_tokens": {
+          "professor": "professor",
+          "teaching": "teach",
+          "researcher": "research"
+        },
+        "result": [
+          [
+            "technology-en",
+            0.4017140567302704
+          ],
+          [
+            "evapor",
+            0.38791710138320923
+          ],
+          [
+            "abhiyan",
+            0.3874870836734772
+          ]
+        ]
+      },
+      {
+        "description": "semester:exam :: thesis:?",
+        "resolved_tokens": {
+          "semester": "semest",
+          "exam": "exam",
+          "thesis": "thesi"
+        },
+        "result": [
+          [
+            "attent",
+            0.3837635815143585
+          ],
+          [
+            "mie",
+            0.33215248584747314
+          ],
+          [
+            "option",
+            0.3236575722694397
+          ]
+        ]
+      },
+      {
+        "description": "student:learn :: professor:?",
+        "resolved_tokens": {
+          "student": "student",
+          "learn": "learn",
+          "professor": "professor"
+        },
+        "result": [
+          [
+            "dean",
+            0.34420526027679443
+          ],
+          [
+            "laboratori",
+            0.3259625732898712
+          ],
+          [
+            "activ",
+            0.3250671327114105
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "model": "cbow_dim100_win5",
+    "label": "CBOW (scratch, dim=100, win=5)",
+    "neighbors": {
+      "research": [
+        [
+          "light-medi",
+          0.4241943657398224
+        ],
+        [
+          "vortex",
+          0.4072644114494324
+        ],
+        [
+          "chemisorpt",
+          0.3838455379009247
+        ],
+        [
+          "faster",
+          0.3793736696243286
+        ],
+        [
+          "marudhara",
+          0.3768467307090759
+        ]
+      ],
+      "student": [
+        [
+          "dual-degre",
+          0.4028031527996063
+        ],
+        [
+          "fresher",
+          0.39299601316452026
+        ],
+        [
+          "multi-mod",
+          0.39149531722068787
+        ],
+        [
+          "nagpur",
+          0.3683314919471741
+        ],
+        [
+          "quench",
+          0.36154523491859436
+        ]
+      ],
+      "phd": [
+        [
+          "siot",
+          0.5001504421234131
+        ],
+        [
+          "take",
+          0.39872732758522034
+        ],
+        [
+          "p.m.",
+          0.3810414969921112
+        ],
+        [
+          "platform/offic",
+          0.35392671823501587
+        ],
+        [
+          "proc",
+          0.3527069091796875
+        ]
+      ],
+      "exam": [
+        [
+          "decentr",
+          0.3899974226951599
+        ],
+        [
+          "ablat",
+          0.3782482445240021
+        ],
+        [
+          "satisfactorili",
+          0.36206382513046265
+        ],
+        [
+          ".d",
+          0.361959308385849
+        ],
+        [
+          "scrutini",
+          0.34685155749320984
+        ]
+      ]
+    },
+    "analogies": [
+      {
+        "description": "ug:b.tech :: pg:?",
+        "resolved_tokens": {
+          "ug": "undergradu",
+          "b.tech": "btech",
+          "pg": "postgradu"
+        },
+        "result": [
+          [
+            "multilingu",
+            0.3267279863357544
+          ],
+          [
+            "sem-ii",
+            0.3032943904399872
+          ],
+          [
+            "consolid",
+            0.30200132727622986
+          ]
+        ]
+      },
+      {
+        "description": "professor:teaching :: researcher:?",
+        "resolved_tokens": {
+          "professor": "professor",
+          "teaching": "teach",
+          "researcher": "research"
+        },
+        "result": [
+          [
+            "information-",
+            0.3659490644931793
+          ],
+          [
+            "ccp2024",
+            0.3566204011440277
+          ],
+          [
+            "deep-tech",
+            0.3423347473144531
+          ]
+        ]
+      },
+      {
+        "description": "semester:exam :: thesis:?",
+        "resolved_tokens": {
+          "semester": "semest",
+          "exam": "exam",
+          "thesis": "thesi"
+        },
+        "result": [
+          [
+            "jodhpur-aiim",
+            0.3626134991645813
+          ],
+          [
+            "satur",
+            0.3428303301334381
+          ],
+          [
+            "round-",
+            0.3240606486797333
+          ]
+        ]
+      },
+      {
+        "description": "student:learn :: professor:?",
+        "resolved_tokens": {
+          "student": "student",
+          "learn": "learn",
+          "professor": "professor"
+        },
+        "result": [
+          [
+            "hackathon",
+            0.360639750957489
+          ],
+          [
+            "lower",
+            0.3520320951938629
+          ],
+          [
+            "quadrotor",
+            0.3482695519924164
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "model": "sg_dim100_win3_neg5",
+    "label": "Skip-gram (scratch, dim=100, win=3, neg=5)",
+    "neighbors": {
+      "research": [
+        [
+          "scifind",
+          0.5008221864700317
+        ],
+        [
+          "somanka",
+          0.4761151671409607
+        ],
+        [
+          "oct.",
+          0.4643089175224304
+        ],
+        [
+          "sub-disciplin",
+          0.45004257559776306
+        ],
+        [
+          "lalit",
+          0.44616198539733887
+        ]
+      ],
+      "student": [
+        [
+          "staf",
+          0.4565156102180481
+        ],
+        [
+          "lien",
+          0.4496777057647705
+        ],
+        [
+          "amen",
+          0.4431658089160919
+        ],
+        [
+          "end",
+          0.4390217959880829
+        ],
+        [
+          "thestud",
+          0.4307501018047333
+        ]
+      ],
+      "phd": [
+        [
+          "mtech",
+          0.5808871388435364
+        ],
+        [
+          "intranet",
+          0.4936099350452423
+        ],
+        [
+          "admiss",
+          0.4768691956996918
+        ],
+        [
+          "ay",
+          0.4682835340499878
+        ],
+        [
+          "kept",
+          0.46559417247772217
+        ]
+      ],
+      "exam": [
+        [
+          "ascertain",
+          0.5483633875846863
+        ],
+        [
+          "slot-",
+          0.5470267534255981
+        ],
+        [
+          "project.dugc",
+          0.5274167656898499
+        ],
+        [
+          "project/",
+          0.5228756666183472
+        ],
+        [
+          "policy.th",
+          0.5209770798683167
+        ]
+      ]
+    },
+    "analogies": [
+      {
+        "description": "ug:b.tech :: pg:?",
+        "resolved_tokens": {
+          "ug": "undergradu",
+          "b.tech": "btech",
+          "pg": "postgradu"
+        },
+        "result": [
+          [
+            "msc",
+            0.5606775283813477
+          ],
+          [
+            "execut",
+            0.47705182433128357
+          ],
+          [
+            "resource-constrain",
+            0.46252092719078064
+          ]
+        ]
+      },
+      {
+        "description": "professor:teaching :: researcher:?",
+        "resolved_tokens": {
+          "professor": "professor",
+          "teaching": "teach",
+          "researcher": "research"
+        },
+        "result": [
+          [
+            "metallographi",
+            0.38229361176490784
+          ],
+          [
+            "attribut",
+            0.3778817057609558
+          ],
+          [
+            "common",
+            0.3533111810684204
+          ]
+        ]
+      },
+      {
+        "description": "semester:exam :: thesis:?",
+        "resolved_tokens": {
+          "semester": "semest",
+          "exam": "exam",
+          "thesis": "thesi"
+        },
+        "result": [
+          [
+            "submiss",
+            0.4720422923564911
+          ],
+          [
+            "examin",
+            0.46762681007385254
+          ],
+          [
+            "refer",
+            0.42158830165863037
+          ]
+        ]
+      },
+      {
+        "description": "student:learn :: professor:?",
+        "resolved_tokens": {
+          "student": "student",
+          "learn": "learn",
+          "professor": "professor"
+        },
+        "result": [
+          [
+            "sampath",
+            0.47629550099372864
+          ],
+          [
+            "mgupta",
+            0.47136008739471436
+          ],
+          [
+            "milanhazra",
+            0.4671018421649933
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "model": "sg_dim100_win3_neg10",
+    "label": "Skip-gram (scratch, dim=100, win=3, neg=10)",
+    "neighbors": {
+      "research": [
+        [
+          "dsc",
+          0.5171493887901306
+        ],
+        [
+          "resolution",
+          0.4799852669239044
+        ],
+        [
+          "ppms",
+          0.47096145153045654
+        ],
+        [
+          "metal",
+          0.46925875544548035
+        ],
+        [
+          "analyzer",
+          0.46387752890586853
+        ]
+      ],
+      "student": [
+        [
+          "achievements",
+          0.5068135261535645
+        ],
+        [
+          "won",
+          0.48038268089294434
+        ],
+        [
+          "internships",
+          0.47095897793769836
+        ],
+        [
+          "discover",
+          0.46672695875167847
+        ],
+        [
+          "yadav",
+          0.4627229869365692
+        ]
+      ],
+      "phd": [
+        [
+          "ay",
+          0.5820139050483704
+        ],
+        [
+          "waitlisted",
+          0.5418381690979004
+        ],
+        [
+          "provisionally",
+          0.5040367245674133
+        ],
+        [
+          "semester-ii",
+          0.503817081451416
+        ],
+        [
+          "cat",
+          0.4863862991333008
+        ]
+      ],
+      "exam": [
+        [
+          "tool",
+          0.6074848771095276
+        ],
+        [
+          "ki",
+          0.5794072151184082
+        ],
+        [
+          "sop",
+          0.5645638108253479
+        ],
+        [
+          "kaliberi",
+          0.5319288969039917
+        ],
+        [
+          "capacity",
+          0.5231088995933533
+        ]
+      ]
+    },
+    "analogies": [
+      {
+        "description": "ug:b.tech :: pg:?",
+        "resolved_tokens": {
+          "ug": "ug",
+          "b.tech": "b.tech",
+          "pg": "pg"
+        },
+        "result": [
+          [
+            "achieve",
+            0.4374696612358093
+          ],
+          [
+            "m.tech",
+            0.4309956133365631
+          ],
+          [
+            "immersion",
+            0.4258454144001007
+          ]
+        ]
+      },
+      {
+        "description": "professor:teaching :: researcher:?",
+        "resolved_tokens": {
+          "professor": "professor",
+          "teaching": "teaching",
+          "researcher": "researcher"
+        },
+        "result": [
+          [
+            "assistantship",
+            0.3876362144947052
+          ],
+          [
+            "speaking",
+            0.38581204414367676
+          ],
+          [
+            "senior",
+            0.3703763782978058
+          ]
+        ]
+      },
+      {
+        "description": "semester:exam :: thesis:?",
+        "resolved_tokens": {
+          "semester": "semester",
+          "exam": "assessment",
+          "thesis": "thesis"
+        },
+        "result": [
+          [
+            "joint",
+            0.4480374753475189
+          ],
+          [
+            "karnataka",
+            0.4369645416736603
+          ],
+          [
+            "pursue",
+            0.43689802289009094
+          ]
+        ]
+      },
+      {
+        "description": "student:learn :: professor:?",
+        "resolved_tokens": {
+          "student": "student",
+          "learn": "learning",
+          "professor": "professor"
+        },
+        "result": [
+          [
+            "leadership",
+            0.45581871271133423
+          ],
+          [
+            "was",
+            0.4544413983821869
+          ],
+          [
+            "ranganathan",
+            0.4515223205089569
+          ]
+        ]
+      }
+    ]
+  }
+]

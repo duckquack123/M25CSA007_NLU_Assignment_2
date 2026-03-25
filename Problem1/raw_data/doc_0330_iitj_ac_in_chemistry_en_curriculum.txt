@@ -1,0 +1,69 @@
+url: https://iitj.ac.in/chemistry/en/curriculum
+title: Curriculum | Chemistry | IIT Jodhpur
+depth: 1
+========================================
+
+Curriculum | Chemistry | IIT Jodhpur
+The detailed curriculum structure of two degree programs offered by Department of Chemistry is given in the links below:
+M.Sc. (Chemistry) Program
+(Download file 298 KB),
+Ph.D. Program with specialisation in Chemistry.
+Organic Reactions and Mechanisms
+Transition Metal and Organometallic Chemistry
+Quantum Chemistry and Spectroscopy
+Physical Organic Chemistry
+Main Group and Bioinorganic Chemistry
+Organic Chemistry Laboratory
+Inorganic Chemistry Laboratory
+Organic Synthesis
+Solid State and Material Chemistry
+Molecular Thermodynamics and Chemical Kinetics
+Theory and Applications of spectroscopic techniques
+Program Elective-1
+Physical Chemistry Laboratory
+Program Elective-2
+Program Elective-3
+Program Elective-4
+Lab-4:Computational Lab
+Program Elective-5
+Program Elective-6
+Open Elective -2
+List of Elective Courses
+Isolation and Synthesis of Natural Products
+Spectroscopic Determination of Organic Compounds
+Stereochemistry of Organic Compounds
+Frontiers in Organic Chemistry
+Heterocyclic Chemistry
+Polymer Chemistry
+Catalysis of Energy
+Nanomaterials and Nanodevices
+Compounds of p-block Elements and Applications
+Advanced Materials Design
+Characterization Techniques in Inorganic Chemistry
+Advanced Catalysis
+Sustainable Catalytic Systems
+Frontiers in Organometallic Catalysis
+Numerical Methods and Group Theory
+Chemical Binding
+Principles of Nuclear Magnetic Resonance
+Quantum Information
+Molecular Dynamics Simulations
+Solid State NMR Methods for Materials
+Quantum Computing
+Group Theory and Molecular Spectroscopy
+Modern Electronic Structure Theory
+Chemical Reaction Dynamics
+Biophysical Techniques: Theory and Applications
+Stochastic problems in Biophysics
+Polymer Dynamics
+Statistical Mechanics and Molecular Simulations
+Advanced Electrochemistry and Applications
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 12 Mar 2026 - 03:42 PM

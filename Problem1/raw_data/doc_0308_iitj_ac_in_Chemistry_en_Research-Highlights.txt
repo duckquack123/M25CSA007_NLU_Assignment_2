@@ -1,0 +1,18 @@
+url: https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=cc95de00-8c49-4c09-aa57-6af9581847c2
+title: Research Highlights | Chemistry | IIT Jodhpur
+depth: 1
+========================================
+
+Research Highlights | Chemistry | IIT Jodhpur
+Research Highlights
+C-H alkylation of heterocycles via light-mediated palladium catalysis. S. Senapati, S. K. Hota, L. Kloene, C. Empel,* S. Murarka*, and R. M. Koenigs* Angew. Chem. Int. Ed. 2025, 64, e202417107.
+Methods enabling direct C H alkylation of heterocycles are of fundamental importance in the late-stage modification of natural products, bioactive molecules, and medicinally relevant compounds. However, there is a scarcity of a general strategy for the direct C H alkylation of a variety of heterocycles using commercially available alkyl surrogates. We report an operationally simple palladium-catalyzed direct C H alkylation of heterocycles using alkyl halides under the visible light irradiation with good scalability and functional group tolerance. Our studies suggest that the photoinduced alkylation proceeds through a cascade of events comprising, site-selective alkyl radical addition, base-assisted deprotonation, and oxidation. A combination of experiments and computations was employed for the generalization of this strategy, which was successfully translated towards the modification of natural products and pharmaceuticals.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 12 Mar 2026 - 03:42 PM

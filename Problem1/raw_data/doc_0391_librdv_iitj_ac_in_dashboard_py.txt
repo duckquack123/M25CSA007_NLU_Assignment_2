@@ -1,0 +1,145 @@
+url: https://librdv.iitj.ac.in/dashboard.py
+title: IITJ Research Data Visualization Dashboard
+depth: 2
+========================================
+
+IITJ Research Data Visualization Dashboard
+Indian Institute of Technology Jodhpur
+Real-Time Research Data Visualization Dashboard (RTRDVD)
+(Data Source: OpenAlex)
+Total Publications: 8251, Total Citations: 192335, H-Index: 149
+ScholarSphere: IITJ Research Insights Hub
+Bodhivriksh: IITJ Theses Repository
+Publication Charts
+Open Access Publication
+Publications Per Year
+Top Ten Contributors
+Publication by Source Types
+Publication by Types
+Publication by Top Twenty Publisher
+Citations Per Year
+Top Ten Cited Publications
+Primary Topics Distribution
+Publication by Keywords
+Collaboration Charts
+Collaboration with Countries
+Top Funding Agency
+Top Ten Collaborator Institutes
+Collaboration by Continents
+Data Visualization
+Publications Per Year
+Recent Publications
+Thermal performance analysis of nanofluid spray impingement in heat transfer applications
+Published in 2026
+Authors: Abhishek Mund, Bikash Pattanayak
+View Publication
+Enhancing the Reliability of Monopile-Supported Offshore Wind Turbines Through Digital-Twin Framework: State of the Art Review
+Published in 2026
+Authors: Falak Khan, Monika Tanwar, Pradeep Kumar Dammala, Subhamoy Bhattacharya
+View Publication
+Quantifying consumer perceptions in smartwatch markets: integrating aspect-based sentiment analysis with panel data modelling
+Published in 2026
+Authors: Rajeev Kumar Ray, A.K. Singh, Devi Prasad Dash
+View Publication
+Analysing cybersecurity challenges: a case of Indian smart city context
+Published in 2026
+Authors: Anu Rao, A.K. Singh
+View Publication
+Topology optimization of 3D self-supporting structures using phase-field method and additive manufacturing filter
+Published in 2026
+Authors: Yulong Wang, Hirshikesh, TIANTANG YU, L. S. Wang, Sundararajan Natarajan
+View Publication
+Progressive Training for Explainable Citation-Grounded Dialogue: Reducing Hallucination to Zero in English-Hindi LLMs
+Published in 2026
+Authors: Vedant Pandya
+View Publication
+Real-time identification of clad morphology and deposition regimes in SS 316 L DED via optical emission spectroscopy
+Published in 2026
+Authors: Mohit Singh, V. Narayanan, K.R. Ravi
+View Publication
+Experimental and ANN-based study on the role of flux components in alloying element retention during SMAW
+Published in 2026
+Authors: Alok Gupta, Jaiveer Singh, Rahul Chhibber, Yogesh Kumar Singla
+View Publication
+Mitochondria-targeted engineered peptide promotes myogenesis, mitigates fibrosis, and reduces inflammation in duchenne muscular dystrophy by suppressing mitoROS-mediated NF- B activation
+Published in 2026
+Authors: Surojit Ghosh, Surojit Ghosh, Mohammad Umar Arshi, Satyajit Ghosh, Satyajit Ghosh, Aniket Jana, Moumita Jash, Juhee Khan, Heera Ram, Kamel Mamchaoui, Surajit Ghosh, Surajit Ghosh
+View Publication
+Tamil Speakers in Switzerland: An Intergenerational and Typological Perspective
+Published in 2026
+Authors: S. Rajamathangi, Anita Auer, Gurujegan Murugesan
+View Publication
+Cauliflower (Brassica oleracea) stem as a potential source of dietary fibre: optimized extraction using vinegar and NADES-based microwave-assisted techniques and characterization
+Published in 2026
+Authors: Anjali Sahal, Ayush Singh, Afzal Hussain, Ritesh Mishra, Ankita Dobhal, Waseem Ahmad, Sanjay Kumar
+View Publication
+Climate and land use dynamics in India s livestock industry
+Published in 2026
+Authors: Souryabrata Mohapatra, Dukhabandhu Sahoo, Kirtti Ranjan Paltasingh
+View Publication
+On Polyharmonic Kirchhoff Problems with Double Phase Structure and Subcritical Nonlinearities
+Published in 2026
+Authors: Ashutosh Dixit, Tuhina Mukherjee, Patrick Winkert
+View Publication
+Charge Regulation Effect on Nanoparticle Interaction Mediated by a Polyelectrolyte
+Published in 2026
+Authors: Vijay Kumar Yadav, Prabhat K. Jaiswal, Rudolf Podgornik, Sunita Kumari
+View Publication
+Bandwidth Estimation and Power Distribution in Phase-Modulated Signals Using Bessel Function Analysis
+Published in 2026
+Authors: Dhiraj Saxena
+View Publication
+Graphene-Carbon Nanotube Nanocomposite-Based Selective Nonenzymatic Electrochemical Detection of Ferrum Metallicum in Biological Fluid
+Published in 2026
+Authors: Nitesh Jangid, Ashok Kumar, Pratiksha Singh, Kuldeep Kumar Kushwaha, Vaibhav Gupta, Suraj Kumar Gupta, Pranay Ranjan, Devendra Singh Negi, Ravi Prakash Srivastava, Raviraj Vankayala, Prashant Kumar
+View Publication
+Sleep modulation by binaural beats and its relation to error-aware response inhibition
+Published in 2026
+Authors: Komal Sharma, Suman Dhaka
+View Publication
+Cinchona-Functionalized Crown-Ether-Pinioned Calix[4]arene for a Scalable Asymmetric Organocatalytic Aza-Michael Addition Reaction
+Published in 2026
+Authors: Kirti Antil, Swati Rani, Apoorva Malik, Pragati R. Sharma, Rakesh K. Sharma
+View Publication
+Translation, cross cultural adaption and validation of World Health Organization Disability Assessment Schedule 2.0 (36-item version, interviewer administered) into Bangla
+Published in 2026
+Authors: Asif Rabbani, Neelufar Rahman, Md Mubdiur Rahman, Md Ibraheem, Md Abdus Shakoor, AKM Salek
+View Publication
+Temporal Object-Aware Vision Transformer for Few-Shot Video Object Detection
+Published in 2026
+Authors: Yogesh Kumar, Anand Mishra
+View Publication
+Data Visualization
+Top Ten Contributor
+Data Visualization
+Primary Topics Distribution
+Data Visualization
+Top Ten Cited Publications
+Data Visualization
+Open Access Publications
+Data Visualization
+Citations Per Year
+Data Visualization
+Collaboration with Countries
+Data Visualization
+Top Ten Collaborator Institutes
+Data Visualization
+Publication by Source Types
+Data Visualization
+Publication by Keywords
+Data Visualization
+Publication by Types
+Data Visualization
+Top Funding Agency Distribution
+Collaboration by Continents
+Collaboration by Continents
+Publication Counts by Publisher
+Publication by Top 20 Publisher
+Following Charts are Generated from Local Data
+Projects and Costs by Department (CSV file)
+Projects and Costs by Sponsoring Agency (Excel file)
+Year-Wise Theses Produced (CSV file)
+Library Expenditure on Reading Materials (CSV file)
+Customised & Maintained by: Dr. Kamlesh Patel, SRRLH & Anil Kumar, CSE
+Dr. Vinod K. Mishra, NIT Rourkela
+Powered by Plotly and Bootstrap

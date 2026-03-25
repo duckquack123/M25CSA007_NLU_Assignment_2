@@ -1,0 +1,30 @@
+url: https://iitj.ac.in/mathematics/en/latest-events?dsl=2&dslID=bc80d343-5618-44ea-8373-3de79f652aad
+title: Latest Events | Mathematics | IIT Jodhpur
+depth: 1
+========================================
+
+Latest Events | Mathematics | IIT Jodhpur
+Invited talk by Dr. Sushil Bhunia on 19th March, 2025 at 12:00 PM
+Dr. Sushil Bhunia
+Title of the Talk:
+Twisted Conjugacy Classes in Groups
+Date, Time and Venue:
+19th March 2025, 12:00 PM, at LHC II - room no. 101
+Abstract: Let G be a group and Aut(G) denote the group of automorphisms of G. Let
+Aut(G). Two elements x and y of G are said to be -twisted conjugate if y = gx (g) 1
+for some g in G. This is an equivalence relation on G, and the equivalence classes are
+called -twisted conjugacy classes or Reidemeister classes of . If = Id, then the
+-twisted conjugacy classes are the usual conjugacy classes. A group G is said to have the
+R -property if the number of its -twisted conjugacy classes is infinite for all Aut(G).
+In this talk, we will discuss the following: (1) a connected linear algebraic group G has the (algebraic) R -property if and only if the
+fixed point subgroup G is infinite for all (algebraic) group automorphism of G. If time permits, we shall discuss the following theorem.
+(2) We prove that the big mapping class group has the R -property under some suitable conditions on the infinite-type surface.
+How To Reach IITJ
+Institute Repository
+Web Information Manager
+Internal Committee
+Copyright 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+Last Updated : 20 Mar 2026 - 12:36 PM
